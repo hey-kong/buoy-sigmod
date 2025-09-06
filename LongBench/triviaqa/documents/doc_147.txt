@@ -1,0 +1,516 @@
+Passage:
+Matthew Syed
+Matthew Philip Syed (born 2 November 1970) is a British journalist, author and broadcaster. He has worked for The Times newspaper since 1999.  He has published two books, Bounce in 2010, and Black Box Thinking in 2015.
+
+Prior to his journalistic career, Syed competed as an English table tennis international, and was the English number one for many years. He was three times the men's singles champion at the Commonwealth Table Tennis Championships (in 1997, 2000 and 2001), and also competed for Great Britain in two Olympic Games, at Barcelona in 1992 and at Sydney in 2000. 
+
+Early life
+
+Syed was born in Reading.  His father, Abbas Syed, is a Pakistani emigrant to Britain who converted from Shia Islam to Christianity, and his mother is Welsh.  
+
+He attended the Maiden Erlegh School in Earley near Reading, then studied at Balliol College, Oxford, where he graduated with a prizewinning first class degree in PPE in 1995.
+
+Sporting career
+
+A right-handed table-tennis player, Syed was the top ranked player in England for nearly 10 years.  He won many titles with his usually defensive style.  His reached his top world ranking of 25 at the end of 1998.
+
+He reached the final of the European Youth Championships in 1985, losing to Dmitri Masunow.  He was a member of the English team that won the European title in 1986.
+
+He represented Great Britain in the men's singles at the 1992 Olympics in Barcelona and the 2000 Olympic Games in Sydney, but failed to reach the second knockout stage each time.  He says that he "choked" at the Sydney Olympics: "when I walked out into the mega-watt light of the competition arena, I could hardly hit the ball." 
+
+He was English champion four times, in 1997, 1998, 2000 and 2001.  He also won the men's singles event at three consecutives Commonwealth Table Tennis Championships, in 1997 in Glasgow, 2000 in Singapore and 2001 in Delhi, and also won three titles as a member of the English men's team in 1994, 1997 and 2000.  He was also a member of the England men's team that won the gold medal at the 2002 Commonwealth Games in Manchester.
+
+Author and commentator
+ 
+Syed has worked as a commentator for the BBC and Eurosport, and as a journalist for The Times since 1999. He is a regular pundit on radio and television, commentating on sporting, cultural and political issues. His film China and Table Tennis, made for the BBC, won bronze medal at the Olympic Golden Rings ceremony in Lausanne in 2008.
+
+As a sports writer he won 'Sports Feature Writer' of the Year at the SJA Awards in 2008 and 'Sports Journalist of the Year' at the British Press Awards in 2009. His first book, Bounce, was published by HarperCollins in May 2010; it won the 'Best New Writer' category of the British Sports Book Awards (2011).  His style has been mocked by satirical magazine Private Eye. 
+
+In his second book, Black Box Thinking, he argues that the key to success is a positive attitude to failure; it was published by John Murray  in 2015.
+
+Syed is managing director of a sports marketing company. From 1999, he has worked as a Marketing Consultant for the English Table Tennis Association based in Hastings. He was one of the co-founders of TTK Greenhouse, a sports-related charity.
+
+Politics
+
+Syed stood as the Labour candidate in the 2001 UK General Election in Wokingham coming third in a safe Conservative seat.   Syed won a place on the Labour Party's shortlist to succeed Ashok Kumar for the Middlesbrough South and East Cleveland constituency in the 2010 UK General Election. However, the party selected Tom Blenkinsop, who had worked in Kumar's constituency office for six years.
+Question:
+Matthew Syed was a British champion in which sport?
+Answer:
+Ping-pang Ch'iu
+Passage:
+Eleventh Amendment to the United States Constitution
+The Eleventh Amendment (Amendment XI) to the United States Constitution, which was passed by Congress on March 4, 1794, and ratified by the states on February 7, 1795, deals with each state's sovereign immunity and was adopted to overrule the U.S. Supreme Court's decision in Chisholm v. Georgia, . 
+
+Text
+
+Background
+
+The Eleventh Amendment was the first Constitutional amendment adopted after the Bill of Rights. The amendment was adopted following the Supreme Court's ruling in Chisholm v. Georgia, . In Chisholm, the Court ruled that federal courts had the authority to hear cases in law and equity brought by private citizens against states and that states did not enjoy sovereign immunity from suits made by citizens of other states in federal court. Thus, the amendment clarified Article III, Section 2 of the Constitution, which gives diversity jurisdiction to the judiciary to hear cases "between a state and citizens of another state."
+Proposal and ratification
+
+The Eleventh Amendment was proposed by the 3rd Congress on March 4, 1794, when it was approved by the House of Representatives by vote of 81 – 9,  having been previously passed by the Senate, 23 – 2, on January 14, 1794.  The amendment was ratified by the state legislatures of the following states:  
+# New York — March 27, 1794
+# Rhode Island — March 31, 1794
+# Connecticut — May 8, 1794
+# New Hampshire — June 16, 1794
+# Massachusetts — June 26, 1794
+# Vermont — November 9, 1794
+# Virginia — November 18, 1794
+# Georgia — November 29, 1794
+# Kentucky — December 7, 1794
+# Maryland — December 26, 1794
+# Delaware — January 23, 1795
+# North Carolina — February 7, 1795As there were 15 States at the time, the ratification by twelve States added the Eleventh Amendment to the Constitution. It was subsequently ratified by:
+# South Carolina — December 4, 1797
+
+On January 8, 1798, approximately three years after the Eleventh Amendment's adoption, President John Adams stated in a message to Congress that the Eleventh Amendment had been ratified by the necessary number of States and that it was now a part of the Constitution of the United States.  New Jersey and Pennsylvania did not take action on the amendment; neither did Tennessee, which had become a State on June 16, 1796.
+
+Impact
+
+Retroactivity 
+
+In Hollingsworth v. Virginia, , the Supreme Court held that every pending action brought under Chisholm had to be dismissed because of the amendment's adoption. 
+
+Sovereign Immunity 
+
+The amendment's text does not mention suits brought against a state by its own citizens. However, in Hans v. Louisiana, , the Supreme Court ruled that the amendment reflects a broader principle of sovereign immunity. As Justice Anthony Kennedy later stated in Alden v. Maine, :
+
+However, Justice David Souter, writing for a four-Justice dissent in Alden, said the states surrendered their sovereign immunity when they ratified the Constitution. He read the amendment's text as reflecting a narrow form of sovereign immunity that limited only the diversity jurisdiction of the federal courts. He concluded that the states are not insulated from suits by individuals by either the Eleventh Amendment in particular or the Constitution in general. 
+
+Application to federal law 
+
+Although the Eleventh Amendment grants immunity to states from suit for money damages or equitable relief without their consent, in Ex parte Young, , the Supreme Court ruled that federal courts may enjoin state officials from violating federal law. In Fitzpatrick v. Bitzer, , the Supreme Court ruled that Congress may abrogate state immunity from suit under Section 5 of the Fourteenth Amendment. In Central Virginia Community College v. Katz, , the Court ruled the Congress could do the same regarding bankruptcy cases by way of Article I, Section 8, Clause 4 of the Constitution. In Lapides v. Board of Regents of Univ. System of Ga., , the Supreme Court ruled that when a state invokes a federal court's removal jurisdiction, it waives the Eleventh Amendment in the removed case.
+
+Territorial application 
+
+The United States Court of Appeals for the First Circuit has ruled that Puerto Rico enjoys Eleventh Amendment immunity.
+Question:
+The 11th amendment to the US constitution addresses the ability of citizens and foreigners to sue whom?
+Answer:
+Statehood
+Passage:
+To the Finland Station
+To the Finland Station: A Study in the Writing and Acting of History (1940) is a book by American critic and historian Edmund Wilson. The work presents the history of revolutionary thought and the birth of socialism, from the French Revolution through the collaboration of Marx and Engels to the arrival of Lenin at the Finlyandsky Rail Terminal in St. Petersburg in 1917.
+
+Form and Content
+
+Wilson "had the present book in mind for six years,"  which Robert Giroux edited. 
+
+The book is divided into three sections.
+
+The first spends five of eight chapters on Michelet and then discusses the "Decline of Revolutionary Tradition" vis-a-vis Ernest Renan, Hippolyte Taine, and Anatole France.
+
+The second deals with Socialism and Communism in sixteen chapters. The first four chapters discuss the "Origins of Socialism" vis-a-vis Babeuf, Saint-Simon, Fourier and Robert Owen, and Enfantin and "American Socialists" (Margaret Sanger and Horace Greeley). The second group of twelve chapters deal mostly with the development of thought in Karl Marx in light of his influences, partnership with Friedrich Engels and opposition from Lassalle and Bakunin.
+
+The third spends six chapters, dealing two each on Lenin, Trotsky, and again Lenin. Important writings addressed include Lenin's "What Is to Be Done?" and Trotsky's Literature and Revolution, My Life, biography of Lenin, and The History of the Russian Revolution.
+
+The book also mentions Eleanor Marx, Nadezhda Krupskaya, Annie Besant, Charles Bradlaugh and Georgy Gapon.
+
+Publication
+
+Harcourt, Brace & Co. first published this book in September 1940.  Doubleday's Anchor Books imprint published a paperback edition in 1953.  Farrar, Straus and Giroux published a paperback edition in 1972.  The New York Review of Books published a new edition in 2003, with an introduction by Louis Menand. 
+
+Upon publication, TIME said: Because it makes Marxist theory, aims and tactics intelligible to any literate non-Marxist mind, To the Finland Station is an invaluable book. It is an advantage that, like Milton with the character of Satan, Author Wilson is half in love with the human side of the curious specimens he describes.
+
+In Popular Culture
+
+This book is mentioned as the reading matter of a young Bill Clinton in Hillary Clinton's biography 'Living History'.
+Question:
+The 1940 book To the Finland Station by Edmund Wilson that traces communism refers to the arrival of Lenin at the said railway station in what city?
+Answer:
+St Petersb.
+Passage:
+Golden Globe Award for Best Actress in a Motion Picture – Drama
+The Golden Globe Award for Best Actress in a Motion Picture – Drama was first awarded by the Hollywood Foreign Press Association as a separate category in 1951. Previously, there was a single award for "Best Actress in a Motion Picture" but the splitting allowed for recognition of it and the Best Actress – Comedy or Musical.
+
+The formal title has varied since its inception. In 2005, it was officially called: "Best Performance by an Actress in a Motion Picture – Drama". As of 2013, the wording is "Best Actress in a Motion Picture – Drama".
+
+Notes:
+* "†" indicates an Academy Award-winning performance.
+* "‡" indicates an Academy Award-nomination.
+* "§" indicates a Golden Globe Award-winning performance that was not nominated for an Academy Award.
+
+Winners and nominees 
+
+1940s
+
+1950s
+
+1960s
+
+1970s
+
+1980s
+
+1990s
+
+2000s
+
+2010s
+
+Multiple nominees
+
+2 nominations
+* Annette Bening
+* Halle Berry
+* Sandra Bullock
+* Leslie Caron
+* Julie Christie
+* Jill Clayburgh
+* Glenn Close
+* Bette Davis
+* Olivia de Havilland
+* Scarlett Johansson
+* Angelina Jolie
+* Deborah Kerr
+* Anna Magnani
+* Rooney Mara
+* Marsha Mason
+* Melina Mercouri
+* Sarah Miles
+* Lee Remick
+* Rosalind Russell
+* Kristin Scott Thomas
+* Simone Signoret
+* Maggie Smith
+* Sharon Stone
+* Barbra Streisand
+* Hilary Swank
+* Tilda Swinton
+* Charlize Theron
+* Uma Thurman
+* Emily Watson
+* Shelley Winters
+* Jane Wyman
+
+3 nominations
+* Helen Mirren
+* Julianne Moore
+* Vanessa Redgrave
+* Gena Rowlands
+* Jean Simmons
+* Sigourney Weaver
+* Debra Winger
+* Natalie Wood
+
+4 nominations
+* Ellen Burstyn
+* Judi Dench
+* Sally Field
+* Audrey Hepburn
+* Diane Keaton
+* Shirley MacLaine
+* Michelle Pfeiffer
+* Sissy Spacek
+* Elizabeth Taylor
+* Emma Thompson
+* Liv Ullmann
+* Kate Winslet
+
+5 nominations
+* Anne Bancroft
+* Ingrid Bergman
+* Cate Blanchett
+* Jane Fonda
+* Jodie Foster
+* Glenda Jackson
+* Nicole Kidman
+* Jessica Lange
+* Susan Sarandon
+* Joanne Woodward
+
+6 nominations
+* Faye Dunaway
+* Katharine Hepburn
+* Geraldine Page
+
+13 nominations
+* Meryl Streep
+
+Multiple winners 
+
+3 wins
+* Ingrid Bergman
+* Jane Fonda
+* Meryl Streep
+2 wins
+* Cate Blanchett
+* Sally Field
+* Jodie Foster
+* Shirley MacLaine
+* Geraldine Page (consecutive)
+* Rosalind Russell (consecutive)
+* Hilary Swank
+* Joanne Woodward
+* Jane Wyman
+Question:
+"Who won Best Actress 'Oscar' for the 1962 film ""The Miracle Worker""?"
+Answer:
+Anna Italiano
+Passage:
+Chingford and Woodford Green (UK Parliament constituency)
+Chingford and Woodford Green is a constituency in Greater London represented in the House of Commons of the UK Parliament since its 1997 creation by  Iain Duncan Smith of the Conservative Party.
+
+Boundaries
+
+The London Borough of Waltham Forest wards of Chingford Green, Endlebury, Hale End and Highams Park, Hatch Lane, Larkswood, and Valley, and the London Borough of Redbridge wards of Church End and Monkhams.
+
+The boundaries of Chingford and Woodford Green take in a large slice of the London Borough of Waltham Forest.  The constituency includes Chingford in the north bordering Enfield down through Highams Park and Hatch Lane into Woodford, and also takes in a part of the London Borough of Redbridge.
+
+History
+
+Before 1945, both Woodford and Chingford were part of Epping for general elections, for which Winston Churchill was MP.  The constituency was created in 1997 from parts of the former seats of Chingford and Wanstead & Woodford.  Both seats previously had well-known MPs, Norman Tebbit and Winston Churchill respectively.  Iain Duncan Smith had been MP for Chingford since 1992 then was elected MP for this constituency.
+
+Political geography
+
+Chingford and Woodford Green and its predecessors have been solid Conservative wards since the beginning of the Thatcher period in 1979.  The closest contest was from Labour in the 1997 general election. The Conservatives retained the seat in 2001 with a majority little changed on a low turnout while Duncan Smith was Shadow Defence Secretary in almost complete peacetime, with an average swing to the Conservatives.  But in 2005 the Conservative incumbent did better, getting twice as many votes as Labour with a swing to the party of 6.4% (over double that nationally) from Labour.
+
+Members of Parliament
+
+Elections
+
+Elections in the 2010s
+
+Elections in the 2000s
+
+Elections in the 1990s
+Question:
+Which Cabinet member is the MP for Chingford and Woodford Green?
+Answer:
+Ian Duncan Smith
+Passage:
+Glossary of Nautical Measures - Lengths - Hemyock Castle
+Glossary of Nautical Measures - Lengths - Hemyock Castle
+Glossary of Nautical Measures - Lengths
+The definition, meaning and origin of nautical length measurements.
+Page Contents:
+Useful Reference Books .
+Lengths - Nautical:
+Due to the very nature of nautical life and its sometimes harsh conditions, measurements tended to be practical rather than theoretical. Definitions varied in different countries and in different reference books.
+The "Cable" causes much confusion, partly due to the method of cable construction and by its use as a measure of distance.
+The heaviest UK RN cable-laid anchor cables were constructed by twisting together 3 hawser-laid ropes (clockwise); each hawser-laid rope was constructed by twisting together 3 ropes (anti-clockwise). This repeated twisting produced very strong water-laid cables which absorbed little water. Each stage of twisting reduced the length of the cable.
+Manufacture of a 100 fathom cable would require 3 x 120 fathom hawsers. Each hawser would require 3 x 150 fathom ropes.
+In 1830, the UK Admiralty defined the following:
+Cable's Length (distance): Tenth of a nautical mile (approx 101 fathoms).
+Cable-laid cable: 100 to 115 fathoms.
+Cablet: 120 fathoms.
+Hawser-laid cable: 130 fathoms.
+Fathom:
+6 feet. Man's arm span, finger tip to finger tip. Also used as a verb: To measure the depth of; to get to the bottom of, to understand.
+Shackle of cable (UK RN, old):
+12½ fathoms. Length of a section of (anchor) chain. (Used until 1949).
+Shot or shackle of cable:
+15 fathoms. Length of a section of (anchor) chain between joining shackles or swivels.
+Scope of cable:
+The length of (anchor) cable paid-out. Measured by counting shackles. Approx 5 times depth of water, depending on conditions.
+Cable (UK RN and Germany):
+0.1 nautical mile. Approx 101 fathoms.
+Metric Cable (France and Spain):
+200 metres. Approx. 109 fathoms.
+Cable (USA):
+Question:
+Which nautical measurement is 240 yards?
+Answer:
+Data Cable
+Passage:
+Ask A Banker: What Do Investment Bankers Actually Do ...
+Ask A Banker: What Do Investment Bankers Actually Do? : Planet Money : NPR
+Paul Goyette/Flickr
+Hi! My name's Matt. I write about the financial industry for a site called Dealbreaker . Before that, I made a living as an investment banker, underwriting convertible bonds and other equity-linked securities and selling equity derivatives to corporate clients. (I know!)
+At Dealbreaker I mostly write for an audience of financial industry professionals, the sort of people who would understand (but probably not read) that job description I just wrote. But since these days the workings of the financial industry are of broader interest, the Planet Money team thought it might be fun for me to occasionally answer questions here about how finance works. We'll start with some generic questions; if you have questions you'd like me to answer, please email planetmoney@npr.org and write "ask a banker" in the subject line. Or ask on Twitter (@planetmoney).
+Q. What do investment bankers actually do?
+I can't put it better than the senior banker who once asked me why I had chosen to "become a traveling money salesman." I've dined out on that phrase ever since , and probably owe him royalties, though I'm not going to sweat it since he's quite rich.
+Article continues after sponsorship
+Investment bankers are traveling salesmen (and women), which explains why many of them are so ornery so much of the time. It also explains why, while in popular perception investment bankers are arrogant jerks wearing Hermès ties, actual individual bankers tend to be perceived by their clients as obsequious and needy. Because they're selling something. Specifically, they're selling money to companies.
+Say a company wants to get money to build a factory or hire more workers or whatever. It can get that money by issuing stock or bonds. "Issuing bonds" just means "borrowing money from strangers." "Issuing stock" is more existentially complicated, but "giving people partial ownership of your company in exchange for cash" is good enough.
+Issuing stocks or bonds requires finding someone to buy them, and most companies aren't good at selling stocks and bonds, so they hire investment bankers as middlemen to help them find people looking to invest money.
+(Incidentally, "investment bankers," as the term is used in the industry, work at investment banks that employ trading and sales staffs, who make trades and sell stocks and bonds to investors. These people are not normally called "investment bankers." In fact, the large majority of people at investment banks are not "investment bankers." Confusing, I know.)
+When a company decides to issue stock or bonds, investment bankers perform "due diligence" to make sure the company's accountants will say that the company's financial statements say what they say they say. Then they write up a prospectus explaining the risks and benefits of buying the stock or the bond.
+Finally, investment bankers hand the prospectus to the sales and trading staffs at their bank, who go out and convince mutual funds, hedge funds, rich people, and moderately less rich people to buy the stocks and bonds, while the investment bankers stand around saying helpful things like "good luck!" and "try to sell more stock!" and "hurry!"
+No one reads the prospectus.
+In future columns, I'll discuss the other main thing investment bankers do: Mergers & Acquisitions. And I'll talk in more detail about what I actually did in the industry. Let me know what else you'd like me to talk about.
+Question:
+When bankers and brokers talk of M&A, what normally do they mean?
+Answer:
+Merger and acquisitions
+Passage:
+Colin Clive
+Colin Clive (20 January 1900 – 25 June 1937) was an English stage and screen actor best remembered for his portrayal of Dr. Henry Frankenstein in James Whale's two Universal Frankenstein films Frankenstein and Bride of Frankenstein.
+
+Early life
+
+Colin Glenn Clive-Greig was born in Saint-Malo, France, to an English colonel, Colin Philip Greig, and his wife, Caroline Margaret Lugard Clive. He attended Stonyhurst College and subsequently Royal Military Academy Sandhurst, where an injured knee disqualified him from military service and contributed to his becoming a stage actor. 
+
+Clive created the role of Steve Baker, the white husband of racially mixed Julie LaVerne, in the first London production of Show Boat; the production featured Cedric Hardwicke and Paul Robeson. Clive first worked with James Whale in the Savoy Theatre production of Journey's End and subsequently joined the British community in Hollywood in the 1930s, repeating his stage role in the 1930 film version of Journey's End, which was directed by Whale.
+
+Hollywood
+
+Clive's first screen role, in Journey's End, was also directed by James Whale. Clive played the tormented alcoholic Captain Stanhope, a character that (much like Clive's other roles) mirrored his personal life.
+He was an in-demand leading man for a number of major film actresses of the era, including Katharine Hepburn, Bette Davis, Corinne Griffith and Jean Arthur. He starred as Edward Rochester in a 1934 adaptation of Jane Eyre opposite Virginia Bruce. He was a descendant of Clive of India and appeared in a featured role in a film biography of his ancestor in 1935. 
+
+Personal life
+
+Clive was bisexual.  He married Jeanne de Casalis in June 1929, though they were later estranged for several years before his death.
+
+Death
+
+Colin Clive suffered from severe chronic alcoholism and died from complications of tuberculosis in 1937 at age 37. 
+
+Clive's alcoholism was apparent to his co-stars, as he was often seen napping on set and sometimes was so intoxicated that he had to be held upright for over-the-shoulder shots. Clive was tormented by the medical threat of amputating his long-damaged leg. 
+
+Forrest J Ackerman recalled visiting Clive's body in the funeral parlour. "As I recall, he had a dressing gown on and he was calmly lying there. And he looked very much like that scene in Bride". Over 300 mourners turned out. One of the pallbearers was Peter Lorre.
+
+His cenotaph is located at Chapel of the Pines Crematory,  but his ashes were scattered at sea in 1978 after they spent over 40 years unclaimed in the basement of the funeral parlour where his body was brought after his death. 
+
+Roles
+
+Stage
+
+*Peter and Paul (September 1925) 
+*Advertising April (November 1925)  
+* Journey's End (1929)
+
+Film
+
+*Journey's End (1930)
+*The Stronger Sex (1931)
+*Frankenstein (1931)
+*Lily Christine (1932)
+*Christopher Strong (1933)
+*Looking Forward (1933)
+*The Key (1934)
+*One More River (1934)
+*Jane Eyre (1934) (as Mr. Rochester)
+*Clive of India (1935)
+*The Right to Live (1935)
+*Bride of Frankenstein (1935)
+*The Girl from 10th Avenue (1935)
+*Mad Love (1935)
+*The Man Who Broke the Bank at Monte Carlo (1935)
+*The Widow from Monte Carlo (1935)
+*History Is Made at Night (1937)
+*The Woman I Love (1937)
+
+Notes
+Question:
+What role on film has been played by Colin Clive, Peter Cushing and Kenneth Branagh among others?
+Answer:
+Viktor Frankenstein
+Passage:
+Catocala fraxini
+Catocala fraxini, the blue underwing, also known as the Clifden nonpareil, is a moth of the Erebidae family.
+
+Distribution
+
+The distribution area covers almost the entire Central Europe and Northern Europe, as well as parts of southern Europe. The species is largely missing in Portugal, the Mediterranean islands (except Corsica), in Greece, in northern Scotland, in northern Scandinavia and North and in southern Russia. The distribution area stretches across the Palearctic to northern Turkey, Siberia, Russian Far East, Korea and Japan. 
+
+Technical Description and variation
+
+See glossary for terms used
+
+Forewing whitish ochreous, irrorated with pale or dark grey, sometimes with a yellow tinge; inner and outer lines blackish, dentate, double; median and subterminal lines blackish, dentate; reniform stigma with black centre and outline ; beneath it a pale yellowish diamond-shaped spot outlined with moerens. dark; hindwing blackish, with a broad blue postmedian band. — ab. moerens Fuchs has the forewing  more or less strongly suffused throughout with blackish grey, obscuring the markings; — the form gaudens Stgr. on the other hand, from Central Asia, is very pale, with most of the black scaling obsolete; in the ab. contigua Schultz the pale spot below the reniform stigma is elongated outwards to touch the outer line, often, as well as the outer line itself, strongly yellow-tinged, especially noticeable in examples with the ground colour dark; -angustata Schultz is distinguished by the narrowness of the blue band of the hindwing; — the ab. maculata Kusenov shows a white mark at the lower angle of cell of hindwing. Schultz also records an instance of albinism in the forewings, where the grey scales throughout have become white,and the black lines brownish yellow, the hindwings remaining unaltered.  
+
+Subspecies
+
+*Catocala fraxini fraxini
+*Catocala fraxini jezoensis Matsumura, 1931 (Japan)
+*Catocala fraxini legionensis Gómez Bustillo & Vega Escandon, 1975 (Spain)
+*Catocala fraxini yuennanensis Mell, 1936 (China: Yunnan)
+
+Biology
+
+Larva brownish grey, black-speckled,with pointed prominences on segments 9 and 12. The caterpillars feed on various species of poplar.
+Question:
+A Clifden Nonpareil is what type of creature?
+Answer:
+Moth
+Passage:
+Ashes 2015: England bowler Mark Wood 'may need ankle ...
+Ashes 2015: England bowler Mark Wood 'may need ankle operation' - BBC Sport
+BBC Sport
+Ashes 2015: England bowler Mark Wood 'may need ankle operation'
+18 Aug 2015
+Mark Wood took the wicket that regained the Ashes for England at the end of the fourth Test at Trent Bridge
+Ashes 2015: England v Australia, fifth Test
+Venue: The Oval, London Dates: 20-24 August
+Coverage: Ball-by-ball Test Match Special commentary on BBC Radio 5 live sports extra, Radio 4 LW, online, tablets, mobiles and BBC Sport app. Live text commentary on the BBC Sport website.
+England bowler Mark Wood says he may need to have an operation to resolve his ankle problems.
+The Durham seamer, 25, missed the third Test at Edgbaston with the injury after a laboured display in the second Test, and has never played three consecutive first-class matches in his career.
+"Long-term, I think the ankle problem that I've got may need some work done to it," Wood said.
+"I've never had an operation yet but that might be the case."
+He added: "Everyone saw that [in the second Test] at Lord's I struggled a bit so I might have to have that operation done."
+Wood is in the squad for the fifth Test against Australia at Lord's, which starts on Thursday, but could miss out if James Anderson is passed fit, despite taking the wicket that won the Ashes for England in the fourth Test at Trent Bridge.
+He finished with match figures of 1-13 in the first innings and 3-69 in the second innings.
+"Jimmy's got 400 wickets and he's England's lead bowler," Wood added. "He had a bowl yesterday and he seemed fine, and if he's fit and ready to go it looks like he would get the nod.
+"It's out of my hands but I'm going to prepare how I've prepared for every other game."
+Share this page
+Question:
+Which bowler took the final wicket when England won the Ashes in the fourth test at Trent Bridge this month?
+Answer:
+Mark Wood (disambiguation)
+Passage:
+WINTER SURVIVAL, VARIATION IN BUD BURST AND FRUIT RIPENING ...
+WINTER SURVIVAL, VARIATION IN BUD BURST AND FRUIT RIPENING, AND SOME YIELD COMPONENTS IN RASPBERRY CULTIVARS AND SELECTIONS | International Society for Horticultural Science
+International Society for Horticultural Science
+The world's leading independent organization of horticultural scientists
+Search
+Enter your International Society for Horticultural Science e-mail or user number.
+Password *
+WINTER SURVIVAL, VARIATION IN BUD BURST AND FRUIT RIPENING, AND SOME YIELD COMPONENTS IN RASPBERRY CULTIVARS AND SELECTIONS
+Authors
+G. Redalen
+Abstract
+Winter damage was judged during the growing season when visible symptoms were established. Cvs Glen Isla, Gradina, Glen Clova, 'Malling' Joy, Sirius and Spica were among those with most severe damage in both years of examination. Several of the selections from an Agr. Univ. of Norway breeding program were outstanding in regard to winter survival.
+Early bud burst was recorded for Veten and several of the Norwegian selections, while Glen Moy, Malling Admiral, Preussen and 'Malling' Joy had late bud burst. Length of expanded buds in spring did not show any significant correlation with winter damage.
+Glen Clova, Glen Moy and some of the selections ripened very early, while 'Malling' Joy, 'Malling' Leo, Sirius, and to some extent Malling Admiral, could be characterized as late ripening cvs. The selections showed about the same variation in time of ripening as the cvs.
+Cvs Glen Moy, Veten, 'Malling' Leo and 'Malling' Joy, and the selections H 4–01–17, 410–08, 105–14 and 105–15 had large fruits. The highest number of laterals per cane was recorded for the selection 105–54, but also Glen Clova and Preussen had a relatively high number of laterals. 'Malling' Joy had an unusual high number of fruits per lateral and per cane, and Gradina, Malling Admiral and some of the selections also were outstanding in this respect. Potential yield values were estimated based upon multiplication of the mean fruit weight by the number of fruits per cane. The highest figures were obtained for 'Malling' Joy, Gradina, Glen Isla, Malling Admiral, Malling Orion and Veten, and the selections 206–04, 105–54, 207–02, 410–08, P x (LGxMP), H 4–01–17, 105–14 and 402–13. The number of fruits was recorded early during the ripening season, however, and fruit loss due to fruit rot and winter damage and accelerated senescence and death of the fruiting canes was not recorded.
+Citation
+Redalen, G. 1986. WINTER SURVIVAL, VARIATION IN BUD BURST AND FRUIT RIPENING, AND SOME YIELD COMPONENTS IN RASPBERRY CULTIVARS AND SELECTIONS. Acta Hort. (ISHS) 183:199-206
+Question:
+Orion, Admiral, Joy and Glen Chova are varieties of which fruit
+Answer:
+Hindberries
+Passage:
+Golden Arrow: A one-off chance to take the steam train to ...
+Golden Arrow: A one-off chance to take the steam train to Paris - Telegraph
+Articles
+Golden Arrow: A one-off chance to take the steam train to Paris
+The train usually consisted of 10 British Pullman cars, hauled by one of the Southern Railway's Lord Nelson class locomotives
+Adrian Bridge , Travel writer
+24 August 2015 • 12:00am
+Lovers of a more glamorous age of travel will have a unique opportunity this autumn to travel from London to Paris by steam train, boat and then steam train again in a recreation of the luxury ‘Golden Arrow’ service that linked the two cities between 1929 and 1972.
+The trip will commence at 7am at London Victoria on Friday October 9 and will involve travel by steam train to Dover via Ashford, Canterbury and Deal, a trip across the Channel by P&O ferry to Calais and a further journey to Paris by steam train in the ‘Flèche d’Or’ (the French name of the service), via Abbeville, with arrival at the Gare du Nord in the early evening. The return trip is scheduled for two days later.
+• The best hotels in Paris
+The re-constituted ?Golden Arrow? service will almost certainly be a one-off
+On the British leg of the journey, the ‘Golden Arrow’ will be steam hauled by either the 1947, Brighton-built, Battle of Britain class No. 34067 Tangmere or the 1951, Crewe-built Britannia Pacific No. 70000 Britannia. The coaches will be First Class Mark 1 open carriages dating from the 1950s, including one Pullman coach. In France, the Flèche d’Or will be hauled by the ex-Paris-Lyon-Méditerranée ‘Pacific’ steam locomotive No. 231 K8 and the train will be comprised of SNCF coaches, some dating back to the 1930s, including a Pullman coach and a genuine wagon lit day coach.
+• The lost delights of Britain's railways
+The re-constituted ‘Golden Arrow’ service has been painstakingly put together by The Railway Touring Company, a firm specialising in tours and day-trips by steam train in the UK and beyond. Given the tricky logistics, it will almost certainly be a one-off.
+The company’s MD Nigel Dobbing said: “We wanted to do something a bit different. We run lots of steam in this country and thought it would be fun to take it further and go across to Paris. Everyone loves Paris, it’s a good destination, and this restaging of The Golden Arrow and Flèche d’Or should be an enjoyable and nostalgic reminder of the boat trains which ran before the Channel Tunnel opened. But it really has been quite a challenge to re-stage this iconic journey, so I think it’s unlikely to happen again.”
+The train usually consisted of 10 British Pullman cars, hauled by one of the Southern Railway's Lord Nelson class locomotives  Photo: GETTY
+The original Flèche d’Or service was introduced in 1926 as an all-first-class Pullman service between Paris and Calais. Three years later Southern Railway introduced the equivalent between London and Dover. The train usually consisted of 10 British Pullman cars, hauled by one of the Southern Railway’s Lord Nelson class locomotives, and took 98 minutes to travel between London and Dover. Ordinary first- and third-class carriages were added in 1931. Similarly the first-class-only ferry, Canterbury, was modified to allow other classes of passenger.
+Question:
+Which luxury train which linked London and Paris was withdrawn in 1972?
+Answer:
+The Golden Arrow
+Passage:
+Israel's Famous 10 - Uri Geller
+Israel's Famous 10 - Uri Geller
+"The world needs your amazing talents. I need them"
+Michael Jackson
+"The man is a natural magician. He does everything with great care, meticulous misdirection and flawless instinct. The nails are real, the keys are really borrowed, the envelopes are actually sealed, there are no stooges, there are no secret radio devices and there are no props from the magic catalogues."
+James Randi (In an open letter to Abracadabra Magazine)
+"Absolutely amazing"
+"Truly incredible"
+Sir Elton John
+"The Geller Effect is one of those "para" phenomena which changed the world of phusics. What the most outstanding physicists of the last decades of this country colud grasp only as theoretical implication, Uri brought as fact into everyday life.."
+Dr. Walter A. Frank. Bonn University - Germany
+"Eternity is down the hall And you sit there bending spoons In your mind, in your  mind"
+Johnny Cash
+"I Have watched Uri Geller... I have seen that so I am a believer. It was my house key and the only way I would be able to use it is get a hammer and beat it out back flat again."
+Clint Eastwood
+"Better than watching Geller bending silver spoons, better than witnessing new born nebulae's in bloom"
+Incubus
+Question:
+Which Israeli was famous for bending cutlery?
+Answer:
+Uri geller

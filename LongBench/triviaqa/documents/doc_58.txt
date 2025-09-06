@@ -1,0 +1,535 @@
+Passage:
+Thuluth
+Thuluth ( sols, Turkish: Sülüs, from  ' "one-third") is a script variety of Islamic calligraphy invented by Ibn Muqlah Shirazi. The straight angular forms of Kufic were replaced in the new script by curved and oblique lines. In Thuluth, one-third of each letter slopes, from which the name (meaning "a third" in Arabic) comes. An alternative theory to the meaning is that the smallest width of the letter is one third of the widest part. It is an elegant, cursive script, used in medieval times on mosque decorations. Various calligraphic styles evolved from Thuluth through slight changes of form.
+
+History
+
+The greatest contributions to the evolution of the Thuluth script, occurred during Ottoman Empire in three successive steps that Ottoman Art Historians call "calligraphical revolutions":
+
+*The first revolution occurred in the 15th century and was initiated by the Master Calligrapher Şeyh Hamdullah.[http://www.kalemguzeli.net/huseyin-kutlu-hat-sanati-kalemi-sevk-edebilmektir.html Hüseyin Kutlu: Hat sanatı kalemi şevk edebilmektir - Kalem Güzeli][http://www.columbia.edu/itc/mealac/pritchett/00xcallig/mughalearly/zzturkey/hamdullah1500s.html hamdullah1500s]
+*The second revolution resulted from the work of the Ottoman calligrapher Hâfız Osman in the 17th century.[http://www.istanbul.edu.tr/Bolumler/guzelsanat/kitap.htm Kitap Sanatı] 
+*Finally, in the late 19th century, Mehmed Şevkî Efendi gave the script the distinctive shape it has today.[http://sanattarihi.wordpress.com/2006/10/01/mehmed-sevki-efendi-2/ Mehmed Şevki Efendi « Sanat Tarihi] [http://www.turkislamsanatlari.com/sevkiefendi.asp Türk Ýslam Sanatlarý - Tezyini Sanatlar]
+
+Artists
+
+The best known artist to write the Thuluth script at its zenith is said to be Mustafa Râkım Efendi (1757–1826), a painter who set a standard in Ottoman calligraphy which many believe has not been surpassed to this day.[http://calligrapher.blogsome.com/2006/04/20/rakim-mustafa-rakim-1757-1826/ Journal of Ottoman Calligraphy :: RAKIM: “Mustafa Rakim” (1757 - 1826) :: April :: 2006]
+
+Usage
+
+Thuluth was used to write the headings of surahs, Qur'anic chapters. Some of the oldest copies of the Qur'an were written in Thuluth. Later copies were written in a combination of Thuluth and either Naskh or Muhaqqaq. After the 15th century Naskh came to be used exclusively.
+
+The script is used in the Flag of Saudi Arabia where its text, Shahada al Tawhid, is written in Thuluth.
+
+Style
+
+An important aspect of Thuluth script is the use of harakat ("hareke" in Turkish) to represent vowel sounds and of certain other stylistic marks to beautify the script. The rules governing the former are similar to the rules for any Arabic script. The stylistic marks have their own rules regarding placement and grouping which allow for great creativity as to shape and orientation. For example, one grouping technique is to separate the marks written below letters from those written above.
+
+Scripts developed from Thuluth
+
+Since its creation, Thuluth has given rise to a variety of scripts used in calligraphy and over time has allowed numerous modifications. Jeli Thuluth was developed for use in large panels, such as those on tombstones. Muhaqqaq script was developed by widening the horizontal sections of the letters in Thuluth. Naskh script introduced a number of modifications resulting in smaller size and greater delicacy. Tevki is a smaller version of Thuluth .
+
+Ruq'ah was probably derived from the Thuluth and Naskh styles, the latter itself having originated from Thuluth.
+Question:
+The script of Thuluth, a variety of Islamic calligraphy, is seen on the flag of what country?
+Answer:
+Saudia Arabia
+Passage:
+Mycology
+Mycology is the branch of biology concerned with the study of fungi, including their genetic and biochemical properties, their taxonomy and their use to humans  as a source for tinder, medicine, food, and entheogens, as well as their dangers, such as poisoning or infection. A biologist specializing in mycology is called a mycologist.
+ 
+From mycology arose the field of phytopathology, the study of plant diseases, and the two disciplines remain closely related because the vast majority of "plant" pathogens are fungi.
+
+Historically, mycology was a branch of botany because, although fungi are evolutionarily more closely related to animals than to plants, this was not recognized until a few decades ago. Pioneer mycologists included Elias Magnus Fries, Christian Hendrik Persoon, Anton de Bary, and Lewis David von Schweinitz.
+
+Many fungi produce toxins, antibiotics, and other secondary metabolites. For example, the cosmopolitan (worldwide) genus Fusarium and their toxins associated with fatal outbreaks of alimentary toxic aleukia in humans were extensively studied by Abraham Joffe.
+
+Fungi are fundamental for life on earth in their roles as symbionts, e.g. in the form of mycorrhizae, insect symbionts, and lichens.  Many fungi are able to break down complex organic biomolecules such as lignin, the more durable component of wood, and pollutants such as xenobiotics, petroleum, and polycyclic aromatic hydrocarbons.  By decomposing these molecules, fungi play a critical role in the global carbon cycle.
+
+Fungi and other organisms traditionally recognized as fungi, such as oomycetes and myxomycetes (slime molds), often are economically and socially important, as some cause diseases of animals (such as histoplasmosis) as well as plants (such as Dutch elm disease and Rice blast).
+
+Field meetings to find interesting species of fungi are known as 'forays', after the first such meeting organized by the Woolhope Naturalists' Field Club in 1868 and entitled "A foray among the funguses"[sic]. 
+
+Some fungi can cause disease in humans or other organisms. The study of pathogenic fungi is referred to as medical mycology.
+
+History
+
+It is presumed that humans started collecting mushrooms as food in Prehistoric times. Mushrooms were first written about in the works of Euripides (480-406 B.C.). The Greek philosopher Theophrastos of Eressos (371-288 B.C.) was perhaps the first to try to systematically classify plants; mushrooms were considered to be plants missing certain organs. It was later Pliny the elder (23–79 A.D.), who wrote about truffles in his encyclopedia Naturalis historia. The word mycology comes  from the Greek: μύκης (mukēs), meaning "fungus" and the suffix  (-logia), meaning "study".
+
+The Middle Ages saw little advancement in the body of knowledge about fungi. Rather, the invention of the printing press allowed some authors to disseminate superstitions and misconceptions about the fungi that had been perpetuated by the classical authors. 
+
+The start of the modern age of mycology begins with Pier Antonio Micheli's 1737 publication of Nova plantarum genera.  Published in Florence, this seminal work laid the foundations for the systematic classification of grasses, mosses and fungi. The term mycology and the complementary mycologist were first used in 1836 by M.J. Berkeley. 
+
+Medical mycology
+
+For centuries, certain mushrooms have been documented as a folk medicine in China, Japan, and Russia.   Although the use of mushrooms in folk medicine is centered largely on the Asian continent, people in other parts of the world like the Middle East, Poland, and Belarus have been documented using mushrooms for medicinal purposes.    Certain mushrooms, especially polypores like Reishi were thought to be able to benefit a wide variety of health ailments.  Medicinal mushroom research in the United States is currently active, with studies taking place at City of Hope National Medical Center,   as well as the Memorial Sloan–Kettering Cancer Center. 
+
+Current research focuses on mushrooms that may have hypoglycemic activity, anti-cancer activity, anti-pathogenic activity, and immune system-enhancing activity.  Recent research has found that the oyster mushroom naturally contains the cholesterol-lowering drug lovastatin, mushrooms produce large amounts of vitamin D when exposed to ultraviolet (UV) light,  and that certain fungi may be a future source of taxol.  To date, penicillin, lovastatin, ciclosporin, griseofulvin, cephalosporin, ergometrine, and statins are the most famous pharmaceuticals that have been isolated from the fungi kingdom.
+Question:
+Mycology is the branch of biology concerned with the study of what?
+Answer:
+Fungus kingdom
+Passage:
+2008 Ryder Cup
+The 37th Ryder Cup Matches were held September 19–21, 2008, in the United States at Valhalla Golf Club in Louisville, Kentucky. Team USA won 16½ - 11½ to end the streak of three successive victories for Europe. This was USA's largest margin of victory since 1981 and the first time since 1979 that the Americans had held the lead after every session of play. The team captains were Paul Azinger for the USA and Nick Faldo for Europe.
+
+The U.S. team had been in the lead since the contest began on the Friday. Europe was two points behind going into the Sunday singles matches. They had only previously overturned a deficit once before, in 1995. USA won the majority of the first matches out and subsequently Jim Furyk defeated Miguel Ángel Jiménez 2 & 1 to win his match and win the Ryder Cup for the USA.  Other matches still out on the course would see this margin of victory increase further. Following the defeat Nick Faldo was heavily criticised for his decision to "bottom load" his best players in the singles when the Americans only needed 5½ points to win which they got before they could have any effect on the overall outcome.
+
+Television
+
+All matches were covered live in the United States. ESPN handled Friday coverage. Mike Tirico and Andy North hosted from the 18th tower, with Curtis Strange calling holes, and on-course reporters Bill Kratzert and Judy Rankin. With Azinger, ESPN's lead analyst, captaining the U.S. team, North was moved to the booth to fill Azinger's seat. NBC Sports covered the weekend action, with Dan Hicks and Johnny Miller hosting from the 18th tower, Gary Koch and Bob Murphy calling holes, and on-course reporters Mark Rolfing, Roger Maltbie, and Dottie Pepper.
+
+Format 
+
+The Ryder Cup is a match play event, with each match worth one point. The competition format used in 2008 was:
+
+* Day 1 (Friday)—four foursomes (alternate shot) matches in the morning session and four fourball (better ball) matches in the afternoon
+* Day 2 (Saturday)—four foursome matches in the morning and four fourball matches in the afternoon
+* Day 3 (Sunday)—12 singles matches 
+
+With a total of 28 points available, 14½ points were required to win the cup, and 14 points for the defending champion to retain it. All matches were played over a maximum 18 holes. 
+
+For the first time since 1995, the opening matches featured foursomes. US captain Paul Azinger chose the format, hoping to give his team an early advantage in Kentucky. Foursomes was used in the first sessions of every event since 1981 until European captain Seve Ballesteros opened with better ball (fourball) in 1997 at Valderrama. 
+
+Team qualification and selection
+
+United States
+
+The selection process was radically changed for 2008. The United States team consisted of:
+* The top eight players on the Ryder Cup Points List
+**Points gained from money earned in majors in 2007 and official PGA tour events in 2008 up to  (i.e. up to and including money earned at the 2008 PGA Championship). Money earned in 2008 majors counted double and money earned in 2008 events played opposite the majors or World Golf Championships counted half. The new points system was only announced in November 2006 after the previous system had started. Under the previous system players earned points from August 27, 2006 when they finished in the top 10 in official events. Because of the late change to the qualification rules, players who had finished in the top 10 during the period from August 27 to November 5, 2006 were awarded a quarter of a point for every $1,000 earned.
+* Four captain's picks
+
+Europe
+
+The qualification process was the same as in 2006. The European team consisted of:
+* The top five players on the Ryder Cup World Points List
+**Total points earned in Official World Golf Ranking events from  2007 to  2008 and then only in the Johnnie Walker Championship at Gleneagles, which ended on August 31.
+* The five players, not qualified above, on the Ryder Cup European Points List
+**Money earned in official European Tour events from  2007 to  2008
+* Two captain's picks
+The final line-up for the European team was announced after the Johnnie Walker Championship at Gleneagles on August 31, 2008. Søren Hansen, Oliver Wilson and Justin Rose were the last three automatic qualifiers after successful tournaments. Nick Faldo handed wildcards to Paul Casey and Ian Poulter. 
+
+Teams
+
+Captains
+
+The team captains were Paul Azinger for the USA and Nick Faldo for Europe.
+
+Vice-captains
+
+The USA vice-captains were Olin Browne, Raymond Floyd and Dave Stockton.
+
+The only European vice-captain was José María Olazábal. Paul McGinley had been announced as a vice-captain in May 2007 but resigned in September 2007.
+
+Players
+
+Tiger Woods was the leading player on the points list but was recovering from knee surgery and unable to compete. Captains picks are shown in yellow; the world rankings and records are at the start of the 2008 Ryder Cup.
+
+Captains picks are shown in yellow; the world rankings and records are at the start of the 2008 Ryder Cup.
+
+Friday's matches
+
+Morning foursomes
+
+The morning foursomes began well for Team Europe, as they took the lead in all four matches within the first hour. However, things changed by the end of the morning, with Team USA ending the session up 3–1, marking the first time since the last American win in 1999 that Team USA held the lead at the end of any Ryder Cup session. 
+
+Afternoon four-ball
+
+The afternoon session was almost a replay of the morning session. Team Europe led after the front nine in three of the four matches, but only won one. Team USA ended up with its largest lead after the first day since Europe was first included in the Ryder Cup in 1979. 
+
+Saturday's matches
+
+Morning foursomes
+
+Afternoon four-ball
+
+Sunday's singles matches
+
+Individual player records
+
+Each entry refers to the Win–Loss–Half record of the player.
+
+Source: 
+
+United States
+
+Europe
+Question:
+Where was the 2008 Ryder Cup competition held?
+Answer:
+Valhalla Golf Club
+Passage:
+Frederick Greenwood
+Frederick Greenwood (25 March 1830 – 14 December 1909), was an English journalist, editor, and man of letters.
+
+Early years
+
+Born in Kensington, London, he was the oldest of eleven children of James Caer Greenwood, a coach builder, and his wife, Mary Ann, née Fish. He and two brothers — James and Charles, gained reputations as journalists.  Frederick started life in a printing house, but at an early age began to write in periodicals. In 1853 he contributed a sketch of Napoleon III to a volume called The Napoleon Dynasty (2nd ed., 1855). He also wrote several novels: The Loves of an Apothecary (1854), The Path of Roses (1859) and (with his brother James) Under a Cloud (1860).
+
+To the second number of the Cornhill Magazine he contributed "An Essay without End," and this led to an introduction to Thackeray. In 1862, when Thackeray resigned the editorship of the Cornhill, Greenwood became joint editor with GH Lewes. In 1864 he was appointed sole editor, a post which he held until 1868. While at the Cornhill he wrote an article in which he suggested, to some extent, how Thackeray might have intended to conclude his unfinished work Denis Duval, and in its pages appeared Margaret Denzil's History, Greenwood's most ambitious work of fiction, published in volume form in 1864.
+
+Frederick Greenwood completed Elizabeth Gaskell's unfinished novel Wives and Daughters after she died suddenly in 1865.
+
+Pall Mall Gazette
+
+At that time Greenwood had conceived the idea of an evening newspaper, which, while containing all the news proper to an evening journal, should, for the most part, be made up of original articles upon the many things which engage the thoughts, or employ the energies, or amuse the leisure of mankind. Public affairs, literature and art, and all the influences which strengthen or dissipate society were to be discussed by men whose independence and authority were equally unquestionable. Canning's Anti-Jacobin and the Saturday Review of 1864 were the joint models Greenwood had before him.
+
+The idea was taken up by Mr George Smith, and the Pall Mall Gazette (so named after Thackeray's imaginary paper in Pendennis) was launched in February 1865, with Greenwood as editor. Within a few years he had come to exercise a great influence on public affairs. His views somewhat rapidly ripened from what was described as philosophic Liberalism into Conservatism. "No minister in Great Britain," Mr Gladstone declared, "ever had a more able, a more zealous, a more effective supporter for his policy than Lord Beaconsfield had in Greenwood."
+
+It was on the suggestion of Greenwood that Beaconsfield purchased in 1875 the Suez Canal shares of the Khedive Ismail; the British government being ignorant, until informed by Greenwood, that the shares were for sale and likely to be bought by France. It was characteristic of Greenwood that he declined to publish the news of the purchase of the shares in the Pall Mall before the official announcement was made.
+
+Later years
+
+Early in 1880 the Pall Mall changed owners, and the new proprietor, Henry Yates Thompson, shifted editorial policy to supporting the Liberal Party. Greenwood at once resigned his editorship, but in May a new paper, the St James's Gazette, was started for him by Mr Henry Hucks Gibbs (afterwards Lord Aldenham), and Greenwood proceeded to carry on in it the tradition which he had established in the Pall Mall. At the St James's Greenwood remained for over eight years, continuing to exercise a marked influence upon political affairs, notably as a pungent critic of the Gladstone administration (1880–1885) and an independent supporter of Lord Salisbury. His connection with the paper ceased in August 1888, owing to disagreements with the new proprietor, Mr E Steinkopff, who had bought the St James's at Greenwood's own suggestion.
+
+In January 1891 Greenwood brought out a weekly review which he named the Anti-Jacobin. It failed, however, to gain public support, the last number appearing in January 1892. In 1893 he published The Lover's Lexicon and in 1894 Imagination in Dreams. He continued to express his views on political and social questions in contributions to newspapers and magazines, writing frequently in the Westminster Gazette, the Pall Mall, Blackwood, the Cornhill, etc. Towards the end of his life his political views reverted in some respects to the Liberalism of his early days.
+
+In the words of George Meredith Greenwood was not only a great journalist, he had a statesman's head. The national interests were always urgent at his heart. He was remarkable for securing for his papers the services of the ablest writers of the day, and for the gift of recognizing merit in new writers, such, for instance, as Richard Jefferies and J. M. Barrie. His instinct for capacity in others was as sure as was his journalistic judgment. In 1905, on the occasion of his 75th birthday, a dinner was given in his honour by leading statesmen, journalists, and men of letters (with John Morley—who had succeeded him as editor of the Pall Mall—in the chair). In May 1907 he contributed to Blackwood an article on "The New Journalism," in which he drew a sharp contrast between the old and the new conditions under which the work of a newspaper writer is conducted. He belonged to the Garrick Club.  He died at Sydenham on 14 December 1909.
+Question:
+"Whose novel ""Wives and Daughters"", about Molly Gibson, the only daughter of a doctor in a provincial English town in the 1830s, was completed by Frederick Greenwood when the author died suddenly in 1865?"
+Answer:
+Mrs. Gaskell
+Passage:
+Internment
+Internment is the imprisonment or confinement  of people, commonly in large groups, without trial. The term is especially used for the confinement "of enemy citizens in wartime or of terrorism suspects".  Thus, while it can simply mean imprisonment, it tends to refer to preventive confinement, rather than confinement after having been convicted of some crime. Use of these terms is subject to debate and political sensitivities.[http://www.npr.org/blogs/ombudsman/2012/02/10/146691773/euphemisms-concentration-camps-and-the-japanese-internment Euphemisms, Concentration Camps And The Japanese Internment]
+
+Interned persons may be held at prisons or at facilities known as internment camps. In certain contexts, these may also be known either officially or pejoratively, as concentration camps.
+
+Internment also refers to the practice of neutral countries in time of war in detaining belligerent armed forces and equipment in their territories under the Hague Convention of 1907. 
+
+The Universal Declaration of Human Rights restricts the use of internment. Article 9 states that "No one shall be subjected to arbitrary arrest, detention or exile." 
+
+History of internment and the term "concentration camp" 
+
+The American Heritage Dictionary defines the term concentration camp as: "A camp where persons are confined, usually without hearings and typically under harsh conditions, often as a result of their membership in a group the government has identified as suspect." 
+
+The Polish historian Władysław Konopczyński used the term concentration camps when describing events in Poland during the Bar Confederation rebellion (1768–72), when the Russian Empire established three prison camps for Polish captives awaiting deportation to Siberia. 
+
+The English term originated in the reconcentrados (reconcentration camps) set up by the Spanish military in Cuba during the Ten Years' War (1868–78), Cuban War for Independence (1895–98), and by the United States during the Philippine–American War (1899–1902). 
+
+The term concentration camp saw wider use during the Second Boer War (1899–1902), when the British operated such camps in South Africa for interning Boers.  They built 45 tented camps for Boer internees and 64 for black Africans. Of the 28,000 Boer men captured as prisoners of war, the British sent 25,630 overseas. The vast majority of Boers remaining in the local camps were women and children, over 26,000 of whom died there. 
+
+Between 1904 and 1908, the Imperial German Army operated concentration camps including the Shark Island Concentration Camp in German South-West Africa (now Namibia) as part of its genocide of the Herero and Namaqua peoples.
+
+In the late 1930s, over 100,000 defeated or interned personnel of the Spanish Republican armed forces, along with civilians, were held in concentration camps by the government of France, including Meheri Zabbens,  and the Camp de concentration d'Argelès-sur-Mer in southern France. Some of them managed to go into exile or went off to join the armies of the Allies in order to fight against the Axis powers,  while others ended up in Nazi concentration camps. 
+
+During the 20th century, the arbitrary internment of civilians by the state reached its most notorious excesses with the Nazi concentration camps (1933–45). The Nazi concentration camp system was notable for its extensive size, with as many as 15,000 camps  and at least 715,000 simultaneous internees.  The total number of combined casualties in these camps is difficult to tabulate, but the conscious policy of extermination through labor in at least some of the camps ensured that inmates would die of starvation, untreated disease and summary executions.  Moreover, Nazi Germany established six extermination camps, specifically designed to kill millions, primarily by gassing.  
+ 
+As a result, some say that the term "concentration camp" today may be conflated with the concept of "extermination camp" and historians debate whether the term "concentration camp" or "internment camp" should be used to describe other examples of civilian internment, such as the United States' internment of Japanese Americans during World War II.
+Question:
+In which country was the notorious concentration camp Auschwitz
+Answer:
+Etymology of Poland
+Passage:
+Merlyn Lowther
+Merlyn Vivienne Lowther (born March 1954)  was Chief Cashier of the Bank of England for 1999  to 2003. She was the first woman to hold the post. The signature of the Chief Cashier appears on Bank of England banknotes. Lowther was succeeded by Andrew Bailey. 
+
+Since February 2013, Lowther has been a Deputy Chairman of Co-Operative Banking Group Limited and The Co-operative Bank plc.
+Question:
+Merlyn Lowther, Andrew Bailey and Chris Salmon are the last three holders of which financial post?
+Answer:
+Chief Cashier of the Bank of England
+Passage:
+Color in Chinese culture
+Color in Chinese culture refers to the certain values that Chinese culture attaches to colors, like which colors are considered auspicious () or inauspicious ().  The Chinese word for "color" is yánsè (). In Classical Chinese, the character sè () more accurately meant "color in the face", or "emotion". It was generally used alone and often implied sexual desire or desirability. During the Tang Dynasty, the word yánsè came to mean all color. A Chinese idiom which is used to describe many colors, Wǔyánliùsè (五颜六色), can also mean colors in general.
+
+Theory of the Five Elements
+
+In traditional Chinese art and culture, black, red, qing () (a conflation of the idea of green and blue sometimes called "grue"), white and yellow are viewed as standard colors.  These colors correspond to the five elements of water, fire, wood, metal and earth, taught in traditional Chinese physics. Throughout the Shang, Tang, Zhou and Qin dynasties, China’s emperors used the Theory of the Five Elements to select colors.
+
+Black
+
+Black, corresponding to water, is a neutral colour.  The I Ching, or Book of Changes, regards black as Heaven’s color. The saying “heaven and earth of mysterious black” was rooted in the observation that the northern sky was black for a long time. They believed Tian Di, or Heavenly Emperor, resided in the North Star.
+
+The Taiji symbol uses black and white to represent the unity of Yin and Yang. Ancient Chinese regarded black as the king of colors and honored black more consistently than any other color. Lao Zi said that five colors make people blind, so the Dao School chose black as the color of the Dao.
+
+In modern China, black is used in daily clothing. White is associated with death and mourning and was formerly worn at funerals,  but depends on the age of passing.
+
+It is also commonly associated with several groups promoting the learning of Chinese, particularly DRSS.
+
+Red
+
+Red, corresponding with fire, symbolizes good fortune and joy.  Red is found everywhere during Chinese New Year and other holidays and family gatherings.  
+A red envelope is a monetary gift which is given in Chinese society during holiday or special occasions.  The red color of the packet symbolizes good luck.  Red is strictly forbidden at funerals as it is a traditionally symbolic color of happiness;  however, as the names of the dead were previously written in red, it may be considered offensive to use red ink for Chinese names in contexts other than official seals.
+
+In modern China, red remains a very popular color and is affiliated with and used by the Communist government.
+
+Green
+
+Generally green is associated with health, prosperity, and harmony. Separately, green hats are associated with infidelity and used as an idiom for a cuckold.  This has caused uneasiness for Chinese Catholic bishops, who in ecclesiastical heraldry would normally have a green hat above their arms.  Chinese bishops have compromised by using a violet hat for their coat of arms. Sometimes this hat will have an indigo feather to further display their disdain for the color green.
+
+White
+
+White, corresponding with metal, represents gold and symbolizes brightness, purity, and fulfillment.
+White is also the color of mourning. It is associated with death and is used predominantly in funerals in Chinese culture.  Ancient Chinese people wore white clothes and hats only when they mourned for the dead. 
+Yellow
+
+Yellow, corresponding with earth, is considered the most beautiful and prestigious color. The Chinese saying, Yellow generates Yin and Yang, implies that yellow is the center of everything. Associated with but ranked above brown, yellow signifies neutrality and good luck.  Yellow is sometimes paired with red in place of gold.
+
+Yellow was the emperor's colour in Imperial China and is held as the symbolic color of the five legendary emperors of ancient China. Yellow often decorates royal palaces, altars and temples, and the color was used in the robes and attire of the emperors.
+
+Yellow also represents freedom from worldly cares and is thus esteemed in Buddhism. Monks’ garments are yellow, as are elements of Buddhist temples.  Yellow is also used as a mourning color for Chinese Buddhists.
+
+Yellow is also symbolic of heroism, as opposed to the American association of the colour with cowardice.
+Question:
+What colour is used in mourning in China
+Answer:
+White (Colour)
+Passage:
+Wolverine (train)
+The Wolverine is a higher-speed passenger train service operated by Amtrak as part of its Michigan Services. The 304 mi line provides three daily round-trips along the Pontiac–Detroit–Chicago route. It carries a heritage train name descended from the New York Central (Michigan Central).
+
+During fiscal year 2015, the Wolverine carried 465,627 passengers, a 0.3% decrease from FY 2014's total of 477,157 passengers.   The service had a total ticket revenue of US$18.96 million in FY 2015, an 0.3% increase from FY 2014's $18.90 million total revenue.
+
+History
+
+Prior to Amtrak's takeover of most private-sector passenger service in 1971 the Wolverine was one of three trains which operated over the Michigan Central route between Chicago and Detroit. Under Penn Central operation it continued through South-Western Ontario (Canada) to Buffalo, New York. Amtrak retained two trains (the other was the renamed St. Clair) and truncated the operation to Detroit but otherwise changed little. In April 1975, Amtrak introduced French-built Turboliner equipment to the Michigan route and added a third round-trip. A pool of three Turboliner trainsets served the route, and the three round-trip pairs were numbered 350—355, train numbers which are still in use today. Amtrak dropped the individual train names and rebranded all three Turboliner, in common with similar services to St. Louis, Missouri and Milwaukee, Wisconsin. The new equipment led to massive gains in ridership, topping 340,000 in 1975 and 370,000 in 1976.
+
+The Turboliners became a victim of their own success. Although fast (and flashy), they were unable to reach their design speed of 125 mph because of the poor quality of the Penn Central track in Michigan. The five-car fixed consists had a maximum capacity of 292 passengers, which was often not enough. Starting in March 1976 Amtrak began replacing some of the Turboliners with conventional equipment, including new Amfleet coaches. Individual names returned to the corridor, with the heretofore unnamed third train becoming the Twilight Limited. The last Turboliners left the corridor in 1981.
+
+Amtrak extended the Wolverine and Twilight Limited to Pontiac on May 5, 1994. With this change service began at a new station in Detroit's New Center. Although the Michigan Central Station in Corktown, Detroit had closed on January 6, 1988, trains continued to stop at a temporary platform just east of the old station. Besides Pontiac, new stations were opened at Royal Oak and Troy. The Lake Cities also began serving Pontiac after the end of Toledo service in 1995. 
+
+Amtrak dropped individual names again in 2004 and named all three trains Wolverine.
+
+Due to the increased ridership on these trains, Amtrak executive Morell Savoy, the Central Division Superintendent, spearheaded a test run of Chicago-Kalamazoo Wolverines from September 2, 2010, to September 7, 2010. This was done to determine all that would be involved in operations should Amtrak decide to initiate such service in the future. 
+
+Higher-speed operation 
+
+The federal government considers high-speed rail service to be rail service which at any time reaches the speed of 110 mph or higher.  In 2006 the Detroit–Chicago corridor was designated by the Federal Railroad Administration as a high-speed rail corridor  and in October 2010, the State of Michigan received US$150 million from the federal government to increase track speeds to 110 mph between Kalamazoo and Dearborn. 
+
+Amtrak owns the 97 mi stretch of the Wolverine's route from Porter, Indiana to Kalamazoo, Michigan and it is the longest segment of track owned by Amtrak outside of the Northeast Corridor. Starting in January 2002 Amtrak began track improvements to increase the allowed speed along this section of track. Amtrak trains currently travel at top speeds of 110 mph along this section of track. 
+
+In December 2012, MDOT completed its purchase from Norfolk Southern of 135 mi of track between Kalamazoo and Dearborn.  This will make it easier to maintain track and eventually upgrade it to 110 mph running by late 2017. As part of the purchase agreement, MDOT also agreed to double-track the line east of Ypsilanti.[http://www.michigan.gov/mdot/0%2c4616%2c7-151-9620_11057-263585--%2c00.html MDOT - MDOT seeks to improve both passenger and freight rail lines with purchase of Norfolk Southern Railway track]
+
+Route details
+
+The Wolverine operates over Norfolk Southern Railway, Amtrak, and Canadian National Railway trackage:
+*NS Chicago Line, Chicago to Porter
+*Amtrak Chicago–Detroit Line, Porter to Kalamazoo
+*MDOT (d/b/a Amtrak) Michigan Line, Kalamazoo to Dearborn
+*CN South Bend Sub from CP Gord to CP Baron (about .8 miles) in Battle Creek, MI
+*Amtrak Chicago–Detroit Line, Dearborn to West Detroit
+*CR North Yard Branch, West Detroit to Vinewood
+*CN Shore Line Subdivision and Holly Subdivision, Vinewood to Pontiac
+
+Station stops 
+
+Equipment
+
+, each Wolverine operates with two General Electric Genesis P42DC locomotives, 3-5 Horizon coaches, and an Amfleet cafe/business class car. In the winter, Superliners are sometimes used. The equipment pool for the Wolverines comprises 14 Horizon coaches and 3.5 Amfleet cafe/business class cars (one is shared with the Blue Water), split across three consists. The locomotives usually operate in a push-pull configuration, however sometimes both will be at the head end.  Due to the FRA requirement of positive train control for operations above 79 MPH, locomotives on the Wolverine are required to have Positive Train Control, supplied by Amtrak's Incremental Train Control System. Because of this modification the units are usually captive to the Michigan services.
+
+Between 2016-2018 Michigan expects to take delivery of new bilevel cars which will displace the Horizons and Amfleets in regular service. In addition, in early 2014 the Michigan Department of Transportation issued a request for proposal aimed at acquiring additional passenger equipment for use between 2014-2017.  
+
+In September 2014, the state of Michigan reached an agreement with Talgo, a Spanish railcar manufacturer, to buy two trainsets for the Wolverine, at a cost of $58 million.  The trains had been previously built for the state of Wisconsin, before plans for expanded passenger rail service in that state were canceled and the trainsets placed in storage.  The new equipment will provide a substantial upgrade in passenger amenities over the Amtrak-owned railcars used on the route.
+Question:
+Which of the United States is known as the Wolverine State'?
+Answer:
+Demographics of Michigan
+Passage:
+You Were on My Mind
+"You Were on My Mind" is a popular song written by Sylvia Fricker in 1962. It was written in a bathtub in a suite at the Hotel Earle in Greenwich Village. She wrote it in the bathroom because "it was the only place ... the cockroaches would not go". It was originally performed by Fricker and her then husband-to-be Ian Tyson as the duo Ian & Sylvia and they recorded it for their 1964 album, Northern Journey. It was published in sheet form by M. Witmark & Sons of New York City in 1965. It was composed in 1962. 
+
+In 1965 the song was covered in an up-tempo version, with slightly altered lyrics and melody by the California pop quintet We Five. Their recording reached #3 on the Billboard Hot 100 chart in September 1965 and topped the Billboard easy listening chart for five weeks.  Billboard ranked the record as the No. 4 song of 1965.  The performance by We Five is noteworthy for the gradual buildup in intensity, starting off somewhat flowing and gentle, increasing in intensity in the third stanza and remaining so through the fourth stanza. The fifth and final stanza starts off gently and concludes very intensely, ending with a series of guitar chords.
+
+In the United Kingdom Crispian St. Peters scored a number two hit with the song in 1966.  This version was also released in the United States in 1967 and went to #36 on the Billboard Hot 100.   It was featured on his album, Follow Me...
+
+Ian and Sylvia re-recorded the song in 1972 with their band Great Speckled Bird, reaching #4 on the Canadian easy listening chart.
+
+Other versions
+
+Other notable recordings include versions by:
+*Barry McGuire covered the song on his 1965 album, Eve of Destruction: his version was a hit in Italy (#19) in 1966 
+*Also in 1966 Equipe 84 had a #2 hit in Italy with the rendering "Io ho in mente te" besting a rival version by Paul Anka
+*Bobby Penn covered it in 1971 and went to #51 on Billboard's Hot Country Singles chart.
+*Susanna Hoffs covered it on the soundtrack for the 1992 film Fathers and Sons
+*On the 2016 album "Colvin & Earle" by Shawn Colvin and Steve Earle
+*On the deluxe iTunes version of 2016 album "Good Grief" by Lucius
+Question:
+Name the singer who died in 2010, he had two hits in 1966, 'You Were On My Mind' and 'Pied Piper'?
+Answer:
+Crispian St. Peters
+Passage:
+Sophie Hunter
+Sophie Irene Hunter (born 16 March 1978)  is an English avant-garde theatre and opera director, playwright, and former performer. She made her directorial debut in 2007 co-directing the experimental play The Terrific Electric at the Barbican Pit after her theatre company Boileroom was granted the Samuel Beckett Theatre Trust Award. In addition, she has directed an Off-Off-Broadway revival of Henrik Ibsen's Ghosts (2010) at Access Theatre, the performance art titled Lucretia (2011) based on Benjamin Britten's opera The Rape of Lucretia at Location One's Abramovic Studio in New York City, and the Phantom Limb Company's 69° South also known as Shackleton Project (2011) which premièred at the Brooklyn Academy of Music's Harvey Theatre and later toured North America.
+
+In August 2015, Hunter directed Phaedra to critical acclaim at the fourth Happy Days Enniskillen International Beckett Festival. In October 2015 she staged The Turn of the Screw in Suffolk and London for Aldeburgh Music, which received acclaim from critics.
+
+Early life and education
+
+Hunter was born in Hammersmith, west London   to parents Anna Katharine (née Gow) and Charles Rupert. The couple later divorced.  She has two younger brothers, Timothy and Patrick as well as two half-siblings from her father's second marriage.  She is a niece of pianist Julius Drake.  Her maternal grandfather is the General Sir Michael James Gow GCB, who worked with Prince Henry, Duke of Gloucester in the 1950s and was Aide-de-Camp General to the Queen from 1981 to 1984.   Hunter's maternal great-great grandfather was World War I politician J. E. B. Seely, 1st Baron Mottistone. 
+
+Hunter attended St Paul's Girls' School in Hammersmith before studying Modern Languages with a concentration in French and Italian at Oxford University.  After graduating from Oxford, Hunter resided in Paris to study avant-garde theatre for two years at the L'École Internationale de Théâtre Jacques Lecoq.  She then trained at the Saratoga International Theatre Institute in New York City under theatre and opera director Anne Bogart. 
+
+Career
+
+Theatre
+
+Hunter co-founded the Lacuna Theatre Company, and was an associate director at Royal Court Theatre in the West End and Broadhurst Theatre in Broadway for the play Enron. She is the co-founder and artistic director of theatre company Boileroom, which won the 2007 Samuel Theatre Trust Award for the avant-garde play The Terrific Electric.  In addition, she also serves as collaborating director and dramaturge on marionette and puppetry production with the Phantom Limb Company. 
+
+Known for her avant-garde plays,  Hunter has directed, performed and conceived theatre productions throughout Europe, the Middle East and North America.   She directed the experimental play 69° South (2013), the New York performance art titled Lucretia (2011) based on Benjamin Britten's opera The Rape of Lucretia and the 2010 revival of Henrik Ibsen's Ghosts. She was a member of the performance collective Militia Canteen. 
+
+In collaboration with music director Andrew Staples, Hunter directed mezzo-soprano Ruby Philogene in Phaedra (2015) at the Happy Days Enniskillen International Beckett Festival in Northern Ireland. The production was met with praise with The Guardian saying it is "exquisitely realized," The Stage hailing it as "creative brilliance," and The Times describing it "astonishing".    She has also staged Benjamin Britten's The Turn of the Screw in Suffolk and London for Aldeburgh Music.  
+
+Creative arts
+
+Hunter worked on the transfer of Punchdrunk's Sleep No More to New York City in 2011 while serving as creative director for the theatre company Emursive. She has also directed the company's theatrical experiences The Forgotten (2012)  and Don't Major In Debt Student House (2012). In 2013, she developed Loma Lights (2013), one of the largest public arts programs in New York.
+
+Music
+
+In 2005, Hunter recorded a French-language music album titled The Isis Project in collaboration with songwriter Guy Chambers.  In 2011, she released an English-language EP titled Songs for a Boy, again with Chambers.  Hunter has also collaborated with Armin van Buuren for the song "Virtual Friend" which was included in Buuren's 2010 album Mirage. 
+
+Film and television
+
+Earlier in her career, Hunter has acted in film and television. She has had supporting roles in the television series Midsomer Murders (2004), Keen Eddie (2004), Mumbai Calling (2007) and Torchwood (2009). In 2004, she played Maria Osborne in the costume drama film Vanity Fair starring Reese Witherspoon and played Annabel Blythe-Smith in the 2009 thriller film Burlesque Fairytales.
+
+Recognition
+
+*Oxford Samuel Beckett Theatre Trust Award (2007) 
+*International Artist Fellowship by Location One, New York City (2010/11) 
+
+Personal life
+
+Hunter had a long-term relationship with sculptor Conrad Shawcross whom she met while studying at Oxford.  The couple split in early 2010.  On 14 February 2015, she married actor Benedict Cumberbatch at St. Peter and St. Paul Church on the Isle of Wight followed by a reception at Mottistone Manor.    They have a son, Christopher Carlton, who was born in the summer of 2015.   Hunter speaks fluent French and Italian. She is also a skilled pianist. 
+
+Selected credits
+
+Theatre
+
+As director
+
+As actor
+
+Film and television
+
+Discography
+Question:
+Which well-known actor did the actress and theatre director Sophie Hunter marry in 2015?
+Answer:
+Benedict cumberbatch
+Passage:
+RICHARD MARX - RIGHT HERE WAITING FOR YOU LYRICS
+RICHARD MARX - RIGHT HERE WAITING FOR YOU LYRICS
+Right Here Waiting For You Lyrics
+Richard Marx - Right Here Waiting For You Lyrics
+Oceans apart, day after day
+And I slowly go insane
+I hear your voice on the line
+But it doesn't stop the pain
+If I see you next to never
+But how can we say forever
+Wherever you go, whatever you do
+I will be right here waiting for you
+Whatever it takes or how my heart breaks
+I will be right here waiting for you
+I took for granted, all the times
+That I thought would last somehow
+I hear the laughter, I taste the tears
+But I can't get near you now
+Oh, can't you see it, baby
+You've got me goin' crazy
+Wherever you go, whatever you do
+I will be right here waiting for you
+Whatever it takes or how my heart breaks
+I will be right here waiting for you
+I wonder how we can survive
+This romance
+But in the end if I'm with you
+I'll take the chance
+Oh, can't you see it, baby
+You've got me goin' crazy
+Wherever you go, whatever you do
+I will be right here waiting for you
+Whatever it takes or how my heart breaks
+I will be right here waiting for you
+Waiting for you
+cannot get any better when it comes to expressing true love..... ;o)
+Miscellaneous Tracklist
+Embed
+Get the embed code
+<table class="songlyrics" style="width: 100%; table-layout: fixed;"><col width="40" /><col /><tbody><tr><th colspan="2">Richard Marx - Miscellaneous Album Lyrics</th></tr><tr><td class="sl-td-left">1.</td><td class="sl-td-right"><a href="http://www.songlyrics.com/richard-marx/hold-on-to-the-night-lyrics/" title="Hold On To The Night Lyrics Richard Marx">Hold On To The Night</a></td></tr><tr><td class="sl-td-left">2.</td><td class="sl-td-right"><a href="http://www.songlyrics.com/richard-marx/miami-2017-lyrics/" title="Miami 2017 Lyrics Richard Marx">Miami 2017</a></td></tr><tr><td class="sl-td-left">3.</td><td class="sl-td-right"><a href="http://www.songlyrics.com/richard-marx/surrender-to-me-lyrics/" title="Surrender To Me Lyrics Richard Marx">Surrender To Me</a></td></tr><tr><td class="sl-td-left">4.</td><td class="sl-td-right"><a href="http://www.songlyrics.com/richard-marx/thanks-to-you-lyrics/" title="Thanks To You Lyrics Richard Marx">Thanks To You</a></td></tr><tr><td class="sl-td-left">5.</td><td class="sl-td-right"><a href="http://www.songlyrics.com/richard-marx/days-in-avalon-lyrics/" title="Days In Avalon Lyrics Richard Marx">Days In Avalon</a></td></tr><tr><td class="sl-td-left">6.</td><td class="sl-td-right"><a href="http://www.songlyrics.com/richard-marx/shine-lyrics/" title="Shine Lyrics Richard Marx">Shine</a></td></tr><tr><td class="sl-td-left">7.</td><td class="sl-td-right"><a href="http://www.songlyrics.com/richard-marx/someone-special-lyrics/" title="Someone Special Lyrics Richard Marx">Someone Special</a></td></tr><tr><td class="sl-td-left">8.</td><td class="sl-td-right"><a href="http://www.songlyrics.com/richard-marx/power-of-you-and-me-lyrics/" title="Power Of You And Me Lyrics Richard Marx">Power Of You And Me</a></td></tr><tr><td class="sl-td-left">9.</td><td class="sl-td-right"><a href="http://www.songlyrics.com/richard-marx/one-more-time-lyrics/" title="One More Time Lyrics Richard Marx">One More Time</a></td></tr><tr><td class="sl-td-left">10.</td><td class="sl-td-right"><a href="http://www.songlyrics.com/richard-marx/waiting-on-your-love-lyrics/" title="Waiting On Your Love Lyrics Richard Marx">Waiting On Your Love</a></td></tr><tr><td class="sl-td-left">11.</td><td class="sl-td-right"><a href="http://www.songlyrics.com/richard-marx/more-than-a-mystery-lyrics/" title="More Than A Mystery Lyrics Richard Marx">More Than A Mystery</a></td></tr><tr><td class="sl-td-left">12.</td><td class="sl-td-right"><a href="http://www.songlyrics.com/richard-marx/boy-next-door-lyrics/" title="Boy Next Door Lyrics Richard Marx">Boy Next Door</a></td></tr><tr><td class="sl-td-left">13.</td><td class="sl-td-right"><a href="http://www.songlyrics.com/richard-marx/too-early-to-be-over-lyrics/" title="Too Early To Be Over Lyrics Richard Marx">Too Early To Be Over</a></td></tr><tr><td class="sl-td-left">14.</td><td class="sl-td-right"><a href="http://www.songlyrics.com/richard-marx/straight-from-the-heart-lyrics/" title="Straight From The Heart Lyrics Richard Marx">Straight From The Heart</a></td></tr><tr><td class="sl-td-left">15.</td><td class="sl-td-right"><a href="http://www.songlyrics.com/richard-marx/nothing-you-can-do-about-it-lyrics/" title="Nothing You Can Do About It Lyrics Richard Marx">Nothing You Can Do About It</a></td></tr><tr><td class="sl-td-left">16.</td><td class="sl-td-right"><a href="http://www.songlyrics.com/richard-marx/to-where-you-are-lyrics/" title="To Where You Are Lyrics Richard Marx">To Where You Are</a></td></tr><tr><td class="sl-td-left">17.</td><td class="sl-td-right"><a href="http://www.songlyrics.com/richard-marx/another-heaven-lyrics/" title="Another Heaven Lyrics Richard Marx">Another Heaven</a></td></tr><tr><td class="sl-td-left">18.</td><td class="sl-td-right"><a href="http://www.songlyrics.com/richard-marx/at-the-beginning-lyrics/" title="At The Beginning Lyrics Richard Marx">At The Beginning</a></td></tr><tr><td class="sl-td-left">19.</td><td class="sl-td-right"><a href="http://www.songlyrics.com/richard-marx/beautiful-lyrics/" title="Beautiful Lyrics Richard Marx">Beautiful</a></td></tr><tr><td class="sl-td-left">20.</td><td class="sl-td-right"><a href="http://www.songlyrics.com/richard-marx/breathless-lyrics/" title="Breathless Lyrics Richard Marx">Breathless</a></td></tr><tr><td class="sl-td-left">21.</td><td class="sl-td-right"><a href="http://www.songlyrics.com/richard-marx/can-t-help-falling-in-love-lyrics/" title="Can't Help Falling In Love Lyrics Richard Marx">Can't Help Falling In Love</a></td></tr><tr><td class="sl-td-left">22.</td><td class="sl-td-right"><a href="http://www.songlyrics.com/richard-marx/edge-of-a-broken-heart-lyrics/" title="Edge Of A Broken Heart Lyrics Richard Marx">Edge Of A Broken Heart</a></td></tr><tr><td class="sl-td-left">23.</td><td class="sl-td-right"><a href="http://www.songlyrics.com/richard-marx/everyday-of-your-life-lyrics/" title="Everyday Of Your Life Lyrics Richard Marx">Everyday Of Your Life</a></td></tr><tr><td class="sl-td-left">24.</td><td class="sl-td-right"><a href="http://www.songlyrics.com/richard-marx/hands-in-your-pockets-lyrics/" title="Hands In Your Pockets Lyrics Richard Marx">Hands In Your Pockets</a></td></tr><tr><td class="sl-td-left">25.</td><td class="sl-td-right"><a href="http://www.songlyrics.com/richard-marx/haunt-me-tonight-lyrics/" title="Haunt Me Tonight Lyrics Richard Marx">Haunt Me Tonight</a></td></tr><tr><td class="sl-td-left">26.</td><td class="sl-td-right"><a href="http://www.songlyrics.com/richard-marx/heart-of-my-own-lyrics/" title="Heart Of My Own Lyrics Richard Marx">Heart Of My Own</a></td></tr><tr><td class="sl-td-left">27.</td><td class="sl-td-right"><a href="http://www.songlyrics.com/richard-marx/i-m-never-gonna-fall-in-love-again-lyrics/" title="I'm Never Gonna Fall In Love Again Lyrics Richard Marx">I'm Never Gonna Fall In Love Again</a></td></tr><tr><td class="sl-td-left">28.</td><td class="sl-td-right"><a href="http://www.songlyrics.com/richard-marx/miracle-lyrics/" title="Miracle Lyrics Richard Marx">Miracle</a></td></tr><tr><td class="sl-td-left">29.</td><td class="sl-td-right"><a href="http://www.songlyrics.com/richard-marx/now-forever-lyrics/" title="Now & Forever Lyrics Richard Marx">Now & Forever</a></td></tr><tr><td class="sl-td-left">30.</td><td class="sl-td-right"><a href="http://www.songlyrics.com/richard-marx/remmember-manhattan-lyrics/" title="Remmember Manhattan Lyrics Richard Marx">Remmember Manhattan</a></td></tr></tbody></table><p class="sl-credit"><a href="http://www.songlyrics.com/richard-marx-lyrics/" title="Richard Marx Lyrics">Richard Marx Lyrics</a> provided by <a href="/" title="Lyrics">SongLyrics.com</a></p>
+Note: When you embed the widget in your site, it will match your site's styles (CSS). This is just a preview!
+Preview the embedded widget
+Question:
+What's the first word of Richard Marx's Right Here Waiting For You?
+Answer:
+Extraterrestial Oceans
+Passage:
+Lachrymal | Define Lachrymal at Dictionary.com
+Lachrymal | Define Lachrymal at Dictionary.com
+lachrymal
+[lak-ruh-muh l] /ˈlæk rə məl/
+Spell
+of or relating to tears.
+2.
+characterized by tears; indicative of weeping.
+4.
+Also called lachrymal bone. Anatomy. lacrimal bone .
+6.
+Medieval Latin
+1535-1545
+1535-45; < Medieval Latin lachrymālis, equivalent to Latin lachrym(a) (Hellenized spelling of lacrima, lacruma (OL dacrima) tear, probably ≪ Greek dákrȳma, derivative of dákry; see tear 1) + -ālis -al 1
+Related forms
+Examples from the Web for lachrymal
+Expand
+Why Do We Cry? Michael Trimble January 9, 2013
+Historical Examples
+The last-named are often mistaken for spring onions by those who come too near with their lachrymal nerves.
+Emmy Lou George Madden Martin
+The lachrymal glands had none of that ready sensitiveness which gives many superficial women the credit of deep feeling.
+The Vertebrate Skeleton Sidney H. Reynolds
+This is performed under adrenalin and cocaine, which should be injected into the lachrymal sac.
+British Dictionary definitions for lachrymal
+Expand
+a variant spelling of lacrimal
+Collins English Dictionary - Complete & Unabridged 2012 Digital Edition
+© William Collins Sons & Co. Ltd. 1979, 1986 © HarperCollins
+Publishers 1998, 2000, 2003, 2005, 2006, 2007, 2009, 2012
+Word Origin and History for lachrymal
+Expand
+also lachrimal, early 15c., from Medieval Latin lacrimalis, from Latin lacrima (see lachrymose ).
+Online Etymology Dictionary, © 2010 Douglas Harper
+Question:
+What is the meaning of the adjective lachrymal?
+Answer:
+Blubberer
+Passage:
+Ichneumonoidea
+The Ichneumonoidea are insects classified in the hymenopteran suborder Apocrita. The superfamily is made up of the ichneumon wasps (sometimes inaccurately called "ichneumon flies"); family Ichneumonidae and the braconids (family Braconidae). Like other parasitoid wasps, they were long placed in the "Parasitica", variously considered as an infraorder or an unranked clade, but actually not a monophyletic group.
+
+Etymology
+
+The name is derived from Latin 'ichneumon', from Ancient Greek ἰχνεύμων (ikhneúmōn, "tracker"), from ἴχνος (íkhnos, "track, footstep"). The name is shared with the Egyptian mongoose, Herpestes ichneumon.
+
+Description
+
+The superfamily Ichneumonoidea has been estimated to contain well over 80,000 different species. The ichneumon wasps are more familiar to non-entomologists, being larger and about three times as diverse as the braconids.
+
+They are solitary insects, and most are parasitoids; the larvae feed on or in another insect until it finally dies. Being in the same order, ichneumons are closely related to other hymenopterans, such as ants and bees.
+
+Members of the family Ichneumonidae are usually larger than members of the Braconidae, and are distinguished primarily by details of wing venation. Many species in both families use polydnaviruses to suppress the immune systems of their host insects.
+
+Ichneumon wasp species are highly diverse, ranging from 3 to long. Most are slender, with the females of many species (particularly in the genus Megarhyssa) having extremely long ovipositors for laying eggs.
+
+Parasitic life cycle
+
+The female finds a host and lays an egg on, near, or inside the host's body.  Upon hatching, the larval ichneumon feeds either externally or internally, killing the host when it is ready to pupate. Despite looking formidable, the ovipositor does not deliver a sting like many wasps or bees. It can be used by the wasps to bore into and lay eggs inside rotten wood.
+
+Some members use many different insects as hosts; others are very specific in host choice. Various ichneumons are used commercially as biological control agents in controlling horticultural pests such as flies or beetles.
+
+An example is the parasitic wasp Ichneumon eumerus, which parasitizes the butterfly Phengaris rebeli.  The adult wasp locates the P. rebeli by searching for Myrmica ants' nests, the nests that the P. rebeli parasitize as larvae in order to get nutrition. They only enter the Myrmica ants' nests which contain the P. rebeli caterpillar.
+
+Once inside, they oviposit their eggs directly inside the bodies of these caterpillars and manage to escape the nest as they release a chemical that causes the worker ants to fight each other rather than the intruder wasp. Once the wasps' eggs hatch from the caterpillar's body, the offspring consume the dead caterpillar.
+Question:
+The Egyptian species of which small mammal is also called the ichneumon?
+Answer:
+Herpestidae
+Passage:
+Charles Ponzi (1882 - 1949) - Find A Grave Memorial
+Charles Ponzi (1882 - 1949) - Find A Grave Memorial
+Death: 
+Jan. 18,  1949
+Criminal.  He is the originator of the type of financial fraud that carries his name.  The term "Ponzi scheme" now generally describes a fraudulent investment operation that involves paying abnormally high returns to investors out of the money paid in by subsequent investors, rather than from net revenues generated by any real business.  He was born Carlo Ponzi in Lugo, Italy, immigrating to Boston at the age of 21 in 1903.  The scheme began when he realized that international postal reply coupons ("IRC's") were fixed to values set before the decline in European currencies following World War I.  IRC's could be bought in Europe, included in a mailing to the United States, and the American recipient could redeem them to purchase stamps at an American post office for reply postage.  He discovered that when an IRC was purchased in Europe and changed into U.S. dollars, there was a profit difference of a few cents.  Around 1920, he started a company to promote the scheme and the high returns available from IRC's.  He offered investors a 50% return on their money in 45 days, or a doubling of their money in 90 days. The company grew rapidly. He realized that as long as investors received their promised 50% return, they were not concerned about how this was achieved.  Thus, instead of speculation in IRC's, he paid the 50% return out of the additional funds received from other investors, who were likewise anticipating a 50% return on their investments, within a short period of time.  Thousands, primarily in New England, invested nearly $15 million dollars.  By July 1920 he had made millions, matching old money with ever-larger amounts of new money.  As long as money kept flowing in, existing investors could be paid with the new money, but colossal liabilities were accumulating.  Eventually, there was public scrutiny as to how Ponzi actually managed to achieve these returns.  The city editor at  "The Boston Post", who suspected Ponzi's scheme was fraudulent, sought an analysis from one of Boston's leading citizens, Clarence Barron, the owner of Dow Jones & Co. and "The Wall Street Journal".  In a series of articles, Barron questioned the scheme's economics and profit potential.  The Massachusetts District Attorney ordered Ponzi to cease and desist.  Ponzi's customers demanded their money back, but the scheme collapsed instead. On November 1, 1920, Ponzi pleaded guilty to Federal mail fraud, and later was found guilty of Massachusetts state charges.  After serving out both prison terms, Ponzi was released in 1934 and was immediately deported to Italy because he had never become an American citizen.  He eventually ended up in Brazil.  He had a stroke in 1948, and died destitute in a charity hospital in Rio de Janeiro, at the age of sixty-six. Once a millionaire, his funeral reportedly took his last $75. (bio by: William Seitz)
+Question:
+What is the name given to the fraudulent operation that involves paying abnormally high returns to investors out of the money paid in by subsequent investors rather than from revenues generated by any business?
+Answer:
+Ponzi-Style

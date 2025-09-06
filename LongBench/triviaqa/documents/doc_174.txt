@@ -1,0 +1,562 @@
+Passage:
+Daily Sketch
+The Daily Sketch was a British national tabloid newspaper, founded in Manchester in 1909 by Sir Edward Hulton.
+
+It was bought in 1920 by Lord Rothermere's Daily Mirror Newspapers but in 1925 Rothermere offloaded it to William and Gomer Berry (later Viscount Camrose and Viscount Kemsley). 
+
+It was owned by a subsidiary of the Berrys' Allied Newspapers from 1928  (renamed Kemsley Newspapers in 1937 when Camrose withdrew to concentrate his efforts on the Daily Telegraph). In 1946 it was merged with the Daily Graphic. In 1952 Kemsley decided to sell the paper to Associated Newspapers, the owner of the Daily Mail, who promptly revived the Daily Sketch name in 1953. The paper struggled through the 1950s and 1960s, never managing to compete successfully with the Daily Mirror, and in 1971 it was closed and merged with the Daily Mail.  
+
+The Sketch was Conservative in its politics and populist in its tone during its existence through all its changes of ownership. In some ways much of the more populist element of today's Daily Mail was inherited from the Sketch: before the merger, the more serious Mail, then and for a long time afterwards a broadsheet, was also right-wing. The Sketch notably launched a moral panic over Daniel Farson's 1960 television documentary Living for Kicks, a portrait of British teenage life at the time, which led to a war of words between the Sketch and the Daily Mirror. It also participated in the press campaign against the screening of the BBC film The War Game. 
+
+Editors
+
+1909: Jimmy Heddle
+1914: William Sugden Robinson
+1919: H. Lane
+1922: H. Gates
+1923: H. Lane
+1928: A. Curthoys
+1936: A. Sinclair
+1939: Sydney Carroll
+1942: Lionel Berry
+1943: A. Roland Thornton and M. Watts
+1944: A. Roland Thornton
+1947: N. Hamilton
+1948: Henry Clapp
+1953: Herbert Gunn
+1959: Colin Valdar
+1962: Howard French
+1969: David English
+1971: Louis Kirby (acting)
+Question:
+"The ""Daily Sketch"" merged with which newspaper in 1971?"
+Answer:
+The Strip Show
+Passage:
+Subatomic particle
+In the physical sciences, subatomic particles are particles much smaller than atoms.  There are two types of subatomic particles: elementary particles, which according to current theories are not made of other particles; and composite particles.  Particle physics and nuclear physics study these particles and how they interact.
+
+In particle physics, the concept of a particle is one of several concepts inherited from classical physics. But it also reflects the modern understanding that at the quantum scale matter and energy behave very differently from what much of everyday experience would lead us to expect.
+
+The idea of a particle underwent serious rethinking when experiments showed that light could behave like a stream of particles (called photons) as well as exhibit wave-like properties. This led to the new concept of wave–particle duality to reflect that quantum-scale "particles" behave like both particles and waves (also known as wavicles). Another new concept, the uncertainty principle, states that some of their properties taken together, such as their simultaneous position and momentum, cannot be measured exactly.  In more recent times, wave–particle duality has been shown to apply not only to photons but to increasingly massive particles as well. 
+
+Interactions of particles in the framework of quantum field theory are understood as creation and annihilation of quanta of corresponding fundamental interactions. This blends particle physics with field theory.
+
+Classification
+
+By statistics
+
+Any subatomic particle, like any particle in the 3-dimensional space that obeys laws of quantum mechanics, can be either a boson (an integer spin) or a fermion (a half-integer spin).
+
+By composition
+
+The elementary particles of the Standard Model include:
+
+* Six "flavors" of quarks: up, down, bottom, top, strange, and charm;
+* Six types of leptons: electron, electron neutrino, muon, muon neutrino, tau, tau neutrino;
+* Twelve gauge bosons (force carriers): the photon of electromagnetism, the three W and Z bosons of the weak force, and the eight gluons of the strong force;
+* The Higgs boson.
+Various extensions of the Standard Model predict the existence of an elementary graviton particle and many other elementary particles.
+
+Composite subatomic particles (such as protons or atomic nuclei) are bound states of two or more elementary particles. For example, a proton is made of two up quarks and one down quark, while the atomic nucleus of helium-4 is composed of two protons and two neutrons. The neutron is made of two down quarks and one up quark. Composite particles include all hadrons: these include baryons (such as protons and neutrons) and mesons (such as pions and kaons).
+
+By mass
+
+In special relativity, the energy of a particle at rest equals its mass times the speed of light squared, E = mc2. That is, mass can be expressed in terms of energy and vice versa. If a particle has a frame of reference where it lies at rest, then it has a positive rest mass and is referred to as massive.
+
+All composite particles are massive. Baryons (meaning "heavy") tend to have greater mass than mesons (meaning "intermediate"), which in turn tend to be heavier than leptons (meaning "lightweight"), but the heaviest lepton (the tau particle) is heavier than the two lightest flavours of baryons (nucleons). It is also certain that any particle with an electric charge is massive.
+
+All massless particles (particles whose invariant mass is zero) are elementary. These include the photon and gluon, although the latter cannot be isolated.
+
+Other properties
+
+Through the work of Albert Einstein, Louis de Broglie, and many others, current scientific theory holds that all particles also have a wave nature.  This has been verified not only for elementary particles but also for compound particles like atoms and even molecules. In fact, according to traditional formulations of non-relativistic quantum mechanics, wave–particle duality applies to all objects, even macroscopic ones; although the wave properties of macroscopic objects cannot be detected due to their small wavelengths. 
+
+Interactions between particles have been scrutinized for many centuries, and a few simple laws underpin how particles behave in collisions and interactions. The most fundamental of these are the laws of conservation of energy and conservation of momentum, which let us make calculations of particle interactions on scales of magnitude that range from stars to quarks.  These are the prerequisite basics of Newtonian mechanics, a series of statements and equations in Philosophiae Naturalis Principia Mathematica, originally published in 1687.
+
+Dividing an atom
+
+The negatively charged electron has a mass equal to  of that of a hydrogen atom. The remainder of the hydrogen atom's mass comes from the positively charged proton. The atomic number of an element is the number of protons in its nucleus. Neutrons are neutral particles having a mass slightly greater than that of the proton. Different isotopes of the same element contain the same number of protons but differing numbers of neutrons. The mass number of an isotope is the total number of nucleons (neutrons and protons collectively).
+
+Chemistry concerns itself with how electron sharing binds atoms into structures such as crystals and molecules. Nuclear physics deals with how protons and neutrons arrange themselves in nuclei. The study of subatomic particles, atoms and molecules, and their structure and interactions, requires quantum mechanics. Analyzing processes that change the numbers and types of particles requires quantum field theory. The study of subatomic particles per se is called particle physics. The term high-energy physics is nearly synonymous to "particle physics" since creation of particles requires high energies: it occurs only as a result of cosmic rays, or in particle accelerators. Particle phenomenology systematizes the knowledge about subatomic particles obtained from these experiments.
+
+History
+
+The term "subatomic particle" is largely a retronym of 1960s made to distinguish a big number of baryons and mesons (that comprise hadrons) from particles that are now thought to be truly elementary. Before that hadrons were usually classified as "elementary" because their composition was unknown.
+
+A list of important discoveries follows:
+Question:
+What subatomic particle has no mass, no electric charge, and a spin of 1?
+Answer:
+Energy of waves
+Passage:
+Chris Brasher
+Christopher William Brasher CBE (21 August 1928 – 28 February 2003) was a British track and field athlete, sports journalist and co-founder of the London Marathon. 
+
+History
+
+Born in Georgetown, Guyana, Brasher went to Rugby School and then St John's College, Cambridge.
+
+On 6 May 1954, he acted as pacemaker for Roger Bannister when the latter ran the first sub-four-minute mile at Iffley Road Stadium in Oxford. Brasher paced Bannister for the first two laps, while his friend Chris Chataway paced the third. Two years later, at the 1956 Summer Olympics in Melbourne, Brasher finished first in the 3,000 metres steeplechase with a time of 8 minutes 41.2 seconds, but was disqualified for allegedly interfering with another runner, Ernst Larsen of Norway. The following day, after an investigation, he was reinstated as gold medallist. 
+
+He was one of the pioneers of orienteering in Britain and can claim the first public mention of the sport in an article in The Observer in 1957:
+
+"I have just taken part, for the first time, in one of the best sports in the world. It is hard to know what to call it. The Norwegians call it 'orientation'..." 
+
+He had distinguished careers in journalism as sports editor for The Observer newspaper and in broadcasting, as a reporter for the Tonight programme.
+
+In 1971 he founded Chris Brasher's Sporting Emporium which later became Sweatshop.  In 1978 he designed the innovative Brasher Boot – a walking boot with the comfort of a running shoe. In their time these were amongst the best but recently there have been product quality issues.
+
+In 1981 John Disley and Brasher founded the London Marathon.  In 1983 he became the second president of the Association of International Marathons and Distance Races, an office which he held until 1987. 
+
+Also in 1983 Brasher partnered with his longtime friend John Disley to found Fleetfoot Limited in Lancaster, England. Fleetfoot distributed The Brasher Boot and other sporting goods to retailers. Fleetfoot acquired the rights to be the UK distributor of Reebok and subsequently traded as Reebok UK before becoming a subsidiary of Pentland Industries in 1988.  After the acquisition by Pentland, Brasher remained active in the company as chairman of the board. Reebok UK was sold to Reebok International in 1990 when Pentland Group sold its 55% ownership of Reebok USA and Reebok International.
+
+Brasher was married to tennis champion Shirley Brasher née Bloomer.
+
+Brasher was awarded the CBE in 1996.
+
+He was awarded the Royal Scottish Geographical Society's Livingstone Medal in 2002. 
+
+In 2003, he died at his home in Chaddleworth, Berkshire, after struggling for several months against pancreatic cancer.
+Question:
+In which event did Chris Brasher win his gold medal in the 1956 Olympics?
+Answer:
+Steeplechases
+Passage:
+Delphinium
+Delphinium is a genus of about 300 species of perennial flowering plants in the family Ranunculaceae, native throughout the Northern Hemisphere and also on the high mountains of tropical Africa. 
+
+All members of the Delphinium genus are toxic to humans and livestock.Sierra Nevada Wildflowers, Karen Wiese, 2013, p. 52 The common name "larkspur" is shared between perennial Delphinium species and annual species of the genus Consolida.  Molecular data show that Consolida, as well as another segregate genus, Aconitella, are both embedded in Delphinium.  The name "delphinium" derives from the Latin for "dolphin", referring to the shape of the nectary.
+
+Description
+
+The leaves are deeply lobed with three to seven toothed, pointed lobes in a palmate shape. The main flowering stem is erect, and varies greatly in size between the species, from 10 centimetres in some alpine species, up to 2 m tall in the larger meadowland species.
+
+In June and July (Northern Hemisphere), the plant is topped with a raceme of many flowers, varying in color from purple and blue, to red, yellow, or white. In most species each flower consists of five petal-like sepals which grow together to form a hollow pocket with a spur at the end, which gives the plant its name, usually more or less dark blue. Within the sepals are four true petals, small, inconspicuous, and commonly colored similarly to the sepals. The eponymous long spur of the upper sepal encloses the nectar-containing spurs of the two upper petals.
+
+The seeds are small and often shiny black. The plants flower from late spring to late summer, and are pollinated by butterflies and bumble bees. Despite the toxicity, Delphinium species are used as food plants by the larvae of some Lepidoptera species, including the dot moth and small angle shades.
+
+Taxonomy 
+
+Delineation of Delphinium 
+
+Genetic analysis suggests that Delphinium sensu lato, as it was delineated before the 21st century, is polyphyletic. Nested within Delphinium s.l. are Aconitella, Consolida, and Aconitum. To make Delphinium monophyletic, several interventions were made. The new genus Staphisagria was erected containing Delphinium staphisagria, D. requini, and D. pictum, representing the sister group to all other Delphinieae. Further genetic analysis has shown that the two large subgenera Aconitum (Aconitum) and Aconitum (Lycoctonum) are the sister group to Aconitum gymnandrum, Delphinium (Delphinium), Delphinium (Delphinastrum), Consolida and Aconitella. To make Aconitum monophyletic, A. gymnandrum has now been reassigned to a new monotypic genus, Gymnaconitum. Finally, Consolida and Aconitella are synonymized with Delphinium.
+
+Subgenera 
+
+D. arthriscifolium is sister to all other species of Delphinium sensu stricto (so excluding Staphisagria). It should be placed in its own subgenus, but no proposal naming this subgenus has been made yet. The subgenera Delphinium (Delphinium) and Delphinium (Delphinastrum) are sister to the group consisting of the species of Consolida and Aconitella, which together make up the subgenus Delphinium (Consolida). Aconitella cannot be retained as a subgenus because A. barbata does not cluster with the remaining species previously assigned to that genus, without creating five further subgenera.
+
+Species 
+
+Selected species include:
+
+* Delphinium arthriscifolium
+* Delphinium brunonianum
+* Delphinium cardinale
+* Delphinium cheilanthum
+* Delphinium consolida
+* Delphinium elatum
+* Delphinium formosum
+* Delphinium grandiflorum
+* Delphinium nuttallianum
+
+Reassigned species 
+
+Several species of Delphinium have been reassigned:
+* D. pictum = Staphisagria picta
+* D. requienii = Staphisagria requienii
+* D. staphisagria = Staphisagria staphisagria
+
+Ecology
+
+Delphiniums can attract butterflies and other pollinators. 
+
+Cultivation
+
+Various delphiniums  are cultivated as ornamental plants, for traditional and native plant gardens. The numerous hybrids and cultivars are primarily used as garden plants, providing height at the back of the summer border, in association with roses, lilies, and geraniums.
+
+Most delphinium hybrids and cultivars are derived from D. elatum. Hybridisation was developed in the 19th-century, led by Victor Lemoine in France.  Other hybrid crosses have included D. bruninianum, D. cardinale, D. cheilanthum, and D. formosum. 
+
+Numerous cultivars have been selected as garden plants, and for cut flowers and floristry. They are available in shades of white, pink, purple, and blue. The blooming plant is also used in displays and specialist competitions at flower and garden shows, such as the Chelsea Flower Show. 
+
+The 'Pacific Giant' hybrids are a group with individual single-color cultivar names, developed by Reinelt in the United States. They typically grow to 4 - tall on long stems, by 2 - wide. They reportedly can tolerate deer. Millennium delphinium hybrids, bred by Dowdeswell's in New Zealand, are reportedly better in warmer climates than the Pacific hybrids.   Flower colors in shades of red, orange, and pink have been hybridized from D. cardinale by Americans Reinelt and Samuelson.
+
+The following delphinium cultivars have received the Award of Garden Merit from the British Royal Horticultural Society:
+
+Toxicity
+
+All parts of these plants are considered toxic to humans, especially the younger parts,Sierra Nevada Wildflowers, Karen Wiese, 2013, p. 52 causing severe digestive discomfort if ingested, and skin irritation.J. D. Olsen, G. D. Manners and S. W. Pelletier (1990) Collectanea Bot. (Barcelona) 19 141-151.Sierra Nevada Wildflowers, Karen Wiese, 2013, p. 52 Larkspur, especially tall larkspur, is a significant cause of cattle poisoning on rangelands in the western United States.  Larkspur is more common in high-elevation areas, and many ranchers delay moving cattle onto such ranges until late summer when the toxicity of the plants is reduced. 
+Death is through cardiotoxic and neuromuscular blocking effects, and can occur within a few hours of ingestion.  All parts of the plant contain various diterpenoid alkaloids, typified by methyllycaconitine, so are very poisonous.
+
+Uses
+
+The juice of the flowers, particularly D. consolida, mixed with alum, gives a blue ink.Figuier, L. (1867). The Vegetable World, Being a History of Plants. Harvard University. pg 396.
+Question:
+Larkspur is another name for which perennial plants?
+Answer:
+DELPHINIUMS
+Passage:
+Josephine Wayne
+Josephine S. Wayne (born Josephine Alicia Saenz; May 13, 1908 – June 24, 2003) was the first wife of American film actor John Wayne. She had four children including film producer Michael Wayne and actor Patrick Wayne.
+
+Biography
+
+Josephine Alicia "Josie" Saenz was born May 13, 1908 to the Consul General of Panama in the United States,  José Saenz, a wealthy businessman who lived in Los Angeles, California.  Her parents were born in Madrid, Spain.
+Aged 15 or 16 when she met John Wayne, an actor in college still named Marion Morrison, while at a beach party in Balboa, California. Their relationship met with considerable resistance from her Catholic family because he was a Presbyterian. 
+ 
+
+Marriage
+
+After courting for seven years, Wayne's financial status improved considerably due to his success at the box office, and he was able to convince her family to allow the marriage. The couple married on June 24, 1933, in a garden ceremony at actress Loretta Young's home. 
+
+The couple had four children: Michael Wayne (film producer, November 23, 1934 – April 2, 2003), Mary Antonia "Toni" Morrison-LaCava (February 25, 1936 –  December 6, 2000), Patrick Wayne (born July 15, 1939) and Melinda Morrison-Muñoz (born December 3, 1940).
+
+After a few years, the marriage was in trouble. Wayne worked long hours at his career and was always surrounded by associates from the film world. The couple also had differences of opinion about how their children should be raised.  In 1943 they separated and eventually divorced in 1945.  She also found great happiness in 1996 when she married Cyril Nigg (died March, 1999 ), a well known Los Angeles businessman, who shared her love of service to the community.
+
+Death
+
+Josephine Saenz died in 2003, at age 95, from cancer, having been predeceased by two of her children, Michael and Toni.
+Question:
+Which very famous actor had three wives, Josephine Alicia Saenz, Esperanza Baur and Pilar Pallete?
+Answer:
+Michael Morris (John Wayne)
+Passage:
+Roses Are Red
+"Roses Are Red" can refer to a specific poem, or a class of poems inspired by that poem. It has a Roud Folk Song Index number of 19798.  It is most commonly used as a love poem.
+
+Lyrics
+
+The most common modern form of the poem is:
+
+Roses are red,
+Violets are blue,
+Sugar is sweet,
+And so are you.
+
+Origins
+
+The origins of the poem may be traced at least as far back as to the following lines written in 1590 by Sir  Edmund Spenser from his epic The Faerie Queene (Book Three, Canto 6, Stanza 6): 
+
+It was upon a Sommers shynie day,
+When Titan faire his beames did display,
+In a fresh fountaine, farre from all mens vew,
+She bath'd her brest, the boyling heat t'allay;
+She bath'd with roses red, and violets blew,
+And all the sweetest flowres, that in the forrest grew.
+
+A nursery rhyme significantly closer to the modern cliché Valentine's Day poem can be found in Gammer Gurton's Garland, a 1784 collection of English nursery rhymes:
+
+The rose is red, the violet's blue,
+The honey's sweet, and so are you.
+Thou are my love and I am thine;
+I drew thee to my Valentine:
+The lot was cast and then I drew,
+And Fortune said it shou'd be you. 
+
+Victor Hugo was likely familiar with Spenser, but may not have known the English nursery rhyme when, in 1862, he published the novel Les Misérables. Hugo was a poet as well as a novelist, and within the text of the novel are many songs. One sung by the character, Fantine, contains this refrain, in the 1862 English translation:
+
+We will buy very pretty things
+A-walking through the faubourgs.
+Violets are blue, roses are red,
+Violets are blue, I love my loves.
+
+The last two lines in the original French are:
+
+Les bleuets sont bleus, les roses sont roses,
+Les bleuets sont bleus, j'aime mes amours.
+
+(Les Misérables, Fantine, Book Seven, Chapter Six) 
+
+Folklore
+
+Numerous satirical versions have long circulated in children's lore.  Among them:
+
+Roses are red. 
+Violets are blue. 
+Onions stink. 
+And so do you."[http://www.hopscotch.com.au/hopscotch-articles/2005/5/18/jill-still-playing-jacks-and-hopscotch-endures/ Jill Still Playing Jacks And Hopscotch Endures]", retrieved 17 September 2009.
+
+The Marx Brothers' film Horse Feathers has Chico Marx describing the symptoms of cirrhosis thus:-
+
+Cirrhosis are red,
+so violets are blue,
+so sugar is sweet,
+so so are you. 
+
+Benny Hill version:-
+
+Roses are reddish
+Violets are bluish
+If it weren't for Christmas
+We'd all be Jewish 
+
+Notes
+Question:
+What nursery rhyme concludes with Violets are blue, sugar is sweet, and so are you?
+Answer:
+Roses are red, Violets are blue
+Passage:
+Barrette
+A barrette (American English), also known as a hair clip, hair-slide or clasp (British English), is a clasp for holding hair in place. They are often made from metal and/or plastic and sometimes feature decorative fabric. In one type of barrette, a clasp is used to secure the barrette in place; the clasp opens when the two metal pieces at either side are pressed together.
+
+Barrettes are worn in different ways partly according to their size, with small ones often used at the front and large ones in the back to hold more hair. They are used to keep hair out of the eyes, or to secure a bun, a French twist or a ponytail. Short metal "clip" barrettes are sometimes used to pull back front pieces of hair. Barrettes are also sometimes used purely for decorative purposes.
+
+Larger barrettes (some can be as long as 3 -) are designed to pull back (and, often, up) longer hair or a large amount of hair and are usually worn at the back of the head. If the intent is to pull hair back, the length of the barrette is not the only consideration; the width of the barrette also indicates approximately how much hair can be secured by it.
+
+Many different kinds of hair clips have been invented in the 20th century. The more famous ones are the elongated hair clip (seen at the top of the "Various types of hair slides" image) which was invented in 1972  by Marnie Bjornson (cf. "Marnie Scrunch", below) and the simple "clips" hair-clip, which works by snapping the clip from a concave to convex position, springing it into a locked position, or opening it. Several of these are seen in the image. 
+
+Barrette Types 
+
+* Alligator Clips 
+** Alligator Double Prong Clip
+** Unlined Alligator Clip
+** Partially Lined Alligator Clip
+** Fully Lined Alligator Clip
+* French Barrette Clip
+* Bendy Clip or Snap Clip
+* Ponytail Barrette
+* Pony O's
+* Marnie Scrunch
+* Claw Clip or Hair Claw or Hair Clamp
+* Bow Barrette
+* Hairbands or Headbands
+** Teeth Comb Hairband
+* Scrunchies
+* Updo Barrette
+* Tortoise Shell Barrette
+* Auto Clasp Barrette
+* Hair Pins (not to be confused with bobby pins)
+** Antique Hair Pin
+** Decorative Hair Pin
+* Bobby Pin
+* Hair Combs (not to be confused with hair brush)
+** Antique Hair Comb
+** Antique Metal Hair Comb
+* Hair Stick
+Question:
+On which part of the body would a barrette be worn?
+Answer:
+Head
+Passage:
+Shelina Permalloo
+Shelina Permalloo is a cook, author and winner of the MasterChef 2012 competition.
+
+Born in Southampton to Mauritian immigrant parents, Permalloo was working as a Project Manager in London when she decided to participate in MasterChef UK 2012. In the final she beat Andrew Kojima and Tom Rennolds with her final menu: octopus served on marinated fennel and ginger; mutton curry with a chilli pumpkin roulade; mango cannelloni filled with lime curd. 
+
+After winning MasterChef, she worked in various London-based restaurants. Her first book Sunshine on a Plate was published by Ebury Press on 20 June 2013 and contains recipes inspired by Mauritius. Her second book The Sunshine Diet was published on 1 January 2015.  Shelina opened her first restaurant "Lakaz Maman" in Southampton in early 2016.
+
+Publications
+
+* Sunshine on a Plate (2013)
+* The Sunshine Diet (2015)
+Question:
+Shelina Permalloo won which TV show in 2012?
+Answer:
+Master chef
+Passage:
+A Kind of Loving
+A Kind of Loving is a novel by the English novelist Stan Barstow. It has also been translated into a film of the same name, a television series, a radio play and a stage play.
+A Kind of Loving was the first of a trilogy, published over the course of sixteen years, that followed hero Vic Brown through marriage, divorce and a move from the mining town of Cressley to London. The other two parts are The Watchers on the Shore and The Right True End.
+
+Plot summary 
+
+The story presents us to Vic Brown, a young working class man from Yorkshire, England, who is slowly inching his way up from his working class roots through a white-collar job. Vic finds himself trapped by the frightening reality of his girlfriend Ingrid's pregnancy and is forced into marrying her and moving in with his mother-in-law due to a housing shortage in their Northern England town.
+
+The story is about love and loneliness. Vic meets and is very attracted to the beautiful but demanding Ingrid. As their relationship develops and transforms into real-life everyday aridity and boredom, Vic ultimately comes to terms with his life and what it really means to love. The novel has had some influence on the literary community, leaving the label "lad-lit" behind. 
+
+Adaptations 
+
+In 1962 the novel was turned into a film A Kind of Loving directed by John Schlesinger and starring Alan Bates and June Ritchie. In 1982 ITV made a ten-part television series A Kind of Loving starring Clive Wood as Vic Brown and Joanne Whalley as Ingrid Brown.
+Question:
+Published in 1960, Who wrote the novel A Kind of Loving?
+Answer:
+Stan Barstow
+Passage:
+Chessboard
+A chessboard is the type of checkerboard used in the classic board game chess, and consists of 64 squares (eight rows and eight columns) and 32 pieces.The squares are arranged in two alternating colors (light and dark). Wooden boards may use naturally light and dark brown woods, while plastic and vinyl boards often use brown or green for the dark squares and shades such as buff or cream for the light squares. Materials vary widely; while wooden boards are generally used in high-level games; vinyl, plastic, and cardboard are common for low-level and informal play. Decorative glass and marble boards are available but rarely accepted for games rated by national or international chess federations. Each square on the board has a name from a1 to h8.
+
+ 
+
+  According to FIDE equipment standards, the side of a square should be twice the diameter of a pawn's base.     
+
+In modern commentary, the columns (called files) are labeled by the letters a to h from left to right from the white player's point of view, and the rows (called ranks) by the numbers 1 to 8, with 1 being closest to the white player, thus providing a standard notation called algebraic chess notation.
+
+In older English commentary, the files are labeled by the piece originally occupying its first rank (e.g. queen, king's rook, queen's bishop), and ranks by the numbers 1 to 8 from each player's point of view, depending on the move being described. This is called descriptive chess notation and is no longer commonly used.
+
+Gallery
+Question:
+How many squares are there on a chessboard?
+Answer:
+sixty-four
+Passage:
+William F. Lamb
+William Frederick Lamb, FAIA (November 21, 1893 – September 8, 1952), was one of the principal designers of the Empire State Building.
+
+Biography
+
+Lamb joined the New York architecture firm Carrère & Hastings in 1911, shortly after returning from Paris, where he earned a diploma at the École des Beaux-Arts.  Lamb became a partner in 1920; the firm would be known as Shreve & Lamb from 1924 to 1929 and thereafter as Shreve, Lamb and Harmon.  Lamb's notable projects include the Empire State Building, the Standard Oil Building, 521 Fifth Avenue, the Forbes Magazine Building, and the General Motors Building in New York City; the Acacia Mutual Life Insurance Building in Washington, D.C.; and academic buildings for the Connecticut College for Women, Williams College, Cornell University, and Wesleyan University.  In addition to his studies at the École des Beaux Arts, Lamb received a bachelor's degree from Williams College in 1904 and did graduate work at the School of Architecture, Columbia University, from 1904 to 1906.  Lamb received an honorary doctorate from Williams College in 1932; other honors include two gold medals from the Fifth Avenue Association (1930, 1931), a medal from the Architectural League of New York (1931), and a medal of honor from the New York Chapter of the American Institute of Architects (1932).  He was a member of the American Academy of Arts and Letters, the Art Commission of the City of New York, the Beaux-Arts Institute of Design, and the Architectural League of New York.  Lamb served on the U.S. Commission of Fine Arts from 1937 to 1945, including as vice chairman from 1941 to 1945.  In 1942 he was elected into the National Academy of Design as an Associate member and became a full Academician in 1950.
+
+The firm also designed 521 Fifth Avenue, the Forbes Magazine Building, the Standard Oil Building, the Bankers Trust Building and worked with H. Craig Severence on 40 Wall Street in New York.  He also designed the Reynolds Building in Winston-Salem, North Carolina
+
+He died in New York.
+Question:
+William F Lamb from the construction firm Shreve, Lamb and Harmon was the designer Of which famous construction that first opened in 1931 ?
+Answer:
+Evelyn McHale
+Passage:
+The Democratic Donkey and the Republican Elephant
+The Democratic Donkey and the Republican Elephant
+The Democratic Donkey and the Republican Elephant
+Ever wondered what the story was behind these two famous party animals?
+The now-famous Democratic donkey was first associated with Democrat Andrew Jackson's 1828 presidential campaign. His opponents called him a jackass (a donkey), and Jackson decided to use the image of the strong-willed animal on his campaign posters. Later, cartoonist Thomas Nast used the Democratic donkey in newspaper cartoons and made the symbol famous.
+Nast invented another famous symbol—the Republican elephant.  In a cartoon that appeared in Harper's Weekly in 1874, Nast drew a donkey clothed in lion's skin, scaring away all the animals at the zoo. One of those animals, the elephant, was labeled “The Republican Vote.” That's all it took for the elephant to become associated with the Republican Party.
+Democrats today say the donkey is smart and brave, while Republicans say the elephant is strong and dignified.
+Question:
+Which animal is the symbol of the US Democratic Political Party?
+Answer:
+Donkey
+Passage:
+Scotia Sea
+The Scotia Sea is a sea located at the northern edge of the Southern Ocean at its boundary with the South Atlantic Ocean. It is bounded on the west by the Drake Passage and on the north, east and south by the Scotia Arc, an undersea ridge and island arc system supporting various islands. The sea sits atop the Scotia Plate.
+
+Location and description
+
+The Scotia Sea is the area of water between the Drake Passage, Tierra del Fuego, South Georgia, the South Sandwich Islands, the South Orkney Islands and the Antarctic Peninsula. These island groups all sit atop the Scotia Arc, which frames the sea on the north, east, and south. The Scotia Sea covers an area of about 900000 km2. About half of the sea stands above the continental shelf.
+
+History
+
+Named in about 1932 after the Scotia, the expedition ship used in these waters by the Scottish National Antarctic Expedition (1902–04) under William S. Bruce. The most famous traverse of this frigid sea was made in 1916 by Sir Ernest Shackleton and five others in the adapted lifeboat James Caird when they left Elephant Island and reached South Georgia two weeks later.
+
+In Argentina, the Scotia Sea is considered part of an area known as the Mar Argentino, and several territories claimed but not occupied by Argentina, such as South Georgia and the Falkland Islands, lie within this region.
+
+On 20 August 2006 an earthquake with a magnitude of 7.0 struck at 1:41 a.m. local time (0341 GMT). The exact location was 61.011°S, 34.375°W at a depth of 10 km with a USGS event ID of "usrqal." 
+On 17 November 2013 at 8:04 a.m. local time (1004 UTC) another earthquake with a magnitude of 7.7 struck the unpopulated Islands.
+
+Flora and fauna
+
+The islands bordering the Scotia Sea are rocky and partly covered in ice and snow year round; despite these harsh conditions, however, the islands do support vegetation and have been described as the Scotia Sea Islands tundra ecoregion, which includes South Georgia, the volcanic South Sandwich Islands and the South Orkneys in the Scotia Sea, as well as the remote South Shetland Islands near the Antarctic Peninsula and the small isolated volcano called Bouvet Island. All these islands lie in the cold seas below the Antarctic convergence. These areas support tundra vegetation consisting of mosses, lichen and algae, while seabirds, penguins and seals feed in the surrounding waters.
+
+Seabirds include four species of albatross: black-browed albatross (Diomedea melanophris), grey-headed albatross (Thalassarche chrysostoma), light-mantled albatross (Phoebetria palpebrata), and wandering albatross (Diomedea exulans). There are only five species of bird that remain on land on the islands, and these include two endemic species: a race of the yellow-billed pintail duck (Anas georgica) and South Georgia pipit (Anthus antarcticus). Other birds include the southern giant petrel, with sizeable colonies on Bird Island.
+
+Penguin species found here include large numbers of king penguins on South Georgia especially, as well as chinstrap penguin, macaroni penguin, gentoo penguin, Adelie penguin, and rockhopper penguin (Eudyptes chrysocome).
+
+Seals include the Antarctic fur seal (Arctocephalus gazella) and sub-Antarctic fur seal (Arctocephalus tropicalis) in large numbers, leopard seal (Hydrurga leptonyx), Weddell seal (Leptonychotes weddellii), the huge southern elephant seal (Mirounga leonina), and crabeater seal (Lobodon carcinophagus). 
+
+Threats and preservation
+
+Although the islands have a harsh climate and have never been permanently occupied, they have long been used as a base for fishing and seal-hunting. Wildlife on these remote islands is threatened by introduced species, especially on South Georgia, where even large animals, including reindeer, have been brought to the islands. Further damage to ecosystems results from overfishing.  South Georgia, the South Sandwich Islands and Bouvet Island are protected as nature reserves, with Bird Island, South Georgia being a site of special scientific interest. The seals are further protected by international agreements, and fur seal populations are recovering.
+Question:
+What are the narrows called between Tierra del Fuego and the Antarctic?
+Answer:
+Drake Strait
+Passage:
+Holy League (1571)
+The Holy League (, , ) of 1571 was arranged by Pope St. Pius V and included almost all the major Catholic maritime states in the Mediterranean. It was intended to break the Ottoman Turks' control of the eastern Mediterranean Sea and was formally concluded on 25 May 1571. Its members were the Papal States, the Habsburg states of Spain, Naples and Sicily, the Republic of Venice, the Republic of Genoa, the Grand Duchy of Tuscany, the Duchies of Savoy, Parma and Urbino and the Knights of Malta. These states were to have a force of 200 galleys, 100 other ships, 50,000 infantry, 4,500 cavalry and adequate artillery ready by 1 April each year. Don Juan de Austria,  illegitimate half-brother of King Philip II of Spain, was designated supreme commander. 
+The League kept membership open for the Holy Roman Empire, France and Portugal, but none of them joined. The Empire preferred to maintain its truce with Istanbul, while France had an active anti-Spanish alliance with the Ottomans. Portugal was heavily engaged in its own Moroccan campaign and its ongoing maritime confrontations with the Ottomans in the Red Sea and the Indian Ocean and had no forces to spare. While the Portuguese in their colonial voyage battling the Malaccan and Johorean Sultanates
+
+The League initially assembled a fleet to aid the Venetian defenders of Cyprus which was invaded by Ottoman forces under the command of Lala Mustafa in July 1570, but was too late to prevent the island's capture by the Ottomans.
+
+On 7 October 1571, the League won a crushing victory over the Ottoman fleet at the Battle of Lepanto  off the western Greek coast. On the signing of the peace treaty in 1573, the League was disbanded, a short time after Pope Pius V died.
+Question:
+What was the name of the 1571 sea battle when a fleet of the Holy League, a coalition of Spain (including Naples, Sicily and Sardinia), the Republic of Venice, the Papacy, the Republic of Genoa, the Duchy of Savoy, the Knights Hospitaller and others, decisively defeated the main fleet of the Ottoman Empire?
+Answer:
+Batalla de Lepanto
+Passage:
+Chris Leslie (politician)
+Christopher Michael Leslie (born 28 June 1972) is a British Labour Co-operative politician, who has been the Member of Parliament (MP) for Nottingham East since 2010. In 2015, between May and September, he served as Shadow Chancellor of the Exchequer in the cabinet of Acting Labour leader Harriet Harman.
+
+He was formerly the MP for Shipley from 1997 to 2005 and a minister in the Department for Constitutional Affairs from 2001 to 2005. Between 2005 and his 2010 re-election, he worked as the director of the New Local Government Network think-tank.   
+
+Early life, 1972–1997
+
+Born in Keighley, West Riding of Yorkshire, Leslie went to Bingley Grammar School. He gained a BA in Politics & Parliamentary Studies in 1994 and an MA in Industrial and Labour Studies in 1996 from the University of Leeds.
+
+From 1994 to 1996 he was an office administrator, going on to become a political research assistant in Bradford in 1996–97. He was elected to Parliament a month before his 25th birthday. 
+
+Parliamentary career, 1997–2005
+
+Leslie won the seat of Shipley as a Labour Co-operative candidate in the 1997 general election by beating Marcus Fox, the seat's Conservative MP since 1970. In the process, he overturned a 12,382 majority, to return a 2,966 majority of his own. It was the neighbouring seat to his hometown of Keighley, another seat won by Labour from the Conservatives in 1997.
+
+Leslie was the Baby of the House upon first entering the Commons. He was appointed Parliamentary Private Secretary to Lord Falconer for three and a half years.
+
+Leslie held his seat again in 2001 with a halved majority of 1,428.
+
+Shortly before his 30th birthday, Leslie became a junior minister in the Cabinet Office in 2001 following the recent election. In 2002, he was appointed Parliamentary Under-Secretary of State to the Office of the Deputy Prime Minister. He would then move to spend almost two years as Parliamentary Under-Secretary of State in the Department for Constitutional Affairs, working again under Falconer from 2003 to 2005.
+
+He never rebelled against a Government position during his first time in Parliament including voting in favour of the invasion of Iraq in March 2003. 
+
+He subsequently lost his seat to the Conservatives' candidate Philip Davies during the 2005 general election by fewer than 500 votes.
+
+Out of Parliament, 2005–2010
+
+Leslie led Gordon Brown's successful (and uncontested) campaign for the leadership of the Labour Party in 2007.   Having lost his seat in Shipley, in 2005 he became the director of the New Local Government Network, which was described in the Local Government Chronicle in 2001 as a "Blairite think-tank."  On 14 April 2010, he was selected as the Parliamentary Candidate for Nottingham East in the general election campaign, after the Labour National Executive Committee imposed a shortlist and selection panel following the late resignation of the MP John Heppell.
+
+Return to Parliament
+
+In the 2010 general election Christopher Leslie returned to Parliament representing Nottingham East, taking over from John Heppell.
+
+He supported Ed Balls for the leadership of the Labour Party during the 2010 leadership election following the resignation of Gordon Brown, voting also for David Miliband as his second preference.
+
+In September 2011, he stood in the shadow cabinet elections but missed out on becoming a shadow cabinet minister, however he was promoted to Her Majesty's Opposition becoming Shadow Financial Secretary to the Treasury. He replaced Stephen Timms, who was made Shadow Minister of State for Employment. On 7 October 2013 he was promoted to Shadow Cabinet, becoming Chief Secretary to the Treasury.
+
+In May 2015, he was promoted to Shadow Chancellor, replacing Ed Balls, who lost his parliamentary seat in the 2015 general election.
+
+Leslie supported Yvette Cooper in the 2015 Labour leadership election, and was critical of the economic policies of Jeremy Corbyn, calling them "starry-eyed, hard left". On 12 September 2015, Leslie resigned from the Labour front bench following the election of Jeremy Corbyn as leader of the party.
+
+Personal life
+
+In February 2005, he married Nicola Murphy, a special adviser to Gordon Brown, in Westminster,  having become engaged the previous year.
+Question:
+Chris Leslie holds which position in the Labour Shadow Cabinet?
+Answer:
+Chancellor of the exchequer
+Passage:
+Melinda Gates
+Melinda Ann Gates (née French; born August 15, 1964), DBE  is an American businesswoman and philanthropist. 
+
+She is co-founder of the Bill & Melinda Gates Foundation. She worked at Microsoft, where she was project manager for Microsoft Bob, Microsoft Encarta and Expedia.
+
+Early life and education
+
+Melinda Ann French was born on August 15, 1964 in Dallas, Texas. She is the second of four children to Raymond Joseph French Jr., an aerospace engineer, and Elaine Agnes Amerland, a homemaker. French has an older sister and two younger brothers. 
+
+French, a Roman Catholic,   attended St. Monica Catholic School,   where she was the top student in her class year.
+
+She graduated as valedictorian from Ursuline Academy of Dallas in 1982. She earned a bachelor's degree in computer science and economics from Duke University in 1986 and an MBA from Duke's Fuqua School of Business in 1987. At Duke, French was a member of the Kappa Alpha Theta sorority, Beta Rho Chapter.
+
+Personal life
+
+Shortly thereafter, she joined Microsoft and participated in the development of many of Microsoft’s multimedia products, including Publisher, Microsoft Bob, Encarta, and Expedia. 
+
+She met Bill Gates while working at Microsoft. In 1994, she married Gates in a private ceremony held in Lanai, Hawaii. Shortly thereafter, she left Microsoft to focus on starting and raising her family. Her last position there was General Manager of Information Products. Melinda and Bill Gates have three children: daughters Jennifer Katharine Gates (born 1996) and Phoebe Adele Gates (born 2002), and son Rory John Gates (born 1999). The family resides in Bill Gates's house on the shore of Lake Washington near Seattle.
+
+Gates served as a member of Duke University's board of trustees from 1996 to 2003. 
+She attends Bilderberg Group conferences and holds a seat on the board of directors of the Washington Post company.  She retired from the board of Drugstore.com in August 2006 to spend more time working for the Bill & Melinda Gates Foundation. 
+
+As of 2014, Melinda and Bill Gates have donated $28 billion to the Foundation. 
+
+Awards and recognition
+
+In 2002, Melinda and Bill Gates received the Award for Greatest Public Service Benefiting the Disadvantaged, an award given out annually by Jefferson Awards. 
+
+In December 2005, Melinda and Bill Gates were named by Time as Persons of the Year alongside Bono. Melinda and Bill Gates received the Spanish Prince of Asturias Award for International Cooperation on May 4, 2006, in recognition of their world impact through charitable giving. 
+
+In November 2006, Melinda was awarded the Insignia of the Order of the Aztec Eagle, together with Bill Gates, who was awarded the Placard of the same order, both for their philanthropic work around the world in the areas of health and education, particularly in Mexico, and specifically in the program "Un país de lectores".
+
+In May 2006, in honor of her work to improve the lives of children locally and around the world, Seattle Children's Hospital dedicated the Melinda French Gates Ambulatory Care building.  at Seattle Children's (then called Children's Hospital and Regional Medical Center )
+
+She chaired The Campaign for Children’s, a $300 million comprehensive fundraising drive to expand facilities, fund under-compensated and uncompensated care, and grow the hospital’s research program to find cures and treatments. 
+
+On June 12, 2009, Melinda and Bill Gates received honorary degrees from the University of Cambridge. Their benefaction of $210 million in 2000 set up the Gates Cambridge Trust, which funds postgraduate scholars from outside the UK to study at the University.
+
+In 2013, she was awarded an honorary Doctor of Humane Letters by Duke University as a tribute for her philanthropic commitment. She was also ranked #3 in Forbes 2013 and 2014 lists of the 100 Most Powerful Women,  #4 in 2012 and #6 in 2011. And Armchair Advocates added Gates to the list: "100 Tweeters of Social Good You Have to Follow in 2013." 
+
+Gates was appointed an honorary Dame Commander of the Order of the British Empire in 2013 for her services to philanthropy and international development. 
+
+Gates has also donated over $10 million to her high school, Ursuline Academy of Dallas. She is one of the major donors of their Facing the Future Campaign and was honored in their dedication ceremony on May 7, 2010.
+
+In recognition of the foundation's philanthropic activities in India, Bill and Melinda Gates jointly received India's third-highest civilian honor, Padma Bhushan, in 2015.
+Question:
+Which billionaire married Melinda French in 1995
+Answer:
+William Henry Gates, III

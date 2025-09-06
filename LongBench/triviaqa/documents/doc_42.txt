@@ -1,0 +1,280 @@
+Passage:
+Food, Glorious Food
+"Food, Glorious Food", written by Lionel Bart, is the opening song from the 1960s West End and Broadway musical (and 1968 film) Oliver! It is sung when the workhouse boys  are dreaming and fantasizing about food while going to collect their gruel from the staff of the workhouse.
+
+In popular culture
+
+*A variation of this song is sung in the 2006 film Ice Age: The Meltdown. 
+*A variation of this song sung in CBBC children's program Horrible Histories 'Work Terrible Work' commenting on the child labor conditions of Victorian Children. 
+*A version called "Chips, Glorious Chips" was used in advertising McCain oven chips in the UK from 2006-2010.
+*A version called "Cheese, Glorious Cheese" was used in advertising by the American cheese industry.
+*In Dilbert, Wally sings "Food, Glorious Food." when heading to a vendor meeting.
+*In the trailer for the 2009 animated film Cloudy with a Chance of Meatballs, a re-edited version of this song is played when the food starts raining from the sky.
+*In the Video game "Borderlands" a Psycho sings "Food, Glorious Food."
+*In the Video game "Borderlands 2" a Psycho sings "Food, Glorious Food."
+* A version called "Toys, Glorious Toys" is briefly sung in a SpongeBob SquarePants episode titled "Toy Store of Doom".
+* A version was used in the trailer for the reality television series MasterChef Australia (season 2).
+* A variant is sung in the 1973 film Charlotte's Web by Templeton the Rat while at the carnival.
+* A version was sung in the American Dad! episode titled "With Friends Like Steve's".
+* A British television cookery show, Food Glorious Food on ITV, STV & UTV.
+* A version of this song is sung to advertise "Cox Gigablast".
+* In New Zealand, Countdown supermarkets used the song as the background music for their 2015-2016 advertisements.
+* During Carpool Karaoke, James Corden and Flea sing Food Glorious Food while RHCP were appearing on show.
+Question:
+"The song, ""Food, Glorious Food"" comes from which musical?"
+Answer:
+Oliver (disambiguation)
+Passage:
+SI RADIATION MEASUREMENT UNITS: CONVERSION FACTORS - Giants
+SI RADIATION MEASUREMENT UNITS: CONVERSION FACTORS
+SI RADIATION MEASUREMENT UNITS: CONVERSION FACTORS
+What's the Difference Between Roentgen, Rad and Rem Radiation Measurements?
+A: Since nuclear radiation affects people, we must be able to measure its presence. We also need to relate the amount of radiation received by the body to its physiological effects. Two terms used to relate the amount of radiation received by the body are exposure and dose. When you are exposed to radiation, your body absorbs a dose of radiation.
+As in most measurement quantities, certain units are used to properly express the measurement. For radiation measurements they are:
+* Roentgen: The roentgen measures the energy produced by gamma radiation in a cubic centimeter of air. It is usually abbreviated with the capital letter "R". A milliroentgen, or "mR", is equal to one one-thousandth of a roentgen. An exposure of 50 roentgens would be written "50 R".
+* Rad: Or, Radiation Absorbed Dose recognizes that different materials that receive the same exposure may not absorb the same amount of energy. A rad measures the amount of radiation energy transferred to some mass of material, typically humans. One roentgen of gamma radiation exposure results in about one rad of absorbed dose.
+* Rem: Or, Roentgen Equivalent Man is a unit that relates the dose of any radiation to the biological effect of that dose. To relate the absorbed dose of specific types of radiation to their biological effect, a "quality factor" must be multiplied by the dose in rad, which then shows the dose in rems. For gamma rays and beta particles, 1 rad of exposure results in 1 rem of dose.
+Other measurement terms: Standard International (SI) units which may be used in place of the rem and the rad are the sievert (Sv) and the gray (Gy). These units are related as follows: 1Sv = 100 rem, 1Gy = 100 rad. Two other terms which refer to the rate of radioactive decay of a radioactive material are curie (Ci) and becquerel (Bq).
+Bottom Line: Fortunately, cutting through the above confusion, for purposes of practical radiation protection in humans, most experts agree (including FEMA Emergency Management Institute) that Roentgen, Rad and Rem can all be considered equivalent. The exposure rates you'll usually see will be expressed simply in terms of roentgen (R) or milliroentgen (mR).
+Source: http://www.radmeters4u.com/#1b
+Question:
+A Rntgen is a measure of what?
+Answer:
+Radiation exposure
+Passage:
+Commander Shepard
+Commander Shepard is the player character in BioWare's Mass Effect game trilogy: Mass Effect, Mass Effect 2, and Mass Effect 3. A veteran soldier of the Systems Alliance Navy military and N7-graduate of the Interplanetary Combatives Training (ICT) program, and the first human Citadel Council Spectre, Shepard works to stop "the Reapers", a sentient synthetic-machine race dedicated to wiping out all organic life. Shepard's gender, class, first name and facial appearance are chosen and customised by the player. Mark Meer provides the voice for male Shepards, while Jennifer Hale voices females. Since the player can choose the gender of Shepard, much of the dialogue revolving around the character is gender neutral with only a few exceptions.
+
+Alan Shepard was the source of the character's name. Shepard's armour developed over the series, and was originally intended to be red-and-white. Though both genders were given equal importance during development, marketing felt there was a need for a single identifiable hero for promotion of the game. Various merchandise has been made, including several figurines. Shepard has appeared in cameo appearances in other Electronic Arts games, though they will not be appearing in any future Mass Effect ones.
+
+Concept and creation
+
+BioWare wanted players to feel special and empowered from the start of the game. Unlike other role-playing game protagonists, they felt Shepard should not be an entirely blank character for the player to create, in order to create a more "intense" experience; with Mass Effect being more cinematic than other BioWare video games, they felt they needed an "extra bit" with a sense of a specific flavour that can be caused by a memorable character, such as Star Treks Captain Kirk or  24s Jack Bauer.
+
+Developers wanted to at least give Shepard a last name so that other characters could address them. The developers wanted a name that was both "all-American" and common, which led them to start looking at the original seven astronauts. Alan Shepard was chosen due to fitting with the idea of "their" Shepard, being tough and respected, and fitting in with the character being the first human Spectre – Alan Shepard being the first American in space.
+
+During the development of the first game, the female Shepard was given equal importance as the male counterpart; unique lines were written for her as well as a unique romance option. In fact, the early model for animation tests featured a female Shepard. for When describing her, Casey Hudson said "[s]he's not a caricature of the idea of role-playing as a female, but instead she's very impressive as a strong female character that's sensitive yet extremely confident and assertive".
+
+Appearance and design
+
+Shepard's default armor was originally red-and-white, but this was changed to charcoal grey, with a red-and-white stripe and the N7 logo, as Shepard looked too much like a medic. The red stripe in the N7 logo is said to symbolise the blood the character must sacrifice to save the galaxy. The armour became piece-based in Mass Effect 2 to stress the character's silhouette, as well as making them look "stronger and able to take more punishment". Despite this, the colours, as well as other elements of the armor and the commander's appearance, are customisable in Mass Effect 2.
+
+For the character customisation at the start of the game, they focused on "quality and realism". In order to test out the customisation system, the team made various celebrity look-alikes to ensure it offered a wide enough variety. The default male face, as well as the male body, were based on Dutch model Mark Vanderloo. The default female face changed slightly between the first and second game, but underwent a big redesign for Mass Effect 3. Six different designs for the default female Shepard were hosted online, and fans were told to vote for whichever design they preferred via Facebook; many different designs were made before the vote, but were whittled down to six by BioWare staff.  The blonde Shepard with freckles won, though BioWare later decided that the hairstyle may have interfered with the vote, and so made another competition to decide that. The red-haired Shepard won.
+
+Voice
+Question:
+Commander Shepard, Jacob Taylor, Miranda Lawson, Thane Krios, Grunt, Jack, Mordin Solus, Samara, Morinth, Legion, Zaeed Messani, Garrus Vakarian and Tali'Zorah Vas Neema are characters in which computer game?
+Answer:
+Mass effect 2
+Passage:
+Luguvalium
+Luguvalium was a Roman town in northern Britain in antiquity. It was located within present-day Carlisle, Cumbria, and may have been the capital of the 4th-century province of Valentia.
+
+Name
+
+The Romans called the settlement at what is today Carlisle .  This was originally thought to mean "wall[ed town] of Lugus" but has since been explained as a borrowed Brittonic placename reconstructed as *Luguwalion, meaning "[city] of Luguwalos", Luguwalos being a masculine Celtic given name meaning "strength of Lugus".  The name apparently continued in use among Brythonic speakers in the Hen Ogledd and Wales and it was during that time that the initial element caer ("fort") was added.  The place is mentioned in Welsh sources such as Nennius, who calls it ,Ford, David Nash. "[http://www.britannia.com/history/ebk/articles/nenniuscities.html The 28 Cities of Britain]" at Britannia. 2000. and the Book of Taliesin where it is rendered   (Modern Welsh '). (These derived from the original Brittonic name, rather than from its Latin form.) The earliest record of the place in English is as Luel ();  later medieval forms include Cardeol, Karlioli, and Cærleoil.  These appear to suggest that the northern form of the name did not have the final -ydd. (Compare the River Derwent in Cumbria with Derwenydd in Wales, both from Brittonic *Derwentjū.)
+
+History
+
+Prehistoric
+
+There are limited remains of a settlement during the British Iron Age. Before the Romans, the chief city of the Carvetii seems to have been Clifton Dykes.
+
+Roman
+
+Following their earlier conquest of Britain and Boudica's revolt, the Romans erected a timber fort at the site around  72. The settlement formed part of the northern leg of the Roman-era Watling Street. Following the fort's demolition around 103, a second timber fort was constructed. About 165, this was replaced by a stone fortress.  Timber structures further to the south-east were probably associated military buildings. These were also later replaced in stone. When the civilian settlement in this area was enclosed by a stone wall is unknown, but it is generally assumed to have followed the line of the later medieval wall. The town probably became the civitas capital of the Carvetii tribe some time in the 2nd century and Cair Ligualid was listed among the 28 cities of Britain in Nennius.  A single large stone building has been located which may have been for administrative use. Industry included copper working and tanning, while merchants are also in evidence. Inscriptions show there was a Mithraeum in the town and possibly a temple to Mars,  who was identified with the local deity Belatucadros.
+
+Medieval
+
+Romano-British occupation of Luguvalium seems to have continued unbroken after the Roman withdrawal from Britain around 410. Possible 5th century buildings have been identified during excavation and Ford identifies the settlement as the court of Urien Rheged's kingdom. Saint Cuthbert visited the town in the 7th century and described the high stone walls and an impressive fountain, presumably fed by a still functioning aqueduct. The place was under the control of a '.
+Question:
+Luguvalium was the Roman name for which North Western English city?
+Answer:
+Carlisle (disambiguation)
+Passage:
+HM Prison Birmingham
+HM Prison Winson Green (known locally as Winson Green Prison) is a Category B/C men's prison, located in the Winson Green area of Birmingham, England. The prison was formerly operated by Her Majesty's Prison Service. It is now managed by G4S  . 
+
+History
+
+Birmingham is a Victorian prison, built in 1849.
+
+Numerous judicial executions by hanging took place at the prison until the abolition of capital punishment in the UK. A total of 35 executions took place at Birmingham prison during the 20th century.  The last person ever to be hanged at the prison was a 20-year-old Jamaican named Oswald Augustus Grey. He was executed on 20 November 1962 after being convicted of the shooting death of newsagent Thomas Bates during the course of a robbery in Lee Bank Road on 3 June 1962.    Christopher Simcox, a double-murderer, was scheduled for execution at Birmingham prison on Tuesday, 17 March 1964, but was reprieved.
+
+In 1995, Birmingham was criticised by its own Board of Visitors for being soft on prisoners. This arose after allegations that one inmate had gone on two weeks' holiday to Minorca, while being released for weekend leave. 
+
+In January 1999 an inspection report by Her Majesty's Chief Inspector of Prisons attacked conditions at Birmingham, describing the health centre in the jail as the "untidiest and dirtiest" inspectors had ever come across. The report also criticised the prison for its lack of a sex offender treatment programme, the lack of employment and education opportunities, and the inadequate bathing arrangements where some inmates were only being allowed a full wash three times a week.
+
+In March 2001 the Chief Inspector declared that conditions had worsened in Birmingham Prison where around 11% of inmates had claimed to have been assaulted by prison officers. One particular incident involved a mentally-disturbed prisoner who had been denied a wash or change of clothes for weeks because staff thought he was faking his illness. 
+
+In 2002 the prison was expanded as a result of a multimillion-pound investment programme by the Prison Service. 450 additional prisoner places were added together with new workshops, educational facilities, a new healthcare centre and gym as well as extensions and improvements to existing facilities. Two years later, a report from the Chief Inspector found that conditions at Birmingham had substantially improved, stating that the prison was a place where "positive attitudes are firmly embedded". 
+
+In November 2007 the Independent Monitoring Board warned in a report that overcrowding at Birmingham was putting prisoners and staff at risk. The report stated that if overcrowding was not tackled, then there was a potential for unrest.  Two years later, the Board issued another report that criticised levels of overcrowding at Birmingham Prison. The report also noted that inmates from the jail were being transferred to prisons further north, to accommodate increased prisoner levels from the South-East of England. 
+
+Birmingham became the first publicly built, owned and operated prison in the UK to be transferred to the private sector. G4S formally took over the day-to-day running of the prison in October 2011. 
+
+Executions
+
+The following people were executed in Birmingham Prison between 1885 and 1962:
+
+The prison today
+
+Birmingham holds adult male prisoners, serving the Crown and Magistrates' Courts of Birmingham, Stafford and Wolverhampton and the Magistrates' Courts of Burton upon Trent, Cannock.
+ 
+Education and training at Birmingham Prison is provided by Milton Keynes College. Learning programmes for inmates include basic and key skills, bricklaying, plumbing, painting and decorating, carpentry, joinery, forklift truck training, industrial cleaning, catering, textiles, barbering, information technology, business, creative arts and performing arts. All courses lead to qualifications such as NVQs, and there is the option for further study with the Open University.
+
+The Prison Library Service is provided by Birmingham City Council's Library Services, and all prisoners have access to the service. As well as facilities for independent learners, the library has special collections on law, employment, health, community information, English as a second or other language (ESOL), and basic skills materials. There is also a Learning Centre within the library to provide additional learning support to those with dyslexia and ESOL needs.
+
+Physical Education at Birmingham is provided on a daily basis over a 7-day period, and evenings over 5 days. There are a number of sports delivered and also sports related subjects from basic skills to NVQ Level 2 in Sports and Recreation.
+
+Birmingham has a prison chaplaincy with full-time chaplains from the Church of England, Roman Catholic, Free Church and Muslim faiths. There are also sessional staff from the Sikh, Buddhist and Hindu faiths.
+
+Popular culture
+
+* The prison is mentioned in the book The Third World War: August 1985 in which it and the city of Birmingham are destroyed by a Soviet nuclear warhead.
+* The prison is featured in the 2009 grime film 1 Day.
+* Winson Green is featured in episode 3 season 2 of Peaky Blinders.
+
+Notable former inmates
+
+*Charlie Wilson, imprisoned for his part in the Great Train Robbery, he escaped the prison on 12 August 1964. He was recaptured on 24 January 1968 in Canada.
+*Ozzy Osbourne, later frontman of the heavy metal band Black Sabbath, served six weeks after he was arrested for breaking and entering and theft in 1966.
+*Fred West, serial killer who arrived on remand in May 1994. He committed suicide in his cell on 1 January 1995, before he could be brought to trial.
+* Lee Hughes, former West Bromwich Albion striker, spent the early part of his six-year jail term for dangerous driving at the prison in 2004.
+* Michael Collins, Irish revolutionary spent a short term at this prison after the Easter rising in 1916.
+Question:
+In which area of the city is H.M. Prison Birmingham?
+Answer:
+WINSON GREEN
+Passage:
+The Muses - Greek Mythology
+The Muses
+The Muses
+See More The Muses Pictures >
+The Muses were the Greek goddesses of inspiration in literature, science and the arts. They were the daughters of Zeus and Mnemosyne (the personification of memory), and they were also considered water nymphs. Some scholars believed that the Muses were primordial goddesses, daughters of the Titans Uranus and Gaea . Personifications of knowledge and art, some of the arts of the Muses included Music, Science, Geography, Mathematics, Art, and Drama. They were usually invoked at the beginning of various lyrical poems, such as in the Homeric epics; this happened so that the Muses give inspiration or speak through the poet's words.
+There were nine Muses according to Hesiod, protecting a different art and being symbolised with a different item; Calliope (epic poetry - writing tablet), Clio (history - scroll), Euterpe (lyric poetry - aulos, a Greek flute), Thalia (comedy and pastoral poetry - comic mask), Melpomene (tragedy - tragic mask), Terpsichore (dance - lyre), Erato (love poetry - cithara, a Greek type of lyre), Polyhymnia (sacred poetry - veil), and Urania (astronomy - globe and compass). On the other hand, Varro mentions that only three Muses exist: Melete (practice), Mneme (memory) and Aoide (song).
+According to a myth, King Pierus of Macedon named his nine daughters after the Muses, thinking that they were better skilled than the goddesses themselves. As a result, his daughters, the Pierides, were transformed into magpies.
+The Muses Is also called Muse.
+Question:
+In Greek mythology, who is the muse of history?
+Answer:
+Clio
+Passage:
+Endymion (poem)
+Endymion is a poem by John Keats first published in 1818. It begins with the line "A thing of beauty is a joy for ever". Endymion is written in rhyming couplets in iambic pentameter (also known as heroic couplets). Keats based the poem on the Greek myth of Endymion, the shepherd beloved by the moon goddess Selene. The poem elaborates on the original story and renames Selene "Cynthia" (an alternative name for Artemis).
+
+Narrative
+
+It starts by painting a rustic scene of trees, rivers, shepherds, and sheep. The shepherds gather around an altar and pray to Pan, god of shepherds and flocks. As the youths sing and dance, the elder men sit and talk about what life would be like in the shades of Elysium. However, Endymion, the "brain-sick shepherd-prince" of Mt. Latmos, is in a trancelike state, and not participating in their discourse. His sister, Peona, takes him away and brings him to her resting place where he sleeps. After he wakes, he tells Peona of his encounter with Cynthia, and how much he loved her.
+
+The poem is divided into four books, each approximately 1000 lines long. Book I gives Endymion's account of his dreams and experiences, as related to Peona, and give the background for the rest of the poem. In Book II, Endymion ventures into the underworld in search of his love. He encounters Adonis and Venus—a pairing of mortal and immortal—apparently foreshadowing a similar destiny for the mortal Endymion and his immortal paramour. Book III reveals Endymion's enduring love, and he begs the Moon not to torment him any longer as he journeys through a watery void on the sea floor. There he meets Glaucus, freeing the god from a thousand years of imprisonment by the witch Circe. Book IV, "And so he groan'd, as one by beauty slain." Endymion falls in love with a beautiful Indian maiden. Both ride winged black steeds to Mount Olympus where Cynthia awaits, only for Endymion to forsake the goddess for his new, mortal, love. Endymion and the Indian girl return to earth, the latter saying she cannot be his love. He is miserable, till quite suddenly he comes upon the Indian maiden again and she reveals that she is in fact Cynthia. She then tells him of how she tried to forget him, to move on, but that in the end, "'There is not one,/ No, no, not one/ But thee.'"
+
+Critical reception
+
+Endymion received scathing criticism after its release,  and Keats himself noted its diffuse and unappealing style. Keats did not regret writing it, as he likened the process to leaping into the ocean to become more acquainted with his surroundings; in a poem to J. A. Hessey, he expressed that "I was never afraid of failure; for I would sooner fail than not be among the greatest." However, he did express regret in its publishing, saying "it is not without a feeling of regret that I make [Endymion] public."
+
+Not all critics disliked the work.  The poet Thomas Hood wrote 'Written in Keats' Endymion, in which the "Muse...charming the air to music...gave back Endymion in a dreamlike tale".  Henry Morley said, "The song of Endymion throbs throughout with a noble poet's sense of all that his art means for him.  What mechanical defects there are in it may even serve to quicken our sense of the youth and freshness of this voice of aspiration."
+Question:
+‘A thing of beauty is a joy forever’ is the first line of ‘Endymion’ by which poet?
+Answer:
+J. Keats
+Passage:
+Hetty Wainthropp Investigates
+Hetty Wainthropp Investigates is a British cosy crime television programme that aired four series between 1996 and 1998 on BBC One.
+
+Patricia Routledge starred as the title character, Henrietta "Hetty" Wainthropp,  Derek Benfield as her patient husband Robert, Dominic Monaghan as her assistant and lodger Geoffrey Shawcross, and John Graham Davies as DCI Adams.
+Later episodes include Suzanne Maddock as Janet Frazer, a feisty young auto mechanic and Frank Mills as Robert's brother Frank.
+
+In the United States, episodes have been featured on PBS's anthology programme Mystery!.
+
+Production
+
+Hetty Wainthropp Investigates is based on characters from the novel Missing Persons (1986) by David Cook, who co-wrote the episodes with John Griffith Bowen. The incidents in Cook's novel were inspired by his own mother's experiences. Prior to the pilot going into production, Patricia Routledge read the story Missing Persons for BBC Radio 4's A Book At Bedtime in February 1987. 
+
+In 1990 ITV broadcast a feature-length pilot, Missing Persons, featuring Tony Melody as Robert Wainthropp and Garry Halliday as Geoffrey Shawcross, but ITV opted not to pursue a series. The storyline of this episode is ignored in the subsequent BBC series, with the first episode establishing Hetty as a detective in her first case and meeting Geoffrey for the first time. The characterization of Hetty was altered considerably for the series from the pilot. The 'original' Hetty was blonde and far more 'theatrical' in her manner. Additionally, the pilot character lived in considerably better circumstances than the home seen in the series.
+
+The BBC series was filmed primarily in Burnley, Darwen, Blackburn, Rossendale, Bolton and other locations in Lancashire.
+
+The music for the series was composed by Nigel Hess, cornet solo performed by Phillip McCann and in 1997 the title track was awarded the Ivor Novello Award for best television theme.
+
+The BBC series was popular with viewers, but no further episodes were commissioned after 1998. In 2008 Patricia Routledge said in an interview that the cast and crew had been told by the BBC at the end of the fourth series that a fifth series would be commissioned, but it never was. 
+
+Synopsis
+ 
+Hetty Wainthropp is a retired working-class woman from Darwen in North West England, who has a knack for jumping to conclusions and solving crimes of varying bafflement which often are too minor to concern the police. Although on occasion her husband offers assistance, he more often than not tends to the home while Hetty gads about the countryside with young Geoffrey in search of resolution and justice. In many episodes Hetty seeks the help and advice of DCI Adams of the local constabulary.
+
+Episodes
+
+Series 1
+
+Broadcast Wednesdays on BBC1 at 9:30pm. Produced by Carol Parks.
+
+Series 2
+
+Broadcast Fridays on BBC1 at 9:30pm. Produced by Carol Parks.
+
+Series 3
+
+Broadcast Fridays on BBC1 at 9:30pm. Produced by Carol Parks.
+
+Series 4
+
+Broadcast Fridays on BBC1 at 9:30pm. Produced by Carol Parks.
+
+;Parody Special
+*"Wetty Hainthrop Investigates" (12 March 1999) — 'Comic Relief Special' starring Victoria Wood, Julie Walters and Duncan Preston.
+
+DVD releases
+
+The BBC series has been released on DVD by Acorn Media in the UK and United States, by Madman Films in Australia, and by Lime-Lights Pictures in Belgium and the Netherlands.
+Question:
+Which TV detective was assisted by Geoffrey Shawcross?
+Answer:
+Geoffrey Shawcross
+Passage:
+Wobbegong
+Wobbegong is the common name given to the 12 species of carpet sharks in the family Orectolobidae.  They are found in shallow temperate and tropical waters of the western Pacific Ocean and eastern Indian Ocean, chiefly around Australia and Indonesia, although one species (the Japanese wobbegong, Orectolobus japonicus) occurs as far north as Japan. The word wobbegong is believed to come from an Australian Aboriginal language, meaning "shaggy beard", referring to the growths around the mouth of the shark of the western Pacific.
+
+Description
+
+Wobbegongs are bottom-dwelling sharks, so spend much of their time resting on the sea floor.  Most species have a maximum length of  or less, but the largest, the spotted wobbegong, Orectolobus maculatus, and banded wobbegong, O. halei, reach about 3 m in length.
+
+Wobbegongs are well camouflaged with a symmetrical pattern of bold markings which resembles a carpet.  Because of this striking pattern, wobbegongs and their close relatives are often referred to as carpet sharks.  The camouflage is improved by the presence of small weed-like whisker lobes  surrounding the wobbegong's jaw, which help to camouflage it and act as sensory barbs. Wobbegongs make use of their relative invisibility to hide among rocks and catch smaller fish which swim too close, typical of ambush predators.
+
+Interaction with humans
+
+Wobbegongs are generally not dangerous to humans.  However, they have bitten people who accidentally step on them in shallow water or scuba  divers who poke or touch them. Unprovoked, they may also bite divers, surfers,  or snorkellers who swim near their hiding spots.   Wobbegongs are very flexible and can easily bite a hand holding onto their tail. 
+
+They have many small but sharp teeth and their bite can be severe, even through a wetsuit; having once bitten, they have been known to hang on and can be very difficult to remove. 
+
+In Australia, the flesh of wobbegongs and other shark species is called flake and it is often the "fish" component of fish and chips. Wobbegong skin is also used to make leather. 
+
+Captivity
+
+Although most wobbegong species are unsuitable for home aquaria due to their large adult size, this has not stopped some of the larger species from being sold in the aquarium trade.  Small wobbegong species, such as the tasselled wobbegong and Ward's wobbegong, are "ideal" sharks for home aquarists to keep because they are an appropriate size and are lethargic, enabling them to be accommodated within the limited space of home aquaria, although they will consume tankmates, even quite large ones. Some aquarists, by contrast, see the lack of activity to be a drawback to keeping wobbegongs and prefer more active sharks. Wobbegongs are largely nocturnal and, due to their slow metabolism, do not have to be fed as often as other sharks. Most do well on two feedings weekly. Underfed wobbegongs can be recognised by visibly atrophied dorsal musculature.
+
+Genera and species
+
+The 12 living species of wobbegong, in three genera, are:
+* Genus Eucrossorhinus Regan, 1908
+** Eucrossorhinus dasypogon (Bleeker, 1867) (tasselled wobbegong)
+* Genus Orectolobus Bonaparte, 1834
+** Orectolobus floridus Last & Chidlow, 2008 (floral banded wobbegong)
+** Orectolobus halei Whitley, 1940.  (Gulf wobbegong or banded wobbegong)
+** Orectolobus hutchinsi Last, Chidlow & Compagno, 2006.  (western wobbegong)
+** Orectolobus japonicus Regan, 1906 (Japanese wobbegong)
+** Orectolobus leptolineatus Last, Pogonoski & W. T. White, 2010 (Indonesian wobbegong)
+** Orectolobus maculatus (Bonnaterre, 1788) (spotted wobbegong)
+** Orectolobus ornatus (De Vis, 1883) (ornate wobbegong)
+** Orectolobus parvimaculatus Last & Chidlow, 2008 (dwarf spotted wobbegong)
+** Orectolobus reticulatus Last, Pogonoski & W. T. White, 2008 (network wobbegong)
+** Orectolobus wardi Whitley, 1939 (northern wobbegong)
+* Genus Sutorectus Whitley, 1939
+** Sutorectus tentaculatus (W. K. H. Peters, 1864) (cobbler wobbegong)
+
+Fossil genera include:
+* Eometlaouia Noubhani & Cappetta, 2002
+Question:
+"A ""Wobbegong"" is a type of what?"
+Answer:
+Sharks

@@ -1,0 +1,502 @@
+Passage:
+Ophanin
+Ophanin is a toxin found in the venom of the King Cobra (Ophiophagus hannah), which lives throughout South East Asia. This toxin belongs to the cysteine-rich secretory protein (CRISP) family. Ophanin weakly blocks the contraction of smooth muscles elicited by high potassium-induced depolarization, suggesting that it inhibits voltage-dependent calcium channels.
+
+Etymology 
+
+The toxin was named ophanin after the snake whose venom it is derived from, the King Cobra (Ophiophagus hannah).
+
+Sources 
+
+Ophanin is produced in the venom glands of the King Cobra (O. Hannah).
+
+Although the venom has relatively low toxicity, this is compensated by the high amounts of it injected into the prey for each bite.
+
+Chemistry 
+
+Structure 
+
+Ophanin was successfully isolated from O. Hannah venom by gel filtration and cation-exchange chromatography. Its molecular weight is 25 kDa (from positions 19 – 239), which conforms to the molecular mass predicted from its cDNA sequences. 
+
+Homology 
+
+Ophanin is a cysteine-rich secretory protein and therefore belongs to the CRISP family. 
+These proteins possess 16 strictly conserved cysteines and contain 8 disulfide bonds. 
+Ten of the 16 cysteine residues are clustered at the C-terminal end of the protein.  
+Ophanin belongs to the “long” CRISPs subgroup, which consists of the 9 CRISPs with the longest sequences. Snake venom CRISPs belonging to different subgroups act on different biological targets, contributing in this way to the diversity of damaging effects of snake venoms.
+
+Family 
+
+The phylogenetic tree constructed from the nucleotide sequences of all known snake venom CRISPs shows that ophanin is more closely related to the Viperidae branch than the Elapidae branch even though O. Hannah belongs to the Elapidae snakes.
+
+Ophanin, along with other specific snake toxins like triflin and ablomin, is also a helothermine-related venom protein (Helveprin) which was originally isolated from the skin of the Mexican beaded lizard.
+
+Target 
+
+Ophanin is a weak blocker of the high potassium-induced contraction of smooth muscles. Snake venom CRISP family proteins inhibit depolarization-induced smooth muscle contraction to different extents. Compared to the normal contraction of smooth muscle, ophanin is able to reduce their force of contractility to 84% ± 1%, which is less than most other CRISPs.
+ 
+The differences between the inhibitory activity of CRISPs may be explained through sequence comparisons that suggest a site that may be critical for inhibition of channel activity. Phe189 and Glu186 are the most likely functional residues: strong blockers of smooth muscle contraction (ablomin, triflin, and latisemin) all have Phe189, and all blockers of smooth muscle contraction except ophanin have Glu186. The significance of this lack of the probable functional residues in ophanin has not yet been addressed. However, it is likely that the picture is more complex and other residues contribute to the inhibitory activity of CRISPs on smooth muscle contraction and some data supports this. For example pseudecin, while also having Phe189, does not affect depolarization-induced contraction.
+
+Mode of action 
+
+There is no direct evidence of a particular mode of action of ophanin blocking depolarization-induced contractions of the smooth muscles. However, based on the hypothesis of Yamazaki and colleagues in regards to ablomin, another snake venom toxin from the CRISP family that also blocks depolarization-induced smooth muscle contraction, we can postulate a similar mechanism might be in place for ophanin.
+
+Since ablomin only blocks contraction induced by depolarization, but not by caffeine, the effect of ablomin is likely to be caused by inhibition of voltage-gated ion channels. An activation of smooth muscle cells through caffeine activates ryanodine receptors of the sarcoplasmic reticulum, whereas an activation through high levels of extracellular potassium depolarizes the membrane (due to the change of the reversal potential for potassium towards more positive values) and would then activate voltage-gated calcium-ion channels leading to high levels of intracellular calcium ions. The intracellular calcium ion concentration correlates well with contraction force in the rat-tail artery. Thus, contraction following extracellular application of high-potassium solution depends on the influx of the extracellular calcium ions through voltage-gated calcium channels. Therefore ablomin (and by extension ophanin) most likely targets voltage-gated calcium channels on smooth muscle.
+
+Toxicity 
+
+The  of the venom in mice is ~1.2 to 3.5 mg/kg via intravenous injection. The LD50 of ophanin is not yet known.
+Question:
+Ophanin, piscivorin, ablomin, latisemin and triflin, cysteine-rich secretory proteins that can reduce muscle contractions, are naturally found where?
+Answer:
+Cobra Toxin
+Passage:
+Woodwind instrument
+Woodwind instruments  are a family of musical instruments within the more general category of wind instruments.  There are two main types of woodwind instruments:  flutes and reed instruments (otherwise called reed pipes). What differentiates these instruments from other wind instruments is the way in which they produce their sound.  Examples are a saxophone, a bassoon, piccolo and others.
+
+Flutes
+
+Flutes produce sound by directing a focused stream of air across the edge of a hole in a cylindrical tube.  The flute family can be divided into two sub-families: open flutes, and closed flutes. 
+
+To produce a sound with open flutes, the player is required to blow a stream of air across a sharp edge that then splits the airstream .  This split airstream then acts upon the air column contained within the flute's hollow causing it to vibrate and produce sound.  Examples of open flutes are the transverse flute, panpipes and ocarinas.  Ancient flutes of this variety were often made from tubular sections of plants such as grasses, reeds, and hollowed-out tree branches. Later, flutes were made of metals such as tin, copper, or bronze. Modern concert flutes are usually made of high-grade metal alloys, usually containing nickel, silver, copper, or gold. 
+
+To produce a sound with a closed flute, the player is required to blow air into a duct.  This duct acts as a channel bringing the air to a sharp edge.  As with the open flutes, the air is then split; this causes the column of air within the closed flute to vibrate and produce sound.  Examples of this type of flute include the recorder, and organ pipes. 
+
+Reed instruments
+
+Reed instruments produce sound by focusing air into a mouthpiece which then causes a reed, or reeds, to vibrate.  Similar to flutes, Reed pipes are also further divided into two types: single reed and double reed.   
+
+Single-reed woodwinds produce sound by placing a reed onto the opening of a mouthpiece (using a ligature).  When air is forced between the reed and the mouthpiece, the reed causes the air column in the instrument to vibrate and produce its unique sound. Single reed instruments include the clarinet, saxophone, and others such as the chalumeau.  
+
+Double-reed instruments use two precisely cut, small pieces of cane bound together at the base.  This form of sound production has been estimated to have originated in the middle to late Neolithic period; its discovery has been attributed to the observation of wind blowing through a split rush.   The finished, bound reed is inserted into the instrument and vibrates as air is forced between the two pieces (again, causing the air within the instrument to vibrate as well).   This family of reed pipes is subdivided further into another two sub-families: exposed double reed, and capped double reed instruments. 
+ 
+Exposed double-reed instruments are played by having the double reed directly between the player's lips.  This family includes instruments such as the oboe, cor anglais (also called English horn) and bassoon, and many types of shawms throughout the world.
+
+On the other hand, Capped double-reed instruments have the double reed covered by a cap.  The player  blows through a hole in this cap that then directs the air through the reeds. This family includes the crumhorn.
+
+Bagpipes are unique reed pipe instruments since they use two or more double or single reeds.  However, bagpipes are functionally the same as a capped double reed instruments since the reeds are never in direct contact with player's lips. 
+
+Free reed aerophone instruments are likewise unique since sound is produced by 'free reeds' –  small metal tongues arranged in rows within a metal or wooden frame.  The airflow necessary for the instruments sound is generated either by a players breath (e.g. harmonica), or by bellows (e.g. accordion).  
+
+Modern orchestra and concert band woodwinds 
+
+The modern orchestra's woodwind section typically includes: flutes, oboes, clarinets, and bassoons. The piccolo, cor anglais, bass clarinet, and contrabassoon are commonly used supplementary woodwind instruments. The section may also on occasion be expanded by the addition of saxophone(s).
+
+The concert band's woodwind section is typically much larger and more diverse than the orchestra's. The concert band's woodwind section typically includes: piccolo, flutes, oboes, B clarinets, bass clarinets, bassoons, alto saxophones, tenor saxophone, and baritone saxophone. The cor anglais, E clarinet, alto clarinet, contra-alto clarinet, contrabass clarinet, contrabassoon, and soprano saxophone are also used, but not as frequently as the other woodwinds.
+Question:
+What is the smallest woodwind instrument in an orchestra?
+Answer:
+Piccolo
+Passage:
+Sha Tin New Town
+Shatin New Town is one of the new towns in Hong Kong. It is within the Sha Tin District, which covers the areas of Sha Tin, Tai Wai, Fo Tan, Tai Shui Hang, Ma On Shan, among other areas, and is near the Shing Mun River.
+
+Development started in the 1970s, and currently covers an area of 35.87 square kilometres with total developed area of about 20 km². Presently it has a population over 630,000 with a planned capacity when fully developed of 735,000.  The town centre houses a mall, New Town Plaza, the Sha Tin Public Library, a town hall, and other community facilities.
+
+In the latest official reports, Ma On Shan New Town, a satellite extension of Shatin will form a separate distinct from Sha Tin.
+
+Transport
+
+Highways, roads and tunnels
+
+The road transport between Shatin and Kowloon relies on Lion Rock Tunnel, Tate’s Cairn Tunnel, Shing Mun Tunnel and Tai Po Road. The Tolo Highway was opened in September 1985. It connected Sha Tin Road and Tai Po Road, forming a connection system between the New Town and Tai Po. Tate’s Cairn Highway also connected Ma On Shan with Tolo Highway as well. The opening of Sai Sha Road in October 1988 provided a connection between Sha Tin and Sai Kung. The T3 Highway (Tsing Sha Highway) and Route No.8 Cheung Sha Wan to Sha Tin Section was completed in March 2008.
+
+Public transport
+
+The New Town has numerous bus routes connecting to the city centre and railway station from various populated zone in the Town. Beside bus services, minibus services are provided as well for residential area with fewer people.
+
+KCR (now East Rail Line, MTR)
+
+KCR, since merged with the former MTR, was essential to the development of new town. There are five East Rail Line stations within the new town, namely Tai Wai, Sha Tin, Fo Tan, Racecourse and University (Chinese University). The whole section of Ma On Shan Line lies within the district, which connects Tai Wai and Wu Kai Sha of Ma On Shan (situated at the northeastern part of Lee On Estate). It has a length of 11.4 km with nine stations and one maintenance centre. Passengers can transfer to East Rail Line at Tai Wai Station.
+Question:
+In which town or city is Sha Tin airport?
+Answer:
+Kong Hong
+Passage:
+Richard Osman Two Tribes: BBC Two to show new quiz ...
+Richard Osman Two Tribes: BBC Two to show new quiz programme hosted by the star - Mirror Online
+Thank you for subscribing!
+Could not subscribe, try again laterInvalid Email
+Pointless co-host Richard Osman will front new quiz show Two Tribes on BBC Two later this year.
+Contestants will be quizzed on their general knowledge and split into teams based on how they answer "funny and surprising" questions about themselves in the daytime shows.
+The 43-year-old, who co-presents hit BBC One gameshow Pointless with Alexander Armstrong, is an unlikely TV star and heartthrob.
+The bespectacled 6ft 7in co-host had previously worked behind the camera, as a writer on shows like Have I Got News For You and a producer on Deal Or No Deal and Total Wipeout, when he pitched Pointless, in which contestants have to find the least obvious answers, to the BBC.
+Richard Osman alongside Frank Skinner, Joan Bakewell and Roisin Conaty for Room 101
+ 
+After demonstrating the role of co-host during the pitch, TV bosses were so impressed that they asked him to help front the show.
+He recently said: "I never went into this with the idea of having an on-screen TV career, it was completely accidental."
+James Fox, executive producer of Two Tribes, said of the new series: "It's a brilliantly play-along game as you root for the tribe you belong to and answer lots of quick fire general knowledge questions.
+"We're really looking forward to seeing Richard come out from behind the Pointless desk to front the show and get to know the contestants like never before."
+Contestants compete for a cash prize in the 30-minute shows, to be made by Remarkable Television, an Endemol company.
+We're testing a new site: This content is coming soon
+Like us on Facebook
+Most Read
+Most Recent
+Most Read
+Most Recent
+Question:
+Who hosts the BBC quiz show 'Two Tribes'?
+Answer:
+Richard Ozman
+Passage:
+Sixteenth note
+Figure 1. A 16th note with stem facing up, a 16th note with stem facing down, and a 16th rest.
+Figure 2. Four 16th notes beamed together.
+
+In music, a 16th note (American) or semiquaver (British) is a note played for half the duration of an eighth note (quaver), hence the name. It is the equivalent of the semifusa in mensural notation, first found in 15th-century notation .
+
+Sixteenth notes are notated with an oval, filled-in note head and a straight note stem with two flags. (see Figure 1). A corresponding symbol is the 16th rest (or semiquaver rest), which denotes a silence for the same duration. As with all notes with stems, 16th notes are drawn with stems to the right of the notehead, facing up, when they are below the middle line of the musical staff. When they are on or above the middle line, they are drawn with stems on the left of the note head, facing down. Flags are always on the right side of the stem, and curve to the right. On stems facing up, the flags start at the top and curve down; for downward facing stems, the flags start at the bottom of the stem and curve up. When multiple 16th notes or eighth notes (or 32nd notes, etc.) are next to each other, the flags may be connected with a beam, like the notes in Figure 2. Note the similarities in notating 16th notes and eighth notes. Similar rules apply to smaller divisions such as 32nd notes (demisemiquavers) and 64th notes (hemidemisemiquavers).
+
+In Unicode, U+266C (♬) is a pair of beamed semiquavers.
+
+The note derives from the semifusa in mensural notation. However, semifusa also designates the modern 64th note in Spanish, Catalan and Portuguese.
+
+The name of this note (and rest) in different languages varies greatly:
+Question:
+British musicians call it a semiquaver. What do American musicians call it?
+Answer:
+Double-croche
+Passage:
+Leap Day Customs & Traditions - timeanddate.com
+Leap Day Customs & Traditions
+Home   Calendar   Leap Day Customs
+Leap Day Customs & Traditions
+Leap Day, on February 29, has been a day of traditions, folklore and superstitions ever since Leap Years were first introduced by Julius Caesar over 2000 years ago.
+Gloves can hide a naked ring finger.
+Tradition dictates that a man who refuses a woman's proposal on leap day has to buy her 12 pairs of gloves so she may hide the embarrassment of not having an engagement ring.
+©iStockphoto.com/photllurg
+Last leap day was February 29, 2016 .
+Women Propose to Their Men
+According to an old Irish legend, or possibly history, St Brigid struck a deal with St Patrick to allow women to propose to men – and not just the other way around – every four years.
+This is believed to have been introduced to balance the traditional roles of men and women in a similar way to how leap day balances the calendar.
+Gloves Hide Naked Ring Finger
+In some places, leap day has been known as “Bachelors’ Day” for the same reason. A man was expected to pay a penalty, such as a gown or money, if he refused a marriage proposal from a woman on Leap Day.
+In many European countries, especially in the upper classes of society, tradition dictates that any man who refuses a woman's proposal on February 29 has to buy her 12 pairs of gloves. The intention is that the woman can wear the gloves to hide the embarrassment of not having an engagement ring. During the middle ages there were laws governing this tradition.
+Leap Day Babies World Record
+People born on February 29 are all invited to join The Honor Society of Leap Year Day Babies.
+According to the Guinness Book of Records, there are Leap Day World Record Holders both of a family producing three consecutive generations born on February 29 and of the number of children born on February 29 in the same family.
+Unlucky in Love
+In Scotland, it used to be considered unlucky for someone to be born on leap day, just as Friday 13th is considered an unlucky day by many. Greeks consider it unlucky for couples to marry during a leap year, and especially on Leap Day.
+St Oswald’s Day
+Leap day is also St Oswald’s Day, named after the archbishop of York who died on February 29, 992. His memorial is celebrated on February 29 during leap years and on February 28 during common years .
+Question:
+What is it traditional for women to do on 29th February?
+Answer:
+Propose to men
+Passage:
+Albertus Pictor
+Albertus Pictor (English, "Albert the Painter"; Immenhusen, c. 1440 – c. 1507), also called Albert Pictor, Albert Målare and Albrekt Pärlstickare (Swedish), is the most famous late medieval Swedish painter, known for his wallpaintings surviving in numerous churches in southern and central Sweden. Celebrations for the quincentenary of his death were arranged for 2009.
+
+Career
+
+Albertus was originally called Albertus Immenhusen, after the German town of Immenhausen in Hessen of which he was a native. He occurs in Swedish historical sources from 1465, when he was admitted a burgher of Arboga. Eight years later he moved to Stockholm, where, in accordance with current practice, he took over the workshop as well as the widow of a deceased painter. 
+
+He was a versatile and prolific artist, known to his contemporaries not only for his church wallpaintings, but also as an organist and embroiderer (hence his nickname of Pärlstickare, "Pearl-embroiderer"). More than thirty of his schemes, mostly in a secco technique, are extant, many in the Lake Mälaren region, about a third of which bear his signature. Notable examples include wallpaintings at Bromma kyrka, near Stockholm, Lid kyrka, in Södermanland and Täby Kyrkby kyrka in Täby. Part of his life and work are depicted in the illustrated book, "Albert målare och sommaren i Härkeberga" ("Albert the Painter and the summer in Härkeberga"), which describes his painting of the small church of Härkeberga in Uppland (see below).
+
+Influence
+
+Albertus's illustration of Death playing chess from Täby kyrka inspired the famous scene in Ingmar Bergman's 1957 film The Seventh Seal in which a knight (Antonius Block) plays chess with personified Death. Albertus Pictor himself appears as a character in the film (played by Gunnar Olsson), in a dialog with Jöns, Antonius Block's squire, while working on a church mural.
+
+Churches with wall paintings by or attributed to Albertus Pictor
+
+Albertus Pictor's paintings are considered preserved in 37 churches. Nine of the painting are either signed with some variant of Albertus name or the signing documented was destroyed. Other paintings ascribed to Albertus Pictor are based on attributes made by experts on the subject. Attenuation on stylistic grounds based on comparisons to those of the churches that have secure signings is difficult to determine especially when it concerns the making of the works. 
+
+The ornamentation has traditionally been important for the attribution, it is, however, in greater part in the public domain and is more general in its expression and easier to copy than figure painting. A lot of them are also strong influenced by over-liming and production with subsequent restoration. Albertus Pictor's painting, however, differ so much from contemporary Swedish painters that they usually can not be attributed to the author. It is conceivable that in some cases they rather have strong influences.
+
+* Almunge (Uppland)
+* Bromma (Stockholm)
+* Bälinge (Uppland)
+* Danmark (Uppland)
+* Dingtuna (Västmanland)
+* Ed (Uppland)
+* Floda (Sörmland)
+* Gryta (Uppsala)
+* Helga Trefaldighet (Uppsala)
+
+* Husby-Sjutolft (Uppland)
+* Håbo-Tibble (Uppland)
+* Härkeberga (Uppland)
+* Härnevi (Uppland)
+* Kalmar (Uppland)
+* Kumla (Västmanland)
+* Lid (Sörmland)
+* Nederluleå(Norrbotten)
+* Odensala (Uppland)
+
+* S Per (Uppsala)
+* Sala (Västmanland)
+* Sollentuna (Uppland)
+* Solna (Uppland)
+* Storkyrkan (Stockholm)
+* Torshälla (Södermanland)
+* Täby (Uppland)
+* Uppsala Cathedral (Uppland)
+* Vadsbro (Södermanland)
+
+* Vaksala (Uppland)
+* Vansö (Sörmland)
+* Vittinge (Uppland)
+* Vårdinge (Södermanland)
+* Vänge (Uppland)
+* Västerås Cathedral (Västmanland)
+* Yttergran (Uppland)
+* Ösmo (Sörmland)
+* Österunda (Uppland)
+* Övergran (Uppland)
+Question:
+A 1480s painting by Albertus Pictor in Täby Church located north of Stockholm that inspired a film director depicts a man playing chess with whom?
+Answer:
+Devitalized
+Passage:
+List of presidents of FIFA
+The following is a list of presidents of the Fédération Internationale de Football Association (FIFA), the world association football governing body.
+
+Presidents Daniel Burley Woolfall, Rodolphe Seeldrayers and Arthur Drewry died during their term in office.
+
+The current president is Swiss-Italian Gianni Infantino, elected on 26 February 2016 during an extraordinary session of the FIFA Congress.  Prior to his election, Cameroonian Issa Hayatou was acting president after the suspension of Sepp Blatter on 8 October 2015, which later escalated to a ban from all football-related activities on 21 December 2015.  
+
+Presidents of FIFA
+
+Timeline
+
+ImageSize = width:800 height:auto barincrement:12
+PlotArea  = top:10 bottom:50 right:130 left:20
+AlignBars = late
+
+DateFormat = dd/mm/yyyy
+Period     = from:22/05/1904 till:01/01/2020
+TimeAxis   = orientation:horizontal
+ScaleMajor = unit:year increment:10 start:1905
+
+Colors     =
+  id:european value:rgb(0.2745,0.5098,0.7059)   legend: European  
+  id:southamerican value:rgb(0.5608,0.7373,0.5608)  legend: South_American
+  id:african value:rgb(0.9600,0.7373,0.5609) legend: African
+
+Legend     = columns:3 left:150 top:24 columnwidth:100
+
+TextData =
+  pos:(20,27) textcolor:black fontsize:M
+  text:"Confederation : "
+
+BarData =
+  barset:PM
+
+PlotData=
+  width:5 align:left fontsize:S shift:(5,-4) anchor:till
+  barset:PM
+
+ from: 22/05/1904 till: 04/06/1906 color:european text:"Guérin" fontsize:10
+ from: 04/06/1906 till: 24/10/1918 color:european text:"Woolfall" fontsize:10
+ from: 01/01/1921 till: 01/07/1954 color:european text:"Rimet" fontsize:10
+ from: 01/07/1954 till: 07/10/1955 color:european text:"Seeldrayers" fontsize:10
+ from: 07/10/1955 till: 25/03/1961 color:european text:"Drewry" fontsize:10
+ from: 25/03/1961 till: 08/05/1974 color:european text:"Rous" fontsize:10
+ from: 08/05/1974 till: 08/06/1998 color:southamerican text:"Havelange" fontsize:10
+ from: 08/06/1998 till: 08/10/2015 color:european text:"Blatter" fontsize:10
+ from: 08/10/2015 till: 26/02/2016 color:african text: "Hayatou" fontsize:10
+ from: 26/02/2016 till: 01/01/2019 color:european text:"Infantino" fontsize:10
+Question:
+Who is the present FIFA president?
+Answer:
+Josef Blatter
+Passage:
+Olympic Park to share EastEnders' Walford E20 postcode ...
+Olympic Park to share EastEnders' Walford E20 postcode - BBC News
+BBC News
+Olympic Park to share EastEnders' Walford E20 postcode
+19 March 2011
+Close share panel
+Image caption The Olympic Park will share the same postcode as Walford in EastEnders
+The Olympic Park is to get the same postcode as the BBC soap opera EastEnders, the Royal Mail has revealed.
+The site, in Stratford, will receive an E20 code - which is currently used by the fictional district of Walford in the TV series.
+The postcode will serve five new neighbourhoods to be created after the 2012 Games.
+The Olympic Stadium will get its own E20 2ST code as part of the change.
+More than 100 postcodes will be assigned to developments throughout the site - which will be renamed the Queen Elizabeth Olympic Park after the Games.
+London's first postal districts were introduced in 1857, while the current system using numbers and letters was created in the late 1950s.
+London 2012 - Begin your journey here
+Sport, news and more 2012 information
+The E20 postcode for the Olympic Park will also cover neighbouring areas including the residential apartments in the athletes' village plus the Westfield Stratford City shopping Centre which will house 400 retail units.
+The postcodes will be split into three zones - E20 1, E20 2 and E20 3.
+Zones 4 to 9 could be added in future decades as the site develops. Up to 8,000 homes will be built there over the next 20 years.
+Stephen Agar, Royal Mail's director of regulated business, said: "It is fitting that such a significant development in London has been allocated its own easily recognisable postcode more than 150 years after the world's first postcodes were introduced in the capital."
+Walford, the fictional suburb of East London where EastEnders is set, was given the E20 postcode when the BBC launched the soap opera in 1985.
+The previous highest postcode area in real life East London was E18, around South Woodford. There is no E19.
+Question:
+The new postcode E20 has been introduced to cover which development?
+Answer:
+Olympic Park
+Passage:
+Christ Child
+The Christ Child, also known as Divine Infant, Baby Jesus, Infant Jesus, Child Jesus,  the Holy Child, and Santo Niño, refers to Jesus Christ from his nativity to age 12. Upon reaching 13 years-old he was considered to be an adult in accordance with the Jewish custom of his time. The canonical Gospels lack any narration of the years between Jesus' infancy and the Finding in the Temple when he was twelve.
+
+Liturgical feast days
+
+Liturgical feasts relating to Christ's infancy and the Christ Child include: 
+* The Feast of the Nativity of Jesus Christ (December 25); 
+* The Feast of the Circumcision of Christ (January 1 - Eastern Orthodox Church); 
+* The Feast of the Epiphany visit of the three Magi (January 6) 
+* The Feast of Santo Niño the third Sunday of January
+* The Feast of the Presentation in the Temple (February 2)
+
+Depictions in art
+
+From about the third or fourth century onwards, the child Jesus is frequently shown in paintings, and sculpture. Commonly these are nativity scenes showing the birth of Jesus, with his mother, Mary, and his foster father Joseph. 
+ 
+Depictions as a baby with the Virgin Mary, known as Madonna and Child, are iconographical types in Eastern and Western traditions. Other scenes from his time as a baby, of his circumcision, presentation at the temple, the adoration of the Magi, and the flight into Egypt, are common.   Scenes showing his developing years are more rare but not unknown.
+
+Saint Joseph, Anthony of Padua, and Saint Christopher are often depicted holding the Christ Child. The Christian mystics Saint Teresa of Avila, Saint Therese of Lisieux, along with the devotees of Divino Niño such as Mother Angelica and Father Giovanni Rizzo claim to have had apparitions of Jesus as a toddler. 
+
+During the Middle Ages
+
+The Christ Child was a popular subject in European wood sculpture beginning in the 1300s. 
+
+The popularity of the Christ child was well known in Spain under the title Montanesino after the santero sculptor Juan Martínez Montañés who began the trend. These icons of the Christ Child was often posed in the contrapposto style in which the positioning of the knees reflected in the opposite direction,  similar to ancient depictions of the Roman Emperor. 
+
+The growth of images being made were quite popular among nobility, while some images were also used to colonize kingdoms such of Spain and Portugal. Colonial images of the Christ child also began to wear vestments, a pious practice developed by the santero culture in later colonial years, carrying the depiction of holding the globus cruciger, a bird symbolizing a soul or the Holy Spirit or various paraphernalia related to its locality or region.
+
+The symbolism of the Child Jesus in art reached its apex during the Renaissance: the Holy Family was a central theme in the works of Leonardo da Vinci and many other masters. 
+
+Tàladh Chrìosda
+
+Tàladh Chrìosda (Christ Child Lullaby) is a Scottish carol from Moidart, Scotland. The Catholic priest Father Ranald Rankin, wrote the lyrics for Midnight Mass around the year 1855.  He originally wrote 29 verses in Scottish Gaelic, but the popular English translation is limited to five. The melody, Cumha Mhic Arois (lament for Mac Àrois), is from the Hebrides and was a sung as a protective charm for the fisherman away at sea. The rhythm mirrors the rhythm of the surf. It is sung in the Hebrides at Midnight Mass of Christmas Eve.
+
+In the apocryphal texts
+
+A number of apocryphal texts, the Infancy Gospels grew up with legendary accounts of the intervening period, and these are sometimes depicted. These stories were intended to show Jesus as having extraordinary gifts of power and knowledge, even from the youngest age. One common pious tale has the young Jesus animating sparrows out of clay belonging to his playmates. When admonished for doing so on the Sabbath, he causes the birds to fly away.[http://campus.udayton.edu/mary/Jesus%20as%20a%20Child.pdf Roten, J. and Janssen, T., "Jesus as a Child"]
+
+As pious image of veneration
+
+Several historically significant images of Jesus Christ as a child have received Canonical Coronations from the Pope, namely the Infant Jesus of Prague, the Santo Niño de Cebú in the Philippines, and the Santo Bambino of Aracoeli in Rome.
+
+In the seventeenth century veneration of the Christ Child under the title the "Little King of Beaune" was promoted by French Carmelites.  In the late nineteenth century devotion to the Holy Child of Remedy developed in Madrid. 
+
+Gallery
+
+File:Jesulein mit dem Kreuz Siena 1820 MfK Wgt.jpg|Child Jesus representing the Passion of Jesus Christ, c. 1820, Weingarten
+File:Mexico Holy Infant of Atocha.jpg|Holy Infant of Atocha, Mexico
+File:Santa Maria in Aracoeli Rome Santo Bambino.jpg|Santo Bambino Aracoeli Rome
+File:Santissimo Gesu de Malines.jpg|Santissimo Gesu de Malines
+Question:
+What name is given to any work of religious art which depicts the baby Jesus with his mother?
+Answer:
+Madonnas
+Passage:
+Gas Pressure - NASA
+Gas Pressure
++                Contact Glenn
+An important property of any gas is its pressure. We have some experience with gas pressure that we don't have with properties like viscosity and compressibility . Every day we hear the TV meteorologist give value of the barometric pressure of the atmosphere (29.8 inches of mercury, for example). And most of us have blown up a balloon or used a pump to inflate a bicycle tire or a basketball.
+Because understanding what pressure is and how it works is so fundamental to the understanding of aerodynamics, we are including several slides on gas pressure in the Beginner's Guide. An interactive atmosphere simulator allows you to study how static air pressure changes with altitude. The FoilSim program shows you how the pressure varies around a lifting wing, and the EngineSim program shows how the pressure changes through a turbine engine. Another simulator helps you study how pressure changes across shock waves that occur at high speeds. There are two ways to look at pressure: (1) the small scale action of individual air molecules or (2) the large scale action of a large number of molecules.
+Molecular Definition of Pressure
+From the kinetic theory of gases, a gas is composed of a large number of molecules that are very small relative to the distance between molecules. The molecules of a gas are in constant, random motion and frequently collide with each other and with the walls of any container. The molecules possess the physical properties of mass, momentum, and energy. The momentum of a single molecule is the product of its mass and velocity, while the kinetic energy is one half the mass times the square of the velocity. As the gas molecules collide with the walls of a container, as shown on the left of the figure, the molecules impart momentum to the walls, producing a force perpendicular to the wall. The sum of the forces of all the molecules striking the wall divided by the area of the wall is defined to be the pressure. The pressure of a gas is then a measure of the average linear momentum of the moving molecules of a gas. The pressure acts perpendicular (normal) to the wall; the tangential (shear) component of the force is related to the viscosity of the gas.
+Scalar Quantity
+Let us look at a static gas; one that does not appear to move or flow. While the gas as a whole does not appear to move, the individual molecules of the gas, which we cannot see, are in constant random motion. Because we are dealing with a nearly infinite number of molecules and because the motion of the individual molecules is random in every direction, we do not detect any motion. If we enclose the gas within a container, we detect a pressure in the gas from the molecules colliding with the walls of our container. We can put the walls of our container anywhere inside the gas, and the force per area (the pressure) is the same. We can shrink the size of our "container" down to an infinitely small point, and the pressure has a single value at that point. Therefore, pressure is a scalar quantity, not a vector quantity. It has a magnitude but no direction associated with it. Pressure acts in all directions at a point inside a gas. At the surface of a gas, the pressure force acts perpendicular to the surface.
+If the gas as a whole is moving, the measured pressure is different in the direction of the motion. The ordered motion of the gas produces an ordered component of the momentum in the direction of the motion. We associate an additional pressure component, called dynamic pressure , with this fluid momentum. The pressure measured in the direction of the motion is called the total pressure and is equal to the sum of the static and dynamic pressureas described by Bernoulli's equation .
+Macro Scale Definition of Pressure
+Turning to the larger scale, the pressure is a state variable of a gas, like the temperature and the density . The change in pressure during any process is governed by the laws of thermodynamics . You can explore the effects of pressure on other gas variables at the animated gas lab . Although pressure itself is a scalar, we can define a pressure force to be equal to the pressure (force/area) times the surface area in a direction perpendicular to the surface. The pressure force is a vector quantity.
+Pressure forces have some unique qualities as compared to gravitational or mechanical forces. In the figure shown above on the right, we have a red gas that is confined in a box. A mechanical force is applied to the top of the box. The pressure force within the box opposes the applied force according to Newton's third law of motion. The scalar pressure equals the external force divided by the area of the top of the box. Inside the gas, the pressure acts in all directions. So the pressure pushes on the bottom of the box and on the sides. This is different from simple solid mechanics. If the red gas were a solid, there would be no forces applied to the sides of the box; the applied force would be simply transmitted to the bottom. But in a gas, because the molecules are free to move about and collide with one another, a force applied in the vertical direction causes forces in the horizontal direction.
+Activities:
+Question:
+What is the name given to the study of gases in motion
+Answer:
+Vehicle aerodynamics
+Passage:
+Wind Speed Measurement Units and Conversion Factors
+Windspeed Limited (Vector Instruments) - Celebrating 40 years of Quality High-Precision Anemometer, Windvane and Weather Sensor Manufacture
+Wind Speed Measurement Units and Conversion Factors
+ 
+1 metre per second (m/s, ms-1)
+=
+2.237 miles per hour (mph)
+1 metre per second (m/s, ms-1)
+=
+1 metre per second (m/s, ms-1)
+=
+3.60 kilometres per hour (kph)
+1 Knot (Kts)*
+0.515 metres per second (m/s, ms-1)
+1 Knot (Kts)*
+1.152 miles per hour (mph)
+1 Knot (Kts)*
+1.85 kilometres per hour (kph)
+1 mile per hour (mph)
+=
+0.447 metres per second (m/s, ms-1)
+1 mile per hour (mph)
+=
+1 mile per hour (mph)
+=
+Question:
+Wind speed is measured in which unit?
+Answer:
+Knots
+Passage:
+The Singing Butler
+The Singing Butler is an oil-on-canvas painting made by Scottish artist Jack Vettriano in 1992. It sold at auction in 2004 for £744,800, which was the record at the time for any Scottish painting, and for any painting ever sold in Scotland.[http://news.bbc.co.uk/1/hi/entertainment/3641007.stm BBC News  20 April, 2004. Vettriano fetches record price] Reproductions of The Singing Butler make it the best-selling art print in the UK.
+
+The painting measures 28 in by .  It depicts a couple dancing on the damp sand of a beach on the coast of Fife, with grey skies above a low horizon.  To the left and right, a maid and a man hold up umbrellas against the weather.  The dancers wear evening dress: a dinner jacket and a red ball gown; the woman also wears long red gloves but appears to have bare feet.  The butler is also formally dressed, while the maid wears a white apron and clutches her hat.
+
+As a contemporary cultural icon, The Singing Butler has been compared to Grant Wood's American Gothic.  Vettriano has described the painting as an "uplifting fantasy" and chose the subject after being complimented on his paintings of beaches.  He added the servants to balance the composition.  His work has been widely criticised by art critics, but is popular with the public.  The Singing Butler has been criticised for its uneven finishing, inconsistent lighting and treatment of wind, and for the odd position of the dancers. The dancers' pose is reversed from a normal closed dance hold. Usually, with the man leading, his left hand would hold the woman's right hand, and he would place his right hand on or below the woman's left shoulder blade, while she places her left hand on his right arm, just below the shoulder.
+  
+The original painting was sold at auction in August 2003 for £90,000, and then sold to a private collector in April 2004 for £744,800, a Scottish record at that time.  After the painting was sold, it was reported that Vettriano had used an artists' reference manual, The Illustrator's Figure Reference Manual, as a basis for the figures (the female figure in the reference work is actress Orla Brady).   Vettriano retorts that Francis Bacon had the same book in his studio, and that Picasso said that some artists borrowed but he stole.
+
+Another version of the painting, Dancer in Emerald, omits the maid, while the female dancer wears a green dress.  Both were included in Vettriano's first London exhibition, God's Children, at the Mall Galleries in October 1992.  The original painting of The Singing Butler was displayed at Aberdeen Art Gallery in February 2012, the first public exhibition for 20 years.
+Question:
+Which Scottish artist painted the picture 'The Singing Butler'?
+Answer:
+Vettriano
+Passage:
+Great Russell Street
+Great Russell Street is a street in Bloomsbury, London, best known for being the location of the British Museum. It runs between Tottenham Court Road (part of the A400 route) in the west, and Southampton Row (part of the A4200 route) in the east. It is one-way only (eastbound) between its western origin at Tottenham Court Road and Bloomsbury Street.
+
+The congress centre of the Trades Union Congress is located at No. 28. The street is also the home of the Contemporary Ceramics Centre, the gallery for the Craft Potters Association of Great Britain, as well as the High Commission of Barbados to the United Kingdom.
+
+Famous residents 
+
+Great Russell Street has had a number of notable residents, especially during the Victorian era, including:
+* Charles Dickens (1812–1870), novelist, lived at No. 14.
+* W. H. Davies (1871–1940), poet and writer, lived at No. 14 (1916–1922).
+* Randolph Caldecott (1846–1886), illustrator, lived at No. 46.
+* Thomas Henry Wyatt (1807–1880), architect, lived at No. 77.
+* William Hean (1801–1873), furniture maker and upholsterer, lived at No. 30.
+Question:
+Which museum is on Great Russell Street in London?
+Answer:
+British Museum Department of Prints and Drawings
+Passage:
+Counterpoint (radio)
+Counterpoint is a BBC Radio 4 quiz. Described in the show's introduction as "The general knowledge music quiz", the questions are about music, from classical, jazz, pop, musicals, and all other forms of music. It was originally hosted by Ned Sherrin (1986–2006).  In the chair for the 2007 series was Edward Seckerson with Paul Gambaccini taking over in 2008, following the death of Ned Sherrin in 2007.  Russell Davies took over temporarily in 2013 following allegations made against Gambaccini, who returned to the show in November 2014 after being cleared of the allegations.
+
+Format
+
+The quiz is played by three contestants over three rounds, or "movements" as they are known in the show.
+
+First round
+
+In the first, each contestant is asked five questions, two of which are illustrated by short musical pieces. Two points are awarded for a correct answer, or one point for a partially correct response. If the given answer is incorrect, or partially incorrect, the other two contestants may buzz in for one point. If there is a tie at the end of the first round, a further buzzer question is asked to determine the contestants' order for the next round.
+
+Second round
+
+The middle round is a solo round, similar to the 'specialist subject' format of Mastermind, with the difference that the contestants have neither chosen nor been given warning of the subject. Five categories of questions are offered, some of which are very specific e.g. "Beethoven's Piano Sonatas", while others are more general, for instance "sunshine and rain". The contestant with the most points after round one chooses from the five categories, the runner-up chooses from the four remaining, and the contestant in last place chooses from the three that are left. Each round consists of eight questions, including three musical cues. Again two points are given for a correct answer, but, in this round, questions answered incorrectly are not offered to the other contestants.
+
+Third round
+
+The final round consists of a variable number of questions, usually no more than twenty. Any contestant can answer these questions, provided they buzz in first. A correct answer will add one point to a contestant's score. If an incorrect answer is given, a contestant is deducted one point.
+
+The contestant with the highest score at the end of each regular show wins the right to appear again, later in the series, to compete against other winners from the current series. The series is completed in 13 weeks, the last show being the final, at the end of which the series' winner is decided.
+
+Broadcast history
+
+The show has been broadcast in BBC Radio 4's Monday afternoon quiz slot since 1998. Three main question-setters have been used by the programme: Ian Gillies, often referred to as  Mycroft by Robert Robinson in Brain of Britain (1986–2000); David Kenrick, the 1986 champion (1987–   ); and Stephen Follows, a former Mastermind and University Challenge champion, who also holds the programme's individual scoring records (2001–    ). Counterpoint has been produced since 2001 by Paul Bajoria. In November 2014, Paul Gambaccini returned to present the programme after being cleared of allegations against him.  In his absence the programme had been hosted by Russell Davies.
+
+Champions
+
+The following is an incomplete list of Counterpoint champions since 1986
+
+Theme music
+
+The current Counterpoint theme is Bach's "Partita in E major", arranged and performed by Jacques Loussier. The original theme tune for the programme, when it began in 1986, was the Arrival of the Queen of Sheba by Georg Friedrich Handel. For one series it was opened by a specially commissioned piece entitled "Counterpoint", by musician Ray Davies.
+Question:
+Who introduces the Radio 4 quiz 'Counterpoint'?
+Answer:
+PAUL GAMBACCINI

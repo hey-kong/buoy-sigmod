@@ -1,0 +1,675 @@
+Passage:
+Sequences: More General Examples - Purplemath
+Next Number in a Sequence Lesson - III
+a5 = 7
+an = 6 + a(nï¿½2)
+There is no guarantee          that this is the "right" answer, since the "right" answer is the one that your teacher wants. However, this formula does "work", so it should be acceptable to say that the next term          is:
+The next (nineth)            term is 6 + a7 = 6 + 13 = 19.
+Note, however, that the        sequence might be simpler even than that. Start listing the first few        primes, and see what kind of sequence you get. Compare this result with        the values of the above listing.
+Find the missing term:   2,          8, 27, 85, 260, ____, 2365
+I checked, and this didn't appear to          be a polynomial sequence. It didn't appear at first to be a recursive          sequence, but recursives can be messy and hard to figure out. But if          one is particularly patient and clever, and plays around with this a          bit, one might come up with:
+a1 = 2
+a2 = 2ï¿½3 + 2 = 8
+a3 = 8ï¿½3 + 3 = 27
+a4 = 27ï¿½3 + 4 = 85
+a5 = 85ï¿½3 + 5 = 260
+The pattern appears to be "take          the last term, multiply by three, and then add the number for the sequence          term you're on". Continuing, we get:
+a6 = 260ï¿½3            + 6 = 786
+a7 = 786ï¿½3 + 7 = 2365
+So the pattern gives us the seventh term          we were supposed to get, which confirms that the sixth term should probably          be 786.
+Find the next number: 2,          3, 4, 6, 6, 9, 8, ___
+For this one, I noticed that 4 is twice 2,          and 6 is twice 3.          Then 6 (the second one) is thrice 2 and 9 is thrice 3.          Continuing, 8 is four times 2,          so the next number should be four times 3,          or 12.          You can also view this as equivalent fractions: 2/3,          4/6, 6/9, 8/12, etc. Either way,          the next number is 12.
+By the way, "fiddling around" is very often the best method for finding solutions. Don't be afraid to        grab some scratch paper and just try stuff. There's nothing "wrong" with you if an answer isn't immediately obvious to you. Just keep trying.
+Question:
+2, 3, 7, 11, and 19 are all examples of what type of number?
+Answer:
+PRIME
+Passage:
+Christ Child
+The Christ Child, also known as Divine Infant, Baby Jesus, Infant Jesus, Child Jesus,  the Holy Child, and Santo Niño, refers to Jesus Christ from his nativity to age 12. Upon reaching 13 years-old he was considered to be an adult in accordance with the Jewish custom of his time. The canonical Gospels lack any narration of the years between Jesus' infancy and the Finding in the Temple when he was twelve.
+
+Liturgical feast days
+
+Liturgical feasts relating to Christ's infancy and the Christ Child include: 
+* The Feast of the Nativity of Jesus Christ (December 25); 
+* The Feast of the Circumcision of Christ (January 1 - Eastern Orthodox Church); 
+* The Feast of the Epiphany visit of the three Magi (January 6) 
+* The Feast of Santo Niño the third Sunday of January
+* The Feast of the Presentation in the Temple (February 2)
+
+Depictions in art
+
+From about the third or fourth century onwards, the child Jesus is frequently shown in paintings, and sculpture. Commonly these are nativity scenes showing the birth of Jesus, with his mother, Mary, and his foster father Joseph. 
+ 
+Depictions as a baby with the Virgin Mary, known as Madonna and Child, are iconographical types in Eastern and Western traditions. Other scenes from his time as a baby, of his circumcision, presentation at the temple, the adoration of the Magi, and the flight into Egypt, are common.   Scenes showing his developing years are more rare but not unknown.
+
+Saint Joseph, Anthony of Padua, and Saint Christopher are often depicted holding the Christ Child. The Christian mystics Saint Teresa of Avila, Saint Therese of Lisieux, along with the devotees of Divino Niño such as Mother Angelica and Father Giovanni Rizzo claim to have had apparitions of Jesus as a toddler. 
+
+During the Middle Ages
+
+The Christ Child was a popular subject in European wood sculpture beginning in the 1300s. 
+
+The popularity of the Christ child was well known in Spain under the title Montanesino after the santero sculptor Juan Martínez Montañés who began the trend. These icons of the Christ Child was often posed in the contrapposto style in which the positioning of the knees reflected in the opposite direction,  similar to ancient depictions of the Roman Emperor. 
+
+The growth of images being made were quite popular among nobility, while some images were also used to colonize kingdoms such of Spain and Portugal. Colonial images of the Christ child also began to wear vestments, a pious practice developed by the santero culture in later colonial years, carrying the depiction of holding the globus cruciger, a bird symbolizing a soul or the Holy Spirit or various paraphernalia related to its locality or region.
+
+The symbolism of the Child Jesus in art reached its apex during the Renaissance: the Holy Family was a central theme in the works of Leonardo da Vinci and many other masters. 
+
+Tàladh Chrìosda
+
+Tàladh Chrìosda (Christ Child Lullaby) is a Scottish carol from Moidart, Scotland. The Catholic priest Father Ranald Rankin, wrote the lyrics for Midnight Mass around the year 1855.  He originally wrote 29 verses in Scottish Gaelic, but the popular English translation is limited to five. The melody, Cumha Mhic Arois (lament for Mac Àrois), is from the Hebrides and was a sung as a protective charm for the fisherman away at sea. The rhythm mirrors the rhythm of the surf. It is sung in the Hebrides at Midnight Mass of Christmas Eve.
+
+In the apocryphal texts
+
+A number of apocryphal texts, the Infancy Gospels grew up with legendary accounts of the intervening period, and these are sometimes depicted. These stories were intended to show Jesus as having extraordinary gifts of power and knowledge, even from the youngest age. One common pious tale has the young Jesus animating sparrows out of clay belonging to his playmates. When admonished for doing so on the Sabbath, he causes the birds to fly away.[http://campus.udayton.edu/mary/Jesus%20as%20a%20Child.pdf Roten, J. and Janssen, T., "Jesus as a Child"]
+
+As pious image of veneration
+
+Several historically significant images of Jesus Christ as a child have received Canonical Coronations from the Pope, namely the Infant Jesus of Prague, the Santo Niño de Cebú in the Philippines, and the Santo Bambino of Aracoeli in Rome.
+
+In the seventeenth century veneration of the Christ Child under the title the "Little King of Beaune" was promoted by French Carmelites.  In the late nineteenth century devotion to the Holy Child of Remedy developed in Madrid. 
+
+Gallery
+
+File:Jesulein mit dem Kreuz Siena 1820 MfK Wgt.jpg|Child Jesus representing the Passion of Jesus Christ, c. 1820, Weingarten
+File:Mexico Holy Infant of Atocha.jpg|Holy Infant of Atocha, Mexico
+File:Santa Maria in Aracoeli Rome Santo Bambino.jpg|Santo Bambino Aracoeli Rome
+File:Santissimo Gesu de Malines.jpg|Santissimo Gesu de Malines
+Question:
+What name is given to any work of religious art which depicts the baby Jesus with his mother?
+Answer:
+Madonnas
+Passage:
+Call My Bluff
+Call My Bluff is a long-running British game show between two teams of three celebrity contestants. The point of the game is for the teams to take it in turn to provide three definitions of an obscure word, only one of which is correct. The other team then has to guess which is the correct definition, the other two being "bluffs". It was brought back to BBC TV by producer Richard L. Lewis.
+
+Examples of words used in Call My Bluff, taken from a book published in connection with the show in 1972, are Queach, Strongle, Ablewhacket, Hickboo, Jargoon, Zurf, Morepork, and Jirble. "Queach", for instance, was defined as "a malicious caricature", "a cross between a quince and a peach", or "a mini-jungle of mixed vegetation". The first and second of those particular definitions are bluffs.
+
+The theme music for the show was Ciccolino by Norrie Paramor. 
+
+Broadcast history
+
+Call My Bluff originally aired on BBC2 from 17 October 1965 to 22 December 1988. The original host was Robin Ray, later succeeded by Robert Robinson (from 1967).
+
+Robert Morley and Frank Muir captained the teams. Morley was later succeeded by Patrick Campbell, and Arthur Marshall took over upon Campbell's death.
+
+Various celebrities also stood in as team captains, including Kenneth Horne, Kenneth Williams and Alan Melville.
+
+The original series finished after Marshall's death, although a general change in the tone and atmosphere of broadcasting at the time may also have affected its temporary demise.
+
+The show was resurrected in 1996 after an eight-year rest (apart from one special edition on 16 April 1994 for BBC Two's thirtieth birthday, which still featured Robert Robinson, but this time with Joanna Lumley as a team captain opposite Frank Muir), now as a daytime series on BBC1. It began airing on 13 May 1996 with Alan Coren and Sandi Toksvig as the team captains and Bob Holness replacing Robinson as chairman.
+
+In 2003, Toksvig was replaced by the journalist Rod Liddle, and newsreader Fiona Bruce took the chair. The series finished again on 17 July 2005.
+
+Call My Bluff returned for a special during the BBC's 24 Hour Panel People in aid for Comic Relief 2011, with Alex Horne, Roisin Conaty, Russell Tovey, Tim Key, Sarah Cawood and David Walliams participating. The host was Angus Deayton.
+
+Transmissions
+
+BBC2
+
+Almost every single one of the first 263 episodes from Series 1–8 have been wiped from the BBC archives. The episodes that survived in the archives are Episode 3 of Series 2, Episodes 5 & 38 of Series 4, Episodes 3–4 of Series 5 and Episodes 15–16 of Series 8. 
+
+BBC1
+
+Book
+
+*Call my Bluff by Frank Muir and Patrick Campbell, published by Eyre Methuen, London, 1972.
+
+International versions
+
+References in other works 
+
+* On the musical episode of Two Pints of Lager and a Packet of Crisps Donna Henshaw and Janet Keogh (played by Natalie Casey and Sheridan Smith) sang:
+Smith: "Skankarific's not a word!"
+Casey: "It means terrifically skankified, it was on Call My Bluff"
+* An episode of the early-'80s LWT sketch-comedy series End of Part One parodied the show as Scrape My Barrel, where panelists had to figure out the meaning of the word working class.
+* In the "Europe" episode of QI (series E), a segment was featured entitled "Call My Euro Bluff", featuring stories about laws in the EU. The panel then had to decide whether each story was true or a "bløff" (Stephen Fry pronounced it "blerff").
+* The show (and in particular its host, Robert Robinson) was the subject of a sketch by Stephen Fry and Hugh Laurie in the second series of A Bit of Fry and Laurie.
+* In the Doctor Who episode "Bad Wolf" Call My Bluff is mentioned as one of the games hosted in the game station.
+* In May 2014 the quirks of the show were lampooned by Harry Enfield and Paul Whitehouse in BBC Two's satirical Harry and Paul's Story of the Twos, where the show was given the name "Speech Impediment" and the word chosen for the panel was paedophile.
+Question:
+Who hosted Call My Bluff?
+Answer:
+Robin Ray
+Passage:
+Percy Spencer
+Percy Lebaron Spencer (July 19, 1894 – September 8, 1969) was an American physicist and inventor. He became known as the inventor of the microwave oven. 
+
+Early life
+
+Spencer was born in Howland, Maine. Eighteen months later, Spencer's father died, and his mother soon left him in the care of his aunt and uncle. His uncle then died when Spencer was just seven years old. Spencer subsequently left grammar school to earn money to support himself and his aunt. From the ages of twelve to sixteen, he worked from sunrise to sunset at a spool mill. At the latter age, he discovered that a local paper mill was soon to begin using electricity, a concept little known in his rural home region, and he accordingly began learning as much as possible about the phenomenon. Therefore, when he applied to work at the mill, he was one of three people hired to install electricity in the plant, despite never having received any formal training in electrical engineering or even finishing grammar school. At the age of 18, Spencer decided to join the U.S. Navy. He had become interested in wireless communications after learning about the wireless operators aboard the Titanic when it sank. While with the navy, he made himself an expert on radio technology: "I just got hold of a lot of textbooks and taught myself while I was standing watch at night." He also subsequently taught himself trigonometry, calculus, chemistry, physics, and metallurgy, among other subjects. 
+
+Career
+
+By 1939, Spencer became one of the world’s leading experts in radar tube design. Spencer was worked at Raytheon, a contractor for the U.S. Department of Defense, as the chief of the power tube division. Largely due to his reputation and expertise, Spencer managed to help Raytheon win a government contract to develop and produce combat radar equipment for M.I.T.’s Radiation Laboratory. This was of huge importance to the Allies and became the military’s second highest priority project during WWII, behind the Manhattan Project. At that time, magnetrons were used to generate the microwave radio signals that are the core mechanism of radar, and they were being made at the rate of 17 per day at Raytheon. While working there, Spencer developed a more efficient way to manufacture them, by punching out and soldering together magnetron parts, rather than using machined parts. It also saw Spencer’s staff rise from 15 employees to 5,000 over the course of the next few years. His improvements were among those that increased magnetron production to 2,600 per day. For his work, he was awarded the Distinguished Public Service Award by the U.S. Navy.
+
+One day while building magnetrons, Spencer was standing in front of an active radar set when he noticed the candy bar he had in his pocket had melted. Spencer was not the first to notice this phenomenon, but he was the first to investigate it. He decided to experiment using food, including popcorn kernels, which became the world’s first microwaved popcorn. In another experiment, an egg was placed in a tea kettle, and the magnetron was placed directly above it. The result was the egg exploding in the face of one of his co-workers, who was looking in the kettle to observe. Spencer then created the first true microwave oven by attaching a high density electromagnetic field generator to an enclosed metal box. The magnetron emitted microwaves into the metal box blocking any escape, allowing for controlled and safe experimentation. He then placed various food items in the box, while observing effects and monitoring temperatures.
+
+Raytheon filed a patent on October 8, 1945 for a microwave cooking oven, eventually named the Radarange. In 1947, the first commercially produced microwave oven was about 6 feet tall, weighed about 750 lbs, and cost between $2,000 and $3,000. In 1967 the first relatively affordable ($495) and reasonably sized (counter-top) microwave oven was available for sale.
+
+Spencer became Senior Vice President and a Senior Member of the Board of Directors at Raytheon. He received 300 patents during his career, and a building at the Raytheon Missile Defense Center in Woburn, Massachusetts is named in his honor.  Other awards and achievements Spencer achieved, besides the Distinguished Public Service Award, included a membership of the Institute of Radio Engineers, Fellowship in the American Academy of Arts and Sciences, and an honorary Doctor of Science from the University of Massachusetts, despite having no formal education.
+
+For his invention, Spencer received no royalties, but he was paid a one-time $2.00 gratuity from Raytheon, the same token payment the company made to all inventors on its payroll at that time for company patents. 
+
+Personal life
+
+Spencer and his wife, Louise, had three children: John, James, and George. He counted Vannevar Bush, Omar Bradley, William Redington Hewlett and David Packard as friends. Later, he was married to Lillian Ottenheimer on November 18, 1960.
+
+Legacy
+
+Raytheon Integrated Defense Systems, which deals extensively in radar systems, has named a building after Spencer in the Woburn, Massachusetts facility. An early Radarange model sits in the lobby, across from the dining center.
+Question:
+In what year did Percy L. Spencer invent the microwave?
+Answer:
+one thousand, nine hundred and forty-seven
+Passage:
+Bet365 Gold Cup
+|}
+
+The Bet365 Gold Cup is a Grade 3 National Hunt chase in Great Britain which is open to horses aged five years or older. It is run at Sandown Park over a distance of about 3 miles and 5½ furlongs (5,934 metres), and during its running there are twenty-four fences to be jumped. It is a handicap race, and it is scheduled to take place each year in late April.
+
+History
+
+The event was established in 1957, and it was originally called the Whitbread Gold Cup. It was sponsored by Whitbread Brewers at the instigation of Colonel Bill Whitbread, the company's chairman, who had twice ridden in the Grand National as an amateur jockey. It was the first commercial sponsorship in British sport, and the longest-running until it ended in 2001. 
+
+In recent years the race has been sponsored by At the Races (2002–03), Betfred (2004–07) and Bet365 (2008–). The record for the longest-running sponsorship of a British horse race is now held by the Hennessy Gold Cup, which was launched seven months after the "Whitbread".
+
+The Bet365 Gold Cup takes place at a meeting which features both jump and flat races. Other events at this meeting include the Celebration Chase, the Gordon Richards Stakes and the Sandown Mile.
+Records
+
+Most successful horse (2 wins):
+* Larbawn – 1968, 1969
+* Diamond Edge – 1979, 1981
+* Topsham Bay – 1992, 1993
+* Ad Hoc – 2001, 2003
+
+Leading jockey (3 wins):
+* Ron Barry – Titus Oates (1971), Charlie Potheen (1973), The Dikler (1974)
+
+Leading trainer (7 wins):
+* Fulke Walwyn – Taxidermist (1958), Mill House (1967), Charlie Potheen (1973), The Dikler (1974), Diamond Edge (1979, 1981), Special Cargo (1984)
+
+Winners
+
+* Weights given in stones and pounds; Amateur jockeys indicated by "Mr".
+
+ The 1973 edition was run at Newcastle over 3 miles and 6 furlongs.
+
+ Proud Tarquin (1974), Cahervillahow (1991) and Givus a Buck (1993) all finished first but were disqualified following a Stewards' Enquiry.
+Question:
+Over which course is the 'Whitbread Gold Cup' run?
+Answer:
+Sandown Park Racecourse
+Passage:
+Famous Shopping Streets in London - Top Sightseeing
+Popular Streets of London |
+London has many famous shopping streets including…
+Oxford Street
+Has over over 300 shops and is one of the worlds busiest shopping streets. It runs for approximately a mile and a half (two and a half kilometres).
+Regent Street
+Is an upmarket shopping street – shops include Austin Reed, Hamleys Toy Shop, Liberty department store. The street features as one of the locations on the standard London version of the Monopoly board game.
+Bond Street
+Situated in Mayfair is more upmarket than nearby Regent Street and Oxford Street.
+Shops sell Fashion and Accessories; Art and Antiques; Fine Jewellery and Watches; and more
+Carnaby Street
+Consists of twelve pedestrianised streets with over 160 fashion and lifesyle retailers, including a large number of independent fashion boutiques.
+Savile Row
+Question:
+What is the name of the street in London famous for its tailors shops?
+Answer:
+Savile Row Bespoke Association
+Passage:
+Meet the Wife
+Meet the Wife is a 1960s BBC situation comedy written by Ronald Chesney and Ronald Wolfe, which featured Freddie Frinton as Freddie Blacklock with Thora Hird as his tyrannical wife, Thora. It ran to five series. 
+
+The series was based on a 1963 BBC television Comedy Playhouse production, "The Bed".  The theme tune was by Russ Conway and incidental music by Norman Percival and later Dennis Wilson. The producers were John Paddy Carstairs and later Robin Nash. 
+
+The Beatles song "Good Morning, Good Morning" on Sgt. Pepper's Lonely Hearts Club Band includes the lyric "It's time for tea and Meet the Wife". 
+
+Outline
+
+The series followed the various ups and downs of a middle-aged married couple. Of the two, Fred was the "straight man". He was a plumber who liked a bit of betting and a drink before coming home. His wife, Thora, was noted for her incessant talking while giving her husband a hard time. The couple had at least two children, one named Peter who is now 23 and married. The series has much in common with the later BBC sitcom Keeping Up Appearances, except that the central couple were unmistakably working class while in Appearances social climbing was a central element of the programme.
+
+The catchphrases of the series were both Thora's. The first occurred whenever the socially-aspiring Thora introduced her husband, when she would snobbishly pronounce his name "Frayed", remarking that he was "a Master plumber", with the emphasis on the word Master. The other was to throw an irate accusative tantrum at poor, downtrodden Fred, with the words, "Every time [such-and-such happens], you always go berserk" The word berserk was given great emphasis, as "Ber-Serk", and always had a successful comedic effect as Fred would wilt under the onslaught.
+
+Fred also had a catchphrase; always uttering an affected, over-the-top, supposed-upper class "Yai-sss", accompanied by tilted head, sycophantic smile and rapid eye-blinking, in response to Thora's request for confirmation (e.g. "Isn't that right, Fred?") on some point she was making to any member of the group she was aspiring to equal socially.
+
+Episodes
+
+Pilot
+
+The pilot episode, titled "The Bed", was first broadcast in series three of Comedy Playhouse on 28 December 1963.
+
+Fred and Thora have been using the same bed for 25 years and it is lumpy and past its best. Thora decides it's time to get not just a new bed but two separate beds, because Fred keeps taking the bed clothes, etc. However two beds cost much more than one so she settles on a nice bed but that night makes Fred's life a nightmare as she tries to get settled, so Fred goes to the spare room to sleep on the old bed. While still nagging him though he's now in another room, Thora finds his present and card for their Silver Anniversary tomorrow, costing the £15 she thought he'd wasted. She grabs the bed clothes and goes to the other room and gets in bed with Fred. Brian Oulton was the bed salesman.
+
+Series 1
+
+Series 2
+
+Series 3
+
+Series 4
+
+Series 5
+
+* There was also a "Meet the Wife" sketch on BBC's Christmas Night with the Stars for 1964.
+
+Surviving Episodes 
+
+In common with many other British television series and sitcoms of this era, not all episodes have survived. Only 17 episodes exist in the BBC archives as of April 2015. The following are currently thought to still exist:
+
+* Pilot
+* Series 1: 1-7
+* Series 2: 1, 2
+* Series 4: 1-6
+* Series 5: 7
+
+The first and the fourth series both exist in their entirety (as does the original pilot episode) but Series 2 (of which only the first two episodes remain) and Series 5 (of which only one episode exists) remain incomplete with the entire third series still missing from the TV archives as of 2015. 
+The following episodes (with plots outlined above) are now available to view on YouTube:
+* Pilot (Broadcast 28 December 1963 as part of the Comedy Playhouse series on BBC TV)
+* The Back (Broadcast 5 May 1964)
+* The Business Dinner (Broadcast 26 May 1964)
+* The Strain (Broadcast 2 June 1964)
+* Brother Tom (Broadcast 6 December 1965)
+* The Merry Widow (Broadcast 20 December 1965)
+* Journey Home (Broadcast 27 December 1965)
+* Old Time Dancing (Broadcast 7 November 1966)
+Question:
+Which pianist who had two Number 1 hits composed the theme tune to the 1960s sitcom ‘Meet The Wife’?
+Answer:
+Trevor Stanford
+Passage:
+Southernmost World Capital - Infoplease
+Southernmost World Capital
+What is the world's southernmost national capital?
+The Answer:
+That distinction belongs to Wellington, New Zealand .
+The cultural capital and geographical center of the country, Wellington is the only world         capital located in the roaring 40s         latitudes . It was the first world capital to welcome the new millennium .
+The capital of Iceland ,         Reykjavik, is the northernmost capital of the world.
+Here is a link to the Infoplease         Atlas if you want to see for yourself.
+—The Editors
+Question:
+What is the world's southernmost national capital?
+Answer:
+UN/LOCODE:NZWLG
+Passage:
+Carat (mass)
+The carat (ct) is a unit of mass equal to 200 mg (0.2 g; 0.007055 oz) and is used for measuring gemstones and pearls.
+The current definition, sometimes known as the metric carat, was adopted in 1907 at the Fourth General Conference on Weights and Measures,  and soon afterwards in many countries around the world.  The carat is divisible into one hundred points of two milligrams each. Other subdivisions, and slightly different mass values, have been used in the past in different locations.
+
+In terms of diamonds, a paragon is a flawless stone of at least 100 carats (20 g).
+
+The ANSI X.12 EDI standard abbreviation for the carat is CD. 
+
+Etymology
+
+First attested in English in the mid-15th century, the word carat came from Italian carato, which came from Greek kerátion (κεράτιον) meaning carob seed (literally "small horn") and potentially from  Arabic qīrāṭ (قيراط).  
+(diminutive of - keras, "horn" )
+and was a unit of weight 
+though it was not likely used to measure gold in classical times.
+The Latin word for carat is siliqua.
+This common belief that carat derives from carob seeds stems from the assumption that the seeds had unusually low variability in mass.
+
+However, one group of researchers has found that carob seeds in fact have typical variability compared to the seeds of other species. 
+
+This was not the only reason. It is said that, to keep regional buyers and sellers of gold honest, potential customers could retrieve their own carob seeds on their way to the market, to check the tolerances of the seeds used by the merchant. If this precaution was not taken, the potential customers would be at the mercy of "2 sets of carob seeds". One set of "heavier" carob seeds would be used when buying from a customer (making the seller's gold appear to be less). Another, lighter set of carob seeds would be used when the merchant wanted to sell to a customer.
+
+In the past, each country had its own carat. It was often used for weighing gold. Starting in the 1570s, it was used to measure weights of diamonds.
+
+Historical definitions
+
+UK Board of Trade 
+
+In the United Kingdom the original Board of Trade carat was exactly  grains (~3.170 gr);  in 1888, the Board of Trade carat was changed to exactly  grains (~3.168 gr).  Despite its being a non-metric unit, a number of metric countries have used this unit for its limited range of application.
+
+The Board of Trade carat was divisible into four diamond grains,  but measurements were typically made in multiples of  carat.
+
+Refiners' carats 
+
+There were also two varieties of refiners' carats once used in the United Kingdom — the pound carat and the ounce carat.  The pound troy was divisible into 24 pound carats of 240 grains troy each; the pound carat was divisible into four pound grains of 60 grains troy each; and the pound grain was divisible into four pound quarters of 15 grains troy each. Likewise, the ounce troy was divisible into 24 ounce carats of 20 grains troy each; the ounce carat was divisible into four ounce grains of 5 grains troy each; and the ounce grain was divisible into four ounce quarters of  grains troy each. 
+
+Greco-Roman 
+
+The solidus was also a Roman weight unit. There is literary evidence that the weight of 72 coins of the type called solidus was exactly 1 Roman pound, and that the weight of 1 solidus was 24 siliquae. The weight of a Roman pound is generally believed to have been 327.45 g or possibly up to 5 g less. Therefore, the metric equivalent of 1 siliqua was approximately 189 mg. The Greeks had a similar unit of the same value. 
+
+Gold fineness in carats comes from carats and grains of gold in a solidus of coin. One solidus 24 carats, 1 carat 
+ 4 grains, is preserved right up to this day. Woolhouse's Measures, Weights and Moneys of all Nations  gives gold fineness in carats of 4 grains, and silver in (pound) of 12 ounces each 20 dwt.
+
+Notes
+Question:
+Carats measure the purity of gold. What does the same for pearls?
+Answer:
+Grain (disambiguation)
+Passage:
+Kowloon
+Kowloon (; ; Hakka: Giu3lung2) is an area in Hong Kong comprising the Kowloon Peninsula and New Kowloon. It is bordered by the Lei Yue Mun strait to the east, Mei Foo Sun Chuen and Stonecutter's Island to the west, a mountain range, including Tate's Cairn and Lion Rock to the north, and Victoria Harbour to the south. It had a population of 2,019,533 and a population density of 43,033/km in 2006. The peninsula's area is approximately 47 km2. Together with Hong Kong Island, they contain 48 percent of Hong Kong's total population.
+
+The systematic transcription Kau Lung or Kau-lung was often used in derived place names before World War II, for example Kau-lung Bay instead of Kowloon Bay. Other spellings include Kauloong and Kawloong. 
+
+History
+
+The name Kowloon stems from the term Nine Dragons, which refers to eight mountains and a Chinese emperor: Kowloon Peak, Tung Shan, Tate's Cairn, Temple Hill, Unicorn Ridge, Lion Rock, Beacon Hill, Crow's Nest and Emperor Bing of Song. 
+The part of Kowloon south of Boundary Street, together with Stonecutters Island, was ceded by Qing China to the United Kingdom under the Convention of Peking of 1860. For many years the area remained largely undeveloped, used by the British mainly for tiger-hunting expeditions. 
+The part of Kowloon north of Boundary Street (New Kowloon) was leased by the British as part of the New Territories under the 1898 Second Convention of Peking for 99 years. Within New Kowloon is Kowloon City, which refers to an area of Hong Kong where the Kowloon Walled City used to be located. The Kowloon Walled City itself was demolished in 1993. The same area was called Guanfuchang () during the Song dynasty (9601279). Statutorily, "Kowloon" is used to refer to the area south of Boundary Street and the Stonecutters Island. "New Kowloon" has also remained part of the New Territories.
+
+In modern-day culture, however, New Kowloon is often not regarded as part of the New Territories, but as an integral part of the Kowloon urban area on both sides of Boundary Street. For tax purposes, New Kowloon is not considered part of Kowloon and is part of the New Territories, as is reflected in the statutes. Properties in New Kowloon are subject to payment of land leases, as in the New Territories.
+
+Large-scale development of Kowloon began in the early-20th century, with the construction of the Kowloon-Canton Railway and the Kowloon Wharf, but because of Kowloon's close proximity to Kai Tak Airport, building construction was limited by flight paths. As a result, compared to Hong Kong Island, Kowloon has a much lower skyline. After World War II, Kowloon became extremely congested when slums for refugees from the newly established China gave way to public housing estates, mixed with private residential, commercial and industrial areas.
+
+West Kowloon was once home to a dockyard for the Royal Navy. The area has been reclaimed and is now the site of several developments.
+
+Demographics
+
+, 2,108,419 people live in Kowloon. 
+
+94.2% of Kowloon's residents are of Chinese ethnicity. The largest ethnic minority groups are Indonesians (1.8%), Filipinos (1.5%), Indians (0.5%), Nepalese (0.4%), and Whites (0.3%)., which marks the northern boundary of the city, symbolises the Spirit of Lion Rock, a virtue of diligence and perseverance owned by Kowlooners. 86% of Kowloon's residents use Cantonese as their usual language, while 2.3% use English and 1.2% use Mandarin.
+
+Localities
+
+Kowloon comprises the following localities of Hong Kong; note that this list may not be complete:
+
+*Tsim Sha Tsui
+*Kwun Chung
+*Yau Ma Tei
+*Mong Kok
+*Prince Edward
+*West Kowloon
+*Tai Kok Tsui
+*Sham Shui Po
+*Cheung Sha Wan
+*Lai Chi Kok
+*Shek Kip Mei
+*Kowloon Tong
+*Kowloon City
+*Kai Tak
+*To Kwa Wan
+*Ma Tau Wai
+*Hung Hom
+*Ho Man Tin
+*Wong Tai Sin
+*San Po Kong
+*Hammer Hill
+*Ngau Chi Wan
+*Tsz Wan Shan
+*Diamond Hill
+*Kowloon Bay
+*Ngau Tau Kok
+*Kwun Tong
+*Sau Mau Ping
+*Lam Tin
+*Yau Tong
+*Tiu Keng Leng
+*Cha Kwo Ling
+*Lei Yue Mun
+
+Administration
+
+Kowloon comprises the following districts: 
+*Kowloon City
+*Kwun Tong
+*Sham Shui Po
+*Wong Tai Sin
+*Yau Tsim Mong
+
+Politics
+
+Kowloon covers two geographical constituencies for the Legislative Council of Hong Kong:
+*Kowloon East includes Wong Tai Sin and Kwun Tong.
+*Kowloon West includes Yau Tsim Mong, Sham Shui Po and Kowloon City.
+
+Gallery
+
+Kowloon Bay CBD in front of former quarry in East Kowloon.jpg|Skyscrapers in front of a former quarry in Kowloon Bay, East Kowloon
+The Urban Council Centenary Garden Fountain 2009.jpg|Centenary Garden Fountain, Tsim Sha Tsui
+Maze Garden, Kowloon Park, Tsim Sha Tsui, Kowloon, Hong Kong - DSC06248.JPG|Maze Garden, Kowloon Park, Tsim Sha Tsui
+Kowloon West CBD 2.jpg|High-rise buildings near Lai Chi Kok, in northwest Kowloon 
+East Kowloon Development.jpg|CBD of Kwun Tong. Constructed as part of an Urban renewal programme.
+West Kowloon at Dusk.jpg|West Kowloon at dusk as viewed from Hong Kong Island
+Lionrock.jpg|Lion Rock
+Yau Ma Tei Police Station, Public Square Street, Yau Ma Tei.jpg|Yau Ma Tei Police Station at Public Square Street
+Question:
+What city is Kowloon a part of?
+Answer:
+Kong Hong
+Passage:
+Alliumphobia - garlic fear, garlic phobia, fear of garlic ...
+Alliumphobia - garlic fear, garlic phobia, fear of garlic, phobia of garlic
+Websites
+Welcome to my site for Alliumphobia. In hopes of trying to provide some helpful information, I have searched the Internet looking for information on Alliumphobia (garlic fear, garlic phobia, fear of garlic, phobia of garlic). Please note I am not a doctor and only provide this site for informational purposes. I hope you will find some benefit in the site. Best wishes! ~Edd~
+What is Alliumphobia?
+Alliumphobia is the fear of garlic. People who fear garlic may also avoid other plants that have pungent odors, such as chives, onions or shallots. The origin of the word allium is Latin (meaning garlic bulb) and phobia is Greek (meaning fear). Alliumphobia is considered to be a specific phobia, which is discussed on the home page.
+What are the causes?
+It is generally accepted that phobias arise from a combination of external events (i.e. traumatic events) and internal predispositions (i.e. heredity or genetics). Many specific phobias can be traced back to a specific triggering event, usually a traumatic experience at an early age. Social phobias and agoraphobia have more complex causes that are not entirely known at this time. It is believed that heredity, genetics, and brain chemistry combine with life-experiences to play a major role in the development of phobias. (Wikipedia - phobia).
+What are the symptoms?
+As with any phobia, the symptoms vary by person depending on their level of fear. The symptoms typically include extreme anxiety, dread and anything associated with panic such as shortness of breath, rapid breathing, irregular heartbeat, sweating, excessive sweating, nausea, dry mouth, nausea, inability to articulate words or sentences, dry mouth and shaking.  .
+Can I take medicine?
+Medicine can be prescribed, but please note that these medications can have side effects and/or withdrawal systems that can be severe. It is also important to note that medicines do not cure phobias, at best they only temporarily suppress the systems. However, there are treatments for phobias, which include counseling, hypnotherapy, psychotherapy, and Neuro-Linguistic programming. Please click on the link at the top of the page called “Treatment Information” to find out more information on these types of treatments.
+ 
+Note: If you are going to do a search, some common Alliumphobia search terms include Alliumphobia, garlic fear, garlic phobia, fear of garlic, phobia of garlic.
+DISCLAIMER: PLEASE READ - By printing, downloading, or using you this information, you agree to the following: 1) I am only providing this material for information and research purposes. 2) The information is "AS IS", "WITH ALL FAULTS". 3) You understand the information was gathered by doing a general search on Internet search engines for the following terms: Alliumphobia,  garlic fear, garlic phobia, fear of garlic, phobia of garlic. 4) User assumes all risk of use, damage, or injury. 5) Information may have errors or be outdated. 6) Some information is from historical sources or represents opinions of the author. 7) You agree that we have no liability for any damages. 8) I are not liable for any consequential, incidental, indirect, or special damages. Finally, if you do not agree to terms, do not use the information. It is for informational and research purposes only! If you have any questions please contact me edd@ebozman.com
+Question:
+Alliumphobia is the irrational fear of which plant?
+Answer:
+Garlic scape
+Passage:
+River Dove, Central England
+The River Dove is the principal river of the southwestern Peak District, in the Midlands of England and is around 72 km in length. It rises on Axe Edge Moor near Buxton and flows generally south to its confluence with the River Trent at Newton Solney.  From there, its waters reach the North Sea via the Humber Estuary. For almost its entire course it forms the boundary between the counties of Staffordshire (to the west) and Derbyshire (to the east). The river meanders past Longnor and Hartington and cuts through a set of stunning limestone gorges, Beresford Dale, Wolfscote Dale, Milldale and Dovedale. 
+
+The river is a famous trout stream. Charles Cotton's Fishing House, which was the inspiration for Izaak Walton's The Compleat Angler,  stands in the woods by the river near Hartington.
+
+The river's name is now usually pronounced to rhyme with "love", but its original pronunciation rhymed with "rove". This pronunciation is still used by some residents of the lower reaches of the river.
+
+Dovedale
+
+From Hartington to its confluence with the River Manifold at Ilam, the river flows through a series of scenic limestone valleys, known collectively as Dovedale. Dovedale is also particularly used for the name of that section between the stepping stones under Thorpe Cloud and Milldale. The Dovedale gorge is considered so scenic that it attracts a million visitors a year.  Good riverside paths make the whole route accessible to walkers.
+
+Much of the dale is in the ownership of the National Trust, being part of their  South Peak Estate. Dovedale itself was acquired in 1934, with successive properties being added until 1938, and Wolfscote Dale in 1948. Dovedale was declared a national nature reserve in 2006.
+
+Dovedale's attractions include rock pillars such as Ilam Rock,  Viator's Bridge, and the limestone features Lovers' Leap and Reynard's Cave.
+
+Lower Dove
+
+Once the river leaves Dovedale it combines with the Manifold and enters a wider valley near Thorpe. The valley increases in size as the river continues south to reach Mapleton and then Mayfield, where it is crossed by the medieval Hanging Bridge. At this point it is joined by the Bentley Brook, and then nearby at Church Mayfield, by the Henmore Brook. 
+
+The Dove now flows in a south-westerly direction, passing Norbury and Ellastone, where it turns south until it reaches Rocester. To the south of the village, at Combridge it is joined by its largest tributary the River Churnet. As it reaches the ancient Dove Bridge, it is joined by the River Tean, the river now meandering through a wide valley which turns east as it passes between Doveridge and Uttoxeter; the only town along its length.
+
+Beyond this point riverside communities, such as Marchington, Sudbury and Scropton, tend to be located at the edge of the valley; although the village of Hatton encroaches across the valley floor, where it is linked by a bridge to Tutbury whose Castle overlooks the crossing.  The river continues east passing the villages of Marston, Rolleston and Egginton, where it is joined by its last tributary, the Hilton Brook. The river is divided at this point, with some flow passing through the mill fleam at Clay Mills, the two arms rejoin downstream of the A38 road bridge, and then to the south, the Dove reaches its confluence with the River Trent, at Newton Solney.
+
+Tributaries
+
+Alphabetical list of tributaries, extracted from the Water Framework Directive list of water bodies for the River Dove: 
+
+*Alders Brook which joins the Dove near Rocester
+*Bentley Brook
+*River Churnet
+*Foston Brook which joins the Dove near Rocester
+*Henmore Brook 
+*Hilton Brook 
+*River Manifold
+*Marchington Brook which joins the Dove near Marchington
+*Marston Brook which joins the Dove near Marchington
+*Picknall Brook which joins the Dove near Uttoxeter
+*Rolleston Brook which joins the Dove near Rolleston on Dove
+*River Tean
+*Tit Brook which joins the Dove near Ellastone
+Question:
+The Dove, Derwent, Erewash and Soar are all tributaries of which river, the third longest in the UK?
+Answer:
+Trent
+Passage:
+List of all European countries (the continent Europe) in ...
+List of all European countries (the continent Europe) in alphabetical order
+Sorted by square kilometers
+Europe
+Europe is a continent located on the more so on the Western hemisphere. This continent is largely responsible for what's now know as Western culture that has a much more distinctive flavor compared to the Eastern Hemisphere (mainly Asian influenced). Europe has 50 countries, and they make up a population of 733 million, which makes them third in population after Asia and Africa.
+A lot of mythology comes from Europe particularly Greek and Roman. One of the most famous stories is the Trojan War that still gets talked about today, and even in mainstream media. A movie called "Troy" was released in 2004 based off the storyline. Europe is responsible for spreading the English language (the most common language used throughout the world), but Christianity. These are two of the top influences of spreading Western culture. Also, early United States was built on this European influence. One can still see the influence of early buildings on the East Coast of the United States mainly the New England area, and even the speaking style.
+Europe has a very interesting landscape due to some locations particularly Southern Europe having more of a highland and mountainous feel, and other sections having a more plains, undersea kind of feel. A lot is in part to the Gulfstream given the area more water spots as well as warmer climates. Due to this, there are general areas that have a mixed forest feel. You can see the influence of man and how they affect the area for general vegetation as well as wildlife.
+Europe has a very diverse sense of people, there demographics include English, Spanish, French, Polish, Irish, German, and many more. There are a great number of languages spoken in Europe, but the main ones spoken come from the Indo-European Family including Albanian, Armenian, Baltic Languages, Celtic, Germanic, and many more. Some of the more popular ones known worldwide are the Romance languages such as French, Spanish, Galician, and Italian to name a few.
+The most influential part of Europe is the religion which is based on Christianity in different denominations such as Catholic, Eastern Orthodox and Protestant Churches. A lot of European art is based off religion, and you can see that in many different classic pieces. Even in early culture, religion was a big influence until the Renaissance and Reformation movements that also had a big effect on a more global scale.
+List of all European countries (the continent Europe) in alphabetical order
+1
+Question:
+Alphabetically, what is the first country in Europe?
+Answer:
+Republic of Albania
+Passage:
+Alias - BLM
+Alias
+Alias
+ >   >   >   >  The History Mystery Examiner Online  >  The Mystery of Butch and Sundance  > Alias 
+Butch Cassidy and the Sundance Kid, The Tall Texan, Doc Holliday, Cattle Kate Watson, Calamity Jane. The history of the west is full of men and women with some very colorful names. Some were vicious outlaws, some were lawmen, and others were simply colorful characters. Most of these names were a nickname or alias used to hide their true identity.
+Learn about the people behind some of the old west's best names in our alias quiz on the games page.
+"Wild Bill" Hickok-- Was a Sheriff, a Cavalry Scout, an army spy, and a performer in several Wild West shows. Hickok's real name was James. One story claims Hickok received his nickname when he stopped an unruly mob from hanging a young boy and women shouted out "good for you Wild Bill". "Wild Bill" Hickok was shot in the back while he played cards in the Dakota Territory on August 2, 1876.
+"Flat Nose" George Curry- Like many outlaws "Flat Nose" George Curry began his outlaw ways as a simple cattle thief. Then he moved on to robbing banks and trains. He even rode with the Wild Bunch for several years. George got his nickname after a horse kicked him in the nose. Like most outlaws "Flat Nose" George Curry was tracked down and killed by a posse. They shot him and dumped his body in an unmarked grave near Thompson, Utah.
+Butch Cassidy-Butch Cassidy was born Robert Leroy Parker in 1866. As a teenager Parker met the outlaw Mike Cassidy and took his last name. Later he worked for a short time as a butcher in Wyoming. The infamous Butch Cassidy was born. When you are a criminal as well known as Butch Cassidy it is necessary to use a false name to hide your identity. Butch had many including George Cassidy and Lowe Maxwell.
+Cattle Kate Watson-Her real name was Ella and she grew up in Kansas. But Cattle Kate Watson became famous for her cattle rustling ways in Johnson County Wyoming. Kate and James Averill were accused of stealing stray calves from the open range, branding them, and quickly selling them. Soon the large cattle ranchers tired of the thieving ways of Watson and Averill. They decided to take the law into their own hands. Kate and James Averill were taken from their homes at gunpoint and hung from a dead Cottonwood Tree. This incident marked the beginning of the Johnson County War, a long and bloody fight for control of the Wyoming cattle business.
+Question:
+What alias was used by Robert LeRoy Parker?
+Answer:
+Robert Leroy Parker
+Passage:
+Ali MacGraw
+Elizabeth Alice "Ali" MacGraw (born April 1, 1939) is an American actress, model, author, and animal rights activist.
+
+MacGraw first gained attention with her role in Goodbye, Columbus in 1969, for which she won the Golden Globe Award for Most Promising Newcomer. She reached international fame in 1970's Love Story, for which she was nominated for an Academy Award for Best Actress and won the Golden Globe Award for Best Actress in a Motion Picture – Drama. In 1972, MacGraw was voted the top female box office star in the world  and was honored with a hands and footprints ceremony at Grauman's Chinese Theatre after having been in just three films. MacGraw went on to star in the crime film The Getaway (1972) and married co-star Steve McQueen. She later appeared in the action film Convoy (1978), and the 1983 television miniseries The Winds of War. In 1991, she published her autobiography, Moving Pictures.
+
+Early life
+
+MacGraw was born in Pound Ridge, New York, the daughter of commercial artists Frances (née Klein; 1901–1980)  and Richard MacGraw.  She has one brother, Dick, an artist. Her father was of Scottish descent, while her maternal grandparents were Hungarian. Her mother was from a Jewish family, but did not disclose this to her father.  MacGraw described her father as "violent".  She attended Rosemary Hall in Wallingford, Connecticut and Wellesley College in Wellesley, Massachusetts.
+
+Career
+
+Early career
+
+Beginning in 1960, MacGraw spent six years working at Harper's Bazaar magazine as a photographic assistant to fashion maven Diana Vreeland. She worked at Vogue magazine as a fashion model, and as a photographer's stylist. She has also worked as an interior decorator.
+
+Film and television
+
+MacGraw started her acting career in television commercials, including one for the Polaroid Swinger camera. MacGraw gained critical notice in the 1969 film Goodbye, Columbus, but real stardom came in 1970 when she starred opposite Ryan O'Neal in Love Story, one of the highest grossing films in U.S. history.  MacGraw was nominated for the Academy Award for Best Actress for that performance. Following Love Story, MacGraw was celebrated on the cover of Time magazine.
+
+In 1972, after appearing in just three films, she had her footprints and autograph engraved at Grauman's Chinese Theatre. She then starred opposite Steve McQueen in The Getaway (1972), which was one of the year's top ten films at the box office. Having taken a five-year break from acting, in 1978 MacGraw re-emerged in another box office hit, Convoy (1978), opposite Kris Kristofferson. She then appeared in the films Players (1979) and Just Tell Me What You Want (1980), directed by Sidney Lumet.
+
+In 1983, MacGraw starred in the highly successful television miniseries The Winds of War. In 1984, MacGraw joined hit ABC prime-time soap opera Dynasty as Lady Ashley Mitchell, which, she admitted in a 2011 interview, she did for the money.  She appeared in 14 episodes of the show before her character was killed off in the infamous "Moldavian wedding massacre" cliffhanger episode in 1985.
+
+Stage
+
+MacGraw made her Broadway theatre debut in New York City in 2006 as a dysfunctional matriarch in the drama Festen (The Celebration). 
+
+In 2016, MacGraw reunited with Love Story co-star Ryan O'Neal in a staging of A.R. Gurney's play Love Letters. 
+
+Magazine recognition
+
+In 1991, People magazine selected MacGraw as one of its "50 Most Beautiful People" in the World. 
+
+In 2008 GQ magazine listed her in their "Sexiest 25 Women in Film Ever" edition. 
+
+Yoga
+
+Having become a Hatha Yoga devotee in her early 50s, MacGraw produced a  yoga video with the American Yoga Master Erich Schiffmann, Ali MacGraw Yoga Mind and Body. This video was a bestseller upon release and still popular more than a decade later. The video's impact was such that in June 2007 Vanity Fair magazine credited MacGraw with being one of the people responsible for the practice's recent popularity in the United States.
+
+Animal welfare
+
+In July 2006, MacGraw filmed a public service announcement for People for the Ethical Treatment of Animals (PETA), urging residents to take their pets with them in the event of wildfires.  In 2008, she wrote the foreword to the book Pawprints of Katrina  by author Cathy Scott and photography by Clay Myers about Best Friends Animal Society and the largest pet rescue in U.S. history.  An animal rights advocate throughout her life, she received the Humane Education Award by Animal Protection of New Mexico for speaking out about animal issues. 
+
+Personal life
+
+MacGraw has acknowledged having had an abortion in her early 20s when the procedure was illegal.  After college, she married Harvard beau Robin Hoen, a banker, but they divorced after a year and a half. 
+
+On October 24, 1969, MacGraw married film producer Robert Evans; their son, Josh Evans, is an actor, director, producer and screenwriter. They divorced in 1972 after she became involved with Steve McQueen on the set of The Getaway. She married McQueen on August 31, 1973, and divorced him in 1978.
+
+MacGraw's autobiography, Moving Pictures (which she describes as "not well written"), revealed her struggles with alcohol and sex addiction. She was treated for the former at the Betty Ford Center.
+
+When former husband Evans received his star on the Hollywood Walk of Fame in 2002, she accompanied him. Their grandson Jackson was born in December 2010 to Josh and his wife, singer Roxy Saint. 
+
+Since 1994 she has lived in Tesuque, New Mexico, after "fleeing Malibu" when a house she was renting burned down. 
+
+Filmography
+
+Films
+
+Television
+
+* Made two appearances on The Oprah Winfrey Show, once in 1990, then in the farewell season in 2011.
+Question:
+Who did Ali McGraw marry after they had made The Getaway together?
+Answer:
+Solar Productions
+Passage:
+Will This Be A Breakthrough Year for Women Directors at ...
+Will This Be A Breakthrough Year for Women Directors at the Academy Awards?
+Will This Be A Breakthrough Year for Women Directors at the Academy Awards?
+{{article.article.images.featured.caption}}
+Opinions expressed by Forbes Contributors are their own.
+Full Bio
+The author is a Forbes contributor. The opinions expressed are those of the writer.
+Loading ...
+Loading ...
+This story appears in the {{article.article.magazine.pretty_date}} issue of {{article.article.magazine.pubName}}. Subscribe
+In 86 years, only four women have been nominated for a best director Oscar. Only one, Kathryn Bigelow, has won. Lina Wertmuller was the first woman nominated for the 1976 film, Seven Beauties. Jane Campion was number two for the 1993 film, The Piano. Sofia Coppola is number three for the 2003 film, Lost in Translation, and number four is the only one to make it to the podium, Kathryn Bigelow for her film The Hurt Locker.
+As you can tell from these very low numbers it is very difficult for a woman to garner a best director nomination. There are several reasons for this.
+One reason is the low number of women in the directing branch. The way that you get an Oscar nomination is that the individual branch members nominate you. Of the over 6,000 members of the Academy of Motion Pictures Arts and Sciences, only 377 are members of the directing branch. And, only 36 of those 371 people are women. That's under 10%.
+The second reason is that many women -- though not all women as exemplified by Kathryn Bigelow -- make movies about women. These movies are never seen to have the gravitas as movies about men. In 2014, only two of the nine films nominated for best picture -- Gravity and Philomena -- told stories about women, and none of those nine were directed by a woman. In 2013, again there were nine best picture nominations, and two -- Beasts of a Southern Wild and Zero Dark Thirty -- had women (one has a girl) as the central character. And keep in mind that Kathryn Bigelow who won many critics awards as best director for that film was passed over by the Academy for her second nomination. When she makes a movie about men at war she gets the win, but when she makes a movie about war with a central female character she gets snubbed.
+Ava DuVernay on the set of Selma
+But this year could be a breakthrough year for women directors. I know it is overly optimistic and a tad delusional to think that women could get two nominations for best director, but there are two women -- Angelina Jolie for Unbroken and Ava DuVernay for Selma -- who should get HARD looks come awards time. The fact that both women have made movies about men will just enhance their chances of getting noticed.
+Angelina Jolie, arguably, has had the best year of her career. As an actress she was able to propel Maleficent to great box office heights -- this past weekend it crossed $500 million worldwide at the box office. She just co-convened an international conference on sex crimes in war, and was made a dame by Queen Elizabeth.  But it will be her film Unbroken based on the best selling book of the same name by Laura that will get Jolie into the Oscar conversation as a potential best director.
+The movie just screams Oscar. It was written by Joel and Ethan Coen with additional writing credits to William Nicholson and Richard LaGravenese. And it's a story about a man who survived incredible odds. Here's the imdb description: "A chronicle of the life of Louis Zamperini, an Olympic runner who was taken prisoner by Japanese forces during World War II." And keep in mind that Jolie is not a directing novice. She made the really terrific and underseen film In the Land of Blood and Honey about the Bosnian war in 2011.
+Ava DuVernay started her career as a film publicist. But she had stories to tell so she became a director. She made two small, beautiful films, I Will Follow and Middle of Nowhere -- for which she won best director at Sundance. Both are stories about women we don't get to see often on our big screens. She also is the brains behind AFFRM - African American Film Festival Releasing Movement which is getting the stories of black people from all over the world into our theatres. She worked with actor David Oyelowo on Middle of Nowhere and when Lee Daniels left the film Selma which was in development he told the producers to call DuVernay to take over. It is an epic story of the civil rights movement. There is no doubt it will have gravitas especially since  the producers include both Oprah and Brad Pitt.
+Question:
+As at 2003, how many women have won a Best Director Oscar?
+Answer:
+None
+Passage:
+Tine (structural)
+Tines or prongs or teeth are parallel or branching spikes forming parts of a tool or natural object.   They are used to spear, hook, move or otherwise act on other objects.  They may be made of metal, wood, bone or other hard, strong material.
+
+The number of tines (also written tynes) on tools varies widely – a pitchfork may have just two, a garden fork may have four, and a rake or harrow many.  Tines may be blunt, such as those on a fork used as an eating utensil; or sharp, as on a pitchfork; or even barbed, as on a trident. The terms "tine" and "prong" are mostly interchangeable. A tooth of a comb is a tine.
+
+Tines and prongs occur in nature—for example, forming the branched bony antlers of deer or the forked horns of pronghorn antelopes. The term "tine" is also used for mountains, such as the fictional Silvertine in The Lord of the Rings.
+
+In chaos theory (physics, non-linear dynamics), the branches of a bifurcation diagram are called tines and subtines.
+Question:
+Which four-letter word means ‘the prong of a fork’?
+Answer:
+Tine (Norway)
+Passage:
+Dik-dik
+A dik-dik is a small antelope in the genus Madoqua that lives in the bushlands of eastern and southern Africa.
+
+Dik-diks stand about 30 – at the shoulder, are 50 – long, weigh 3 – and can live for up to 10 years. Dik-diks are named for the alarm calls of the females. In addition to the females' alarm call, both the male and female make a shrill, whistling sound. These calls may alert other animals to predators.
+
+Physical characteristics
+
+Female dik-diks are somewhat larger than males. The males have horns, which are small (about 3 in or 7.5 cm), slanted backwards and longitudinally grooved. The hair on the crown forms an upright tuft that sometimes partially conceals the short, ribbed horns of the male. The upper body is gray-brown, while the lower parts of the body, including the legs, belly, crest, and flanks, are tan. A bare black spot below the inside corner of each eye contains a preorbital gland that produces a dark, sticky secretion. Dik-diks insert grass stems and twigs into the gland to scent-mark their territories.
+
+To prevent overheating, dik-diks have elongated snouts with bellows-like muscles through which blood is pumped. Airflow and subsequent evaporation cools this blood before it is recirculated to the body. However, this panting is only implemented in extreme conditions—dik-diks can tolerate air temperatures of up to 40 °C.[http://www.awf.org/content/wildlife/detail/dikdik Dik dik]. African Wildlife Foundation. Web. 4 February 2010.
+
+Habitat
+
+The dik-dik lives in shrublands and savannas of eastern Africa. Dik-diks seek habitats with a plentiful supply of edible plants such as shrubs. Dik-diks may live in places as varied as dense forest or open plain, but they require good cover and not too much tall grass.  They usually live in pairs in territories of about 5 ha. The territories are often in low, shrubby bushes (sometimes along dry, rocky streambeds) with plenty of cover. Dik-diks, with their dusty colored fur, are able to blend in with their surroundings . Dik-diks have an established series of runways through and around the borders of their territories that are used when they feel threatened. 
+
+Diet
+
+Dik-diks are herbivores. Their diet mainly consists of foliage, shoots, fruit and berries, but little or no grass. They receive sufficient amounts of water from their food, making drinking unnecessary. Like all even-toed ungulates, they digest their food with the aid of micro-organisms in their four-chambered stomachs. After initial digestion, the food is repeatedly eructated and rechewed, a process known also as rumination, or 'chewing the cud'. Dik-diks' tapering heads may help them eat the leaves between the spines on the acacia trees, and feed while still keeping their head high to detect predators.
+
+Reproduction
+
+Dik-diks are monogamous, and conflicts between territorial neighbors are rare. When they occur, the males from each territory dash at each other, stop short, vigorously nod their heads and turn around. They will repeat this process, increasing the distance each time until one stops. Males mark their territories with dung piles, and cover the females' dung with their own.  Monogamy in dik-diks may be an evolutionary response to predation;  surrounded by predators, it is dangerous to explore, looking for new partners.  Pairs spend about 64% of their time together. Males, but not females, will attempt to obtain extra-pair mating when the opportunity arises.
+
+Females are sexually mature at 6 months and males at 12 months. The female gestates for 169 to 174 days and bears a single offspring. This happens up to twice a year (at the start and finish of the rainy season). Unlike other ruminants, the dik-dik is born with its forelegs laid back alongside its body, instead of them being stretched forward. Females weigh about 560 to at birth, while males weigh 725 to. The mother lactates for six weeks, feeding her fawn for no longer than a few minutes at a time. The survival rate for young dik-diks is 50%. The young stay concealed for a time after birth, but grow quickly and reach full size by seven months. At that age, the young are forced to leave their parents' territory. The fathers run the sons off the territory and the mothers run off the daughters.Scheibe, E. (1999). [http://animaldiversity.ummz.umich.edu/site/accounts/information/Madoqua_kirkii.html Madoqua kirkii]. Animal Diversity. University of Michigan Museum of Zoology. Web. 27 January 2010.
+
+Predators
+
+Dik-diks are hunted primarily by monitor lizards, caracals, lions, hyenas, wild dogs and humans. Other predators include leopards, cheetahs, jackals, baboons, eagles, hawks and pythons. Dik-diks' adaptations to predation include excellent eyesight and the ability to reach speeds up to 42 km/h.
+
+Classification
+
+The four species of dik-dik are:
+
+* Madoqua gunther (Günther, 1894) – Günther's dik-dik
+* M. kirkii (Günther, 1880) – Kirk's dik-dik
+* M. piacentinii (Drake–Brockman, 1911) – Silver dik-dik
+* M. saltiana (Desmarest, 1816) – Salt's dik-dik
+Question:
+What type of creature is a dik dik
+Answer:
+Botswanan Antelopes

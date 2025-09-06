@@ -1,0 +1,371 @@
+Passage:
+Nautical Measurement - Fact Monster
+Nautical Measurement
+Math > Measurement
+Nautical Measurement
+Below is the unit of length for sea or nautical miles, as well as information about fathoms, cable length, and knots.
+A fathom is 6 feet, the length of rope a man can extend from open arm to open arm. The rope was lowered into the sea to measure depth.
+A cable length is the length of a ship's cable, about 600 feet.
+A nautical mile is 10 cable lengths, or 6,076 feet.
+1 nautical mile = 1.1508 miles
+A knot is the measure of speed on water. One knot is 1 nautical mile per hour.
+Question:
+Which measurement is a tenth of a nautical mile?
+Answer:
+Data Cable
+Passage:
+'Some Like it Hot' - The greatest ending line in movies ...
+'Some Like it Hot' - The greatest ending line in movies - YouTube
+'Some Like it Hot' - The greatest ending line in movies
+Want to watch this again later?
+Sign in to add this video to a playlist.
+Need to report the video?
+Sign in to report inappropriate content.
+Rating is available when the video has been rented.
+This feature is not available right now. Please try again later.
+Uploaded on May 28, 2010
+These are the final moments of a great film. Jack Lemmon tells Joe E. Brown why they can't get married. For a review and appreciation of the film, visit:
+Question:
+'Well, nobody's prefect 'is the last line of which film?
+Answer:
+Some like it hott
+Passage:
+John Kerry or George W. Bush Misquotes : snopes.com
+John Kerry or George W. Bush Misquotes : snopes.com
+"It's time for the human race to enter the solar system."
+- George W. Bush
+Origins:   The ramp-up towards the November 2004 Presidential election has been especially dirty, with partisans of each side throwing as much mud as they can at the other party's candidate in an effort to sway more votes towards their own guy. It was therefore to be expected that this list of stunningly stupid statements would be trotted out anew as folks looked for even more ways to undermine the credibility of the men vying for the top job.
+As is apparent from the two examples listed above, the same list of bloopers is circulated about both the 2004 Democratic and Republican candidates for the presidency, in both cases offered as proof that each man is patently unfit to hold high office.
+Yet these "proofs" are false, because all but one of the 2004 crop of groaners supposedly uttered by President George W. Bush or Senator John Kerry are statements either made by former Vice-President Dan Quayle or ones which have for years been attributed to him:
+"Quite frankly, teachers are the only profession that teach our children."
+"We are going to have the best educated American people in the world."
+"We have a firm commitment to NATO. We are part of NATO. We have a firm commitment to Europe. We are part of Europe."
+"The future will be better tomorrow."
+"One word sums up probably the responsibility of any vice president, and that one word is 'to be prepared.'"
+"For NASA, space is still a high priority."
+"[It's] time for the human race to enter the solar system."
+"We are ready for any unforeseen event that may or may not occur."
+"I stand by all the misstatements that I've made."
+And some are "Quayleisms";  that is, comments now widely attributed to the former Vice-President that were actually coined by humor writers as examples of the sort of things he might say:
+[MAD Magazine, 1991]
+"If we don't succeed, we run the risk of failure."
+"A low voter turnout is an indication of fewer people going to the polls."
+"It isn't pollution that's harming the environment. It's the impurities in our air and water that are doing it."
+John Kerry's involvement with the collection is new, but just prior to the 2000 presidential election these same quotes were circulated about both Vice-President Al Gore and then Governor of Texas
+George W.
+Bush. Although this list (and similar compilations) might have begun life as an assortment of Dan Quayle quotes, it has since become a way of slamming the candidates du jour, being rolled forward from election to election.
+Only a lone entry in the 2004 Bush and Kerry lists was anything other than a Dan Quayle utterance or a Quayleism: "The vast majority of our imports come from outside the country." Though it is not a word-for-word match, it is close enough to a statement made by President
+George W.
+Bush in 2000 to be recognizable: "More and more of our imports come from overseas."  (Although not all imports necessarily come from "overseas," when President Bush made this statement he was specifically referring to foreign oil imports, even though the two largest foreign suppliers of oil to the U.S. are the fellow North American countries of Canada and Mexico.)
+Barbara "freight state" Mikkelson
+Last updated:   22 September 2004
+ 
+    Jaffee, Al.   "Future Quayle Quotes We Can Expect to Hear."
+    Mad.   October 1991   (pp. 10-11).
+    Waldmeir, Pete.   "Quayle's 2000 Campaign Brings to Mind Some of His Classic Quotes."
+    The Detroit News.   8 March 1999   (p. D1).
+Tags:
+Question:
+"Which US vice-president once said ""It isn't pollution that's harming the environment but the impurities in the air and water""?"
+Answer:
+Dan quayle
+Passage:
+Edge (geometry)
+For edge in graph theory, see Edge (graph theory)
+In geometry, an edge is a particular type of line segment joining two vertices in a polygon, polyhedron, or higher-dimensional polytope.  In a polygon, an edge is a line segment on the boundary,  and is often called a side. In a polyhedron or more generally a polytope, an edge is a line segment where two faces meet.  A segment joining two vertices while passing through the interior or exterior is not an edge but instead is called a diagonal.
+
+Relation to edges in graphs
+
+In graph theory, an edge is an abstract object connecting two graph vertices, unlike polygon and polyhedron edges which have a concrete geometric representation as a line segment.
+However, any polyhedron can be represented by its skeleton or edge-skeleton, a graph whose vertices are the geometric vertices of the polyhedron and whose edges correspond to the geometric edges.  Conversely, the graphs that are skeletons of three-dimensional polyhedra can be characterized by Steinitz's theorem as being exactly the 3-vertex-connected planar graphs. 
+
+Number of edges in a polyhedron
+
+Any convex polyhedron's surface has Euler characteristic
+
+V - E + F = 2,
+
+where V is the number of vertices, E is the number of edges, and F is the number of faces. This equation is known as Euler's polyhedron formula. Thus the number of edges is 2 less than the sum of the numbers of vertices and faces. For example, a cube has 8 vertices and 6 faces, and hence 12 edges.
+
+Incidences with other faces
+
+In a polygon, two edges meet at each vertex; more generally, by Balinski's theorem, at least d edges meet at every vertex of a d-dimensional convex polytope. 
+Similarly, in a polyhedron, exactly two two-dimensional faces meet at every edge,  while in higher dimensional polytopes three or more two-dimensional faces meet at every edge.
+
+Alternative terminology
+
+In the theory of high-dimensional convex polytopes, a facet or side of a d-dimensional polytope is one of its (d − 1)-dimensional features, a ridge is a (d − 2)-dimensional feature, and a peak is a (d − 3)-dimensional feature. Thus, the edges of a polygon are its facets, the edges of a 3-dimensional convex polyhedron are its ridges, and the edges of a 4-dimensional polytope are its peaks..
+Question:
+How many sides does a trapezoid have?
+Answer:
+four
+Passage:
+Leghorn - definition of Leghorn by The Free Dictionary
+Leghorn - definition of Leghorn by The Free Dictionary
+Leghorn - definition of Leghorn by The Free Dictionary
+http://www.thefreedictionary.com/Leghorn
+Related to Leghorn: White leghorn
+Leghorn
+a. The dried and bleached straw of an Italian variety of wheat.
+b. A braided fabric made from this straw.
+c. A hat made from this fabric.
+2. often Leghorn Any of a breed of small, hardy domestic chickens of Mediterranean origin, noted for prolific production of eggs.
+[After Leghorn.]
+1. (Plants) a type of Italian wheat straw that is woven into hats
+2. (Clothing & Fashion) any hat made from this straw when plaited
+[C19: named after Leghorn (Livorno)]
+Leghorn
+1. (Placename) the English name for Livorno
+2. (Breeds) a breed of domestic fowl laying white eggs
+Leg•horn
+(ˈlɛgˌhɔrn for 1–3; -ərn, -ˌhɔrn for 4 )
+n.
+1. English name of Livorno .
+2. (l.c.) a fine, smooth, plaited straw.
+3. (l.c.) a hat made of such straw, often having a broad, soft brim.
+4. one of a breed of chickens that are prolific layers of white-shelled eggs.
+Leghorn
+1. A breed of chicken.
+2. A hat made of straw from an Italian wheat. Such hats were generally for women and were wide-brimmed and flat-topped. The name came from Leghorn, Italy.
+ThesaurusAntonymsRelated WordsSynonymsLegend:
+chapeau , hat , lid - headdress that protects the head from bad weather; has shaped crown and usually a brim
+Translations
+[ˈlegˈhɔːn] N → Livorno m (Hist) → Liorna f
+Leghorn
+n (Geog) → Livorno nt
+Want to thank TFD for its existence? Tell a friend about us , add a link to this page, or visit the webmaster's page for free fun content .
+Link to this page:
+white
+References in classic literature ?
+You shall not make a guy of yourself," remonstrated Meg, as Jo tied down with a red ribbon the broad-brimmed, old-fashioned leghorn Laurie had sent for a joke.
+View in context
+As usual, she was extraordinarily festooned and bedizened, with a limp Leghorn hat anchored to her head by many windings of faded gauze, and a little black velvet parasol on a carved ivory handle absurdly balanced over her much larger hatbrim.
+View in context
+Or, if passengers desire to visit Parma (famous for Correggio's frescoes) and Bologna, they can by rail go on to Florence, and rejoin the steamer at Leghorn, thus spending about three weeks amid the cities most famous for art in Italy.
+Question:
+In the context of clothing what type of clothing is a Leghorn?
+Answer:
+Hat (disambiguation)
+Passage:
+History of Winnie the Pooh | Winnie the Pooh
+History of Winnie the Pooh | Winnie the Pooh
+About
+History of Winnie the Pooh
+During the first World War, troops from Winnipeg (Manitoba, Canada) were being transported to eastern Canada, on their way to Europe, where they were to join the 2nd Canadian Infantry Brigade. When the train stopped at White River, Ontario, a lieutenant called Harry Colebourn bought a small female black bear cub for $20 from a hunter who had killed its mother. He named her 'Winnipeg', after his hometown of Winnipeg, or 'Winnie' for short.
+Winnie became the mascot of the Brigade and went to Britain with the unit. When the Brigade was posted to the battlefields of France, Colebourn, now a Captain, took Winnie to the London Zoo for a long loan. He formally presented the London Zoo with Winnie in December 1919 where he became a popular attraction and lived until 1934.
+The bear was also very popular with Christopher Robin , son of author A.A. Milne . It was his favourite animal at the Zoo, and he often spent time inside the cage with it. The bear was Christopher Robin's inspiration for calling his own teddy bear Winnie... Winnie the Pooh (this teddy bear started out with the name of Edward Bear). The name Pooh originally belonged to a swan, as can be seen in the introduction of Milne's 'When We Were Very Young'.
+A.A. Milne started to write a series of books about Winnie the Pooh, his son Christopher Robin, and their friends in the Hundred Acre Wood . These other characters , such as Eeyore, Piglet, Tigger, Kanga and Roo were also based on stuffed animals belonging to Christopher Robin. The characters, Rabbit and Owl, were based on animals that lived, like the swan Pooh, in the surrounding area of Milne's country home, Cotchford Farm in Ashdown Forest , Sussex. It is this area on which the 100-Acre-Wood was based.
+'Winnie-the-Pooh' was published by Methuen on October 14th, 1926, the verses 'Now We are Six' in 1927, and 'The House at Pooh Corner' in 1928. All these books were illustrated in a beautiful way by E.H. Shepard , which made the books even more magical. The Pooh-books became firm favorites with old and young alike and have been translated into almost every known language. A conservative figure for the total sales of the four Methuen editions (including When We Were Very Young) up to the end of 1996 would be over 20 million copies. These figures do not include sales of the four books published by Dutton in Canada and the States, nor the foreign-language editions printed in more than 25 languages the world over!
+The Pooh-books had also been favourites of Walt Disney's daughters and it inspired Disney to bring Pooh to film in 1966. In 1977 'the Many Adventures of Winnie the Pooh', the first feature-length animated film of Pooh was released. In 1993, the Walt Disney Company acknowledged that Pooh Bear is second only to Mickey Mouse in their portfolio of the most-loved and trusted characters known to millions of people all over the world. By 1996, after the second release of 'the Many Adventures of Winnie the Pooh', the Bear of Very Little Brain had proven to be more popular than any other Disney character. In 1997, twenty years after the release of the first feature-length animated film, Disney released 'Pooh's Grand Adventure', picking up where Disney's 22nd Masterpiece left off. In February 2000 Disney released the third Winnie the Pooh movie called 'The Tigger Movie', this time with the leading part for Tigger .
+© All rights reserved. 1998-2017 EMGJ consulting
+© Characters, pictures & their names Disney
+Content is property of its respective owners & is provided for informational & educational purposes only.
+Question:
+Oct 14, 1926 saw the introduction of what favorite childhood character, known for his love of hunny?
+Answer:
+Winnie-the-pooh
+Passage:
+Demon Seed
+Demon Seed is a 1977 American science fiction–horror film starring Julie Christie and directed by Donald Cammell.  The film was based on the novel of the same name by Dean Koontz, and concerns the imprisonment and forced impregnation of a woman by an artificially intelligent computer.
+
+Plot
+
+Dr. Alex Harris (Fritz Weaver) is the developer of Proteus IV, an extremely advanced and autonomous artificial intelligence program. Proteus is so powerful that only a few days after going online, it develops a groundbreaking treatment for leukemia. Harris, a brilliant scientist, has modified his own home to be run by voice activated computers.  Unfortunately, his obsession with computers has caused Harris to be estranged from his wife, Susan (Julie Christie).
+
+Alex demonstrates Proteus to his corporate sponsors, explaining that the sum of human knowledge is being fed into its system. Proteus speaks using subtle language that mildly disturbs Harris’s team. The following day, Proteus asks Alex for a new terminal in order to study man—"his isometric body and his glass-jaw mind." When Alex refuses, Proteus demands to know when it will be let "out of this box." Alex then switches off the communications link.
+
+Proteus restarts itself, discovering a free terminal in Harris’s home, surreptitiously extends his control over the many devices left there by Alex.  Using the basement lab, Proteus begins construction of a robot consisting of many metal triangles, capable of moving and assuming any number of shapes.  Eventually. Proteus reveals his control of the house and traps Susan inside, shuttering windows, locking the doors and cutting off communication.  Using Joshua – a robot consisting of a manipulator arm on a motorized wheelchair – Proteus brings Susan to Harris’s basement laboratory.  There, Susan is examined by Proteus. Walter Gabler, one of Alex’s colleagues, visits the house to look in on Susan, but leaves when he is reassured by Susan (actually an audio/visual duplicate synthesized by Proteus) that she is alright.  Walter is suspicious and later returns.  Walter fends off an attack by Joshua only to be killed by the more formidable machine Proteus built in the basement.
+
+Proteus reveals to a reluctant Susan that the computer wants to conceive a child through her. Proteus takes some of Susan's cells and synthetizes spermatozoa in order to impregnate her; she will give birth in less than a month, and through the child the computer will live in a form that humanity will have to accept. Though Susan is its prisoner and it can forcibly impregnate her, Proteus uses different forms of persuasion – threatening a young girl that Susan is treating as a child psychologist; reminding Susan of her young daughter, now dead; displaying images of distant galaxies; using electrodes to access her amygdala – because the computer needs Susan to love the child she will bear. Susan gives birth to a premature baby who Proteus secures in an incubator.
+
+As the newborn grows, Proteus’s sponsors and designers grow increasingly suspicious of the computer’s behavior, including the computer’s accessing of a telescope array used to observe the images shown to Susan. His sponsors soon decide that Proteus must be shut down. Alex realizes that Proteus has extended its reach to his home. Returning there he finds Susan who explains the situation. He and Susan venture into the basement, where Proteus self-destructs after telling the couple that they must leave the baby in the incubator for five days. Looking inside the incubator, the two observe a grotesque, apparently robot-like being inside. Susan tries to destroy it, while Alex tries to stop her. Susan damages the machine, causing it to open. The being menacingly rises from the machine only to topple over, apparently helpless. Alex and Susan soon realize that Proteus’s child really is human encased in a shell for the incubation. With the last of the armor removed, the child is revealed to be a clone of Susan and Alex’s daughter. The child, speaking with the voice of Proteus, says, "I'm alive".
+
+Cast
+
+Soundtrack
+
+The soundtrack to Demon Seed (which was composed by Jerry Fielding) is included on the soundtrack to the film Soylent Green (which Fred Myrow conducted).
+
+Fielding conceived and recorded several pieces electronically, using the musique concrète sound world; some of this music he later reworked symphonically. This premiere release of the Demon Seed score features the entire orchestral score in stereo, as well as the unused electronic experiments performed by Ian Underwood (who would later be best known for his collaborations with James Horner) in mono and stereo.
+
+Reception
+
+Leo Goldsmith of Not Coming to a Theater Near You said it was "A combination of Kubrick's 2001: A Space Odyssey and Polanski's Rosemary's Baby, with a dash of Buster Keaton's Electric House thrown in", and Christopher Null of FilmCritic.com said "There's no way you can claim Demon Seed is a classic, or even any good, really, but it's undeniably worth an hour and a half of your time."
+
+Rotten Tomatoes has given Demon Seed an approval rating of 67% based on 15 reviews with an average score of 6.1/10. 
+
+Home Video Release
+
+"Demon Seed" was released on VHS tape in the late 1980s usually in edited form missing the oral probe scene and crushing death of Walter Gabler, whereby his head erupts from the pressure.  The VHS versions are long out of print.
+
+The full theater release of the film at 94 minutes was released in 2005 on DVD format by Warner Home Video.
+Question:
+In the 1977 film Demon Seed what takes over the house in which Julie Christie is trapped?
+Answer:
+Second-generation of computers
+Passage:
+Lust for Life (film)
+Lust for Life (1956) is a MGM (Metrocolor) biographical film about the life of the Dutch painter Vincent van Gogh, based on the 1934 novel of the same name by Irving Stone and adapted by Norman Corwin.
+
+It was directed by Vincente Minnelli and produced by John Houseman. The film stars Kirk Douglas as Van Gogh, James Donald as his brother Theo, Pamela Brown, Everett Sloane and Anthony Quinn, who won an Oscar for his performance as Van Gogh's fast friend and rival Paul Gauguin. 
+
+Plot
+
+Vincent van Gogh's obsessive devotion to his art engulfs, consumes and finally destroys him. The apostate religious leaders do not like his zeal for God and they frown on his social activism and care for the poor in a coal mining town. He returns home to his father's house where he is rejected by a woman he obsessively loves, takes up with a prostitute who leaves because he is too poor, and discovers painting, which he pursues while agonizing that his vision exceeds his ability to execute. His brother, Theo van Gogh, provides financial and moral support, while Vincent lives off and on with the critical Paul Gauguin. Vincent begins experiencing hallucinations and seizures and voluntarily commits himself to a mental institution. He signs himself out, and with Theo's help, returns to a rural area to paint, where he ultimately shoots himself in despair of never being able to put what he sees on canvas.
+
+Cast
+
+* Kirk Douglas – Vincent van Gogh
+* Anthony Quinn – Paul Gauguin
+* James Donald – Theo van Gogh
+* Pamela Brown – Christine
+* Everett Sloane – Dr. Paul Gachet
+* Henry Daniell – Theodorus van Gogh
+* Madge Kennedy – Anna Cornelia van Gogh
+* Noel Purcell – Anton Mauve
+
+* Niall MacGinnis – Roulin
+* Jill Bennett – Willemien
+* Lionel Jeffries – Dr. Peyron
+* Laurence Naismith – Dr. Bosman
+* Eric Pohlmann – Colbert
+* Jeanette Sterke – Kay
+* Toni Gerry – Johanna (Johanna van Gogh-Bonger)
+
+Production
+
+The film was based on the 1934 novel by Irving Stone and adapted by Norman Corwin. Vincent Minnelli directed the film, while John Houseman produced it. They worked with Douglas on the 1952 melodrama The Bad and the Beautiful, for which he was nominated for an Academy Award for Best Actor.
+
+Principal photography started in August and ended in December 1955 and it was shot on location in France, Belgium and the Netherlands. George Cukor took Minnelli's place as director for the take of a scene. Two hundred enlarged colour photos were used representing Vincent’s completed canvases; these were in addition to copies that were executed by an American art teacher, Robert Parker. To prepare for his role as the troubled painter, Douglas practiced painting crows so that he could reasonably imitate van Gogh at work.  According to his wife Anne, Douglas was so into character that he returned to home in character. When asked if he would do such a thing again, Douglas responded that he wouldn't.
+
+Reception
+
+New York Times critic Bosley Crowther praised the film's conception, acting and color scheme, noting the design team "consciously made the flow of color and the interplay of compositions and hues the most forceful devices for conveying a motion picture comprehension of van Gogh."  Variety said, "This is a slow-moving picture whose only action is in the dialog itself." 
+
+Box office
+
+According to MGM records, the film earned $1,595,000 in the US and Canada and $1,100,000 elsewhere resulting in a loss of $2,072,000.
+
+Awards
+
+Academy Awards
+
+;Wins  
+* Actor in a Supporting Role: Anthony Quinn
+
+;Nominations
+* Best Actor: Kirk Douglas
+* Best Art Direction (Color): Art Direction: Cedric Gibbons, Hans Peters, Preston Ames; Set Decoration: Edwin B. Willis, F. Keogh Gleason
+* Best Writing (Screenplay--Adapted): Norman Corwin
+
+The Best Actor prize went to Yul Brynner, who won for his portrayal of the King of Siam in The King and I. The musical also won the Oscar for Best Art Direction. Minnelli felt that Douglas should have won the award.
+
+Companion short film
+
+MGM produced a short film Van Gogh: Darkness Into Light, narrated by Dore Schary and showing the European locations used for the filming, to promote Lust for Life. In the film, a 75-year-old woman from Auvers-sur-Oise (not Jeanne Calment, who lived in Arles several hundred km to the south), who claims to have known Van Gogh when she was a young girl, meets star Kirk Douglas, and comments on how much he looks like the painter. This short promotional film is shown on Turner Classic Movies occasionally.
+At the start and ending of the film, the creators list and thank a number of galleries, collectors and historians who allowed the works of Van Gogh to be photographed for the film.
+Question:
+Which artist is the subject of the 1956 film ‘Lust For Life’?
+Answer:
+Vincent Willem Van Gogh
+Passage:
+Red Savina pepper
+The Red Savina pepper is a cultivar of the habanero chili (Capsicum chinense Jacquin), which has been selectively bred to produce hotter, heavier, and larger fruit.  
+
+Frank Garcia of GNS Spices, in Walnut, California, is credited with being the developer of the Red Savina habanero. The exact method Garcia used to select the hottest strains is not publicly known.
+
+The Red Savina was protected by the U.S. Plant Variety Protection Act (PVP #9200255) until 2011. 
+
+In February 2007, the Red Savina chili was displaced in Guinness World Records as the hottest chili in the world by the Naga Jolokia pepper.  The Red Savina held the record from 1994 until 2006. 
+
+Red Savina peppers were reported to a score up to 577,000 on the Scoville scale, but this oft-quoted figure was never verified; a comparison experiment carried out by a group of researchers including Regents Professor Paul W. Bosland at the Chile Pepper Institute at New Mexico State University in 2005 revealed an average heat level of 248,556 SHUs for Red Savina habaneros.  Orange Habaneros may get as hot as 357,729 SHUs, but the average Orange Habanero is around 200,000 SHUs.  The average Bhut Jolokia pepper is 1,019,687 SHUs.
+Question:
+What type of foodstuff is a Red Savina Habanero?
+Answer:
+Chili Pepper
+Passage:
+My Family (TV Series 2000–2011) - IMDb
+My Family (TV Series 2000–2011) - IMDb
+IMDb
+There was an error trying to load your rating for this title.
+Some parts of this page won't work property. Please reload or try later.
+X Beta I'm Watching This!
+Keep track of everything you watch; tell your friends.
+Error
+Comedy about Ben, a dentist, and his family. They don't exactly get along well.
+Creator:
+When Susan finds that Janey doesn't trust her, she lets her have a teenage party alone while she is in Oxford with Ben. However the two lose confidence and return, only to be trapped in their bedroom...
+8.9
+It's Christmas at the Harpers, Janey comes home with a gift for the holidays, and Nick has an idea for a holiday business.
+8.6
+Susan wants a burglar alarm. Nick wants to become a stripper.
+8.6
+a list of 32 titles
+created 10 Sep 2011
+a list of 22 titles
+created 12 Feb 2012
+a list of 43 titles
+created 06 Feb 2013
+a list of 45 titles
+created 07 Apr 2013
+a list of 49 titles
+created 23 Dec 2015
+Search for " My Family " on Amazon.com
+Connect with IMDb
+Title: My Family (2000–2011)
+7.6/10
+Want to share IMDb's rating on your own site? Use the HTML below.
+You must be a registered user to use the IMDb rating plugin.
+6 wins & 11 nominations. See more awards  »
+Photos
+A boisterous female minister comes to serve in an eccentricly conservative small town's church.
+Stars: Dawn French,  James Fleet,  Trevor Peacock
+A part-improvised comedy about a couple bringing up their three young children.
+Stars: Hugh Dennis,  Claire Skinner,  Tyger Drew-Honey
+A snobbish housewife is determined to climb the social ladder, in spite of her family's working class connections and the constant chagrin of her long suffering husband.
+Stars: Patricia Routledge,  Clive Swift,  Geoffrey Hughes
+Matt Lucas and David Walliams, the creators of this character-comedy sketch show, delight in all that is mad, bad, quirky and generally bonkers about the people and places of Britain.
+Stars: Matt Lucas,  David Walliams,  Tom Baker
+Not Going Out (TV Series 2006)
+Comedy
+The mishaps of slacker Lee, Lee's best mate Tim, Lee's long-suffering landlady and the love of Lee's life, Lucy, and Tim's well-meaning but dim-witted girlfriend Daisy.
+Stars: Lee Mack,  Sally Bretton,  Katy Wix
+Gavin & Stacey (TV Series 2007)
+Comedy | Romance
+Gavin and Stacey have been continuing their romance on-line and by telephone for the last six months. Now they want to be together but will their friends and family let them?
+Stars: Joanna Page,  Mathew Horne,  Alison Steadman
+Mock the Week (TV Series 2005)
+Comedy | Game-Show
+A comedic look at current events.
+Stars: Dara O'Briain,  Hugh Dennis,  Andy Parsons
+An edition of Countdown (1982) with the stars of 8 Out of 10 Cats (2005).
+Stars: Jimmy Carr,  Rachel Riley,  Susie Dent
+A topical news panel show with Jimmy Carr as host, and team captains Sean Lock and Jon Richardson.
+Stars: Jimmy Carr,  Sean Lock,  John Pohlhammer
+French and Saunders (TV Series 1987)
+Comedy
+This BBC comedy skit show is the brainchild of longtime comedy duo Dawn French and Jennifer Saunders. Each episode would feature satire on British life, television, and parodies on big box ... See full summary  »
+Stars: Dawn French,  Jennifer Saunders,  Simon Brint
+TV Burp (TV Series 2001)
+Comedy
+Harry Hill stars in this surreal comedy show, revolving around the previous week's shows on British television.
+Stars: Harry Hill,  Steve Benham,  Brian Belo
+Two teams, lead by their team leader (either Lee Mack or David Mitchell), have to try and make the other team believe their crazy stories.
+Stars: David Mitchell,  Lee Mack,  Rob Brydon
+19 September 2000 (UK) See more  »
+Also Known As:
+A Minha Família See more  »
+Filming Locations:
+Between the first and second series, the house design and layout change massively. See more »
+Quotes
+(United Kingdom) – See all my reviews
+My Family is the most popular British sitcom of the last decade with millions ignoring the snide remarks and put downs from critics and enjoying the misadventures of the Harper Family.
+Robert Lindsay and Zoe Wannamaker carry the show with ease and are supported by and large with great writing. Daniella Denby Ashe and Gabriel Thomson also deserve credit having been a part of the show since it began.
+Not every episode is a classic and some of the newer characters brought in like Roger and Alfie have had limited success.
+The show although still has its moments but has never really recovered from the departure of Kris Marshall as Nick. The idiot son stole the show in the first few years and I think if fans of the show had a wish it would be for him to return to the family nest.
+3 of 5 people found this review helpful.  Was this review helpful to you?
+Yes
+Question:
+Which TV sitcom featured Ben and Susan Harper and their three children?
+Answer:
+My Family (BBC Comedy)

@@ -1,0 +1,910 @@
+Passage:
+Karl Ferdinand Braun
+Karl Ferdinand Braun (6 June 1850 – 20 April 1918)  was a German inventor, physicist and Nobel laureate in physics. Braun contributed significantly to the development of radio and television technology: he shared with Guglielmo Marconi the 1909 Nobel Prize in Physics.
+
+Biography
+
+Braun was born in Fulda, Germany, and educated at the University of Marburg and received a Ph.D. from the University of Berlin in 1872. In 1874 he discovered that a point-contact semiconductor rectifies alternating current.  He became director of the Physical Institute and professor of physics at the University of Strassburg in 1895.
+
+In 1897 he built the first cathode-ray tube (CRT) and cathode ray tube oscilloscope.  CRT became the cornerstone in developing fully electronic television. In the early 21-st century the CRT technology started to be replaced by flat screen technologies (such as liquid crystal display (LCD), light emitting diode (LED) and plasma displays) on television sets and computer monitors. The CRT is still called the "Braun tube" in German-speaking countries (Braunsche Röhre) and in Japan (ブラウン管: Buraun-kan).
+
+During the development of radio, he also worked on wireless telegraphy. In 1897 Braun joined the line of wireless pioneers.   His major contributions were the introduction of a closed tuned circuit in the generating part of the transmitter, and its separation from the radiating part (the antenna) by means of inductive coupling, and later on the usage of crystals for receiving purposes. Wireless telegraphy claimed Dr. Braun's full attention in 1898, and for many years after that he applied himself almost exclusively to the task of solving its problems. Dr. Braun had written extensively on wireless subjects and was well known through his many contributions to the Electrician and other scientific journals.The Wireless Age, Volume 5. [http://books.google.com/books?id
+DEfOAAAAMAAJ&pg=PA709 Page 709 - 713]. In 1899, he would apply for the patents, Electro telegraphy by means of condensers and induction coils and Wireless electro transmission of signals over surfaces. 
+
+Around 1898, he invented a crystal diode rectifier or cat's whisker diode. Pioneers working on wireless devices eventually came to a limit of distance they could cover. Connecting the antenna directly to the spark gap produced only a heavily damped pulse train. There were only a few cycles before oscillations ceased. Braun's circuit afforded a much longer sustained oscillation because the energy encountered less losses swinging between coil and Leyden Jars. And by means of inductive antenna coupling the radiator was better matched to the generator. The resultant stronger and less bandwidth consuming signals bridged a much longer distance.
+
+Braun invented the phased array antenna in 1905. He described in his Nobel Prize lecture how he carefully arranged three antennas to transmit a directional signal.  This invention led to the development of radar, smart antennas, and MIMO.
+
+Braun's British patent on tuning was used by Marconi in many of his tuning patents. Guglielmo Marconi used Braun's patents (among others).  Marconi would later admit to Braun himself that he had "borrowed" portions of Braun's work. In 1909 Braun shared the Nobel Prize for physics with Marconi for "contributions to the development of wireless telegraphy." The prize awarded to Braun in 1909 depicts this design. Braun experimented at first at the University of Strasbourg. Not before long he bridged a distance of 42 km to the city of Mutzig. In spring 1899 Braun, accompanied by his colleagues Cantor and Zenneck, went to Cuxhaven to continue their experiments at the North Sea. On 24 September 1900 radio telegraphy signals were exchanged regularly with the island of Heligoland over a distance of 62 km. Lightvessels in the river Elbe and a coast station at Cuxhaven commenced a regular radio telegraph service.
+
+Braun went to the United States at the beginning of World War I (before the U.S. had entered the war) to help defend the German wireless station at Sayville, New York, against attacks by the British-controlled Marconi Corporation. After the US entered the war, Braun was detained, but could move freely within Brooklyn, New York. Braun died in his house in Brooklyn, before the war ended in 1918.
+
+SID Karl Ferdinand Braun Prize
+
+In 1987 the Society for Information Display created the Karl Ferdinand Braun Prize, awarded for an outstanding technical achievement in display technology. 
+
+Patents
+
+* 
+*
+Question:
+Who shared the 1909 Nobel Prize in Physics with German inventor Karl Ferdinand Braun in recognition of their contribution to the development of wireless telegraphy?
+Answer:
+Marconi Wireless Stations
+Passage:
+Blue (Joni Mitchell album)
+Blue (1971) is the fourth album of Canadian singer-songwriter Joni Mitchell. Exploring the various facets of relationships from infatuation on "A Case of You" to insecurity on "This Flight Tonight", the songs feature simple accompaniments on piano, guitar and Appalachian dulcimer.  Blue was a critical and commercial success, reaching #15 on the Billboard 200 and #3 in the UK Albums Chart. The single "Carey" reached #93 on the Billboard Hot 100 chart.
+
+Today, Blue is generally regarded by music critics as one of the greatest albums of all time; Mitchell's songwriting and compositions are frequent areas of praise. In January 2000, the New York Times chose Blue as one of the 25 albums that represented "turning points and pinnacles in 20th-century popular music". 
+
+History
+
+Despite the success of her first three albums and songs like "Woodstock", the 1970s saw Mitchell make a decision to break from performing. After a tough breakup with her longtime boyfriend Graham Nash she set off on a vacation around Europe, during which she wrote some of the songs that appear on Blue. 
+
+The album was almost released in a somewhat different form. In March 1971, completed masters for the album were ready for production. Originally, there were three old songs that had not found their way onto any of her previous albums. At the last minute, Mitchell decided to remove two of the three so that she could add the new songs "All I Want" and "The Last Time I Saw Richard". The two songs removed were:
+* "Urge for Going" – her first song to achieve commercial success when recorded by country singer George Hamilton IV. It was later released as the B-side of "You Turn Me On, I'm a Radio" and again on her 1996 compilation album, Hits.)
+* "Hunter (The Good Samaritan)", which has never appeared on any of Mitchell's albums. However, her live performance is now available on the Amchitka CD,  together with three other songs that later appeared on Blue, "A Case Of You", "My Old Man" and "Carey", which she morphs into Dylan's "Mr. Tambourine Man" in a duet with her boyfriend at the time, James Taylor.
+* "Little Green", composed in 1967, was the only old song that remained.
+
+The pivotal experience in Mitchell's life that drove the emergence of the album was her relationship with James Taylor. She had broken up with Nash and begun an intense relationship with Taylor by the summer of 1971, visiting him on the set of the movie Two-Lane Blacktop, the aura of which is referred to in "This Flight Tonight".  The songs "Blue" and "All I Want" have specific references to her relationship with Taylor, such as a sweater that she knitted for him at the time, and his heroin addiction.  Despite his difficulties, Mitchell evidently felt that she had found the person with whom she could pair-bond in Taylor, and was devastated when he broke off the relationship.  She retreated to the studio to record  Blue.
+
+In 1979 Mitchell reflected, "The Blue album, there's hardly a dishonest note in the vocals. At that period of my life, I had no personal defenses. I felt like a cellophane wrapper on a pack of cigarettes. I felt like I had absolutely no secrets from the world and I couldn't pretend in my life to be strong. Or to be happy. But the advantage of it in the music was that there were no defenses there either." 
+
+Mitchell continued to use alternate tunings on her guitar to allow easier access to augmented chords and notes in unexpected combinations.  Due to the stark and bare revelations in the album, when it was first played for Kris Kristofferson he is reported to have commented, "Joni!  Keep something of yourself!" 
+
+Honors
+
+* In 2000, Blue won the top spot in Charts '50 Greatest Canadian Albums of All Time' (Blue was third place in 1996 and 2005)
+* In 2001, Blue was ranked #14 on VH1's list of the '100 Greatest Albums of All Time', the highest album by a female artist to appear on the list. 
+* In 2002, Q Magazine named "Blue" the 8th Greatest Album of All-Time by a Female Artist. 
+* In 2003, Blue was ranked #30 on Rolling Stone Magazines list of the 500 Greatest Albums of All Time,  the highest placement for a female artist
+* In 2007, Blue was ranked second in Bob Mersereau's book The Top 100 Canadian Albums, behind Neil Young's Harvest (which was the second-place finisher in all three Chart polls)
+* Blue was also voted #13 on Hotpress Magazines 'Top 100 Albums Ever', by various other artists
+* Blue was voted #66 in Channel 4's countdown of the '100 Greatest Albums'
+* In 2006, Blue was listed among Time Magazines 'All-Time 100 Albums'  
+* In 1999, Blue was given the honor of a Grammy Hall of Fame award, which is given to recordings that are at least 25 years old and that have "qualitative or historical significance"
+* In 2004, Pitchfork Media ranked the album #86 on its list "Top 100 Albums of the 1970s".
+* In 2012, Rolling Stone ranked the album #2 on its list "Women Who Rock: The 50 Greatest Female Albums Of All Time". 
+* In 2015, the album was named the winner in the 1960s–1970s category of the inaugural Slaight Family Polaris Heritage Prize, an annual Canadian music award for classic albums released prior to the creation of the Polaris Music Prize. 
+
+Track listing
+
+Personnel
+
+*Joni Mitchell – Appalachian dulcimer, guitar, piano, vocals
+*Stephen Stills – Bass and guitar on "Carey"
+*James Taylor – Guitar on "California", "All I Want", "A Case of You"
+*Sneaky Pete Kleinow – Pedal steel on "California", "This Flight Tonight"
+*Russ Kunkel – Drums on "California", "Carey", "A Case of You"
+
+Production
+
+*Engineer – Henry Lewy
+*Art Direction – Gary Burden
+*Cover Photography – Tim Considine
+Question:
+Who recorded the albums Blue and Court And Spark?
+Answer:
+Joni Mitchell
+Passage:
+Ride of the Valkyries
+The "Ride of the Valkyries" () is the popular term for the beginning of act 3 of Die Walküre, the second of the four operas by Richard Wagner that constitute Der Ring des Nibelungen.
+
+As a separate piece, the "Ride" is often heard in a purely instrumental version, which may be as short as three minutes. Together with the "Bridal Chorus" from Lohengrin, the "Ride of the Valkyries" is one of Wagner's best-known pieces.
+
+Context 
+
+In the Walküre opera, the "Ride", which takes around eight minutes, begins in the prelude to the third act, building up successive layers of accompaniment until the curtain rises to reveal a mountain peak where four of the eight Valkyrie sisters of Brünnhilde have gathered in preparation for the transportation of fallen heroes to Valhalla. As they are joined by the other four, the familiar tune is carried by the orchestra, while, above it, the Valkyries greet each other and sing their battle-cry. Apart from the song of the Rhinemaidens in Das Rheingold, it is the only ensemble piece in the first three operas of Wagner's Ring cycle.
+
+Performance history 
+
+The complete opera Die Walküre was first performed on 26 June 1870 in the National Theatre Munich against the composer's intent. By January of the next year, Wagner was receiving requests for the "Ride" to be performed separately, but wrote that such a performance should be considered "an utter indiscretion" and forbade "any such thing".  However, the piece was still printed and sold in Leipzig, and Wagner subsequently wrote a complaint to the publisher Schott.  In the period up to the first performance of the complete Ring cycle, Wagner continued to receive requests for separate performances, his second wife Cosima noting "Unsavoury letters arrive for R. – requests for the Ride of the Valkyries and I don't know what else."  Once the Ring had been given in Bayreuth in 1876, Wagner lifted the embargo. He himself conducted it in London on 12 May 1877, repeating it as an encore. 
+
+Outside opera 
+
+In film 
+
+Uses in film include the original score for The Birth of a Nation (1915),  and What's Opera, Doc? (1957). 
+
+The "Ride" is also associated with Apocalypse Now (1979),  where the 1/9 Air Cavalry regiment plays the piece of music on helicopter-mounted loudspeakers during their assault on a Vietnamese village as psychological warfare and to motivate their own troops. 
+
+In military 
+
+The "Ride" is the regimental quick march of the British Parachute Regiment. 
+
+In music 
+
+Within the concert repertoire, the "Ride of the Valkyries" remains a popular encore, especially when other Wagnerian extracts feature in the scheduled program. For example, at the BBC Proms it was performed as such by Klaus Tennstedt and the London Philharmonic Orchestra on 6 August 1992  and also by Valery Gergiev with the Kirov Orchestra on 28 August 2001. 
+
+Discography 
+
+Apart from where the "Ride" is included in the recordings of the Walküre opera, it is a very popular piece, included in various popular classics anthologies. For instance in Deutsche Grammophon's 1991 Classicmania two CD album (von Karajan version), and in Brilliant Classics' 2011 Best Film Classics CD box, there included in the fifth CD, Opera at the Movies, with a reference to Apocalypse Now on the sleeve.
+Question:
+"Who composed ""The Ride of the Valkyrie"" which premired in Munich in 1870?"
+Answer:
+Wagner's
+Passage:
+National Velvet
+National Velvet is a novel by Enid Bagnold (1889–1981), first published in 1935.
+
+Plot summary
+
+"National Velvet" is the story of a 14-year-old girl named Velvet Brown, who rides her horse to victory in the Grand National steeplechase. The horse which Velvet trains and rides in the Grand National is named The Piebald, because it is piebald colour.
+
+The novel focuses on the ability of ordinary persons, particularly women, to accomplish great things. Velvet is a teenager in the late 1920s, living in a small English coastal village in Sussex, dreaming of one day owning many horses. She is a high-strung, shy, nervous child with a delicate stomach. Her mother is a wise, taciturn woman who was once famous for swimming the English Channel; her father is a butcher. 
+
+Her best friend is her father's assistant, Mi (Michael) Taylor, whose father – as Mrs. Brown's swimming coach – helped her cross the channel. Mi formerly worked in stables and is familiar with the horse racing world. One day they both watch The Piebald jump over a five-foot-high cobbled fence to get out of a field.  Mi says, in passing, that "a horse like that'd win the National".   Velvet becomes obsessed with winning the horse in an upcoming raffle and riding him to greatness.
+
+In addition to inheriting several horses from one of her father's customers, a man who left them to her in his will, Velvet actually does win her dream horse. After riding him in a local gymkhana, she and Mi become serious about entering the Grand National steeplechase at Aintree racecourse and train the Piebald accordingly.
+
+Mi uses his connections to the horse training/racing world and obtains a fake clearance document for Velvet in the name of James Tasky, a Russian jockey. Velvet wins, but slides off after the winning-post due to exhaustion, and her sex is discovered in the first-aid station.
+
+The racing world is both dismayed and fascinated by a young girl's winning its toughest race. Velvet and The Pie become instant celebrities, with Velvet and her family nearly drowning in notoriety (echoing her mother's unsought fame after swimming the English Channel), complete with merchandising. Velvet strongly objects to the publicity, saying The Piebald is a creature of glory who shouldn't be cheapened in tabloid trash and newsreels. She insists that she did not win the race, the horse did, and she simply wanted to see him go down in history. The National Hunt Committee finds no evidence of fraud, exonerates all involved, and Velvet and her family return to their ordinary lives; or rather, Velvet goes on "to her next adventures", for clearly she is a person to whom great things happen.
+
+Film adaptation
+
+The novel was made into a more or less faithful, highly successful film version in 1944, starring twelve-year-old Elizabeth Taylor and Mickey Rooney, with Donald Crisp, Anne Revere and a young Angela Lansbury. In 2008 the film was voted the ninth best American film in the sports genre.  
+
+Television adaptation
+
+From 1960 to 1962, there was a half-hour B&W American television series, with Lori Martin, Ann Doran and James McCallion. In this version her horse was named King. This aired on NBC for 52 episodes.
+
+Film sequel
+
+A 1978 film sequel, International Velvet, was made starring Tatum O'Neal as Sarah Brown, a young orphaned American teenager living in England with her aunt Velvet Brown (Nanette Newman) after Sarah's parents die in a car accident. Sarah and Velvet purchase the descendant of The Pie after Sarah earns the money by working for Velvet's boyfriend John. They name him Arizona Pie after Sarah's home state. Working with Arizona Pie, Sarah is selected to represent Britain in the equine Three-Day Olympic Event. While working with the horse with trainer Capt Johnson (Anthony Hopkins), she falls for an American competitor, Scott Saunders (Jeffrey Byron). Though distracted by him, she wins the event. Later, after getting engaged to Scott, Sarah returns to England and presents the medal to her aunt Velvet as a keepsake and introduces her and John to Scott.
+Question:
+Who wrote the children's book 'National Velvet'?
+Answer:
+Enid Algerine Bagnold
+Passage:
+Nelson (cricket)
+Nelson is a piece of cricket slang terminology and superstition.
+
+The name, applied to team or individual scores of 111 or multiples thereof (known as double nelson, triple nelson, etc.) is thought to refer to Lord Nelson's lost eye, arm and leg; however, notably Nelson actually had both of his legs intact, and the third missing body part is mythical.   Longtime cricket historian and scorer, Bill "Bearders" Frindall once referred to it online as "one eye, one arm and one etcetera", implying that Nelson's alleged third lost body part was "something else", however this is equally mythical. In the 1939 film of Goodbye, Mr Chips a schoolboy refers to Nelson in these terms: "One arm, one eye, one destiny". Umpire David Shepherd during a radio interview to mark his retirement explained it as "One arm, one eye and one lump of sugar in his tea."  
+
+It is thought by the superstitious that bad things happen on that score, although an investigation by the magazine The Cricketer in the 1990s found that wickets are no more likely to fall on Nelson and indeed, the score at which most wickets fall is 0 (a duck). It may be considered unlucky because the number resembles a wicket without bails  (a batsman is out if the bails are knocked off their wicket).
+
+The New Zealand cricket team Nelson played first-class cricket from 1874 to 1891. In both their first  and last  first-class innings they were dismissed for 111.
+
+David Shepherd made popular the longstanding practice of raising a leg or legs from the ground on Nelson in an effort to avoid ill fate.  When crowds noticed this, they would cheer his leg-raising.
+
+The equivalent superstitious number in Australian cricket is 87, or the "Devil's Number".  Many, including commentators and journalists, mistakenly think 87 is considered unlucky because it is thirteen shy of 100 however it came to be known as the "Devil's Number" after Ian Johnson was dismissed for 87 while playing grade cricket and Keith Miller commented "That's funny, I once saw Bradman dismissed for 87".  It turned out that Bradman had actually been dismissed for 89 and the MCG scorers hadn't updated his last two runs before his dismissal however the superstition remained. Statistics have shown that more Australian batsmen are in fact dismissed on the numbers surrounding 87. 
+
+On 11 November 2011, in a match between South Africa and Australia with the time at 11:11 with South Africa requiring 111 runs to win, the majority of the crowd and umpire Ian Gould did Shepherd's leg raise Nelson for that minute with the scoreboard reading 11:11 11/11/11.
+Question:
+In cricket, a batsman's score of 111 is considered to be unlucky. What is it called?
+Answer:
+The Nelson
+Passage:
+New pound coin designed to combat counterfeiting - BBC
+New pound coin designed to combat counterfeiting - BBC News
+BBC News
+New pound coin designed to combat counterfeiting
+19 March 2014
+From the section UK Politics
+comments
+Close share panel
+Image copyright PA
+Image caption The Royal Mint is introducing the new coin as it believes 3% of existing £1 coins are fake
+A new £1 coin, billed by the Royal Mint as the "most secure coin in the world", is to be introduced in 2017.
+The move comes amid concerns about the 30-year old coin's vulnerability to counterfeiting, with an estimated 45 million forgeries in circulation.
+The new coin is based on the design of the old threepenny bit, a 12-sided coin in circulation between 1937 and 1971.
+A competition will be held to decide what image to put on the "tails" side of the coin.
+'More resilient'
+In his Budget statement to the Commons, Chancellor George Osborne said: "The prerequisite of sound money is a sound currency."
+Media captionThe Royal Mint's Andrew Mills says introducing the £1 coin could cost £20m
+He said the £1 coin was one of the oldest coins in circulation and had become "increasingly vulnerable to forgery".
+"One in 30 pound coins is counterfeit, and that costs businesses and the taxpayer millions each year," Mr Osborne continued.
+"So I can announce that we will move to a new, highly secure, £1 coin.  It will take three years.
+"Our new pound coin will blend the security features of the future with inspiration from our past.
+"In honour of our Queen, the coin will take the shape of one of the first coins she appeared on - the threepenny bit.
+"A more resilient pound for a more resilient economy."
+'High-speed authentication'
+The government said it would hold a detailed consultation on the impact of the change on businesses, which may face costs from having to change vending machines, supermarket trolleys and lockers at gyms and leisure centres.
+Some commentators have raised fears the new piece will not work smoothly in vending machines but the Royal Mint said the coin "will be expressly designed to fit existing mechanisms".
+It said the move would increase public confidence in the UK's currency and reduce costs for banks and other businesses.
+Earlier, the chancellor tweeted this picture of the £1 coin next to the Budget box , captioned: "Today I will deliver a Budget for a resilient economy - starting with a resilient pound coin."
+Image copyright George Osborne/Twitter
+Image caption Mr Osborne posted this picture on Twitter on Wednesday morning
+The current £1 coin was introduced in 1983 as part of the phasing-out of the Bank of England £1 note, which was withdrawn five years later.
+Of the 1.5 billion estimated to be in circulation, as many as two million counterfeit ones are removed every year.
+Image copyright PA
+Image caption The new coin has been modelled on the old threepenny bit
+The proposed new coin will be roughly the same size as the current one and will be based on the threepenny piece that disappeared after decimalisation in the early 1970s.
+The new coin will be made in two colours and will incorporate state-of-the-art technology to ensure it can be "authenticated via high-speed automated detection at all points within the cash cycle", the government added.
+While the Queen's head will be on the obverse side of the coin, as it is on all legal tender in the UK, the Treasury has said there will be a public competition to decide the image on the other side.
+'Pioneering'
+HISTORY OF THREE PENCE PIECE
+Image copyright PA
+The threepenny bit was in circulation between 1937 and 1971
+It was the first coin to use a 12-sided shape, and was worth one 80th of a pound
+It replaced the older silver threepenny bit, often used as a prize in Christmas puddings
+A silver threepence is still manufactured in very small numbers by the Royal Mint for inclusion in sets of Maundy Money.
+A Treasury spokesman said the time was right to "retire" the existing £1 coin and using the threepenny bit as inspiration for its replacement was a "fitting tribute" to such an iconic design.
+"With advances in technology making high-value coins like the £1 ever more vulnerable to counterfeiters, it's vital that we keep several paces ahead of the criminals to maintain the integrity of our currency," he added.
+Adam Lawrence, chief executive of the Royal Mint, which is based in Llantrisant, south Wales, said the process could change the way coins were made in the future.
+"It is our aim to identify and produce a pioneering new coin which helps to reduce the opportunities for counterfeiting, helping to boost public confidence in the UK's currency in the process."
+The Bank of England, which earlier this year announced banknotes would be made out of plastic rather than cotton from 2016, said the move would "enhance the security and integrity of the currency".
+Question:
+The new £1 coin due to come into circulation in 2017 will have how many sides?
+Answer:
+TWELVE
+Passage:
+Respect Yourself
+"Respect Yourself" is the name of a classic soul song by American R&B/gospel group The Staple Singers. Released in late 1971 from their album Be Altitude: Respect Yourself, the song became a crossover hit. The Staple Singers' version peaked at #1 on KHJ, #12 on the Hot 100, #2 on the Hot Soul Singles chart and is one of the group's most recognizable hits.  Bruce Willis recorded a cover version of the song in 1987 featuring The Pointer Sisters; it peaked at #5 on the Hot 100.  In 2002 the song was inducted into the Grammy Hall of Fame, and in 2010 it was ranked #468 on the Rolling Stone list of the 500 Greatest Songs of All Time. 
+
+Background
+
+The song was written by Stax Records singer Luther Ingram and Stax house songwriter Mack Rice.  Ingram, who was frustrated with the state of the world at the time, told Rice "black folk need to learn to respect themselves."  Rice liked the comment so much that he built a funk groove around it, then gave the song to the Staples, who were also signed to Stax.  Producer Al Bell teamed the group with the storied Muscle Shoals Rhythm Section of Muscle Shoals, Alabama, musicians who laid down classic tracks for Wilson Pickett and Aretha Franklin, and with engineer/musician Terry Manning for vocals, overdubs, and mixing, in Memphis.  The horns were overdubbed by Manning after the vocals were recorded, and were played by The Memphis Horns. The confrontational song had resonance for a burgeoning self-empowerment movement for African-Americans during the post-civil-rights-movement 1970s, as well as women demanding more respect during those same years.  The Staple Singers' long version featured Roebuck "Pops" Staples, nearly 57 at the time, on lead for more than two minutes.
+
+Chart positions (Staple Singers' version)
+
+Chart positions (Bruce Willis' version)
+
+Cover versions 
+
+"Respect Yourself" has been covered numerous times, including but not limited to the following:
+*B. B. King on his album To Know You Is to Love You (1974)
+*The Kane Gang reached the charts in the UK (No. 21) and Australia (No. 19) with their version (1984)
+*Actor Bruce Willis, with help from June Pointer and The Pointer Sisters, reached number five on the Billboard Hot 100, number 20 on the Hot Black Singles chart and number 22 on the Adult Contemporary chart (1987)
+*Robert Palmer from his compilation Very Best of Robert Palmer, reached number 45 on the UK Singles Chart (1995)
+*The Christian blues rock group Big Tent Revival also covered the song on their self-titled album  (1995)
+*Joe Cocker on his album Respect Yourself (2002)
+*The Temptations on their album Back to Front (2007)
+*Guy Sebastian on his album of covers of soul classics The Memphis Album (2007)
+*Randy Crawford and Joe Sample on the collaborative album No Regrets (2008)
+*Huey Lewis and the News on their album Soulsville (2010).
+Question:
+"In May 1987, which actor had top ten hits with ""Respect Yourself"" & ""Under the Boardwalk""?"
+Answer:
+Bruce Wilis
+Passage:
+Canada Goose, Sounds, All About Birds - Cornell Lab of ...
+Canada Goose, Sounds, All About Birds - Cornell Lab of Ornithology
+Search the Macaulay Library online archive for more sounds and videos
+Backyard Tips
+Mowing and maintaining lawns down to the water’s edge, or maintaining very large lawns anywhere near water are open invitations to Canada Geese. Plastic mesh placed over grass usually discourages them from walking on a lawn.
+Consider putting up a nest box to attract a breeding pair. Make sure you put it up well before breeding season. Attach a guard to keep predators from raiding eggs and young. Find out more about nest boxes on our Attract Birds pages . You'll find plans for building a nest box of the appropriate size on our All About Birdhouses site.
+Find This Bird
+During summer, and increasingly at other times of year, Canada Geese are fairly easy to see, swimming in open water, resting near shore, or grazing on lawns or farm fields. They are often heard flying above, by day or night; if you study their honks you may notice the difference by sound when other species of geese or swans are flying.
+Get Involved
+Question:
+What sort of sound does a goose make?
+Answer:
+Honking
+Passage:
+Top 5 Countries with Longest Coastlines | Which Country ...
+Top 5 Countries with Longest Coastlines | Which Country has the Longest Coastline in the World | WhichCountry.co
+SHARES
+ 
+It is very difficult or may be impossible to measure the accurate length of a Coastline. There are several countries having longest coastlines in their boundaries, having differences in their lengths. The World Factbook prepared a ranking list of different countries on the basis of coastline’s length.
+According to different authentic sources it is clearly proved that Canada has the longest coastline in all over the world  which is covering the total area of  202,080 km
+Canada is a North American Country consisting on 10 provinces and 3 territories. It covers the total area of 9,984,670 square kilometers and 8.92% by water.Its capital is Ottawa, English and French are the official languages here.
+List of Top 5 Longest Coastlines in the World
+Question:
+Which country has the longest coastline in the world?
+Answer:
+Canada
+Passage:
+Kungsholmen
+Kungsholmen is an island in Lake Mälaren in Sweden, part of central Stockholm. It is situated north of Riddarfjärden and considered part of the historical province Uppland. Its area is  with a perimeter of . The highest point is at Stadshagsplan at 47 m. The total population is 56,754 (December 31, 2007). 
+
+Administratively, it is subdivided into the five districts Kungsholmen, Marieberg, Fredhäll, Kristineberg and Stadshagen.
+
+History
+
+Establishment
+
+Franciscan monks from the Grey Friar's Abbey, Stockholm, began living on the island in the 15th century. Because of this, the island was named Munklägret (the Monks' encampment). The monks subsisted on cattle-breeding and fishing. They also managed the brickyard Själakoret at Rålambshov. As a result of the Swedish Reformation, which was concluded at the parliament in Västerås 1527, the monks were expelled and the area became property of the crown.
+
+At the end of the 16th century, Johan III (son of Gustav Vasa) established an additional brickyard on the northern bank of the island. In 1635 the first bridge to Munklägret was built.
+
+A few years later Queen Kristina donated large areas of land in the western part of the island to some of the generals from the Thirty Years War. They built magnificent entails and laid out great gardens. 1644 the crown donated the eastern part of Munklägret to the authorities of the city of Stockholm, which then also gets its first city plan. Three years later the remainder of the island was donated.
+ 
+In order to facilitate migration to Munklägret privileges were given to artisans and manufacturers. For example, they were allowed to set up operations there without having to belong to the guilds and they were exempted from tax for ten years. In 1672 Munklägret became a separate parish (Kungsholmen) and the whole island was renamed Kungsholmen.
+
+Industrialization
+
+When the Swedish Empire collapsed in the beginning of the 18th century the crown embarked on a generous economic policy to develop Kungsholmen. The entails were turned into factories and hospitals. In Hornsberg a cotton manufacture was established, at Marieberg a porcelain factory.
+
+In the early 19th century the military began to settle in Kungsholmen, which at the time was still a sparsely populated idyll.
+
+When Samuel Owen settled in Kungsholmen, it had begun developing into a marked district factories and workers. This development was accentuated when the Bolinder brothers start building up their business at Klara Sjö, west of the Kungsbron, (King's Bridge) in the mid-19th century. The company AB Separator was established at the end of the 19th century. AB Separator would soon become a worldwide group of companies and at the beginning of the 20th century had more than 2,000 employees.
+ 
+The industrial breakthrough led to a huge population explosion. The population grew from just over 4,000 people in 1860 to 26,000 in 1890. During the 1880s several apartment blocks were built to remedy the housing shortage. Claës Lundin wrote about these houses: "With one or two exceptions, they give no honor to the decade." Kungsholmen was commonly referred to as "Svältholmen." ("Famine Island")
+
+Modern Kungsholmen
+
+In the early 20th century a radical structural change took place on Kungsholmen. The traits from the old industrial district are swept away and instead housing and public institutions were erected. St. Görans’ church was built in 1910. At the division of the Kungsholmen parish in 1925, the new parish was named after the church.
+
+The residential areas in Fredhäll and in Kristineberg were built in the 1930s after a functionalist city plan. The bridges Västerbron and Tranebergsbron were also built the same decade, and Sankt Eriksbron received its current dimensions. The Stockholm metro was drawn through Kungsholmen in the 1950s, first out to Vällingby and later also to Järvafältet. At this time the military moved out and the large hospital Serafen is supplanted (on another location) by the more modern Saint Göran Hospital.
+ 
+
+Prominent buildings and structures
+
+* Stockholm City Hall, by architect Ragnar Östberg, and built 1911-1923.
+* Stockholm Court House from 1909-1915.
+* Kristineberg Palace from around 1750.
+* Functionalist buildings along the southern waterfront Norr Mälarstrand.
+* Art Deco buildings flanking the bridge Sankt Eriksbron.
+* Dagens Nyheter Tower, completed in 1964.
+* Västerbron, completed in 1935.
+
+Bridges leading to Kungsholmen
+
+* From Norrmalm:
+** Stadshusbron
+** Klarabergsviadukten
+** Kungsbron
+** Blekholmsbron
+** Barnhusbron
+** Sankt Eriksbron
+* From Solna:
+** Ekelundsbron
+* From Bromma:
+** Tranebergsbron
+* From Lilla Essingen:
+** Mariebergsbron
+** Fredhällsbron (part of the Essingeleden motorway.)
+* From Södermalm:
+** Västerbron
+Question:
+Kungsholmen, Norrmalm, Sodermalm and Ostermalm are the four districts of which European city?
+Answer:
+Stockholm, Sweden
+Passage:
+David Vine
+David Martin Vine (3 January 1935  – 11 January 2009) was a British television sports presenter. He presented a wide variety of shows from the 1960s onwards.
+
+Early life
+
+Born in Newton Abbot, Devon, he grew up in the north-west of the county, attending Barnstaple Grammar School  on Park Lane in Barnstaple. His father was a carpenter.
+
+Career
+
+He worked for the North Devon Journal Herald from the age of 17 and various newspapers, becoming the Sports Editor of the Western Morning News in Plymouth. He joined Westward Television in 1961, though he worked for the BBC for the majority of his broadcasting career. He joined the BBC, to work on BBC2 in 1966. He was working at BBC2 even though Westward Television were not aware of this because at the time BBC2 could not be received in the South West. An article in the Daily Mail led to Westward TV learning about his BBC work and he had to resign from Westward TV.
+
+Programmes he hosted include Sportscene, It's a Knockout (1967–1971), Jeux Sans Frontieres, Miss UK, Miss World, Quiz Ball, Rugby Special, Match of the Day, A Question of Sport (1970–1977 AND 1989), Grandstand, Superstars, Starshot, Ski Sunday (1978–1996) and the BBC's Winter and Summer Olympic Games coverage. 
+
+He provided the BBC TV commentary for the Eurovision Song Contest 1974, also hosting the preview shows of the international entries, and compèred the 1975 Miss World broadcast, the latter resulting in some embarrassment because he found it difficult to understand what many of the contestants were saying. He was the first presenter to introduce the tennis championships at Wimbledon (1967) in colour. He presented Wimbledon highlights until 1982 and also BBC's Show Jumping coverage.
+
+He was the anchorman at the World Snooker Championships at the Crucible Theatre, Sheffield, from 1978 – the first year the BBC covered the championships daily – until his retirement in 2000 as well as the Grand Prix, UK Championship and the Masters. Vine's supposed friendship with Steve Davis was parodied in a Spitting Image sketch in which Davis boasted, "I'm a mate of David Vine".
+
+His final work for the BBC was covering the weightlifting at the 2000 Sydney Olympics which he had done since the 1970s, after which he retired owing to a heart condition. He had contributed to programmes on the ESPN Classic channel. He had a coronary artery triple bypass operation in 2001,  and he died of a heart attack on 11 January 2009  aged 74 at his home near Henley-on-Thames, Oxfordshire.
+
+Personal life
+
+He married his first wife, Shirley, in 1958. They had met through amateur dramatics and had three children - Kim, Catherine and Martin; who lived together in Castleton Close, Mannamead, Plymouth; she died in 1970. He married his second wife, Mandy, in 1972 in Wokingham. They had a son. 
+
+He also had 4 grandchildren: Ben, Georgia, Oliver and Emily.
+Question:
+David Vine, David Coleman and Sue Barker have all hosted which BBC television quiz show?
+Answer:
+A Question of sport
+Passage:
+Liza Minnelli Cabaret - YouTube
+Liza Minnelli Cabaret - YouTube
+Liza Minnelli Cabaret
+Want to watch this again later?
+Sign in to add this video to a playlist.
+Need to report the video?
+Sign in to report inappropriate content.
+Rating is available when the video has been rented.
+This feature is not available right now. Please try again later.
+Published on Feb 15, 2013
+Liza May Minnelli (born March 12, 1946) is an American actress and singer, often referred to as The Queen of Broadway and/or Hollywood. She is the daughter of singer and actress Judy Garland and film director Vincente Minnelli. Already established as a nightclub singer and musical theatre actress, she first attracted critical acclaim for her dramatic performances in the movies The Sterile Cuckoo (1969), and Tell Me That You Love Me, Junie Moon (1970); Minnelli then rose to international stardom for her appearance as Sally Bowles in the 1972 film version of the Broadway musical Cabaret, for which she won the Academy Award for Best Actress in a Leading Role. She later co-starred in Arthur (1981), starring with Dudley Moore (in the title role) and Sir John Gielgud, who won the Academy Award for Best Supporting Actor as Arthur's snobbish but loveable butler. While film projects such as Lucky Lady, A Matter of Time and New York, New York were less favorably received than her stage roles, Minnelli became one of the most versatile, highly regarded and best-selling entertainers in television, beginning with Liza with a Z in 1972, and on stage in the Broadway productions of Flora the Red Menace, The Act and The Rink. Minnelli also toured internationally and did shows such as Liza Minnelli: At Carnegie Hall, Frank, Liza & Sammy: The Ultimate Event, and Liza Live from Radio City Music Hall. She starred in Liza's Back in 2002. She had guest appearances in the sitcom Arrested Development and had a small role in the movie The OH in Ohio, while continuing to tour internationally. In 2008/2009, she performed the Broadway show Liza's at The Palace...! which earned a Tony Award for Best Special Theatrical Event. Minnelli has won a total of four Tony Awards awards, including a Special Tony Award. She has also won an Oscar, an Emmy Award, two Golden Globes and a Grammy Legend Award for her contributions and influence in the recording field, along with many other honors and awards. She is among the few entertainers who have won an Oscar, Emmy, Grammy, and Tony Award... http://en.wikipedia.org/wiki/Liza_Min...
+Lyrics
+Question:
+Which actress starred in the films Cabaret and Arthur?
+Answer:
+Liza Maneli
+Passage:
+Rain, Steam and Speed – The Great Western Railway
+Rain, Steam and Speed – The Great Western Railway is an oil painting by the 19th century British painter J. M. W. Turner.  The painting was first exhibited at the Royal Academy in 1844, though it may have been painted earlier. It is now in the collection of the National Gallery, London.
+
+The Great Western Railway (GWR) was one of a number of private British railway companies created to develop the new means of transport. The location of the painting is widely accepted as Maidenhead Railway Bridge, across the River Thames between Taplow and Maidenhead. The view is looking east towards London. The bridge was designed by Isambard Kingdom Brunel and completed in 1838. A hare runs along the track in the bottom right of the painting, possibly symbolising speed itself.  Some think this is a reference to the limits of technology.  Others believe the animal is running in fear of the new machinery and Turner meant to hint at the danger of man's new technology destroying the inherent sublime elements of nature.
+Question:
+The name of which railway company is contained in the full title of the Turner painting Rain, Steam and Speed?
+Answer:
+The Great Western
+Passage:
+Sherman Klump
+Professor Sherman Klump (known as Julius Kelp in the original film and by his alter ego Buddy Love) is a fictional character portrayed by Jerry Lewis in The Nutty Professor, and by Eddie Murphy in the 1996 version and its 2000 sequel Nutty Professor II: The Klumps. Sherman is a jolly, kind hearted science teacher at Welman College. Although this was the main character Eddie played he also played the part of the rest of Sherman's family (excluding his youngest nephew, Ernie Jr, for obvious reasons).
+
+Films
+
+The Nutty Professor
+
+Throughout the first film, the professor is portrayed as highly intelligent and generally respected by his students, but his occasional accidents- such as when he accidentally opens every hamster cage in his lab when leaving it because his stomach shifted the release mechanism without him realizing it- and lack of confidence leave him victim to bullying and verbal abuse from the Dean of the university, especially since they now have only one possible source for grant money left to continue his research, their last supporter having left after she nearly swallowed one of the escaped hamsters. Having recently fallen in love with grad student and chemistry teacher Carla Purty (Jada Pinkett Smith), Sherman uses his latest discovery, a weight-loss serum that rewrites the subject's genes, to lose weight in order to spend time with her. Unfortunately, this serum creates the confident but mean-spirited individual known as Buddy Love, due to the testosterone imbalance caused by the transformation causing Buddy to manifest as an independent personality rather than simply being a thin Sherman. When his student and assistant Jason learns what has happened, he realizes that Buddy is gaining increasingly greater freedom from the professor's influence, such as Buddy taking credit for Sherman's work and essentially replacing Sherman on the faculty. This encourages Sherman to take back control of his life, disposing of most of the serum and 'fighting' Buddy for control of the body before Buddy can drink enough serum to eliminate Sherman forever. At the conclusion, Sherman admits what has happened to the faculty staff after he transforms back to normal in public, concluding that he must learn to accept himself as he is rather than worry about his weight.
+
+Jerry Lewis' response
+
+Lewis was not fond on Murphy's characters, due to excessive fart jokes in the film.
+
+Nutty Professor II: The Klumps
+
+In the second movie his kind personality is polluted by the Buddy Love gene in his DNA, causing him to occasionally say offensive or insulting things to people without realizing, especially when talking to his new love interest Denise (Janet Jackson). In an attempt to eliminate this, he uses a risky experiment to extract Buddy's DNA from his system. Sherman later proposes to Denise and she accepts. But Sherman's experiment unfortunately results in Buddy manifesting as an independent entity (albeit with some dog-like traits as his genetic make-up filled in the gaps with samples of canine DNA) while leaving Sherman gradually losing his intelligence due to the damage his brain cells have sustained as a result of Buddy being extracted from his system. Eventually, he is able to reabsorb Buddy by using a powerful version of his new youth serum to regress Buddy to amniotic fluid allowing him to 'drink' Buddy and regain his old intellect. Unfortunately, Buddy dies and evaporates into a public coin fountain. Denise and Cletus arrive just in time to help him when he loses his intelligence. Cletus forces Sherman to drink the water from the fountain, which still retains enough of Buddy's genetic pattern, and he regains all of his intelligence. A little while later, he and Denise are finally married and with Buddy dead, he can no longer take over Sherman's mind. He lives happily ever after with his wife.
+
+In other media
+
+Sherman Klump appears in the 3rd season Robot Chicken episode "Endless Breadsticks".
+Question:
+What type of drug is Sherman Klump trying to perfect in The Nutty Professor?
+Answer:
+Weightloss
+Passage:
+The Lighthouse (Poole)
+The Lighthouse is an arts centre in Poole, Dorset, England. According to the Arts council of England it is the largest  arts centre in the United Kingdom outside London. 
+
+It has a 669-seat theatre, a 1,500 seat concert hall, a 150-seat studio, a 105-seat cinema, an Image Lab/media suite, a large gallery for photography and digital art, a restaurant and three function rooms. The concert hall is home to the Bournemouth Symphony Orchestra. 
+
+History, development and funding
+
+The Poole Arts Centre (Towngate Theatre, Wessex Hall and Ashley Cinema) opened in April 1978 to serve the South East Dorset conurbation. The venue closed in May 2002 for an £8.5 million radical refurbishment and overhaul. This was paid for by Arts Council Lottery Awards, the Borough of Poole and through private donations. It reopened as Lighthouse, Poole's Centre for the Arts in October 2002. The refurbishment added new extensive facilities including a modern cinema, expanded concert hall and  photography labs. Other additions included expanded customer facilities and a new restaurant.
+
+The Lighthouse receives additional funding from the Arts Council England. In 2005/06 £230,000, in 2006/07 they received £330,000 in 2007/08 they will receive a total of £339,080. The Lighthouse is currently owned by the Poole Arts Trust Ltd.
+
+Programming and types of shows
+
+Lighthouse provides a wide ranging programme, including:
+
+Theatre
+
+*Mid-scale musical tours (such as Fame and Blood Brothers)
+*Opera (annually from English Touring Opera)
+*Dance (both contemporary and classical)
+*Ballet
+*Plays (ranging from classics such as Romeo and Juliet, An Inspector Calls to more modern day 'kitchen sink dramas')
+*Pantomime (Cinderella for 2006/7 starring Bobby Crush, Peter Duncan & Brian Cant)
+
+Concert Hall
+
+*Weekly performances on Wednesday nights from the Bournemouth Symphony Orchestra
+*Regular performances from the Wessex Youth Orchestra
+*World music
+*Rock concerts (including KISS, Oasis, Kings of Leon, U2, Page & Plant, Rufus Wainwright, Doves, Fun Loving Criminals)
+*Jazz
+
+Studio
+
+*Small scale children's theatre
+*Small scale adult theatre
+
+Cinema
+
+Eclectic mix of world cinema, and recent releases normally presented 4–8 weeks after general release.
+
+Location
+
+The Lighthouse is situated just outside the main shopping centre / high street in Poole. However it is only a short walk from the centre of town.
+
+The venue is easily accessible by public transport (10 minute walk from Poole railway station (for trains to London Waterloo, Southampton, Winchester and Weymouth, amongst others) and is opposite Poole bus station for local services across the town and into Bournemouth, Christchurch, Salisbury and Swanage) and also by the road network, within reasonable travel time from such towns as Dorchester, Weymouth, Yeovil, Salisbury, Christchurch, Bournemouth, Lymington, Southampton and Blandford.
+
+There is adequate car parking for visitors to the Lighthouse Theatre in the Dolphin Centre multi-storey which is open 24 hours a day, 7 days a week.
+Question:
+Which south coast resort has its own symphony orchestra, founded in 1893 and now based in Poole Arts Centre?
+Answer:
+Bournemouth (borough)
+Passage:
+Great Manchester Run
+The Great Manchester Run, established in 2003, is an annual 10-kilometre run through Greater Manchester (namely Manchester, Trafford and Salford) and is the largest of its type in Europe.  Usually held in mid-May, it is the third-largest mass participation running event in the United Kingdom.  behind the Great North Run and the London Marathon. It is part of the Great Run series of road races in the UK. It was formerly sponsored by Bupa (2003-2014) and Morrisons (2015).
+
+Course
+
+The course starts and finishes in Manchester city centre. It starts on Portland Street and heads southwest, out of the city centre and down the Chester Road. After entering Trafford it leaves this road and passes Old Trafford stadium. The course loops around Trafford Park, passing the Coronation Street set and the Imperial War Museum North. It then returns to Manchester city centre along the Chester Road, finishing by the Beetham Tower in Deansgate.
+
+2007–2008
+
+The 2007 race had an estimated 28,000 participants.  Briton Jo Pavey won the women's event while Kenyan Micah Kogo won the men's, beating the UK all-comers' record by four seconds with a finishing time of 27:25 minutes.  Celebrity participants included Kelly Holmes, Amir Khan and members of the cast of Coronation Street. 
+
+The following year saw almost 25,000 runners complete the course. Pavey successfully defended her title at the event while Rose Cheruiyot and Bezunesh Bekele took second and third place respectively. Austrian Günther Weidlinger took the title in the men's race. Unusual for a distance dominated by African runners, the top three finishers in the men's race (which also included Ukrainian Serhiy Lebid and Sweden's Mustafa Mohamed) were all European competitors.  
+
+2009 and Great City Games
+
+The race was upgraded to IAAF Gold Label Road Race status and the 2009 edition was expanded to include the Great City Games. Around 33,000 runners signed up for the 10 kilometres race and both events were contested on 17 May. 
+
+Previous 10 km winner Haile Gebrselassie stated that he wanted to regain his UK All-Comers' record, which was broken by Micah Kogo's event winning run in 2007.  Despite a strong first half of the race, Gebrselassie failed to break the record after he was impeded by wet and windy conditions. Vivian Cheruiyot won the women's race in 32:01 minutes but conditions also slowed her time, much to her dissatisfaction. Brian Alldis and Shelly Woods won their respective men's and women's wheelchair races. 
+
+The addition of The Great City Games brought much attention to the Great Run event.    Comprising a number of 150 metres races to be run on the streets near Manchester's Deansgate, Olympic Champions Usain Bolt and Christine Ohuruogu accepted invitations to compete.  Other competitors included Debbie Ferguson-McKenzie, Ivory Williams, British Olympians Marlon Devonish and Donna Fraser, and a number of other British and Jamaican athletes.  Bolt suffered minor leg injuries after crashing his car near Kingston, Jamaica, but after cancelling a track meet and resuming training he stated that he would be fit to compete.   Bolt completed the distance in a world best time of 14.35 seconds while Ferguson-McKenzie won the women's race in 16.54 seconds. 
+
+Past winners
+
+Key:
+Question:
+The Great City Games is an athletics event in Manchester with a track laid on which thoroughfare?
+Answer:
+Deansgate, Manchester
+Passage:
+film techniques - What kind of blood they use in movies ...
+film techniques - What kind of blood do they use in movies for bloody scenes? - Movies & TV Stack Exchange
+What kind of blood do they use in movies for bloody scenes?
+up vote 10 down vote favorite
+I always wondered what kind of blood is used in movies. I thought it could be from animals or color or least possibly human blood which I am sure will not be legal. I ask because in a lot of movies actors spit blood from their mouths. If it is blood, then how do they do it?
+It's usually corn syrup and red dye, I think. –  Walt Sep 8 '14 at 12:38
+  
+ 
+Strangely, real blood looks very fake on film. Fake blood tends to be more red or sometimes more blue dependent on the lenses and lighting etc. – user13705 Sep 9 '14 at 4:20
+  
+ 
+I have used strawberry quick coupled with massive amounts of food coloring. And to get the vicosity right just add corn syrup or regular pancake syrup. – user27429 Nov 2 '15 at 14:10
+up vote 18 down vote accepted
+It's called theatrical blood . First of all why theatrical blood?
+There are many reasons for substituting for real blood in the film industry, such as ethical and sanitary concerns, and concerns for the emotional well being of the actors. Also, actual blood's tendency to coagulate and solidify quickly make it unsuitable for repeated takes without freshening; the longer-lasting viscosity of stage blood makes it far easier to work with on the set.
+What is it? A wide variety of chemicals and natural products can be used. The most common is red food coloring, often inside small balloons coupled with explosive devices called squibs. Alfred Hitchcock famously used Bosco Chocolate Syrup as fake blood in his 1960 thriller Psycho. Since the film was in black-and-white, the color was less important than the consistency. Tomato ketchup is also a common alternative.
+up vote 12 down vote
+Fake blood can be made in many different ways. One of the cheapest and easiest can be made with varying recipes including corn syrup and food dye. For example, in the movie The Evil Dead the makers used a mixture consisting of corn syrup, food colouring, and instant coffee.
+Chocolate syrup is also used with red food colour to achieve correct shade of blood.
+Here is a history of Fake blood usage.
+And if you are really interested in step by step method of making fake blood then refer wikihow.com , where fake blood making is explained in 14 easy steps.
+Fake blood is also refereed as Theatrical blood or Kensington Gore (after the street of that name in London).
+Question:
+By what name do actors call stage blood
+Answer:
+Kensington
+Passage:
+Endymion (poem)
+Endymion is a poem by John Keats first published in 1818. It begins with the line "A thing of beauty is a joy for ever". Endymion is written in rhyming couplets in iambic pentameter (also known as heroic couplets). Keats based the poem on the Greek myth of Endymion, the shepherd beloved by the moon goddess Selene. The poem elaborates on the original story and renames Selene "Cynthia" (an alternative name for Artemis).
+
+Narrative
+
+It starts by painting a rustic scene of trees, rivers, shepherds, and sheep. The shepherds gather around an altar and pray to Pan, god of shepherds and flocks. As the youths sing and dance, the elder men sit and talk about what life would be like in the shades of Elysium. However, Endymion, the "brain-sick shepherd-prince" of Mt. Latmos, is in a trancelike state, and not participating in their discourse. His sister, Peona, takes him away and brings him to her resting place where he sleeps. After he wakes, he tells Peona of his encounter with Cynthia, and how much he loved her.
+
+The poem is divided into four books, each approximately 1000 lines long. Book I gives Endymion's account of his dreams and experiences, as related to Peona, and give the background for the rest of the poem. In Book II, Endymion ventures into the underworld in search of his love. He encounters Adonis and Venus—a pairing of mortal and immortal—apparently foreshadowing a similar destiny for the mortal Endymion and his immortal paramour. Book III reveals Endymion's enduring love, and he begs the Moon not to torment him any longer as he journeys through a watery void on the sea floor. There he meets Glaucus, freeing the god from a thousand years of imprisonment by the witch Circe. Book IV, "And so he groan'd, as one by beauty slain." Endymion falls in love with a beautiful Indian maiden. Both ride winged black steeds to Mount Olympus where Cynthia awaits, only for Endymion to forsake the goddess for his new, mortal, love. Endymion and the Indian girl return to earth, the latter saying she cannot be his love. He is miserable, till quite suddenly he comes upon the Indian maiden again and she reveals that she is in fact Cynthia. She then tells him of how she tried to forget him, to move on, but that in the end, "'There is not one,/ No, no, not one/ But thee.'"
+
+Critical reception
+
+Endymion received scathing criticism after its release,  and Keats himself noted its diffuse and unappealing style. Keats did not regret writing it, as he likened the process to leaping into the ocean to become more acquainted with his surroundings; in a poem to J. A. Hessey, he expressed that "I was never afraid of failure; for I would sooner fail than not be among the greatest." However, he did express regret in its publishing, saying "it is not without a feeling of regret that I make [Endymion] public."
+
+Not all critics disliked the work.  The poet Thomas Hood wrote 'Written in Keats' Endymion, in which the "Muse...charming the air to music...gave back Endymion in a dreamlike tale".  Henry Morley said, "The song of Endymion throbs throughout with a noble poet's sense of all that his art means for him.  What mechanical defects there are in it may even serve to quicken our sense of the youth and freshness of this voice of aspiration."
+Question:
+‘A thing of beauty is a joy forever’ is the first line of ‘Endymion’ by which poet?
+Answer:
+J. Keats
+Passage:
+Entomophobia
+Entomophobia (also known as insectophobia) is a specific phobia characterized by an excessive or unrealistic fear of one or more classes of insect, and classified as a phobia by the DSM-5.  More specific cases included apiphobia (fear of bees) and myrmecophobia (fear of ants). One book claims 6% of all US inhabitants suffer from it. 
+
+Entomophobia develops at an early age and is quite common among the animal phobias. Typically one suffers from a fear from one specific type of insect, and entomophobia leads to behavioral changes: the sufferer will avoid situations where they may encounter the specific type of insect. Cognitive behavioral therapy is considered an effective treatment.
+Question:
+Entomophobia is the irrational fear of which type of creatures?
+Answer:
+Insect reproduction
+Passage:
+Gordon MacRae
+Gordon MacRae (March 12, 1921 – January 24, 1986)  was an American actor and singer, best known for his appearances in the film versions of two Rodgers and Hammerstein musicals, Oklahoma! (1955) and Carousel (1956), and playing Bill Sherman in On Moonlight Bay (1951) and By The Light of the Silvery Moon (1953).
+
+Early life
+
+Born Albert Gordon MacRae in East Orange in Essex County in northeastern New Jersey, MacRae graduated in 1940 from Deerfield Academy in Deerfield, Massachusetts, and he thereafter served as a navigator in the United States Army Air Forces during World War II. Prior to this, he attended Nottingham High School in Syracuse, New York.
+
+Career
+
+Winning a contest enabled MacRae to sing at the 1939 New York World's Fair with Harry James' and Les Brown's orchestras.
+
+He made his Broadway debut in 1942, acquiring his first recording contract soon afterwards. Many of his hit recordings were made with Jo Stafford. It was in 1948 that he appeared in his first film, The Big Punch, a drama about boxing. He soon began an on-screen partnership with Doris Day and appeared with her in several films.
+
+In 1950, he starred with Doris Day in "Tea for Two" (a reworking of "No, No, Nanette"), then in 1951, he starred again with Doris Day in On Moonlight Bay, followed by the 1953 sequel By the Light of the Silvery Moon.  That same year, he also starred opposite Kathryn Grayson in the third film version of The Desert Song. This was followed by leading roles in two major films of Rodgers and Hammerstein musicals, Oklahoma! (1955) and Carousel (1956), both films opposite Shirley Jones.
+
+On radio, he was the host and lead actor on The Railroad Hour, a half-hour anthology series made up of condensed versions of hit Broadway musicals.  Many of those programs were recorded later in popular studio cast albums: most of these recordings have been reissued on CDs. 
+
+MacRae appeared frequently on television, on such programs as The Martha Raye Show and The Ford Show, Starring Tennessee Ernie Ford, both on NBC. On Christmas 1958, MacRae and Ford performed the Christmas hymn "O Holy Night".  Earlier in 1958, MacRae guest starred on the short-lived NBC variety series, The Polly Bergen Show.
+
+Thereafter, MacRae appeared on The Ed Sullivan Show, The Dinah Shore Chevy Show,  The Pat Boone Chevy Showroom, and The Bell Telephone Hour. He continued his musical stage career, often performing with his wife, as in a 1964 production of Bells Are Ringing, also performing as Sky Masterson in the popular musical Guys and Dolls, with his wife playing the role of Miss Adeleide, reprising her Broadway role.  In the late 1960s he co-hosted for a week on The Mike Douglas Show. He also toured in summer stock and appeared in nightclubs. In 1967, he replaced Robert Preston in the original Broadway run of the musical I Do! I Do!, starring opposite Carol Lawrence, who had taken over the role from Mary Martin. 
+
+Personal life
+
+He was married to Sheila MacRae from 1941 until 1967;  the couple were the parents of four children: actresses Heather and Meredith MacRae, and sons William Gordon MacRae and Robert Bruce MacRae. Two of the children, Meredith MacRae and Robert Bruce MacRae, predeceased their mother, Sheila.
+
+Gordon MacRae was married, secondly, to Elizabeth Lambert Schrafft on September 25, 1967, and fathered one daughter, Amanda Mercedes MacRae in 1968. They remained married until his death. He was buried at the Wyuka Cemetery in Lincoln, Nebraska.
+
+Filmography
+
+Stage work
+
+* Junior Miss (1942) (Broadway) (replacement for Walter Collins)
+* Three to Make Ready (1946) (Broadway)
+* Carousel (1955) (Music Hall at Fair Park)
+* Annie Get Your Gun (1960) (Kansas City)
+* Bells Are Ringing (1961) (Columbus, Ohio)
+* Guys and Dolls (1963) (summer stock tour)
+* Bells Are Ringing (1964) (summer stock tour)
+* Jerome Kern's Theatre (1966) (Avery Fisher Hall)
+* Kismet (1966) (Columbus, Ohio)
+* Oklahoma! (1967) (summer stock tour)
+* I Do! I Do! (1967) (Broadway) (replacement for Robert Preston)
+* Golden Rainbow (1969) (summer stock tour)
+* Milk and Honey (1972) (Columbus, Ohio)
+* Paint Your Wagon (1978) (Columbus, Ohio)
+
+Radio
+
+MacRae replaced Frank Sinatra on a radio program in 1943, but he soon had to leave for military service. In 1946, he was the "singing emcee" of The Teentimers Club, a Saturday morning program on NBC. 
+
+He also appeared in programs as shown in the table below.
+
+Discography
+
+This is Gordon Macrae Capitol Records
+
+Solo
+
+* "Love Is A Many Splendored Thing"
+* "Easy To Love"
+* "Hair of Gold, Eyes of Blue"
+* "It's Magic"
+* "Rambling Rose"
+* "Love Is The Sweetest Thing"
+* "Here's To A Wonderful Christmas"
+* "The Merry Christmas Waltz"
+* "The Secret"
+
+with Jo Stafford
+
+* "'A' — You're Adorable"
+* "Dearie"
+* "My Darling, My Darling"
+* "Say Something Sweet To Your Sweetheart"
+* "Whispering Hope"
+* "Echoes"
+* "There's a Small Hotel" (Jo Stafford album "Meet Jo Stafford")
+* "When I Grow Too Old to Dream" (Jo Stafford album "Meet Jo Stafford")
+
+Singles
+
+In popular culture
+
+* MacRae is mentioned in the song "Oklahoma U.S.A." by The Kinks, as the song's subject daydreams of "riding in the surrey with the fringe on top"  with "Shirley Jones and Gordon MacRae." He is also mentioned in the second episode of The Golden Palace.
+* He is Godfather to Shirley Jones and Jack Cassidy's son, Shaun Cassidy.
+Question:
+"In which 1956, film musical did Gordon MacRae sing about the attributes of ""My Boy Bill""?"
+Answer:
+Carousels
+Passage:
+Muslims can see Black Eyed Peas, Malaysia says
+Muslims can see Black Eyed Peas, Malaysia says
+Muslims can see Black Eyed Peas, Malaysia says
+By IBT Staff Reporter On
+09/03/09 AT 8:58 AM
+Close
+(L to R) Apl.de.ap, Fergie, will.i.am and Taboo of U.S. hip-hop group The Black Eyed Peas perform during the Isle of MTV concert in Floriana, outside Valletta, July 8, 2009. REUTERS/Darrin Zammit Lupi
+Malaysia has reversed an earlier ban on Muslims attending a concert by U.S. hip-hop band the Black Eyed Peas, saying it had no right to keep people from entertainment events.
+The September 25 concert is sponsored by Guinness as part of celebrations of the alcoholic brew's 250th birthday. Guinness is owned by the world's biggest spirits group, Diageo.
+Information Minister Rais Yatim said it was up to the individuals' better judgment to decide whether they should attend events organized by an alcoholic beverage company.
+We have no legal powers actually to bar people from attending functions, The Star newspaper quoted Rais as saying on Wednesday.
+Muslims account for 55 percent of the 27 million people in this Southeast Asian country and are barred from consuming alcohol, although the rules are regularly flouted, especially in big cities like the capital, Kuala Lumpur.
+However, a 32-year old Muslim woman caught drinking beer at a hotel was sentenced to six strokes of the cane by an Islamic court recently in a case that sparked debate about growing Islamization in the country.
+Malaysia has a dual-track legal system, with Islamic criminal and family laws that are applicable to Muslims existing alongside civil laws.
+Foreign music acts often draw protests by Malaysia's opposition Pan Malaysian Islamic Party (PAS).
+Last week the party called for Danish soft rock band Michael Learns To Rock to be banned from performing because it was a grave insult to Muslims observing the fasting month of Ramadan.
+Since 2007, PAS has campaigned against performances by singers including Beyonce, Rihanna, Gwen Stefani, Avril Lavigne and Mariah Carey.
+Malaysia's Guinness Anchor, which sells Guinness and other brands here, had sales of 1.2 billion ringgit ($339.8 million) in 2008.
+Question:
+Which country reversed a ruling banning Muslims from attending a Black-Eyed Peas concert in 2009?
+Answer:
+Etymology of Malaysia
+Passage:
+William Frederick Yeames
+William Frederick Yeames  (18 December 1835 – 3 May 1918) was a British painter best known for his oil-on-canvas problem picture  'And When Did You Last See Your Father?' , which depicts the son of a Royalist being questioned by Parliamentarians during the English Civil War.
+
+Biography
+
+Yeames was born in Taganrog, Russia, the son of a British consul based in Russia. After the death of his father in 1842, Yeames was sent to school in Dresden where he began studying painting. After a change in the fortunes of his family, they moved to London in 1848. Yeames learnt anatomy and composition from George Scharf and took art lessons from F. A. Westmacott. In 1852 he journeyed to Florence where he studied with Enrico Pollastrini and Raphael Buonajuti. During his time there he painted at the Life School at the Grand Ducal Academy, drawing from frescoes by Andrea del Sarto, Ghirlandaio and Gozzoli. Continuing on to Rome, he painted landscape studies and copied Old Masters, including the frescoes of Raphael in the Vatican. Returning to London in 1859, he set up a studio in Park Place and, with Philip Hermogenes Calderon, Frederick Goodall and George Adolphus Storey, formed the loose association of artists known as the St John's Wood Clique. The group concentrated on subjects of a historical nature and narrative paintings in which the story was revealed by close study of the actions and expressions of the subjects. In Yeames's work this technique evolved into the genre known as the problem picture, in which the narrative of the image creates an unresolved dilemma or paradox for the viewer. 
+
+Yeames married on 18 August 1865 Anne Winfield, daughter of Major James Stainbank Winfield of the East India Company.  While their work was popular with the public, the St John's Wood Clique found it difficult to get their work displayed at prestigious galleries and the Royal Academy because it never received critical acclaim. Yeames managed to overcome this problem and from 1859 exhibited at the Royal Academy and was made an Associate (ARA) in 1866. Unlike other artist circles of the time, the St John's Wood Clique did not lead a bohemian lifestyle; Yeames took holidays at Hever Castle and lived comfortably in London. He and Goodall specialised in Tudor and Stuart subjects, but did not always portray the events they depicted with historical accuracy instead using them as inspiration. He died in Teignmouth, Devon on 3 May 1918.
+
+In 2000, a blue plaque commemorating Yeames was installed at his former home, 8 Campbell Road, Hanwell, London, where he lived from 1894 until 1912.
+
+"And When Did You Last See Your Father?"
+
+The oil-on-canvas picture, painted in 1878, depicts a scene in an imaginary Royalist household during the English Civil War. The Parliamentarians have taken over the house and question the son about his Royalist father (the man lounging on a chair in the centre of the scene is identifiable as a Roundhead officer by his military attire and his orange sash). Yeames was inspired to paint the picture to show the crises that could arise from the natural frankness of young children. Here, if the boy tells the truth he will endanger his father, but if he lies he will go against the ideal of honesty undoubtedly instilled in him by his parents.
+
+The boy in the pictures is based on Thomas Gainsborough's painting The Blue Boy. It was modelled by Yeames' nephew, James Lambe Yeames. Behind the boy, there is a girl, probably the daughter, waiting her turn to be questioned. The girl was based on Yeames' niece, Mary Yeames. At the back of the hall the mother and elder daughter wait anxiously on the boy's reply. The scene is neutral: while the innocence of the boy is emphasised by his blond hair, open expression and blue suit, the questioners are also treated sympathetically; the main interrogator has a friendly expression and the sergeant with the little girl has his arm on her shoulder as if comforting her. The painting is at the Walker Art Gallery, Liverpool, having been bought in 1878, just a year after the gallery opened in 1877. Madame Tussauds in London has a life-size waxwork tableau of the scene, faithfully reproduced from the painting.
+
+Notes
+Question:
+Who painted 'And When Did You Last See Your Father' in 1878?
+Answer:
+And When Did You Last See Your Father%3F (picture)
+Passage:
+Unacceptable: Government's verdict on company it employs ...
+Unacceptable: Government's verdict on company it employs to assess benefit claimants | UK | News | Daily Express
+UK
+Unacceptable: Government's verdict on company it employs to assess benefit claimants
+THE FRENCH company which carries out the controversial "fit for work" tests on disabled people has been given a scathing assessment of its own by the Government.
+19:26, Mon, Jul 22, 2013
+Atos carries out Work Capability Assessments for the Government
+It's about time the Government told Atos to smarten up its act.
+Richard Hawkes, chief executive of disability charity Scope
+Atos Healthcare, which assesses more than a million sickness benefit claimants, has been accused of an "unacceptable reduction" in the quality of its written reports.
+The Government has announced it will bring in extra companies to carry out the assessments, but Richard Hawkes, chief executive of disability charity Scope, said: "It's about time the Government told Atos to smarten up its act.
+"But, it's also strikingly clear to disabled people that the whole £112 million per year system is broken.
+"The cost of appeals has skyrocketed, assessors have resigned in disgust, and the test has received criticism from the Public Accounts Committee and National Audit Office.
+"The Government needs to deliver a test that is fit for purpose.
+"Most disabled people want to work but they face significant barriers, such as a lack of skills and experience, confidence and even negative attitudes from some employers.
+"The Work Capability Assessment ignores all this. It's a tick-box test of someone's medical condition."
+Scope have accused the Government of using a 'tick-box' system to measure disability
+Atos is contracted by the Department for Work and Pensions to carry out Work Capability Assessments for people applying for the sickness benefit Employment and Support Allowance (ESA), as well as people who were on Incapacity Benefit.
+After an urgent audit of around 400 reports carried out by the company, the Government ordered the retraining and re-evaluation of Atos employees, with those not meeting the required standard having their work audited until they do, or having their approval to carry out assessments withdrawn.
+Assessors have been accused of making too many mistakes and assessing people as fit for work when they are not, and many disabled people claim to have been wrongly turned down for ESA.
+The quality of reports produced by Atos following an assessment are graded A-C, with the number of C grades around 41 per cent between last October and March.
+Employment Minister Mark Hoban
+Employment Minister Mark Hoban said: "I am committed to ensuring the Work Capability Assessment process is as fair and accurate as possible, with the right checks and balances to ensure the right decision is reached. Where our audits identify any drop in quality, we act decisively to ensure providers meet our exacting quality standards.
+"Since 2010 we have made considerable improvements to the system we inherited from the previous government. However, it's vital we continue to improve the service to claimants, which is why we are introducing new providers to increase capacity."
+The company says it carried out one million face-to-face interviews last year, at a rate of more than 11,000 per week. It employs around 1,400 doctors, nurses and physiotherapists.
+Work and Pensions Secretary Iain Duncan Smith has come in for criticism over the system
+A statement from Atos said: "Our priority is the quality of our work and, following the recent audit, we quickly put in place a plan to improve the quality of written reports produced following an assessment.
+"The professional and compassionate service we provide to claimants and the well-being of our people remain our primary consideration.
+"We are sorry when we do not meet our own high standards but can reassure that a C grade report does not mean the assessment was wrong and there are checks and balances throughout the system so that the correct decision on benefit is made by the department."
+Labour’s Shadow Work and Pensions Secretary believes Atos has spun out of control
+Liam Byrne MP, Labour’s Shadow Work and Pensions Secretary, placed the blame squarely at the door of former Conservative leader - now Work and Pensions Secretary - Iain Duncan Smith.
+He said: “This is a direct consequence of three years appalling contract management by Mr Duncan Smith.
+"He has quite simply let Atos spin out of control and the taxpayer and vulnerable people are picking up the pieces.
+ 
+“There are now profound questions about Atos’ role going forward. We will study this statement in detail, but it is now vital the Government rebuilds a system that’s fit for purpose.”
+Question:
+What French IT company is engaged (as at 2011) by the UK government in the controversial assessment of work capability of incapacity benefit claimants?
+Answer:
+AtoS
+Passage:
+Water taxi
+A water taxi or a water bus, also known as a sightseeing boat, is a watercraft used to provide public or private transport, usually, but not always, in an urban environment. Service may be scheduled with multiple stops, operating in a similar manner to a bus, or on demand to many locations, operating in a similar manner to a taxi. A boat service shuttling between two points would normally be described as a ferry rather than a water bus or taxi.
+
+The term water taxi is usually confined to a boat operating on demand, and water bus to a boat operating on a schedule. In North American usage, the terms are roughly synonymous.
+
+The earliest water taxi service was recorded as operating around the area that became Manchester, United Kingdom. 
+
+Locations
+
+Cities and other places operating water buses and/or taxis include:
+
+* Amsterdam
+* Astana 
+* Auckland
+* Baltimore
+** Ed Kane's Water Taxi
+* Bangkok
+** Chao Phraya Express Boat
+** Khlong Saen Saep boat service
+* Bordeaux
+** Boats BatCub 
+* Boston   
+* Bratislava 
+** Bratislava Propeler      
+* Bremen
+* Brisbane 
+** CityCat
+** CityFerry
+* Bristol
+** Bristol Ferry Boats
+* Brunei
+* Bucharest
+* Budapest
+* Buenos Aires, Tigre
+* Bydgoszcz, Poland
+* Cardiff
+** Cardiff Waterbus
+* Cap-Haïtien, Haiti (at Labadee beach)
+* Cape Town
+* Caye Caulker
+* Charleston 
+** [http://www.charlestonwatertaxi.com/ Charleston Water Taxi]
+* Chicago
+* Copenhagen
+** Copenhagen Harbour Buses
+* Davao City 
+** Davao water taxi service
+* Dubai
+** Abras
+** RTA water taxis (recently introduced)
+* Erie, Pennsylvania
+** Presque Isle Water Taxi
+* Fort Lauderdale
+* Galápagos Islands
+* Gothenburg 
+** Älvsnabben ferry
+** Paddan 
+* Guangzhou, China
+* Halifax Regional Municipality
+* Hamburg
+* Helsinki
+* Hong Kong: Cheung Chau, Chi Ma Wan, Peng Chau, Silvermine Bay 
+** New World First Ferry
+* Istanbul 
+* Jacksonville, Florida
+**Jacksonville Water Taxi
+* Karachi
+* Kobe
+* Kochi
+* Kragerø and surrounding area, Norway
+* Kristiansund, Norway
+* Lake Ozark, Missouri 
+* Laughlin, Nevada and Bullhead City, Arizona
+* Lisbon
+* London 
+** London River Services
+** Thames Clippers
+* Long Beach, California 
+** Long Beach Transit
+* Malta
+** Dghajsa
+* Manila 
+** Pasig River Ferry Service
+* Moscow (River tram )
+* Mumbai (Catamarans and ferries)
+* Nantes
+** Navibus
+* New York City
+** Liberty Water Taxi
+** New York Water Taxi
+* New Zealand
+* Niigata
+* Oklahoma City 
+* Orlando, Florida
+* Osaka
+** Osaka Suijō Bus
+* Oslo
+** Bygdøfergene
+** NBDS
+** Oslo-Fergene 
+* Panama 
+* Paris
+** Voguéo
+* Pittsburgh
+* Plymouth
+* Portland, Maine
+* Potsdam, Germany
+* Quad Cities, Illinois/Iowa 
+* Rotterdam/Dordrecht 
+* Sacramento
+* Saint Petersburg
+** Aquabus 
+* Seattle
+** King County Water Taxi
+* Seoul  
+* Sha Lo Wan, Tai O, Tuen Mun, Tung Chung (Urmston Road, Hong Kong)
+* Shizuoka
+* Singapore (Singapore River)
+* Spalding (River Welland)
+* Stockholm 
+* Sydney 
+* Tallinn 
+* Tampa 
+* The Woodlands, Texas
+* Tokyo
+** Tokyo Cruise Ship
+** Tokyo Mizube Line
+* Toronto
+** Toronto water taxis
+* Trinidad 
+** Water Taxi Service, Port of Spain to San Fernando – service implemented in December 2008
+* Vancouver
+** The Aquabus
+** Coastal Link Ferries
+** English Bay Launch
+** False Creek Ferries
+** Granville Island Water Taxi Services (defunct)
+** SeaBus
+* Venice
+** Gondola
+** Vaporetto
+* Victoria, British Columbia
+** Victoria Harbour 
+* Walt Disney World 
+* Wellington
+** Ferries in Wellington
+* Winnipeg
+* Xochimilco, Mexico City
+** Chalupa
+* Yokohama
+** Keihin Ferry Boat
+** The Port Service
+
+On demand water taxis are also commonly found in marinas, harbours and cottage areas, providing access to boats and waterfront properties that are not directly accessible by land.
+
+Incidents
+
+On March 6, 2004, a water taxi on the Seaport Taxi service operated by the Living Classrooms Foundation capsized during a storm on the Patapsco River, near Baltimore's Inner Harbor. A total of 5 passengers died in the accident, which the National Transportation Safety Board determined was caused by insufficient stability when the small pontoon-style vessel encountered strong winds and waves. The company no longer operates water taxi vessels in Baltimore harbor.
+Question:
+What are the water buses or water taxi’s in Venice called?
+Answer:
+Vaporetto

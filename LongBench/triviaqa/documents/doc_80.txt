@@ -1,0 +1,672 @@
+Passage:
+What is the longest word you can type with one hand ...
+What is the longest word you can type with one hand? | Slowchop Studios
+Archived
+Tags
+3dsmax betterprint blog c80 cars cool cython darkfighter debian django firefox geocmd google graphs gravit heatmap installers javascript json models multiplayer opengl opensource osx php plugins pricedrop pycallgraph pyglet pygooglechart pyrex python pyweek qr codes rts sqlalchemy timelapse trac tracrecaptchaplugin videos virtushare visualisation website wireless wirelessheatmap
+What is the longest word you can type with one hand?
+I was looking for random, useless facts on the Internet the other day and found one that said:
+“Skepticisms is the longest word that alternates hands when typing.”
+This turned out wrong. A friend convinced me to write an application to work it out, and I decided to make it do more…
+The application uses the UNIX words file to scan for words. Granted, not all the words actually are real, but it is a good indication.
+To cut to the chase, the longest words with one hand on the QWERTY keyboard layout are 12 letters long:
+aftereffects,Â desegregated,Â desegregates,Â reverberated,Â reverberates,Â stewardesses
+These are all left handed words. In fact, there are 57 longer words that can be typed than the longest right handed word. The longest right handed word is “polyphony” with 9 letters.Â I found this a bit unusual so I decided to graph it (below).Â With alternating key strokes, the longest words are:
+authenticity,Â enchantment,Â entitlement,Â proficiency,Â shantytowns
+These are 12 letters for authenticity and 11 for the rest.
+Here are the graphs for QWERTY with left vs right vs alternating sides:
+I recall that the Dvorak Simplified Keyboard was designed with alternating hand key strokes in mind. With alternating sides, the highest word count is 14–slightly more than QWERTY’s 12. These words are:
+overemphasized,Â overemphasizes,Â unpremeditated,Â verisimilitude
+Interestingly enough, the Dvorak layout has very few words that have multiple key presses on the same side of the keyboard. The left side is the most popular with the longest words, at 6 letters, being:
+kookie,Â opaque,Â papaya,Â upkeep,Â yippee,Â yuppie
+The right side has a lowly score of 3 letters, one isn’t even a word:
+brr, nth
+Here is the Dvorak graph:
+Well, come to your own conclusions from this data! I was just curious and slightly bored…
+The graphs are made with Google Charts API using the pygooglechart module. If there’s enough interest I’ll throw the code up on github.
+Posted on
+Question:
+In two handed typing, what is the longest word that can be typed with only the left hand (English)?
+Answer:
+Cabin crew member
+Passage:
+List of city nicknames in the United States
+This partial list of city nicknames in the United States compiles the aliases, sobriquets and slogans that cities are known by (or have been known by historically), officially and unofficially, to municipal governments, local people, outsiders or their tourism boards or chambers of commerce. City nicknames can help in establishing a civic identity, helping outsiders recognize a community or attracting people to a community because of its nickname; promote civic pride; and build community unity. Nicknames and slogans that successfully create a new community "ideology or myth" are also believed to have economic value. Their economic value is difficult to measure, but there are anecdotal reports of cities that have achieved substantial economic benefits by "branding" themselves by adopting new slogans.Alfredo Andia, [http://www.monu.org/monu7/Branding.pdf Branding the Generic City :)], MU.DOT magazine, September 10, 2007
+
+In 2005 the consultancy Tagline Guru conducted a small survey of professionals in the fields of branding, marketing, and advertising aimed at identifying the "best" U.S. city slogans and nicknames. Participants were asked to evaluate about 800 nicknames and 400 slogans, considering several criteria in their assessments. The assigned criteria were: whether the nickname or slogan expresses the "brand character, affinity, style, and personality" of the city, whether it "tells a story in a clever, fun, and memorable way," uniqueness and originality, and whether it "inspires you to visit there, live there, or learn more."[http://web.archive.org/web/20080623231050/http://www.taglineguru.com/citybrandingPR.html TaglineGuru Releases List of Top U.S. City Mottos and Monikers], press release, September 20, 2005, TaglineGuru.com website, archived on June 23, 2008
+
+The top-ranked nickname in the survey was New York City's "The Big Apple," followed by "Sin City" (Las Vegas), "The Big Easy" (New Orleans), "Motor City" (Detroit), and "The Windy City" (Chicago). In addition to the number-two nickname, Las Vegas  had the top-rated slogan: "What Happens Here, Stays Here." The second- through fifth-place slogans were "So Very Virginia" (Charlottesville, Virginia), "Always Turned On" (Atlantic City, New Jersey), "Cleveland Rocks!" (Cleveland, Ohio), and "The Sweetest Place on Earth" (Hershey, Pennsylvania).
+
+Some unofficial nicknames are positive, while others are derisive. The unofficial nicknames listed here have been in use for a long time or have gained wide currency.
+
+Alabama
+
+Alaska
+
+Arizona
+
+Arkansas
+
+California
+
+Colorado
+
+Connecticut
+
+Delaware
+
+Florida
+
+Georgia
+
+Hawaii
+
+Idaho
+
+Illinois
+
+Indiana
+
+Iowa
+
+Kansas
+
+Kentucky
+
+Louisiana
+
+Maine
+
+Maryland
+
+Massachusetts
+
+Michigan
+
+Minnesota
+
+Mississippi
+
+Missouri
+
+Montana
+
+Nebraska
+
+Nevada
+
+New Hampshire
+
+New Jersey
+
+New Mexico
+
+New York
+
+North Carolina
+
+North Dakota
+
+Ohio
+
+Oklahoma
+
+Oregon
+
+Pennsylvania
+
+Rhode Island
+
+South Carolina
+
+South Dakota
+
+Tennessee
+
+Texas
+
+Utah
+
+Vermont
+
+Virginia
+
+Washington
+
+West Virginia
+
+Wisconsin
+
+Wyoming
+
+District of Columbia
+
+Puerto Rico
+Question:
+"Which American city is nicknamed ""The Windy City""?"
+Answer:
+Chi-Beria
+Passage:
+Sir John Thomas named as new Lord Chief Justice - BBC News
+Sir John Thomas named as new Lord Chief Justice - BBC News
+BBC News
+Sir John Thomas named as new Lord Chief Justice
+16 July 2013
+Close share panel
+Image caption Sir John will take over as Lord Chief Justice in the autumn
+Sir John Thomas has been confirmed as the new Lord Chief Justice, replacing Lord Judge as head of the judiciary of England and Wales.
+Sir John, currently president of the Queen's Bench Division, will take over the £240,000-a-year role in October. .
+The 65-year-old was involved in recent high-profile cases including those of Abu Hamza and Julian Assange.
+After his appointment he pledged that judges would help ensure that justice was delivered "fairly and efficiently".
+As well as leading the judges of England and Wales, he will also play a key role mediating between the courts and ministers.
+Sir John was born in Carmarthen and brought up in Ystradgynlais, Powys. He was called to the bar in 1969 and was knighted when he became a High Court judge in 1996.
+'Inevitable tension'
+Some had predicted the job would be given to Lady Justice Hallett, who led the London bombings inquest and would have become the first woman in the role.
+Also in the running, according to the BBC's legal correspondent Clive Coleman, was Lord Justice Leveson who led the recent inquiry into the ethics and practices of the press.
+Analysis
+By Clive ColemanLegal correspondent, BBC News
+The Lord Chief Justice has a critical constitutional role. As head of the judiciary in England and Wales, the 'chief' as he is sometimes known, is the face, leader and defender of the independent judiciary.
+Think of the judiciary and the government as two tectonic plates of the constitution.  Through a combination of judicial review and the Human Rights Act there is now almost no area of government decision making that our unelected judges cannot scrutinise.
+That creates a tension between them and ministers, and the man who heads the judiciary has both to work with government and lead the powerful body of judges that holds it to account.
+The Lord Chief Justice also has an important role as President of the Courts in England and Wales during a what is a period of unprecedented change. He will be keen to protect access to justice and the rule of law at a time when the government is determined to cut the cost of the justice system and increase its efficiency.
+As if that wasn't enough, the 'chief' is also the presiding judge in the criminal division of the Court of Appeal, and is expected to sit on important cases, giving judgments on some of the major legal issues of the day, including providing guidance on sentencing.
+It's a huge job, but it does come with a salary of £240k.
+But Sir John was recommended by the Judicial Appointments Commission to Justice Secretary Chris Grayling, who then made the recommendation to the prime minister.
+Our correspondent said Sir John was taking a "very important constitutional role" and one where he could clash with the government.
+"The judiciary can scrutinise just about every area of government policy, so there is an inevitable tension between the two", he added.
+The panel that chose Sir John included Lord Neuberger, President of the Supreme Court and, for the first time, a lay member of the public, Dame Valerie Strachan.
+'Fair and efficient'
+Sir John said it was a "privilege and honour" to take on the job and paid tribute to his predecessor Lord Judge who he said was "universally admired for his deep commitment to justice, the independence of the judiciary and the outstanding leadership he has given to all judges and magistrates".
+"Although in a time of reduced resources significant change must continue, the judiciary will play its leading part in ensuring that justice is delivered fairly and efficiently," he added.
+The Constitutional Reform Act 2005 made the Lord Chief Justice head of the judiciary of England and Wales, a role previously held by the Lord Chancellor.
+The act means Sir John will take on about 400 statutory duties which include representing the views of the judiciary to Parliament, the deployment of judges and allocation of work in courts in England and Wales.
+Question:
+What is the appropriate name of the current Lord Chief Justice of England and Wales?
+Answer:
+Igor Judge
+Passage:
+Which Ancient Greek God Carried the World on His Shoulders?
+Which Ancient Greek God Carried the World on His Shoulders?
+Which Ancient Greek God Carried the World on His Shoulders?
+Let's Hope Atlas Never Shrugged
+Atlas in Rockefeller Center.  Corinne Gill
+Updated April 14, 2016.
+Question: Which God Carried the World on His Shoulders?
+The expression "to carry the world" or " the weight of the world on one's shoulders " comes from a story in mythology. Which god had to wield this big burden?
+Answer:
+The Titan Atlas  carried something very heavy, possibly the weight of the world, on his shoulders. This was a punishment that came down from Zeus , king of the gods after they sided against Zeus in the war of the Titans vs. the Olympians. But Vitruvius claims this was actually a reward, for "through his vigorous intelligence and ingenuity, he was the first to cause men to be taught about the courses of the sun and moon, and the laws governing the revolutions of all the constellations."
+Where Atlas would have to stand to carry the heavens on his shoulders? In the ancient world view , where the Mediterranean was the heart of the world, oceans surrounded the inhabited area and it is possible to picture Atlas standing in the world-circling oceans holding up the world, perhaps to keep it from sinking.
+continue reading below our video
+10 Facts About the Titanic That You Don't Know
+Ovid also mentions Atlas residing in the far west, or, as Pseudo-Apollodorus notes, among with Hesperides. In the  Book I  of The  Odyssey , attributed to Homer , Atlas is pictured standing in water. However, in this same version, Atlas doesn't hold the world, but pillars separating Earth and Heaven.
+When Hercules (who saved the Titan Prometheus from Zeus' liver-loving eagle) fetched the apples of the Hesperides , he required the help of Atlas. Atlas agreed on condition that Hercules assume his heavy burden while Atlas grabbed the fruit. Atlas got them, but admitted he was tired of holding the heavy burden; it was Hercules's turn to bear the world on his shoulders.
+Hercules told Atlas that he'd hold it - whatever it is - but he needed to put up a pad on his shoulders first, so could Atlas just take it back for a sec, please? Atlas foolishly agreed. Hercules picked up the apples and went blithely on his way. 
+Another version of the story, as told by Diodorus Siculus, agrees with Vitruvius. Apparently, Atlas was an expert in astrology and taught Hercules all he knew about the stars. "
+-Edited by Carly Silver
+Question:
+In mythology which of the Titans was condemned to carry the weight of the world on his shoulders
+Answer:
+Atlases
+Passage:
+Couvade syndrome
+Couvade syndrome, also called sympathetic pregnancy, is a proposed condition in which a partner experiences some of the same symptoms and behavior of an expectant mother.  These most often include minor weight gain, altered hormone levels, morning nausea, and disturbed sleep patterns. In more extreme cases, symptoms can include labor pains, postpartum depression, and nosebleeds.  The labor pain symptom is commonly known as sympathy pain. 
+
+Couvade syndrome is not recognized as a real syndrome by many medical professionals. Its source is a matter of debate. Some believe it to be a psychosomatic condition, while others believe it may have biological causes relating to hormone changes.
+
+Symptoms
+
+Symptoms experienced by the partner can include stomach pain, back pain, indigestion, changes in appetite, weight gain, acne, diarrhea, constipation, headache, toothache, cravings, nausea, breast augmentation,breast growth, dry naval, hardening of the nipple, excessive earwax, and insomnia. A qualitative study listed 35 symptoms from Couvade literature, including gastro-intestinal, genito-urinary, respiratory, oral or dental, stiffening of the glutes, generalized aches and pains, and other symptoms. 
+
+Psychological theories
+
+Psychological causes suggested have included anxiety, pseudo-sibling rivalry, identification with the fetus, ambivalence about fatherhood, or parturition envy.  According to Osvlosky and Culp (1989), pregnancy causes the male counterpart to experience an emergence of ambivalence as well as a recurrence of Oedipal conflict.  In 1920s France, Couvade was claimed to be more common in conditions where sex roles are flexible and the female is of a dominant status. 
+
+Physiological theories
+
+Studies have shown that the male partner cohabitating with a pregnant female will experience hormonal shifts in his prolactin, cortisol, estradiol, and testosterone levels, typically starting at the end of the first trimester and continuing through several weeks post-partum.
+Question:
+What name is given to sympathetic pregnancy?
+Answer:
+Sympathy pains
+Passage:
+Joe Jackson - Its Different For Girls Lyrics and MP3
+Joe Jackson - Its Different For Girls Lyrics and MP3
+Turn Pop-up Images Off
+It's Different For Girls Lyrics by Joe Jackson
+CD Universe is your song lyrics and mp3 source for Joe Jackson's song It's Different For Girls lyrics and much more.
+Question:
+Who had hits with Stepping Out and Different For Girls?
+Answer:
+Joe jackson
+Passage:
+Is Sri Lanka Finally Seeing Its Peace Dividend?
+Priya Klara Nadaradjane
+04 Aug 2016
+At the tip of the teardrop of India, as Sri Lanka is often described, lies the Thalsevana Holiday Resort. From here you could once walk to India over 30 miles of limestone shoals.
+Long since washed over by the Palk Strait, its silver shoreline and turquoise waters make this an idyllic spot to contemplate the passage of time. In an area ravaged by nearly three decades of civil war, the first green shoots of tourism and economic regeneration are starting to appear,
+While the sprawling luxury Thalsevana resort remains under the control of the Security Forces Headquarters, the military presence here – ordered under the regime of Mahindra Rajapaksa and his brothers – has been gradually rolled back since last year’s surprise election victory for President Maithripala Sirisena.
+Peace Prize
+The prize from a sustained reconciliation between the majority Sinhalese and minority Tamils is little short of paradise. Historic temples and a rich architecture complement this stunning landscape. Education is almost universal, with a literacy rate of 92% nationally and over 98% in the main Tamil city of Jaffna. Theft and petty crime is low.
+Yet the challenges can’t be underestimated. Up to a third of northerners are unemployed, far more than in the rest of Sri Lanka. The region’s contribution to GDP is the lowest among the nine provinces. Work for the most part is informal and unstable.
+Before the start of the civil war in 1983, the cement and chemical industries sustained much of the population, along with fishing. These plants are now rusting or destroyed, and there’s little in the way of modern industry to make up for the gap.
+Those who could leave have left – hundreds of thousands now resident in America, Europe, South Africa and Asia. Back home, the net result is a steady flow of remittances from foreign relatives in return for a brain drain and shortage of skills.
+Modernity Flickers
+But investment is coming. Just near the Thalsevana Holiday Resort, a regeneration project is underway for the Kankesanthurai Harbor and local airport. Hospitals and schools are under repair along with a cultural center and vocational training facility being built in Jaffna. Restoration of the railway and the removal of restrictions that prevented foreigners from visiting the north are also contributing to the sense of economic renewal.
+A flagship $300 million investment in the state-owned Paranthan Chemicals Factory will provide clean water for Jaffna – and help to convey a political message that money is flowing north as the project will cost around $300 million. Foreign aid is arriving too, including $55 million from the World Bank in June to boost living standards in Jaffna.
+And there are flickers of economic modernity in a city that only recently experienced its first escalator. Businesses have slowly begun integrating into the global credit culture, evolving from a strictly cash society, according to an Asia Foundation survey .
+View to the seaside in downtown Colombo, Sri Lanka.
+Given the dearth of reliable data, it’s hard to get an accurate reading of the extent to which such momentum is improving lives. What is self-evident to any visitor, however, is the massive boom of the south. Sri Lanka’s economy has been growing by an average 6% a year since 2010 and local purchasing power has increased dramatically.
+The country overall has benefited from its location at the geostrategic crossroads between Dubai and Singapore, right in the heart of Southeast Asia. Both the Rajapaksa and Sirisena governments have made the most of this by promoting foreign investment and cutting corporate tax rates.
+But it’s the change in leadership that has turbo-charged foreign investor interest amid a new climate of political stability and constructive diplomacy with both the West and East. After stalling China on its plans to invest more than $1.4 billion in the Colombo Port City Project, Sirisena has given the go-ahead to an initiative aimed at transforming Sri Lanka’s capital into a thoroughly modern city.
+Elbowed Out
+So will this heightened buzz of activity ultimately spread north?
+The signs look positive. In the space of less than two years under Sirisena, the army has returned 30% of the land it seized to Tamil owners.
+The government is working to a tight deadline. The UN Human Rights Council requires that a special court for accountability be set up to deal with post-war transitional justice by March 2017 . It’s the ultimate step toward full reconciliation with the Tamil population.
+Foreign investors, including the vast Tamil diaspora, will be watching closely. When the economy and property prices start to catch up with the booming south, investors could be coming here in droves.
+Priya Klara Nadaradjane is a research analyst for Asia Pacific Investment Partners , a real-estate group based in London and Ulaanbaatar, Mongolia
+Related News
+Question:
+What is known as India’s teardrop?
+Answer:
+Sri Lanka government
+Passage:
+Phonetics
+For other uses, see Phonetic (disambiguation)
+Phonetics (pronounced, from the , phōnē, 'sound, voice') is a branch of linguistics that comprises the study of the sounds of human speech, or—in the case of sign languages—the equivalent aspects of sign.  It is concerned with the physical properties of speech sounds or signs (phones): their physiological production, acoustic properties, auditory perception, and neurophysiological status. Phonology, on the other hand, is concerned with the abstract, grammatical characterization of systems of sounds or signs.
+
+The field of phonetics is a multilayered subject of linguistics that focuses on speech. In the case of oral languages there are three basic areas of study:
+
+*Articulatory phonetics: the study of the production of speech sounds by the articulatory and vocal tract by the speaker.
+*Acoustic phonetics: the study of the physical transmission of speech sounds from the speaker to the listener.
+*Auditory phonetics: the study of the reception and perception of speech sounds by the listener.
+
+These areas are inter-connected through the common mechanism of sound, such as wavelength (pitch), amplitude, and harmonics.
+
+History
+
+Phonetics was studied by 4th century BCE, and possibly as early as the 6th century BCE, in the Indian subcontinent, with Pāṇini's account of the place and manner of articulation of consonants in his treatise on Sanskrit. The major Indic alphabets today order their consonants according to Pāṇini's classification.
+
+Modern phonetics begins with attempts—such as those of Joshua Steele (in Prosodia Rationalis, 1779) and Alexander Melville Bell (in Visible Speech, 1867)—to introduce systems of precise notation for speech sounds.  
+
+The study of phonetics grew quickly in the late 19th century partly due to the invention of the phonograph, which allowed the speech signal to be recorded.  Phoneticians were able to replay the speech signal several times and apply acoustic filters to the signal. By doing so, they were able to more carefully deduce the acoustic nature of the speech signal.
+
+Using an Edison phonograph, Ludimar Hermann investigated the spectral properties of vowels and consonants. It was in these papers that the term formant was first introduced.  Hermann also played vowel recordings made with the Edison phonograph at different speeds in order to test Willis', and Wheatstone's theories of vowel production.
+
+Relation to phonology
+
+In contrast to phonetics, phonology is the study of how sounds and gestures pattern in and across languages, relating such concerns with other levels and aspects of language. Phonetics deals with the articulatory and acoustic properties of speech sounds, how they are produced, and how they are perceived. As part of this investigation, phoneticians may concern themselves with the physical properties of meaningful sound contrasts or the social meaning encoded in the speech signal (socio-phonetics) (e.g. gender, sexuality, ethnicity, etc.). However, a substantial portion of research in phonetics is not concerned with the meaningful elements in the speech signal.
+
+While it is widely agreed that phonology is grounded in phonetics, phonology is a distinct branch of linguistics, concerned with sounds and gestures as abstract units (e.g., distinctive features, phonemes, morae, syllables, etc.) and their conditioned variation (via, e.g., allophonic rules, constraints, or derivational rules).  Phonology relates to phonetics via the set of distinctive features, which map the abstract representations of speech units to articulatory gestures, acoustic signals, and/or perceptual representations.   
+
+Subfields
+
+Phonetics as a research discipline has three main branches:
+*Articulatory phonetics is concerned with the articulation of speech: The position, shape, and movement of articulators or speech organs, such as the lips, tongue, and vocal folds.
+*Acoustic phonetics is concerned with acoustics of speech: The spectro-temporal properties of the sound waves produced by speech, such as their frequency, amplitude, and harmonic structure.
+*Auditory phonetics is concerned with speech perception: the perception, categorization, and recognition of speech sounds and the role of the auditory system and the brain in the same.
+
+Transcription
+
+Phonetic transcription is a system for transcribing sounds that occur in a language, whether oral or sign.  The most widely known system of phonetic transcription, the International Phonetic Alphabet (IPA), provides a standardized set of symbols for oral phones.   The standardized nature of the IPA enables its users to transcribe accurately and consistently the phones of different languages, dialects, and idiolects.   The IPA is a useful tool not only for the study of phonetics, but also for language teaching, professional acting, and speech pathology.
+
+Applications
+
+Applications of phonetics include:
+*Forensic phonetics: the use of phonetics (the science of speech) for forensic (legal) purposes.
+*Speech recognition: the analysis and transcription of recorded speech by a computer system.
+*Speech synthesis: the production of human speech by a computer system.
+*Pronunciation: to learn actual pronunciation of words of various languages.
+
+Practical phonetic training
+
+Studying phonetics involves not only learning theoretical material but also undergoing training in the production and perception of speech sounds.  The latter is often known as ear-training. Students must learn control of articulatory variables and develop their ability to recognize fine differences between different vowels and consonants.   As part of the training, they must become expert in using phonetic symbols, usually those of the International Phonetic Alphabet.
+Question:
+In the phonetic alphabet what word represents the letter I ?
+Answer:
+ഭാരത മഹാരാജ്യം
+Passage:
+Groovejet (If This Ain't Love)
+"Groovejet (If This Ain't Love)" is a song by Italian electronic music producer Spiller, featuring vocals from British singer and songwriter Sophie Ellis-Bextor. The single was released in August 2000 by Positiva Records. It peaked at number one in the UK,  New Zealand, Ireland and Australia, as well as charting at number three on the American Hot Dance Chart. On 15 September 2000, the song was certified gold record status by the British Phonographic Industry, and was certified platinum on 22 July 2013. Various versions of the single were later featured on the German reissue and some UK editions of Ellis-Bextor's debut solo album, Read My Lips.
+
+Background
+
+The track was originally created by Spiller in 1999 as an instrumental, with no singing, and was included on the Mighty Miami EP. It is mainly built upon samples from "Love Is You", a disco song originally performed by Carol Williams with the Salsoul Orchestra. In order to make the track more palatable for airplay, as the instrumental is somewhat repetitive, Positiva asked British singer Sophie Ellis-Bextor, formerly with indie rock band theaudience, to provide lyrics and vocals for the song. Before recording, the lyric was partly reworked by Rob Davis, who replaced Ellis-Bextor's proposed hook "And so it goes..." with the line "If this ain't love...", thereby providing the song with its subtitle. Boris Dlugosch produced the vocal portions added to the track. Sharon Scott is the back-up vocalist. The track has been remixed by Boris Dlugosch and Michi Lange, Todd Terry, Solar, Ramon "Ray Roc" Checo and Ernest St. Laurent. 
+ 
+In the UK, the single was first released in the same week as "Out of Your Mind", Victoria Beckham's first song since the breakup of her group, the Spice Girls. "Out of Your Mind" held the midweek number one in the UK singles chart until Saturday, when "Groovejet (If This Ain't Love)" overtook it in sales; it was hyped by the media as a personal battle between the two artists.   The song was the 8th best selling of 2000 in the UK. A live version of the track appeared as a B-side to Ellis-Bextor's single Music Gets The Best of Me, and in 2003, "Groovejet (If This Ain't Love)" was re-released as part of Positiva Records 'Remixed' series. 
+
+According to technology journalist Steven Levy, "Groovejet" was the first song ever to be played on an iPod, specifically on a prototype unit in August 2001.  Upon its inclusion on Now 46 in the UK, released a month before the single, it became only one in a few songs to be included on a Now album before it had been released as a single. The booklet write-up correctly predicted it to be a hit.
+
+The song was ranked at number 486 in Pitchfork Media's list of the Top 500 Tracks of the 2000s. 
+
+Music video
+
+The video for the song shows Spiller and Sophie making their way separately around Bangkok. Spiller meets people and signs autographs, while finding his height makes life there difficult; Sophie sings wistfully at various tables in bars. Spiller takes a taxicab while Sophie takes a tuk-tuk, and eventually they meet at a nightclub.
+
+Track listing
+
+;UK CD single
+# "Groovejet (If This Ain't Love)" (radio edit) – 3:47
+# "Groovejet" – 6:18
+# "Groovejet (If This Ain't Love)" (Solar's Jet Groove Dub Mix) – 8:18
+
+;UK Cassette single
+# "Groovejet (If This Ain't Love)" (radio edit) – 3:47
+# "Groovejet" – 6:18
+# "Groovejet (If This Ain't Love)" (Spiller's Extended Vocal Mix) – 7:27
+
+Charts and certifications
+
+Certifications
+
+Chart successions
+Question:
+Who had a number one in 2000 with Groove Jet (If This Ain't Love)
+Answer:
+Spiller
+Passage:
+Merton Pride pear trees - Orange Pippin Fruit Trees (Europe)
+Merton Pride pear trees for sale | Buy online | European delivery
+Pollination partners
+Pedigree is often an indicator of quality and Merton Pride has an excellent one - it is related to the well-known English Williams pear, crossed with a Belgian variety of good repute called Glou Morceau. The result is undoubtedly one of the best quality English pears available, notable for its juicy buttery flesh.
+Be sure to pick the fruits whilst they are still fairly hard, and then ripen indoors.
+Merton Pride pear trees for sale
+Deliveries start December 2016.
+Question:
+Which fruit has varieties Merton Pride and Williams?
+Answer:
+PEAR (disambiguation)
+Passage:
+Flag of Nepal
+The national flag of Nepal () is the world's only non-quadrilateral national flag. The flag is a simplified combination of two single pennons, the vexillological word for a pennant. Its crimson red is the colour of the rhododendron, the country's national flower. Red is also the sign of victory in war. The blue border is the colour of peace. Until 1962, the flag's emblems, the sun and the crescent moon, had human faces. They were removed to modernize the flag.
+
+The flag was adopted, with the formation of a new constitutional government, on December 16, 1962. The individual pennants had been used for the preceding two centuries and the double pennant since the 19th century. The flag borrows the basic design from the original design, which has been in use for more than 2,000 years.
+
+Symbolism 
+
+The flag was adopted after Prithvi Narayan Shah unified all small principalities of Nepal. In modern times the concept of the flag has changed to have a different meaning. The blue border symbolizes peace and harmony. The crimson red is Nepal's national color, and it indicates the brave spirits of the Nepalese people. The two triangles symbolize the Himalaya Mountains. The depiction of celestial bodies represents permanence, the hope that Nepal will last as long as the sun and the moon. 
+
+The moon symbolizes that the Nepalese are soothing and calm, while the sun symbolizes fierce resolve. The moon also symbolizes the shades and the cool weather of the Himalayas, whereas the sun symbolizes the heat and the high temperature at the lower part (Tarai) of Nepal.  Another interpretation: The flag's shape could also symbolize a Nepalese pagoda - as noted by local Nepalese, placing a mirror at the side of the flag closest to the flagpole will generate an image of a pagoda.
+
+Flag layout 
+
+There is a precise description of the Nepalese national flag in the Constitution of the Kingdom of Nepal, Article 5, Schedule 1, adopted 9 November 1990. 
+
+National Flag
+
+(A) Method of Making the Shape inside the Border
+(1) On the lower portion of a crimson cloth draw a line AB of the required length from left to right.
+(2) From A draw a line AC perpendicular to AB making AC equal to AB plus one third AB. From AC mark off D making line AD equal to line AB. Join BD.
+(3) From BD mark off E making BE equal to AB.
+(4) Touching E draw a line FG, starting from the point F on line AC, parallel to AB to the right hand-side. Mark off FG equal to AB.
+(5) Join CG.
+
+(B) Method of Making the Moon
+(6) From AB mark off H making AH equal to one-fourth of line AB and starting from H draw a line HI parallel to line AC touching line CG at point I.
+(7) Bisect CF at J and draw a line JK parallel to AB touching CG at point K.
+(8) Let L be the point where lines JK and HI cut one another.
+(9) Join JG.
+(10) Let M be the point where line JG and HI cut one another.
+(11) With centre M and with a distance shortest from M to BD mark off N on the lower portion of line HI.
+(12) Touching M and starting from O, a point on AC, draw a line from left to right parallel to AB.
+(13) With centre L and radius LN draw a semi-circle on the lower portion and let P and Q be the points where it touches the line OM respectively.
+(14) With centre M and radius MQ draw a semi-circle on the lower portion touching P and Q.
+(15) With centre N and radius NM draw an arc touching PNQ [sic] at R and S. Join RS. Let T be the point where RS and HI cut one another.
+(16) With Centre T and radius TS draw a semi-circle on the upper portion of PNQ touching it at two points.
+(17) With centre T and radius TM draw an arc on the upper portion of PNQ touching at two points.
+(18) Eight equal and similar triangles of the moon are to be made in the space lying inside the semi-circle of No. (16) and outside the arc of No. (17) of this Schedule.
+
+(C) Method of making the Sun
+(19) Bisect line AF at U and draw a line UV parallel to line AB touching line BE at V.
+(20) With centre W, the point where HI and UV cut one another and radius MN draw a circle.
+(21) With centre W and radius LN draw a circle
+(22) Twelve equal and similar triangles of the sun are to be made in the space enclosed by the circles of No. (20) and of No. (21) with the two apexes of two triangles touching line HI.
+
+(D) Method of Making the Border
+(23) The width of the border will be equal to the width TN. This will be of deep blue colour and will be provided on all the sides of the flag. However, on the five angles of the flag the external angles will be equal to the internal angles.
+(24) The above mentioned border will be provided if the flag is to be used with a rope. On the other hand, if it is to be hoisted on a pole, the hole on the border on the side AC can be extended according to requirements.
+
+Explanation: The lines HI, RS, FE, ED, JG, OQ, JK and UV are imaginary. Similarly, the external and internal circles of the sun and the other arcs except the crescent moon are also imaginary. These are not shown on the flag.
+
+Aspect ratio 
+
+According to the stated geometric construction law, the circumscribing rectangle has an irrational ratio of 1:1.21901033… ().
+
+Other flags
+
+File:Pre-1962 Flag of Nepal (with spacing).svg| First flag of Nepal
+File:Mustang flag.svg| Flag of Mustang
+Question:
+Which country has the world's only non-quadrilateral national flag?
+Answer:
+Nepol
+Passage:
+Goodwood Racecourse
+Goodwood Racecourse is a horse-racing track five miles north of Chichester, West Sussex, in England controlled by the family of the Duke of Richmond, whose seat is nearby Goodwood House. It hosts the annual Glorious Goodwood meeting, which is one of the highlights of the British flat racing calendar, and is home to two of the UK's 31 Group One flat races, the Sussex Stakes and the Nassau Stakes.
+
+It is considered to enjoy a very attractive setting  to the north of Trundle Iron Age hill fort, which is used as an informal grandstand with views of the whole course. One problem is that its proximity to the coast means that it can get very foggy.
+
+This is an unusual, complex racecourse with a straight six furlongs — the "Stewards' Cup Course" — which is uphill for the first furlong and mostly downhill thereafter. There is a tight right-handed loop at the far end of the straight on which there are starts for various longer distance courses. These include the 1 mile 2 furlongs (1m 2f) "Craven Course", the 1m 4f "Gratwicke Course" and the 1m 6f "Bentinck Course". The start for the 2m 5f "Cup Course" is quite close to the winning post – horses travel outwards on the straight, around the loop and back. Throughout the loop there are severe undulations and sharp turns. The course is used for flat racing only.
+
+From 1968 to 1970 the course's late summer meeting was shown on ITV, and from the early 2000s some races from the course occasionally appeared on Channel 4, but otherwise the course had been covered exclusively by the BBC for 50 years from 1956 (when it first appeared on television) to 2006. From 2007, the rights have passed to Channel 4 Racing.
+
+In the late 18th century, Goodwood became the location for the first flag start on a British racecourse, at the behest of Lord George Bentinck, after a particularly shambolic start involving jockey Sam Arnull caused by an elderly deaf starter with a speech impediment.  
+
+Notable races 
+
+;Other races
+* Conqueror Stakes
+* Festival Stakes
+* On The House Stakes
+* Starlit Stakes
+* Tapster Stakes
+Question:
+Goodwood Race Course is in which English county?
+Answer:
+West sussex
+Passage:
+List of national parks of England and Wales
+Within England and Wales there are thirteen areas known as national parks, each administered by its own national park authority, a special purpose local authority, the role of which as set out in the Environment Act 1995 is: to conserve and enhance the natural beauty, wildlife and cultural heritage of the National Parks. and to promote opportunities for the understanding and enjoyment of the special qualities of the National Parks by the public. The national park authority for each park addresses these aims in partnership with other organisations, such as the National Trust. In cases where there may be conflict between the two purposes of designation, the first must take precedence under the Sandford Principle. The national park authorities also have a duty to foster the economic and social wellbeing of communities in pursuit of these purposes. 
+
+Legal designation
+
+National parks are designated under the National Parks and Access to the Countryside Act 1949 and must be confirmed by the Secretary of State for Environment, Food and Rural Affairs. The 1949 Act came about after a prolonged campaign for public access to the countryside in the United Kingdom with its roots in the Industrial Revolution. The first 'freedom to roam' bill was introduced to Parliament in 1884 by James Bryce but it was not until 1931 that a government inquiry recommended the creation of a 'National Park Authority' to select areas for designation as national parks. Despite the recommendation and continued lobbying and demonstrations of public discontent, such as the 1932 Kinder Scout mass trespass in the Peak District, nothing further was done until a 1945 white paper on national parks was produced as part of the Labour Party's planned post-war reconstruction, leading in 1949 to the passing of the National Parks and Access to the Countryside Act. 
+
+In England and Wales, as in Scotland, designation as a national park means that the area has been identified as being of importance to the national heritage and as such is worthy of special protection and attention. Unlike the model adopted in many other countries, such as the USA and Germany, this does not mean the area is owned by the state. National parks may include substantial settlements and human land uses which are often integral parts of the landscape, and within a national park there are many landowners including public bodies and private individuals.
+
+Origins and growth
+
+The first national park, and site of the Kinder Scout trespass, the Peak District, was designated in April 1951 under the Clement Attlee led Labour administration, eight months before the end of King George VI's reign. This was followed in the same year by the designations of three more national parks; the Lake District, Snowdonia and Dartmoor. By the end of the decade the national park family had increased to ten with the Pembrokeshire Coast, North York Moors, Yorkshire Dales, Exmoor, Northumberland and Brecon Beacons national parks all being designated. The Norfolk and Suffolk Broads, the eleventh member of the national park family, was designated through its own Act of Parliament in 1988 gaining status equivalent to that of a national park. Separate legislation was passed in Scotland, namely the National Parks (Scotland) Act 2000, and from this two Scottish national parks, the Cairngorms and Loch Lomond and The Trossachs, were created. Of the original twelve proposed English and Welsh national parks, two remained undesignated going into the new millennium - the Cambrian Mountains and Cornish Coast. The New Forest became a national park in 2005 and the South Downs was formally designated on 31 March 2010. All fifteen United Kingdom national parks are represented by the Association of National Park Authorities.
+
+Of the ten national parks in England, five are in the northern counties, two in the southwest counties, one in the east, and the most recent two designations in the south. In total, the national parks touch only sixteen English counties and cover 9.3% of England, with no national park in the central counties. The three national parks of Wales by contrast occupy 19.9% of the land. The Lake District National Park at  is the largest National Park in England and second largest in the United Kingdom after Scotland's Cairngorms National Park. Snowdonia National Park, at , is Wales' largest national park and the third largest in the United Kingdom. The smallest national park in England and Wales, and in the United Kingdom, is The Broads at 303 km2. The total area of the national parks in England and Wales is approximately 16267 km2, for an average of 1,251 square kilometres but a median of 1,344 square kilometres.  In the United Kingdom the total increases to 22,660 square kilometres (average 1511 km2). The most-visited national park is the Lake District, with 15.8 million visitors in 2009, although by visitor days the South Downs at 39 million compares to 23.1 million for the Lake District.
+
+Other designated landscapes
+
+The United Kingdom has a number of other designated landscape areas besides its national parks. Most similar to the parks are Areas of Outstanding Natural Beauty which differ in part because of their more limited opportunities for extensive outdoor recreation.  Dartmoor, the Lake District, North York Moors and the Yorkshire Dales all abut AONBs and in addition the coasts of Exmoor and the North York Moors coincide with heritage coasts.  All the Parks contain in varying numbers Sites of Special Scientific Interest and national nature reserves. A part of the Brecon Beacons National Park is also designated a European Geopark. Of the various World Heritage Sites in England and Wales, none are national parks in themselves though a part of the Blaenavon Industrial Landscape World Heritage Site falls within the Brecon Beacons National Park. 
+
+National parks
+Question:
+What is Britain’s most southerly National Park?
+Answer:
+Dartmoor
+Passage:
+Smokestack Lightning
+"Smokestack Lightning" (or "Smoke Stack Lightning" as listed on the original single, but "Smokestack Lightnin'" on re-releases) is a classic of the blues. Howlin' Wolf recorded it in 1956, and it became one of his most popular and influential songs. It is based on earlier blues songs, and numerous artists later interpreted it.
+
+Background
+
+Wolf had performed "Smokestack Lightning" in one form or another at least by the early 1930s,  when he was performing with Charley Patton in small Delta communities.  The song, called "a hypnotic one-chord drone piece",  draws on earlier blues, such as Tommy Johnson's "Big Road Blues" (1928, Victor 21279), the Mississippi Sheiks' "Stop and Listen Blues" (1930, OKeh 8807), and Charley Patton's "Moon Going Down" (1930, Paramount 13014).  Wolf said the song was inspired by watching trains in the night: "We used to sit out in the country and see the trains go by, watch the sparks come out of the smokestack. That was smokestack lightning." In 1951, he recorded the song as "Crying at Daybreak" (RPM 340). It contains the line "O-oh smokestack lightnin', shinin', just like gold, oh don't you hear me cryin'", similar to the Mississippi Sheiks' lyric "A-ah, smokestack lightnin', that bell shine just like gold, now don't you hear me talkin'".
+
+Original song
+
+In Chicago in January 1956, Howlin' Wolf recorded "Smokestack Lightning". The song takes the form of "a propulsive, one-chord vamp, nominally in E major but with the flatted blue notes that make it sound like E minor", and lyrically it is "a pastiche of ancient blues lines and train references, timeless and evocative".  Longtime Wolf guitarist Hubert Sumlin is credited with the distinctive guitar line.  Howlin' Wolf sang and played harmonica, backed by pianist Hosea Lee Kennard, guitarists Willie Johnson  and Hubert Sumlin, bassist Willie Dixon, and drummer Earl Phillips.
+
+In 1956, "Smokestack Lightning" reached number 11 in the Billboard R&B chart.  When it was released by Pye International Records in the UK in 1964, it peaked at number 42 in the singles chart.  It was later included on the albums Moanin' in the Moonlight and The Howlin' Wolf Album.
+
+Accolades
+
+"Smokestack Lightning" received a Grammy Hall of Fame Award in 1999, honoring its lasting historical significance.  It is ranked number 291 in Rolling Stone magazine's list of the "500 Greatest Songs of All Time".  In 1985, the song was inducted into the Blues Foundation Hall of Fame in the "Classics of Blues Recordings" category.  It is also included in the Rock and Roll Hall of Fame list of the "500 Songs that Shaped Rock and Roll".  In 2009, "Smokestack Lightning" was selected for permanent preservation in the National Recording Registry of the U.S. Library of Congress. 
+
+Recordings by other artists
+
+"Smokestack Lightning" has been interpreted numerous times by various artists.  In the early to mid-1960s, it became a live staple of British beat groups, including the Yardbirds, Manfred Mann, the Animals, the Groundhogs and the Who as well as American groups, such as Grateful Dead, Quicksilver Messenger Service, the Electric Prunes, and the Wailers. The song has also been performed or recorded by Muddy Waters, Jimmy Rogers, Fenton Robinson, Lucky Peterson, John Lee Hooker, John Mayer, Bob Dylan, Gillan,  Mike Harrison, Soundgarden, Widespread Panic, moe., Gov't Mule, Lester Butler, George Thorogood, Aerosmith, Lynyrd Skynyrd, Creedence Clearwater Revival and Big Head Todd and the Monsters.
+Question:
+'Smokestack Lightnin' and 'Red Rooster' were originally recorded by which Chicago blues singer?
+Answer:
+Chester A. Burnett
+Passage:
+Home Thoughts from Abroad
+Home-Thoughts, from Abroad is a poem by Robert Browning. It was written in 1845 while Browning was on a visit to northern Italy, and was first published in his Dramatic Romances and Lyrics. 
+
+Full text
+
+OH, to be in England
+Now that April 's there,
+And whoever wakes in England
+Sees, some morning, unaware,
+That the lowest boughs and the brushwood sheaf
+Round the elm-tree bole are in tiny leaf,
+While the chaffinch sings on the orchard bough
+In England—now!
+
+And after April, when May follows,
+And the whitethroat builds, and all the swallows!
+Hark, where my blossom'd pear-tree in the hedge
+Leans to the field and scatters on the clover
+Blossoms and dewdrops—at the bent spray's edge—
+That 's the wise thrush; he sings each song twice over,
+Lest you should think he never could recapture
+The first fine careless rapture!
+And though the fields look rough with hoary dew,
+All will be gay when noontide wakes anew
+The buttercups, the little children's dower
+—Far brighter than this gaudy melon-flower! 
+
+In culture
+
+In 1995, Home Thoughts was voted 46th in a BBC poll to find the United Kingdom's favourite poems. 
+
+Home thoughts from Abroad is also the title of a song by Clifford T Ward, part of his 1973 album Home Thoughts.
+
+Home Thoughts from Abroad is also the title of a poem by John Buchan about WW1
+Question:
+What is the first line of the poem 'Home thoughts from Abroad' by Robert Browning?
+Answer:
+Oh, to be in England
+Passage:
+Peter Piper
+"Peter Piper" is an English-language nursery rhyme and well-known tongue-twister. It has a Roud Folk Song Index number of 19745.
+
+Lyrics
+
+Common modern versions include:
+Peter Piper picked a peck of pickled peppers.
+A peck of pickled peppers Peter Piper picked.
+If Peter Piper picked a peck of pickled peppers,
+Where's the peck of pickled peppers that  Peter Piper picked?I. Opie and P. Opie, The Oxford Dictionary of Nursery Rhymes (Oxford University Press, 1951, 2nd edn., 1997), p. 347.
+
+Origins
+
+The earliest version of this tongue twister was published in Peter Piper's Practical Principles of Plain and Perfect Pronunciation by John Harris (1756–1846) in London in 1813, which includes one name tongue-twister for each letter of the alphabet in the same style. However, the rhyme was apparently known at least a generation earlier.  Some authors have identified the subject of the rhyme as Pierre Poivre, an eighteenthcentury French horticulturalist and government administrator of Mauritius, who once investigated the Seychelles' potential for spice cultivation.
+Question:
+"""Peter Piper picked a peck of pickled pepper"" is an example of what?"
+Answer:
+Tounge twister
+Passage:
+Lilongwe
+Lilongwe is the largest and capital city of Malawi with an estimated population of 1,077,116 for 2015. The city is located in the central region of Malawi, near the borders with Mozambique and Zambia, and it is an important economic and transportation hub for central Malawi. It is named after the Lilongwe River.
+
+History
+
+Lilongwe had existed for centuries as a small fishing village on the banks of the Lilongwe River. During British Colonial Rule, the settlement became an administrative centre due to its strategic location. Formally founded in 1906  as a trading post, Lilongwe was officially recognised as a town in 1947.  After gaining independence, it increasingly developed into an important trading centre in Malawi's central region. Its growth was encouraged when the country's former head of state, Hastings Kamuzu Banda, established it as Malawi's new capital city in 1975.  The last government offices have been relocated to Lilongwe in 2005. 
+The city's population is increasing rapidly, with an annual growth rate of 4.3%. 
+
+Politics
+
+Local Government
+
+Lilongwe is governed by Lilongwe City Council, which is dominated by governing DPP.
+
+Demographics
+
+Geography
+
+Topography
+
+Lilongwe is located on a plateau in Central Malawi, forming part of the East African Rift Valley situated at an altitude of 1,050 m (3,440 ft) above sea level, along Lilongwe River.
+
+Climate
+
+Lilongwe features a humid subtropical climate that borders on a subtropical highland climate (Köppen: Cwa), with pleasantly warm summers and mild winters. Due to the altitude, temperatures are lower than would be expected for a city located in the tropics. Lilongwe features a short wet season that runs from December to March and a lengthy dry season that covers much of the remainder of the year, particularly June and July which are cooler than the rest of the year. However, the city sees heavy downpours during its rainy season, seeing around 200 mm of rain in a month during the wettest months.
+
+Divisions
+
+Lilongwe is divided into a New and Old City. The former hosts hotels, embassies, governmental institutions and offices while the latter has markets, bus stations, cafes and restaurants. The modern shops of the City are contrasted by the street and walled markets of Old Town.
+
+Economy
+
+See also: Economy of Malawi
+
+While Blantyre is the commercial Capital of Malawi, Lilongwe's economy is dominated by the government and public institutions.
+Kanengo District in the north of the city is the main industrial area, where food processing, tobacco storage and sales, maize storage and other light industries take place. Finance, banking, retail trade, construction, transport, public administration, tourism, and tobacco manufacturing are the main economic activities in the city.
+76 percent of Lilongwe's population live in informal settlements, while poverty stands at 25 percent and unemployment at 16 percent.
+The civil service employs about 27 percent of all formal workers, while 40 percent work in the private sector and 2 percent are self-employed.
+
+Society and culture
+
+Leisure and Entertainment
+
+A variety of bars and night clubs offer opportunities for live music and parties. 
+
+Transportation
+
+Airport
+
+Lilongwe International Airport (LLW) is located to the north of the city. 
+
+Buses
+
+There are regular bus services from Lilongwe to Blantyre, Zomba, Kasungu and Mzuzu. 
+
+Rail
+
+There is a rail service to Lilongwe. To the west the line runs towards Zambia, and to the east to Salima. 
+
+Education
+
+There are 38 private and 66 public primary schools with a total of 103,602 pupils as well as 29 secondary schools with 30,795 students in Lilongwe.
+
+Sports
+
+A new national stadium with a capacity of 40,000 is currently being constructed with the help of a $70 million loan from the Government of the People's Republic of China. 
+
+Twin towns – Sister cities
+
+Lilongwe is twinned with:
+*  Taipei, Taiwan (since 1984) 
+*  Lusaka, Zambia (since 2004)
+Question:
+What is the capital of Malawi?
+Answer:
+Lillongwe
+Passage:
+Diagnostic terms in Greek, anatomical in Latin Term - CC ...
+Diagnostic terms in Greek anatomical in Latin Term components - CC - 306M
+Diagnostic terms in Greek, anatomical in Latin Term components • Root – foundation • Suffix – ending that gives meaning • Prefix – further modification Combining vowels • A vowel usually an “o” is used to join a root to root or to suffix
+This preview has intentionally blurred sections. Sign up to view the full version.
+View Full                                                         Document
+• Letter “I” is 2 nd most common • Root plus combining vowel is combining form Rules of Construction • Add vowel • Vowel not used before a suffix that begins with a vowel • If root ends in a vowel, and suffix begins with same vowel, drop final vowel from root and do not use combining vowel o If root ends with vowel as does suffix drop combining vowel • Combining vowel is inserted between 2 roots even when 2 nd root begins with a vowel • When a prefix ends in a vowel and root begins in a vowel, final vowel is usually retained with prefix or a hyphen is added 8/29/11 Basic Term Components Galen (129-210 AD) • Born in Turkey • Consumed himself in medicine and philosophy • Apepsia and Dyspepsia mean different things o Apepsia: lack of digestion o Dyspepsia: painful/difficult digestion o Said shouldn’t use these terms interchangeably • Enkephalos – “in the head” by Aristotle o Didn’t think that it captured the “essence” of what the brain is • Enphemeros – “brief duration fever” o Sometimes fevers last longer even if cause is the same • NB: pept/o, peps/o – digestion; encephal/o-brain; ephermal – brief duration Semantics of ancient medical terms – can’t break them down • Cholera – chole; “bile” o Then: vomiting profusely o Now: due to poor water supply get an infection • Typhus o Then: fever and dementia o Now: infection with fever • Eczema o Then: “boiling out of you”; the bad stuff was too hot under skin and coming out o Now: red skin, scabby, but irritants or infection Definition through analysis: medical terms are sentences 1. Suffix; 2. Prefix, 3. Root/s
+Interenterocolitis  inter/enter/o/col/itis Inflammation between small intestine and colon Melanedema  melan/edema Following the rule: swelling black; literal: black swelling Actual: black deposit in lungs typically found in coal miners Anthracosis  anthrac/osis Anthrac/o- coal, carbon, carbuncle + -osis – condition NB – disease anthrax takes name from large black skin lesions formed with cutaneous anthrax Myel/o-bone marrow/spinal cord Cervical – cervix; “pertaining to a neck”  cervic – neck; al- pertaining to Hyster/o – womb Metr/o – womb also mean “uterus” Uter/o – womb Ped (L. pes – foot) – pedestrian Ped (Gr. Paes – child) – pediatrics Different originally, but now same root; British keep it different though; ex: orthopaedics Lysis – destruction/dissolution -lysis: process of dissolution -lysin: substance causing dissolution Bacteriolysin – substance destructive to bacteria Bacteri/o – bacteria – “staff/cane” Strept/o – streptos – “twisted” Staphyl/o – staphulis – uvula = “bunch of grapes” (dangly thing in back of throat is the uvula because it looks like a bunch of grapes)
+This preview has intentionally blurred sections. Sign up to view the full version.
+Question:
+What disease takes its name from the same Greek root as a type of coal, due to the black lesions it produces?
+Answer:
+ANTHRAX
+Passage:
+I Whistle a Happy Tune
+"I Whistle a Happy Tune" is a show tune from the 1951 Rodgers and Hammerstein musical, The King and I. It is sung by Anna Leonowens to her son Louis after the curtain rises on Act One of the musical, to persuade him not to be afraid as they arrive in Siam to serve the King. It is sung by the Governess.
+
+Andy Williams released a version of the song on his 1958 album Andy Williams Sings Rodgers and Hammerstein.
+Question:
+"""I Whistle A Happy Tune"" and ""Getting To Know You"" are two songs from Which stage musical of 1951 ?"
+Answer:
+King & i

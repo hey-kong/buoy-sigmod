@@ -1,0 +1,774 @@
+Passage:
+Purlin
+In architecture, structural engineering or building, a purlin (or historically purline, purloyne, purling, perling) is any longitudinal, horizontal, structural member in a roof except a type of framing with what is called a crown plate. In traditional timber framing there are three basic types of purlin: purlin plate, principal purlin and common purlin.
+
+Purlin plates in wooden construction
+
+A purlin plate in wooden construction is also called an "arcade plate" in European English,  "under purlin", and "principal purlin". The term plate means a major, horizontal, supporting timber. Purlin plates are beams which support the mid-span of rafters and are supported by posts. By supporting the rafters they allow longer spans than the rafters alone could span thus allowing a wider building. Purlin plates are very commonly found in large, old barns in North America. A crown plate has similarities to a purlin plate but supports collar beams in the middle of a timber framed building.
+
+Principal purlins in wood construction
+
+Principal purlins in wood construction, also called "major purlin", "side purlin". Principal purlins are supported by principal rafters and support common rafters in what is known as a "double roof" (a roof framed with a layer of principal rafters and a layer of common rafters). Principal purlins are further classified by how they connect to the principal rafters:  "Through purlins" pass over the top; "butt purlins" tenon into the sides of the principal rafters; "clasped purlins," of which only one historic U.S. example is known,) are captured by a collar beam. Through purlins are further categorized as trenched, back, or clasped; butt purlins are classified as threaded, tenoned, and/or staggered. 
+
+Common purlins in wood construction
+
+Common purlins in wood construction, also called a "major-rafter minor-purlin system".  Common purlins are typically "trenched through" the top sides (backs) of principal rafters and carry vertical roof sheathing (The key to identifying this type of roof system). Common purlin roofs in North America are found in areas settled by Englishmen and may have been a new invention in the Massachusetts Bay Colony. No examples of framed buildings with common purlin roofs have been reported in England, however some stone barns in England have vertically boarded, common purlin roofs. Historically, these roofs are found in New England, the highest concentration in Maine, and isolated parts of New York and along the St. Lawrence River in Canada. One of the oldest extant (surviving) examples is in the Coffin House in Newbury, Massachusetts from 1678. The purpose of a common purlin roof may be they allow a board roof, that is a roof of nothing but vertically laid boards with seams covered with battens or another layer of boards. 
+
+Steel construction
+
+In steel construction, the term purlin typically refers to roof framing members that span parallel to the building eave, and support the roof decking or sheeting.  The purlins are in turn supported by rafters or walls. Purlins are most commonly used in Metal Building Systems, where Z-shapes are utilized in a manner that allows flexural continuity between spans.
+
+It is the practice in the steel industry that structural shapes are assigned representative designations for convenient shorthand description on drawings and documentation: Channel sections, with or without flange stiffeners, are usually referenced as C shapes; Channel sections without flange stiffeners are also referenced as U shapes; Point symmetric sections that are shaped similar to the letter Z are referenced as Z shapes. Section designations can be regional and even specific to a manufacturer. In steel building construction, secondary members such as purlins (roof) and girts (wall) are frequently cold-formed steel C, Z or U sections, (or mill rolled) C sections.
+
+Cold formed members can be efficient on a weight basis relative to mill rolled sections for secondary member applications. Additionally, Z sections can be nested for transportation bundling and, on the building, lapped at the supports to develop a structurally efficient continuous beam across multiple supports.
+
+Etymology
+
+Information on the origin of the term "purlin" is scant. The Oxford Dictionary suggests a French origin, with the earliest quote using a variation of purlin in 1447.
+
+Gallery
+
+Note: The sketches in this section reference terminology commonly used in the UK and Australia.  
+
+File:Rf-trad-section.gif| A section though lightweight timber frame construction showing the position of under purlins.
+Image:Metal-purlins.jpg|Roll formed metal roof purlins. Also called roof battens. They are cropped to the angle of the purlin top cuts and can be lapped for joining.
+Image:Fixed-metal-purlins.jpg|metal purlins or roof battens screwed to roof gang nail type trusses.
+Image:Hw-purlins.jpg|hardwood purlins fixed to steel supports on a Skillion roof and main roof. House under construction, tropical North Australia.
+File:Cee-zed-purlins.svg| C and Z purlins in all steel construction.
+File:Zed-purlin.png| The ability of Z purlins to rotate 180 degrees and fit together.
+File:Cee-portal.jpg| Portal rafters made from C section material in turn supporting Z roof purlins.
+File:Trad-queen-post.png|A traditionally framed timber queen post roof showing the placement of principal purlins or purlin plates supporting common rafters.
+Question:
+In architecture, where in a house would you find a purlin?
+Answer:
+The Roof
+Passage:
+The Cruel Sea (novel)
+The Cruel Sea is a 1951 novel by Nicholas Monsarrat. It follows the lives of a group of Royal Navy sailors fighting the Battle of the Atlantic during World War II.
+It contains seven chapters, each describing a year during the war.
+
+The novel, based on the author's experience of serving in corvettes in the North Atlantic in World War II, gives a matter-of-fact but moving portrayal of ordinary men learning to fight and survive in a violent, exhausting battle against the elements and a ruthless enemy.
+
+Plot summary
+
+The action commences in 1939. Lieutenant-Commander George Ericson, a Merchant Navy and Royal Naval Reserve officer, is recalled to the Royal Navy and given command of the fictitious Flower-class corvette HMS Compass Rose, newly built to escort convoys. His officers are mostly new to the Navy, especially the two new sub-lieutenants, Lockhart and Ferraby. Only Ericson and the petty officers are in any way experienced.
+
+Despite these initial disadvantages, the ship and crew work up a routine and gain experience. Bennett, the first lieutenant, a mean and shirking disciplinarian with a penchant for bullying and canned sausages (snorkers), leaves the ship ostensibly for health reasons, and the junior officers are able to mature, with Lockhart gaining promotion to first lieutenant.
+
+The crew cross the Atlantic many times on escort duty in all kinds of weather, often encountering fierce storms in one of the smallest ships to provide escort services to the Allied convoys. The men endure the ship's constant rolling and pitching in the huge waves, freezing cold, the strain of maintaining station on the convoy on pitch-black nights and the fear that at any second a torpedo from a German U-boat could blow them to oblivion. Somehow the tradition of the Royal Navy and the knowledge of the importance of their work carries them through.
+
+They continue the monotonous and dangerous but vital duty of convoy escort and after one particularly difficult convoy they use all their hard won knowledge to sink a German submarine. 
+They are nearly sunk several times until in 1943 they are finally torpedoed and forced to abandon ship. Most of the crew die in the freezing waters, but Ericson, Lockhart, Ferraby, and a few others are rescued the next day, but Ferraby suffers a break down forcing him to go to hospital.
+
+Ericson, now promoted to commander, and Lockhart, now a lieutenant-commander, take command of a new ship, the fictitious River class frigate HMS Saltash. (In the film adaptation, the ship is called Saltash Castle and is portrayed by the Castle class corvette HMS Portchester Castle, as no River class vessels were available.)
+
+The Royal Navy is now finally gaining the upper hand over the U-boats and Saltash adds to the growing number of kills due to Ericson's determination and patience.
+
+In chapter seven the ship receives a message ordering it to "remain on patrol in vicinity of Rockall" as the end of the Second World War approaches in 1945, a well-known quote.
+
+When the war ends, the ship returns to port as a guard to several German submarines that have surrendered.
+
+A secondary plotline concerns Lockhart's poignant romance with a beautiful Women's Royal Naval Service officer.
+
+Origins
+
+Nicholas Monsarrat's own career was the model for that of his character Lockhart, a Fleet Street reporter in the 1930s, commissioned as a naval reservist.  Monsarrat spent the war in anti-submarine escort ships, rising to the rank of Lieutenant-Commander.  His first book, Three Corvettes was published in 1945.  After the war he was a publicity officer at British missions overseas (notably Ottawa) before becoming a full-time writer.
+
+Film and radio adaptations
+
+The novel was  made into the film The Cruel Sea in 1953, directed by Charles Frend and starring Jack Hawkins as Commander Ericson and Donald Sinden as Lockhart.
+
+BBC Radio 4 has produced two radio adaptations of the book. In September 1980, a two-hour  dramatised version starred Richard Pasco as Ericson and Michael N. Harbour as Lockhart, and with Terry Molloy as the Coxswain of Saltash. Recording took place with the assistance of the captain and ship's company of HMS Brighton and the captain of HMS Scylla. The narrator was Martin Muncaster. In March 2012, another two hour version, starred Gwilym Lee as Lockhart and Jonathan Coy as Ericson. Dramatised by John Fletcher and directed by Marc Beeby, this adaptation went on to win 'Best Use of Sound in an Audio Drama' in the BBC Audio Drama Awards 2013.
+Question:
+Who wrote the WW11 novel 'The Cruel Sea'?
+Answer:
+Nicholas Monsarrat
+Passage:
+Three Times a Lady
+"Three Times a Lady" is a song by American soul group the Commodores, from their 1978 album Natural High. It was produced by James Anthony Carmichael and the Commodores. It was also the only Motown song to reach the Top 10 on the US Billboard Hot 100 that year and the Commodores's first Billboard Hot 100 number-one hit, topping the chart for two weeks on August 12, 1978 and also went to number one the soul chart for two weeks.   The song spent three weeks at #1 on the adult contemporary chart. 
+
+The song also reached #1 on the Canadian RPM Singles Chart for four weeks, and was one of only a few Motown singles to reach the top spot in the UK Singles Chart, staying there for five weeks.  The song was also successful in Ireland, staying at #1 in the charts for three consecutive weeks. It was #1 in Australia for five weeks, and reached #2 in New Zealand.
+
+The original Commodores' version of the song was included as the final track on Lionel Richie's greatest hits compilation album Back To Front, released in 1992.
+
+In an appearance on The Early Show on June 12, 2009, Lionel Richie said he was inspired to write the song because of a comment his father made about his mother. His father said to his mother "I love you. I want you. I need you. Forever" hence the three times a lady. 
+
+Covers
+
+* Nate Harvell recorded one of the first country versions in 1978, reaching #23 on the Billboard country chart.
+* The song was also covered in the country genre by country singer Billy "Crash" Craddock on his 1986 album Crash Craddock and in 2007 by Cobra Starship as an iTunes bonus track for their album ¡Viva La Cobra!. In 2001 it was covered by Anglo-Norwegian boy band a1 and featured on Motown Mania and as a bonus track on their hit single "No More".
+* The Shadows did an instrumental of the song on Moonlight Shadows (1986).
+* Kenny Rogers covered the song on After Dark.  It was also featured on his hits compilation All The Hits And All New Love Songs.  Rogers performed the song on the Barbara Mandrell and the Mandrell Sisters television show on November 29, 1980.
+* The most successful cover version was performed by Conway Twitty, whose version appears on his 1983 album Lost in the Feeling. Twitty's version reached No. 7 on the Billboard Hot Country Singles chart in the late winter of 1984.  Allmusic reviewer Tom Jurek wrote that "Three Times a Lady" and the previous single, "Heartache Tonight" "offer(ed) a solid view of Twitty's amazing crossover potential, and his ability to take well-known pop tracks and turn them into solid country smashes long after the countrypolitan days of Chet Atkins and RCA."  (In addition to "Heartache Tonight" (a cover of a song by The Eagles), Twitty had successfully covered "Slow Hand" and "The Rose," previously pop hits for the Pointer Sisters and Bette Midler, respectively.)
+Question:
+What group had their first UK hit with three times a lady ?
+Answer:
+Walter Orange
+Passage:
+Concertgebouw
+The Royal Concertgebouw (,) is a concert hall in Amsterdam, Netherlands. The Dutch term "concertgebouw" literally translates into English as "concert building". On 11 April 2013, on occasion of the building's 125th anniversary, Queen Beatrix bestowed the Royal Title "Koninklijk" upon the building, as she did previously (in 1988) to the Royal Concertgebouw Orchestra.  Because of its highly regarded acoustics, the Concertgebouw is considered one of the finest concert halls in the world, along with places such as Boston's Symphony Hall   and the Musikverein in Vienna.
+
+History
+
+The architect of the building was Adolf Leonard van Gendt, who was inspired by the Gewandhaus in Leipzig, built two years earlier (and destroyed in 1943).
+
+Construction began in 1883 in a pasture that was then outside the city, in Nieuwer-Amstel, a municipality that in 1964 became Amstelveen.  A total of 2,186 piles of length twelve to thirteen metres (40 to 43 ft) were sunk into the soil.
+
+The hall opened on 11 April 1888 with an inaugural concert, in which an orchestra of 120 musicians and a chorus of 500 singers participated, performing works of Wagner, Handel, Bach, and Beethoven. The resident orchestra of the Concertgebouw is the Royal Concertgebouw Orchestra (Koninklijk Concertgebouworkest), which gave its first concert in the hall on 3 November 1888, as the Concertgebouw Orchestra (Concertgebouworkest). For many decades the Netherlands Philharmonic Orchestra and the Radio Filharmonisch Orkest have also been regular performers in the Concertgebouw.
+
+The Main Hall (Grote Zaal) seats 1,974, and is 44 metres (144 ft) long, 28 metres (92 ft) wide, and 17 metres (56 ft) high.  Its reverberation time is 2.8 seconds without audience, 2.2 seconds with, making it ideal for the late Romantic repertoire such as Mahler. Though this characteristic makes it largely unsuited for amplified music, groups such as Led Zeppelin, The Who and Pink Floyd performed there in the 1960s. It hosts not only orchestral and operatic performances, but also jazz and world music.
+
+A smaller, oval-shaped venue, the Recital Hall (Kleine Zaal), is located behind the Main Hall. The Recital Hall is 20 metres (66 ft) long and 15 metres (50 ft) wide. Its more intimate space is well-suited for chamber music and Lieder. The Recital Hall has 437 seats.
+
+When the Concertgebouw was built, acoustics were something of a black art. As in shipbuilding, designers drew upon what had worked in the past without entirely understanding the underlying science. When the building was completed, the acoustics were not perfect, and a lot of effort went into fine-tuning the aural ambience. During later restorations, particular care has been taken not to alter the materials used for interior decoration with this in mind. In the 1980s, the hall embarked on extensive fund-raising for renovations after the hall was found to be slowly sinking into the ground. Pi de Bruijn was the architect for the contemporary annex to the original hall. 
+
+Today, some nine hundred concerts and other events per year take place in the Concertgebouw, for a public of over 700,000, making it one of the most-visited concert halls in the world. 
+
+, the managing director of the Concertgebouw is Simon Reinink and the artistic director is Anneke Hogenstijn. 
+
+Organ 
+
+The organ was built in 1890 by the organ builder Michael Maarschalkerweerd from Utrecht, and was renovated in the years 1990-1993 by the organ builder Flentrop. It has 60 registers on three divisions and pedal. 
+
+* Couplers: II/I (also as Suboktavkoppel), III/I, III/II, I/P, II/P, III/P
+
+Names of composers in the Main Hall
+
+In the Main Hall, the surnames of the following 46 composers are displayed on the balcony ledges and on the walls: 
+
+In popular culture
+
+The Concertgebouw is mentioned, along with Madison Square Garden, the Hollywood Bowl, and the Rainbow Theatre, in the song "Rock Show" from the 1975 Wings album Venus and Mars.
+
+Kris Debruyne, a Belgian singer, mentions the Concertgebouw in his song "Amsterdam".
+
+Gallery
+
+File:A.L. van Gendt Concertgebouw 0.jpg|Architectural drawings of the design, dated 1888.
+Image:Jacob Olie - Concertgebouw Amsterdam 10 november 1902.jpeg|The Concertgebouw in 1902.
+Image:Concert18.jpg|The Main Hall (Grote Zaal) of the Concertgebouw.
+Image:ConcertgebouwMuseumpleinAmsterdam.jpg|The Concertgebouw at night, 2008.
+Image:Concertgebouw-july2010.jpg|A piano quintet concert in the Main Hall, July 2010.
+Question:
+The home of The Royal Concertgebouw is in which city?
+Answer:
+Classis of Amsterdam
+Passage:
+Josephine Wayne
+Josephine S. Wayne (born Josephine Alicia Saenz; May 13, 1908 – June 24, 2003) was the first wife of American film actor John Wayne. She had four children including film producer Michael Wayne and actor Patrick Wayne.
+
+Biography
+
+Josephine Alicia "Josie" Saenz was born May 13, 1908 to the Consul General of Panama in the United States,  José Saenz, a wealthy businessman who lived in Los Angeles, California.  Her parents were born in Madrid, Spain.
+Aged 15 or 16 when she met John Wayne, an actor in college still named Marion Morrison, while at a beach party in Balboa, California. Their relationship met with considerable resistance from her Catholic family because he was a Presbyterian. 
+ 
+
+Marriage
+
+After courting for seven years, Wayne's financial status improved considerably due to his success at the box office, and he was able to convince her family to allow the marriage. The couple married on June 24, 1933, in a garden ceremony at actress Loretta Young's home. 
+
+The couple had four children: Michael Wayne (film producer, November 23, 1934 – April 2, 2003), Mary Antonia "Toni" Morrison-LaCava (February 25, 1936 –  December 6, 2000), Patrick Wayne (born July 15, 1939) and Melinda Morrison-Muñoz (born December 3, 1940).
+
+After a few years, the marriage was in trouble. Wayne worked long hours at his career and was always surrounded by associates from the film world. The couple also had differences of opinion about how their children should be raised.  In 1943 they separated and eventually divorced in 1945.  She also found great happiness in 1996 when she married Cyril Nigg (died March, 1999 ), a well known Los Angeles businessman, who shared her love of service to the community.
+
+Death
+
+Josephine Saenz died in 2003, at age 95, from cancer, having been predeceased by two of her children, Michael and Toni.
+Question:
+Which very famous actor had three wives, Josephine Alicia Saenz, Esperanza Baur and Pilar Pallete?
+Answer:
+Michael Morris (John Wayne)
+Passage:
+pangram:
+Pangram
+pangram:
+Pangram (  pængræm )  [f. PAN- + -GRAM.] A sentence containing all the letters of the alphabet (see also quot. 1953). So pangram'matic a.
+1933 M. E. OHAVER Cryptogram Solving 31 Pangrammatic, containing all the letters of the alphabet. 1953 W. R. TRASK tr. Curtius's European Lit. xv. 283 The 'pangrammatic' affection, which consists in having as many successive words as possible begin with the same letters. 1963 Medium Ævum XXXII. 149 'Pangrammatic' verses are far older than the thirteenth century. 1964 Sci. Amer. Sept. 222 The pangram, an ancient form of word play, is an attempt to get the maximum number of different letters into a sentence of minimum length. 1965 Time 17 Sept. 72 Also represented: Sotadic [palindromic] verses, pangrammatic rubaiyat and problems in alphametics (alphabet arithmetic).
+Check words against dictionary?
+Question:
+A pangram is a sentence containing what?
+Answer:
+All the letters of the alphabet
+Passage:
+Tine (structural)
+Tines or prongs or teeth are parallel or branching spikes forming parts of a tool or natural object.   They are used to spear, hook, move or otherwise act on other objects.  They may be made of metal, wood, bone or other hard, strong material.
+
+The number of tines (also written tynes) on tools varies widely – a pitchfork may have just two, a garden fork may have four, and a rake or harrow many.  Tines may be blunt, such as those on a fork used as an eating utensil; or sharp, as on a pitchfork; or even barbed, as on a trident. The terms "tine" and "prong" are mostly interchangeable. A tooth of a comb is a tine.
+
+Tines and prongs occur in nature—for example, forming the branched bony antlers of deer or the forked horns of pronghorn antelopes. The term "tine" is also used for mountains, such as the fictional Silvertine in The Lord of the Rings.
+
+In chaos theory (physics, non-linear dynamics), the branches of a bifurcation diagram are called tines and subtines.
+Question:
+What is a prong of a fork called
+Answer:
+Tine
+Passage:
+List of association football teams to have won four or more trophies in one season
+In a football season, clubs typically compete in a number of different competitions: usually a domestic league and at least one cup competition, as well as sometimes competing in continental football, that is, the tournaments organised by one of FIFA's six confederations. Winning multiple competitions is seen as a particularly momentous achievement. 
+
+Doubles and trebles are usually long-remembered achievements, but do occur with some level of frequency.  By contrast, winning four or more trophies in one season is exceptionally rare. In recent years, the terms quadruple, quintuple and sextuple have come to be occasionally used to refer to winning four, five or six top-tier trophies in a single season.     
+
+The list below considers only teams whose victories include trophies in the top tier of their league system.
+
+Four titles in one season
+
+Some clubs have won four competitions in a single season. This has sometimes been called a 'quadruple'.
+
+Other teams have won four competitions in a calendar year, though not all in the same season.
+
+Five titles in one season
+
+Other teams have won five competitions in a calendar year, though not all in the same season. Liverpool achieved this in 2001, winning all competitions entered with the exception of the domestic league title;  Internazionale achieved this feat in 2010 (no UEFA Super Cup), Spanish club F.C. Barcelona achieved this in 2011 (all but 2010–11 Copa del Rey) and 2015 (all but 2015 Supercopa de España);  Germany's FC Bayern Munich won five trophies in 2013 (everything but the DFL-Supercup). 
+
+Six titles in a season
+
+Barcelona won six titles in 2009 (Copa del Rey, La Liga, UEFA Champions League, Supercopa de España, UEFA Super Cup and FIFA Club World Cup)  has been described as a 'sextuple'; however, this achievement took place over the course of two different Spanish seasons, winning a treble in the 2008–09 season.   It is counted together by many as the three added trophies were extra matches of the treble won, played in the same calendar year.
+
+Seven titles in a season
+Question:
+Which football club was the first to win the sextuple of all possible major competitions?
+Answer:
+The weather in Barcelona
+Passage:
+You (S Club 7 song)
+"You" was the 9th single released by UK pop group S Club 7 on 11 February 2002. The track is a very uptempo-retro number reminiscent of the group's third single "You're My Number One". The video was set in the 1950s and is described in the Best CD booklet as the "candyfloss-bright, tongue-in-cheek 50s pastiche". This track was the last single to feature departed band member Paul Cattermole and sparked the last leg of the S Club 7 journey. The song reached no. 2 on the UK Singles Chart. It also charted on the 2002 Year End Singles chart at number 70.
+
+Track listing
+
+* UK CD1
+# "You" (Single version)
+# "The Long and Winding Road"
+# "Bring the House Down" (Almighty mix)
+# "You" (CD-ROM video)
+
+* UK CD2
+(includes band poster)
+# "You" (Single version)
+# "Stronger" (Solar8 Mix)
+# "You" (The Bold and The Beautiful Swishy Disco mix)
+
+* Cassette
+# "You" (Single version)
+# "You" (Karaoke version)
+
+Music video
+
+The first part of the video stars Rachel Stevens as a wife who cooks food for her husband portrayed by Paul Cattermole. Paul comes home and Rachel tries to feed him. But a mistress played by Jo O'Meara appears out of nowhere, distracts Paul and they start dancing. Then they enter another room through a curtain, revealing the other band members. The part ends with Hannah Spearritt dancing. The second part shows Rachel mowing the lawn. Jon Lee joins her, but soon goes to Jo, who is having a barbecue. The smoke from the grill show the other 6 members dancing under umbrellas. Rachel looks while using a hose. It turns off, then it sprays Rachel in the face. The third part takes place in the garage. Bradley McIntosh is repairing the car. Rachel looks at him, Bradley does likewise. Then Jo appears in the car dancing with Bradley. The others come in. Rachel is sad until the others sing to her. They all sing together and they drive off.
+
+The music video for 'You' was filmed after "Don't Stop Movin'" and was intended as the follow up single before the group were asked to record the Children In Need single ('Have You Ever') for that year.  
+
+Chart position
+Question:
+With which pop group do you associate Jo O'Meara and Rachel Stevens?
+Answer:
+Sclub7
+Passage:
+Harry Hole
+Harry Hole is the main character in a series of crime novels written by Norwegian author Jo Nesbø. Hole is a brilliant and driven detective with unorthodox methods, a classic loose cannon in the police force.
+
+Character
+
+Harry Hole, a police officer with the Oslo Crime Squad, lost his mother, a descendant of the Sami people, to cancer while he was in his twenties, and he has never had a close relationship to his father, Olav Hole, a former teacher. He was born in 1965, and has a younger sister with Down syndrome. He is unmarried, but has had close relationships with a number of women throughout the series of ten novels. Otherwise, he has few close friends – and the ability to make enemies from amongst his colleagues who, nevertheless, grudgingly respect him.
+
+Hole is a heavy smoker and an alcoholic although, at times, his alcoholism is under control. The effects of his problem sometimes bring him into repeated conflict with his superiors and some colleagues, but Bjarne Møller, head of Hole's department and one of his closest friends, manages to prevent him from being sacked as a result, primarily because he recognises that Harry Hole is a brilliant detective who is recognised amongst his colleagues because of his role in the solving the case of a serial killer in Australia. Hole is one of few in the force who has undergone special training in police interrogation techniques and firearms by the FBI.
+
+Hole has few friends within the Oslo Police Department, exceptions being some staff at the forensics division of the Norwegian police, including Beate Lønn, whom he often uses to secure crucial information in critical situations where specialist knowledge is required, and Bjørn Holm, another skilled forensics officer. Harry is also friendly with Gunnar Hagen, his former senior officer prior to the case chronicled in Phantom.
+
+In many ways, the author's home city of Oslo has the starring role in the Harry Hole novels. Much of the background detail of the stories involves real locations, and the city is shown "warts and all", ranging from Hole's favourite eating and drinking places that he frequents, to the traffic of the so-called "Traffic Machine" road system, the real-life headquarters of the Police Department, the swimming pool at Frogner Park, to the haunts of neo-Nazis, drug addicts and prostitutes, all of this described vividly (in the various novels) at different times of the year – in the snow and freezing weather of winter to the high temperatures of a particularly warm summer. Harry Hole's friends and acquaintances include city residents from every social background, including immigrants from other parts of the world to old school friends such as Øystein Eikeland, the taxi driver – possibly the person with whom he is closest.
+
+Harry Hole's home address is in Sofies Gate in Bislett, Oslo. In Phantom he no longer lives here, as he has been in Hong Kong for three years. Near his place of residence is his favourite "watering hole", Restaurant Schrøder (Schrøder's, for short) in St. Hanshaugen, which figures in most of the novels. He has had a serious relationship with Rakel Fauke, whose son, Oleg, looks up to Harry as a father figure. After the case chronicled in The Snowman, their relationship is put under severe pressure.
+
+"Hole", Harry's family name, is the name of a historic Norwegian town (Hole, Norway), with a heritage that goes back to Norway's origins in the Viking Age. The name is derived from Old Norse Hólar, the plural form of hóll, meaning "round (and isolated) hill". The word is pronounced as two syllables, with stress on the first (hoh-leh), as is implied in The Bat, where the Australian police call him "Harry Holy".
+
+Appearances in the Harry Hole series
+
+* In The Bat (1997), Hole is sent to Sydney, Australia to aid the Australian police in their investigation of the murder of a Norwegian citizen.
+* In Cockroaches (1998), Hole is sent to Thailand to investigate the murder of the Norwegian ambassador.
+* In The Redbreast (2000), Hole tracks an assassin planning an attack on a prominent member of the establishment.
+* In Nemesis (2002), Hole investigates a fatal bank robbery and becomes implicated in the apparent murder of an ex-girlfriend.
+* In The Devil's Star (2003), Hole investigates a series of serial killings and suspects a fellow policeman of criminal activity. 
+* In The Redeemer (2005), Hole is on the trail of a Croatian hitman who kills a Salvation Army officer during a Christmas street concert.
+* In The Snowman (2007), Hole struggles to identify Norway's first serial killer.
+* In The Leopard (2009), Hole returns from self-imposed exile in Hong Kong and unofficially investigates a serial killer.
+* In Phantom (2011), Hole again returns from Hong Kong to look into a murder apparently committed by his would-be son, Oleg. His investigation draws him into Oslo's drug scene.
+* In Police (2013), Hole is needed once again to discover the identity of a serial killer who is stalking the streets of Oslo, killing police officers who previously investigated old cases.
+
+Books
+
+*1997 – Flaggermusmannen; English title: The Bat (2012)
+*1998 – Kakerlakkene; English title: Cockroaches (2013)
+*2000 – Rødstrupe; English translation: The Redbreast (2006)
+*2002 – Sorgenfri; English translation: Nemesis (2008)
+*2003 – Marekors; English translation: The Devil's Star (2005)
+*2005 – Frelseren; English translation by Don Bartlett: The Redeemer (2009)
+*2007 – Snømannen; English translation by Don Bartlett: The Snowman (2010)
+*2009 – Panserhjerte; English translation by Don Bartlett: The Leopard (2011)
+*2011 – Gjenferd; English translation by Don Bartlett: Phantom (2012)
+*2013 - Politi; English translation: Police (2013)
+Question:
+Which author created the detective Harry Hole (pronounced Holy)?
+Answer:
+Jo Nesbø
+Passage:
+Amps and Watts Usage | Electrical Safety First
+Amps and Watts Usage | Electrical Safety First
+ 
+Further information:
+The fuse in a plug is a safety device designed to protect the lead rather than the appliance. It is a deliberate weak link in a circuit which will 'blow' if an electrical appliance or extension lead draws too much current due to either an overload or a fault. The blown fuse cuts off the electricity to stop the lead and appliance from overheating and causing a fire.
+Appliances meeting the relevant product safety standards will always be fitted with a plug having a correctly-rated fuse. If you have to replace a fuse, it's essential, having checked and corrected the reason for the fuse blowing, to replace it only with another of the same rating.
+As a rule of thumb, fuses are rated according to the power rating of the appliance. Plugs for appliances rated up to about 700 watts should have a 3 amp fuse (coloured red).  Plugs for appliances rated between about 700 watts and 3000 watts (the maximum rating of a wall socket) should be fitted with a 13 amp fuse (coloured brown). (Some older appliances were fitted with 5 amp fuses (coloured black), which are still available to buy.)
+Share this article with a friend
+Question:
+What colour is a UK domestic 5 amp electrical appliance fuse?
+Answer:
+Blackishly
+Passage:
+Theakston Brewery
+T&R Theakston is an English brewery located in the market town of Masham, North Yorkshire. The company is the sixteenth largest brewer in the UK by market share, and the second largest brewer under family ownership after Shepherd Neame.
+
+History
+
+T&R Theakston Ltd. was founded in 1827 by Robert Theakston and John Wood at The Black Bull pub and brewhouse in Masham. By 1832 Theakston had sole ownership of the brewery and in 1875 he passed control over to his son Thomas who expanded the range of buildings by building the new brewery on the Paradise Fields.
+
+In 1919 the company acquired and closed down the Lightfoot Brewery, also in Masham.
+
+Theakston's expanded into Cumbria in 1974 buying the Carlisle State Management Brewery.  The brewery had been owned and operated by the government since 1916.  However the site was a financial drain  on Theakston's and led to the company being taken over in 1984 by Blackburn based brewer, Matthew Brown plc.   Matthew Brown was itself taken over by Scottish & Newcastle in 1987.
+
+Paul Theakston (Managing Director since 1968) left Theakston's in 1988, and in 1992 established the Black Sheep Brewery in the old Lightfoot Brewery premises - located adjacent to the White Bear Hotel, one of Theakston's pubs.
+
+The Carlisle brewery was closed in 1987, and brewing of some Theakston beers was transferred to Scottish & Newcastle's Tyne Brewery.
+
+In 2004 the business returned to family ownership after being purchased back from Scottish & Newcastle by four Theakston brothers.  Major development works at the Masham Brewery enabled the company to announce that brewing of Theakston Bitter would return to Masham in 2009. 
+
+Beers
+
+The company produces cask ale and pasteurised bottled ales. Theakston cask ales are widely available in pubs in the north of England, though are less common in other parts of the country. The bottled beers are also widely distributed to British supermarkets and exported to Germany and the United States.
+
+The company produces five regular cask ales and six seasonal. Only two of the beers are filtered and pasteurised to be made available in bottles, Theakston XB and Old Peculier.
+
+Best Bitter (3.8% ABV) is regularly paired with XB in pubs, Theakston Best Bitter is the company's most easily found product, served in many pubs, mainly in the north of England.
+
+XB (4.5% ABV) is a premium strength Bitter with a more complex flavour. It was launched in 1982.[http://www.barnsleycamra.org.uk/thebar/1992/april-1992.pdf "Barnley's Bitter - Brewery News"], Barnsleycamra.org.uk, April–May 1992. Retrieved 28 November 2011
+
+Black Bull Bitter (3.9% ABV) was brewed to commemorate the Theakson's first pub where the first Theakston's beers were brewed and sold.
+
+Traditional Mild (3.5% ABV) is the weakest beer produced by Theakston, a dark and dry drink created as an alternative for dark ales. It was launched in 1992.
+
+Lightfoot Bitter (4.1%abv) originally brewed as a seasonal bitter but with its high popularity has become one of many regular Theakstons brew. Golden in colour and bitter in taste, a favourite in many s&n public houses.
+
+Old Peculier (5.6% ABV) is Theakston's most famous beer. Old Peculier has been made under this name since  the 1890s. In 2000, it won the silver medal in the Campaign for Real Ale (CAMRA)'s "Champion Winter Beer of Britain" 2000 competition. The label on the bottle describes it as a "full bodied, rich, smooth tasting ale with a mysterious and distinctive flavour". It is named after the peculier of Masham, a peculier being a parish outside the jurisdiction of a diocese. In 1985 The Economist dubbed it the "doyen of real ales." 
+
+The six seasonal ales are Cooper's Butt (4.3% ABV), Hogshead Bitter (4.1% ABV), Grouse Beater (4.2% ABV), Masham Ale (6.5% ABV) and Paradise Ale (4.2% ABV).
+
+Visitor Centre
+
+The brewery also runs a small visitor centre at its home in Masham where guided tours are given about the actual working brewery. At the end of the tour, visitors are given tokens that can be exchanged for drinks at the bar of the Black Bull in Paradise, named after the original pub (Black Bull) and the location of the new brewery (Paradise Fields). There is also a small shop, selling crates of bottled XB and Old Peculier, beer glasses, T-shirts and an assortment of other souvenirs.
+
+In popular culture
+
+In the All Creatures Great and Small episode "Golden Lads & Girls", James Herriot and Tristan Farnon are seen drinking a Theakston Nutty Brown Ale.
+
+In The Shadow of Israphel there is a character named Old Peculier.
+
+In Martha Grimes' Richard Jury novels, the character of Melrose Plant prefers Old Peculier.
+Question:
+Which English brewery produces a beer called 'Old Peculiar'?
+Answer:
+Theakstons
+Passage:
+I Whistle a Happy Tune
+"I Whistle a Happy Tune" is a show tune from the 1951 Rodgers and Hammerstein musical, The King and I. It is sung by Anna Leonowens to her son Louis after the curtain rises on Act One of the musical, to persuade him not to be afraid as they arrive in Siam to serve the King. It is sung by the Governess.
+
+Andy Williams released a version of the song on his 1958 album Andy Williams Sings Rodgers and Hammerstein.
+Question:
+"The song ""I Whistle A Happy Tune"" is from which musical?"
+Answer:
+King & i
+Passage:
+Benefits Supervisor Sleeping
+Benefits Supervisor Sleeping is a 1995 oil on canvas painting by Lucian Freud depicting an obese, naked woman lying on a couch. It is a portrait of Sue Tilley, then weighing about 127 kg,  a Job Centre supervisor. Tilley is the author of a biography of the Australian performer Leigh Bowery titled Leigh Bowery, The Life and Times of an Icon. Tilley was introduced to Freud by Bowery, who was already modelling for him. Freud painted a number of large portraits of her around the period 1994–96, and came to call her "Big Sue". He said of her body "It's flesh without muscle and it has developed a different kind of texture through bearing such a weight-bearing thing".  
+
+The painting held the world record for the highest price paid for a painting by a living artist when it was sold by Guy Naggar  for US$33.6 million (£17.2 million)  at Christie's in New York in May 2008 to Roman Abramovich.  This record was broken by the Freud painting Benefits Supervisor Resting, which sold for £35.8million ($56.2million) in 2015. 
+
+The painting was exhibited twice at Flowers Gallery:
+1996: Naked – Flowers East at London Fields 
+1997: British Figurative Art - Part 1: Painting at Flowers East
+Question:
+Whose painting, ‘Benefits Supervisor Resting’, sold for £35.8million at auction?
+Answer:
+Lucian Freud-painter
+Passage:
+Keep the Home Fires Burning (1914 song)
+Keep the Home-Fires Burning ('Till the Boys Come Home) is a British patriotic First World War song composed in 1914 by Ivor Novello with words by Lena Guilbert Ford (whose middle name was sometimes printed as "Gilbert"). 
+
+The song was published first as "'Till the Boys Come Home" on 8 October 1914 by Ascherberg, Hopwood and Crew Ltd. in London.home fire burning
+
+ 
+A new edition was printed in 1915 with the name Keep the Home-Fires Burning. The song became very popular in the United Kingdom during the war, along with It's a Long Way to Tipperary.
+
+James F. Harrison recorded Keep the Home-Fires Burning in 1915, as did Stanley Kirkby in 1916. Another popular recording was sung by tenor John McCormack in 1917, who was also the first to record It's a Long Way to Tipperary in 1914. (See External links below to hear these recordings of Keep the Home-Fires Burning.) Other versions include one by Frederick J. Wheeler and one by the duet Reed Miller & Frederick Wheeler. 
+
+There is a misconception that Ivor Novello's mother wrote the lyrics for the song (propagated—for example—by patter in recorded performances of British musical comedy duo Hinge and Bracket) but Lena Ford (an American) was a friend and collaborator of Novello, not a blood relation.
+
+Lyrics
+
+They were summoned from the hillside,
+They were called in from the glen,
+And the country found them ready
+At the rallying call for men
+Let no tears add to their hardships
+As the soldiers pass along,
+And although your heart is breaking,
+Make it sing this cheery song:
+
+Keep the Home Fires Burning,
+While your hearts are yearning.
+Though your lads are far away
+They dream of home.
+There's a silver lining
+Through the dark clouds shining,
+Turn the dark cloud inside out
+Till the boys come home.
+
+Overseas there came a pleading,
+"Help a nation in distress."
+And we gave our glorious laddies -
+Honour bade us do no less,
+For no gallant son of Freedom
+To a tyrant's yoke should bend,
+And a noble heart must answer
+To the sacred call of "Friend."
+
+Keep the Home Fires Burning,
+While your hearts are yearning.
+Though your lads are far away
+They dream of home.
+There's a silver lining
+Through the dark clouds shining,
+Turn the dark cloud inside out
+'Til the boys come home. 
+
+Cultural references
+
+*The song is sung by Joan Fontaine and a group of British soldiers in the 1942 film This Above All (film).
+*The song was included in the 1969 musical Oh! What a Lovely War and in the 1970 musical film Darling Lili.
+*The song is featured in the 1981 film Chariots of Fire.
+*In the 2002 film Gosford Park, the guests at a country house are entertained by Novello (played by Jeremy Northam), who performs the song on the piano
+*In the film Johnny Got His Gun when the characters are celebrating a Christmas party; this clip was later used at the end of Metallica's music video, "One".
+*Featured in the Seán O'Casey play The Plough and the Stars.
+*The last refrain is sung by the employees of Are You Being Served? in the episode "Camping In."
+*The main chorus is sung by the cast of M*A*S*H in Episode 127 (Season 5) "War of Nerves" during a stress relief "bon-type-fire"
+*The song is briefly heard in a scene of new army recruits marching in a parade in the 1930 film A Soldier's Plaything.
+Question:
+Who wrote the melody of the song Keep the Home Fires Burning ?
+Answer:
+IVOR NOVELLO
+Passage:
+Lead chamber process
+The lead chamber process was an industrial method used to produce sulfuric acid in large quantities. It has been largely supplanted by the contact process.
+
+In 1746 in Birmingham, England, John Roebuck began producing sulfuric acid in lead-lined chambers, which were stronger, were less expensive, and could be made much larger than the glass containers which had been used previously. This allowed the effective industrialization of sulfuric acid production and, with several refinements, this process remained the standard method of production for almost two centuries. So robust was the process that as late as 1946, the chamber process still accounted for 25% of sulfuric acid manufactured. 
+
+Process 
+
+Sulfur dioxide is introduced with steam and nitrogen oxide into large chambers lined with sheet lead where the gases are sprayed down with water and chamber acid. The sulfur dioxide and nitrogen dioxide dissolve and over a period of approximately 30 minutes the sulfur dioxide is oxidized to sulfuric acid. The presence of nitrogen dioxide is necessary for the reaction to proceed at a reasonable rate. The process is highly exothermic, and a major consideration of the design of the chambers was to provide a way to dissipate the heat formed in the reactions.
+
+Early plants used very large lead-lined wooden rectangular chambers (Faulding box chambers) that were cooled by ambient air. The internal lead sheathing served to contain the corrosive sulfuric acid and to render the wooden chambers waterproof. Around the turn of the nineteenth century, such plants required about half a cubic meter of volume to process the sulfur dioxide equivalent of a kilogram of burned sulfur.  In the mid-19th century, French chemist Gay-Lussac redesigned the chambers as stoneware packed masonry cylinders. In the 20th century, plants using Mills-Packard chambers supplanted the earlier designs. These chambers were tall tapered cylinders that were externally cooled by water flowing down the outside surface of the chamber.
+
+Sulfur dioxide for the process was provided by burning elemental sulfur or by the roasting of sulfur-containing metal ores in a stream of air in a furnace. During the early period of manufacture, nitrogen oxides were produced by the decomposition of niter at high temperature in the presence of acid, but this process was gradually supplanted by the air oxidation of ammonia to nitric oxide in the presence of a catalyst.  The recovery and reuse of oxides of nitrogen was an important economic consideration in the operation of a chamber process plant.
+
+In the reaction chambers, nitric oxide reacts with oxygen to produce nitrogen dioxide.  Liquid from the bottom of the chambers is diluted and pumped to the top of the chamber and sprayed downwards in a fine mist. Sulfur dioxide and nitrogen dioxide are absorbed in the liquid and react to form sulfuric acid and nitric oxide. The liberated nitric oxide is sparingly soluble in water and returns to the gas in the chamber where it reacts with oxygen in the air to reform nitrogen dioxide. Some percentage of the nitrogen oxides are sequestered in the reaction liquor as nitrosylsulfuric acid and as nitric acid, so fresh nitric oxide must be added as the process proceeds. Later versions of chamber plants included a high-temperature Glover tower to recover the nitrogen oxides from the chamber liquor, while concentrating the chamber acid to as much as 78% H2SO4. Exhaust gases from the chambers are scrubbed by passing into a tower through which some of the Glover acid flows over broken tile. Nitrogen oxides are absorbed to form nitrosylsulfuric acid, which is then returned to the Glover tower to reclaim the oxides of nitrogen.
+
+Sulfuric acid produced in the reaction chambers is limited to about 35% concentration.  At higher concentrations, nitrosylsulfuric acid precipitates on the lead walls as chamber crystals and is no longer able to catalyze the oxidation reactions. 
+
+Chemistry 
+
+Sulfur dioxide is generated by burning elemental sulfur or by roasting pyritic ore in a current of air:
+
+S8 + 8 O2 → 8 SO2 
+4 FeS2 + 11 O2 → 2 Fe2O3 + 8 SO2
+
+Nitrogen oxides are produced by decomposition of niter in the presence of sulfuric acid or hydrolysis of nitrosylsulfuric acid:
+
+2 NaNO3 + H2SO4 → Na2SO4 + H2O + NO + NO2 + O2
+2 NOHSO4 + H2O →  2 H2SO4 + NO + NO2
+
+In the reaction chambers, sulfur dioxide and nitrogen dioxide dissolve in the reaction liquor.  Nitrogen dioxide is hydrated to produce nitrous acid which then oxidizes the sulfur dioxide to sulfuric acid and nitric oxide.  The reactions are not well characterized but it is known that nitrosylsulfuric acid is an intermediate in at least one pathway. The major overall reactions are:
+
+2 NO2 + H2O → HNO2 + HNO3
+SO2 (aq) + HNO3 → NOHSO4
+NOHSO4 + HNO2 →  H2SO4 + NO2 + NO
+SO2 (aq) + 2 HNO2 → H2SO4 + 2 NO
+
+Nitric oxide escapes from the reaction liquor and is subsequently reoxidized by molecular oxygen to nitrogen dioxide.  This is the overall rate determining step in the process: 
+
+2 NO + O2 → 2 NO2
+
+Nitrogen oxides are absorbed and regenerated in the process, and thus serve as a catalyst for the overall reaction:
+
+2 SO2 + 2 H2O + O2 → 2 H2SO4
+Question:
+Which acid used to be made by the lead chamber process but is now usually made by the contact process?
+Answer:
+Sulpher
+Passage:
+Chris Andrews (singer)
+Christopher Frederick "Chris" Andrews (born 15 October 1942) is an English singer-songwriter, whose musical career started in the late 1950s.   
+
+Career
+
+Andrews was born in Romford, Essex, England, and by his mid teens had formed his own group, Chris Ravel and the Ravers,  and was playing at Soho venues which included the 2i's Coffee Bar and Flamingo Nightclub. On 14 March 1959, he made his British television debut, performing on the Oh, Boy! show. He would later return in April to perform a cover of Cliff Richard's, "Move It".
+
+For Adam Faith, Andrews wrote "The First Time" (No. 5 on the UK Singles Chart, 1963)  and "We Are in Love" (No. 11, 1964), and then a string of hits for Sandie Shaw. They included "Girl Don't Come" (No. 3, 1964/65), "I'll Stop at Nothing" (No. 4, 1965), "Message Understood" (No. 6, 1965) and "Long Live Love" (No. 1, 1965). The latter remained a chart topper in the UK Singles Chart for three weeks.  "Girl Don't Come" was covered by Cher on her debut album, All I Really Want to Do. 
+
+Also in 1965, Andrews as a solo artist, got to No. 3 in the same listings with "Yesterday Man",  which peaked in Germany at No. 1 for four weeks;  followed up with a No. 13 hit in the UK "To Whom It Concerns".  The instrumental section of this song was used as the theme for RTÉ's long-running TV programme, The Late Late Show, until 1999, and a re-arranged version returned as the show's theme music in September 2009. As well as obtaining a high placing in the UK chart with "Yesterday Man", it also climbed to No. 1 in Ireland and Germany. It sold over one million copies, and was awarded a gold disc.  Later releases were not as successful, but his own hits are seen as early examples of reggae influenced white pop music. Although his chart appearances dwindled in Britain by 1966, his chart topping success continued in mainland Europe for a number of years, particularly in Germany, and Andrews often recorded in foreign languages.
+
+In South Africa, his later single releases proved particularly popular,  with "Pretty Belinda" (1969), "Carol OK" and "Brown Eyes" (both 1970) all topping the charts there. "Yo Yo" reached No. 7 at the end of 1970.
+
+Andrews remains active in his career as a singer-songwriter, working primarily in continental Europe and in the United Kingdom. He lives with his second wife Alexandra, who is also his manager, in Germany and Spain.
+
+Songwriting credits
+
+*"As Long as You're Happy Baby" – Sandie Shaw
+*"Come Closer" – Adam Faith
+*"Don't Run Away" – Sandie Shaw
+*"First Time" – Adam Faith
+*"Girl Don't Come" – Sandie Shaw
+*"Heart of Stone" – Suzi Quatro
+*"Here's Another Day" – Adam Faith
+*"How Can You Tell" – Sandie Shaw
+*"I'll Remember Tonight" – The Mamas & the Papas
+*"I'll Stop at Nothing" – Sandie Shaw
+*"Long Live Love" – Sandie Shaw
+*"Message Understood" – Sandie Shaw
+*"Nothing Comes Easy" – Sandie Shaw
+*"Nothing Less than Brilliant" – Sandie Shaw
+*"Run" – Sandie Shaw
+*"Show Me" – Sandie Shaw
+*"Think It All Over" – Sandie Shaw
+*"Think Sometimes About Me" – Sandie Shaw
+*"Today" – Sandie Shaw
+*"Tomorrow" – Sandie Shaw
+*"We Are in Love" – Adam Faith
+*"You Don't Love Me" – The Roulettes
+*"You've Not Changed" – Sandie Shaw 
+
+Discography
+
+Singles
+Question:
+Chris Andrews got to no.3 in ’65 with a title whose initials were YM. What was it?
+Answer:
+Yesterday Man
+Passage:
+Janet Horne
+Janet Horne (died 1727) was an alleged witch from Scotland, and the last person to be executed for witchcraft in the British Isles. 
+
+Janet Horne and her daughter were arrested in Dornoch in Sutherland and imprisoned on the accusations of her neighbours. Horne was showing signs of senility, and her daughter had a deformity of her hands and feet. The neighbours accused Horne of having used her daughter as a pony to ride to the Devil, where she had her shod by him. The trial was conducted very quickly; the sheriff had judged both guilty and sentenced them to be burned at the stake. The daughter managed to escape, but Janet was stripped, smeared with tar, paraded through the town on a barrel and burned alive. Nine years after her death the witchcraft acts were repealed in Scotland.
+
+Janet (or Jenny) Horne was also a generic name for witches in the north of Scotland at the time and this makes it difficult to determine what the real name of this woman may have been. Contemporary writers may have called her 'Janet Horne' simply because her real name was unknown or because the name was reported as 'Janet Horne' and they were unaware that this was a generic name. Some sources give the date of the Dornoch execution as June 1722. 
+
+Legacy
+
+She is the subject of the play The Last Witch by Rona Munro, which premiered at the 2009 Edinburgh International Festival. 
+
+Also, the events of the story are the subject of the song "Am I Evil?" by heavy metal band Diamond Head.
+Question:
+In 1727, Janet Horne became the last British person to be executed for what crime?
+Answer:
+Bewitcher
+Passage:
+Blue Peter's theme tune - BBC
+BBC New Talent Under 16s - Blue Peter Music Makers - Theme Tunes
+ 
+Blue Peter's theme tune
+Blue Peter Music Makers gave 40 young musicians the chance to get involved in recording a new version of the theme tune 'Barnacle Bill'.
+The track    is one of the best known pieces of music on TV and has been used on the programme since the first ever episode in 1958. There have been lots of different versions of the tune but perhaps the most famous is Mike Oldfield's track from 1979, which was also released as a single.
+Demonstration from Mike Oldfield
+Mike Oldfield is the man who inspired Murray Gold to become a composer. His version of the Blue Peter theme tune was one of the best loved and included dozens of different instruments, which he all played himself. In this video clip Mike shows former Blue Peter presenter Simon Groom how he put the piece together back in 1979.
+Question:
+Who wrote and performed the signature tune from 1979 to 1989.
+Answer:
+Michael Gordon Oldfield
+Passage:
+French Connection (clothing)
+French Connection (also branded as FCUK) is a UK-based global retailer and wholesaler of fashion clothing, accessories and homeware. Founded in the early 1970s by Stephen Marks, who remains chief executive, it is based in London and its parent French Connection Group PLC is listed on the London Stock Exchange.
+
+French Connection distributes its clothing and accessories through its own stores in the UK, US and Canada and through franchise and wholesale arrangements globally.  The company became notorious for the use of the "fcuk" initialism in its advertising campaigns in the early 2000s.
+
+Other brands currently within the group include Great Plains, Toast and YMC. Former brands include Nicole Farhi.
+
+Brand history
+
+Stephen Marks, who started out in business in 1969 as the Stephen Marks brand, established French Connection in 1972 – a year after the film of the same name was released. Initially designed as a mid-market women's brand, he has said the name came about because he managed to acquire a large shipment of Indian cheesecloth shirts – via a French contact – that could be resold in the UK at a large profit. The business expanded into menswear in 1976. 
+
+In 1978, Nicole Farhi joined French Connection as a designer. In 1983, her eponymous higher-end label was launched by the French Connection parent group and this was not sold until 2010. 
+
+After Marks floated the French Connection brand on the London Stock Exchange in 1984, he was listed as the 15th richest man in Britain, but by the late 1980s the company was in trouble.  He took control of the direction of French Connection again in 1991.
+
+FCUK branding controversy
+
+French Connection began using the branding "fcuk" (usually written in lowercase, and deliberately similar to the taboo-word "fuck") in advertising  after 1991 when Marks regained control.  Reportedly, the first use of the initialism was on faxes sent between Hong Kong and London offices, headed "FCHK to FCUK".  Marks said in a subsequent interview that the faxes were not intended to be rude. The advertising campaign came about after he was so impressed by a bra advert featuring Eva Herzigová that he contacted the advertising executive behind it, Trevor Beattie, even though the company did not have a budget for an advertising campaign at the time. It was Beattie who spotted the marketing potential of the initialism and a campaign was launched around it. 
+
+Use of this term caused widespread controversy due to its similarity to "fuck".  
+
+The success of the branding in raising French Connection's profile led to similar tactics from other organisations. French Connection launched a trademark infringement case in the London High Court challenging the owner of "First Consultants UK Ltd", a computer company, over its use of the "fcuk" initialism. The case found that the Internet Domain fcuk.com was registered prior to French Connection applying for the UK Trademark and its claim for passing off was dismissed. Mr Justice Rattee refused to grant an injunction, describing French Connection's use of the initialism as "a tasteless and obnoxious campaign."   The company threatened legal action against the political youth organisation Conservative Future, which had briefly adopted the spoof abbreviation "cfuk" (short for "Conservative Future UK"). 
+
+Following a number of complaints about advertising campaigns using the initialism, the UK's Advertising Standards Authority requested that the company submit all poster campaigns for approval before running them. In the United States, the American Family Association urged a boycott of fcuk products.  French Connection stopped using the initialism in advertising in 2005, and reduced its profile in its shops.  However it is still used on certain menswear products and in-store branding.  Despite this lowering of the profile, French Connection remains known as "fcuk", particularly by the UK press.  In 2016 it was reported that French Connection was to bring back its FCUK slogan campaign. 
+
+Brand position
+
+While the revival of the UK brand's fortunes in the 1990s has been attributed to the success of the FCUK logo, it has had mixed financial fortunes during the 2000s, reflected in its poor share prices in the UK.  After reportedly losing market share to rivals such as Zara, Topshop and ASOS – with some analysts suggesting its pricing was out of step with other competitor brands – its position improved in 2014.  the French Connection brand had 131 stores in the UK and Europe. 
+
+Worldwide operation
+
+French Connection distributes its branded womenswear and menswear through a network of owned stores, through franchised stores in major markets around the world, through concessions in department stores in the UK and also through other multi-brand retailers. French Connection also has a variety of licensed products,including eyeglasses, sunglasses, toiletries, shoes, jewellery and watches, which are sold through its own stores and specialist retailers, such as Boots and Specsavers. 
+
+Other brands in group
+
+French Connection represents the majority of French Connection Group's revenue (some 88 per cent in 2014), however it owns a number of other clothing/homewear brands, including YMC, Great Plains and TOAST.  Toast now has eleven UK stores. 
+
+Perfumes
+
+French Connection has produced perfumes as an extension to the main clothing brand. This is a partial list 
+* Eau de Fcuk No. 1, No. 2, No. 3 – men's range introduced 2000 and women's perfumes in 2001.
+* Fcuk Her and Fcuk Him (2003) – Original women's perfume by Zirh/Shiseido and men's perfume by James Krivda.
+* Fcuk Connect Her and Fcuk Connect Him (2007) – Men's and women's ranges with base notes including musk. 
+* Fcuk Friction Her and Friction Him (2012) – Women's perfume includes notes of coconut and vanilla, men's includes citrus.
+Question:
+In the fashion label FCUK, for what does the FC stand?
+Answer:
+French Connection
+Passage:
+Frangipane
+Frangipane is a filling made from or flavored with almonds. Frangipane/frangipani is derived from frangere il pane (Italian for "that breaks the bread"). This filling can be used in a variety of ways  including cakes and such pastries as the Bakewell tart, Conversation tart, Jesuite and Pithivier. A French spelling from a 1674 cookbook is franchipane with the earliest modern spelling coming from a 1732 confectioners' dictionary. Originally designated as a custard tart flavored by almonds or pistachios it came later to designate a filling that could be used in a variety of confections and baked goods. Frangipane is one of France's many traditional foods associated with Christmas celebration. 
+
+Today it is normally made of butter, sugar, eggs, and ground almonds.
+
+In some anecdotes it was the kind of sweet that the noblewoman Jacopa da Settesoli brought to St. Francis of Assisi in 1226, when he was dying.
+
+On Epiphany, the French cut the King Cake, a round cake made of frangipane layers into slices to be distributed by a child known as le petit roi (the little king) who is usually hiding under the dining table.  The cake is decorated with stars, a crown, flowers and a special bean hidden inside the cake.  Whoever gets the piece of the frangipane cake with the bean is crowned “king” or “queen” for the following year.
+
+Etymology
+
+Frangipane/frangipani derived from frangere il pane from which the noble Frangipani family of Rome derived its name in the 11th century. A certain Frangipane was perfumier to Louis XIII of France, hence the common name of the flowering tropical trees that are actually in the genus Plumeria. Other people believe it's derived from St. Francis; pane is Italian for bread and Frangi would have been the cognomen of St. Francis.
+
+Other uses
+
+Frangipane can also refer to:
+* A Belgian almond pastry tart.
+*: Usually the individual cakes have a striped pattern on top,  occasionally with icing (resembling a hot cross bun from above).
+* The frangipane (frangipani, Plumeria) tree as in John Vanderslice's song Kookaburra
+Question:
+What traditionally provides the flavour/flavor in a frangipane cake filling?
+Answer:
+Almond tree
+Passage:
+Million Dollar Mermaid
+Million Dollar Mermaid (also known as The One Piece Bathing Suit in the UK) is a 1952 Metro-Goldwyn-Mayer biographical musical film of the life of Australian swimming star Annette Kellerman. It was directed by Mervyn LeRoy and produced by Arthur Hornblow Jr. from a screenplay by Everett Freeman. The music score was by Adolph Deutsch, the cinematography by George J. Folsey and the choreography by Busby Berkeley. 
+
+George J. Folsey received a 1953 Oscar nomination for  Best Cinematography, Color. 
+
+The film stars Esther Williams, Victor Mature, and Walter Pidgeon, with David Brian and Donna Corcoran.
+
+Plot
+
+In the late 19th Century, a polio-stricken Australian girl, Annette Kellerman (Esther Williams), swims as a means to improve her health. Her father, Frederick (Walter Pidgeon), who owns a music conservatory, accepts a teaching position in England.
+
+Aboard ship, Annette encounters the American promoter James Sullivan (Victor Mature) and his associate Doc Cronnol (Jesse White), who are taking a boxing kangaroo called Sydney with them to London.
+
+The teaching position falls through and Jimmy suggests promoting Annette in a six-mile swim to Greenwich. She volunteers to make it 26 miles instead. Word spreads of the swim and Annette's feat makes news.
+
+Jimmy suggests they can make a fortune by going to New York and appearing in a water ballet at the Hippodrome.   Manager Alfred Harper (David Brian) does not offer them a job in the show, so Annette goes to Boston for a highly publicized swim and gets in hot water for wearing a one-piece suit too revealing for its time.
+
+She and Jimmy have a misunderstanding and part ways. Harper has a change of heart and makes Annette headliner of his New York show. After the death of her father, she travels to Montauk at the behest of Doc to try to dissuade Jimmy from flying in an air race with a $50,000 prize. It does not go well.
+
+As time passes, Harper falls in love with Annette while she travels to Hollywood to make a film. Jimmy and Doc turn up, this time promoting a dog called Rin Tin Tin that they hope to star in the movies.
+
+A water tank bursts during the making of Annette's film, causing her serious injury, Spinal Hematoma. With her future in doubt, Harper steps aside when he sees for himself how much Annette and Jimmy are in love.
+
+Cast 
+
+* Esther Williams as Annette Kellerman 
+* Victor Mature as James Sullivan 
+* Walter Pidgeon as Frederick Kellerman 
+* David Brian as Alfred Harper 
+* Donna Corcoran as Annette Kellerman at age 10 
+* Jesse White as Doc Cronnol 
+* Maria Tallchief as Pavlova 
+* Howard Freeman as Aldrich, Lecture Bureau 
+* Charles Watts as Policeman on Revere Beach 
+* Wilton Graff as Garvey the Producer 
+* Frank Ferguson as Boston Prosecutor 
+* James Bell as Boston Judge 
+* James Flavin as Train conductor 
+* Willis Bouchey as Movie director
+
+Production
+
+MGM signed a deal with Kellerman to make a film based on her life in 1951. It was originally called The One Piece Suit. 
+
+Kellerman thought Williams was "too beautiful" to play her and thought Victor Mature's depiction of Jimmy Sullivan was "the antithesis" of the character in real life ("he never did anything cheap"). 
+
+The title
+
+Million Dollar Mermaid not only became Esther Williams' nickname around Hollywood, but it became the title of her autobiography (New York: Simon and Schuster, 1999), co-written with Digby Diehl. Williams has often called this her favorite film. 
+
+Release
+
+According to MGM records the film earned $2,851,000 in the US and Canada and $2,096,000 elsewhere resulting in a profit of $243,000.
+
+Home media
+
+On October 6, 2009, Turner Entertainment released Million Dollar Mermaid on DVD as part of the Esther Williams Spotlight Collection, Volume 2. The 6 disc set was a follow up to the company's Esther Williams Spotlight Collection, Volume 1, and contains digitally remastered versions of several of Williams's films including Thrill of a Romance (1945), Fiesta (1947), This Time for Keeps (1947), Pagan Love Song (1950) and Easy to Love (1953). 
+
+Popular culture
+
+The movie and its star are referenced in Hail Caesar.
+Question:
+Which film star was known as the million dollar mermaid
+Answer:
+Esther Williams
+Passage:
+National Trails
+National Trails are long distance footpaths and bridleways in England and Wales. They are administered by Natural England, a statutory agency of the UK government, and Natural Resources Wales (successor body to the Countryside Council for Wales), a Welsh Government-sponsored body.
+
+National Trails are marked with an acorn symbol along the route.
+
+In Scotland, the equivalent trails are called Long Distance Routes and are administered by Scottish Natural Heritage.
+
+List of National Trails
+
+* Cleveland Way in England
+* Cotswold Way in England
+* England Coast Path around England (planned to be completed by 2020)
+* Glyndŵr's Way in Wales
+* Hadrian's Wall Path in England
+* North Downs Way in England
+* Offa's Dyke Path in Wales and England
+* Peddar's Way and Norfolk Coast Path in England (treated as a single National Trail)
+* Pembrokeshire Coast Path in Wales
+* Pennine Bridleway in England (bridleway)
+* Pennine Way mainly in England with a short distance in Scotland
+* The Ridgeway in England (mostly bridleway/restricted byway/byway)
+* South Downs Way in England (bridleway)
+* South West Coast Path (South West Way) in England—the UK's longest
+* Thames Path in England
+* Yorkshire Wolds Way in England
+Together these are over 4000 km long.
+Question:
+What symbol is used to denote a National Trail on footpath signs?
+Answer:
+Acorn (disambiguation)
+Passage:
+Cumberland sauce
+Cumberland sauce is a fruit sauce, usually used on non-white meats, such as venison, ham, and lamb. Coming out of the long-standing medieval tradition of piquant spicy fruit sauces rendered sharply sour with verjuice or vinegar and served with meat, but created sometime in the 19th century,  the sauce appears in various editions of Mrs Beeton's Book of Household Management. It was named for the Duke of Cumberland, who had ties to Hanover, Germany, where the sauce was invented, according to Alexis Soyer's recipe in The Gastronomic Regenerator  (1846) for a port-wine based sauce accompanying boar’s head, which Janet Clarkson notes "contains what we think of as the required citrus note in the form of Seville orange rind (along with mustard)." 
+It is a more complex version of a simple redcurrant sauce
+
+Despite its German origin, today the sauce is ubiquitous in the Cumbria region of England and is thought of as a thoroughly British condiment.
+
+Although variations exist, common ingredients include red currants or cowberries, port or claret, dry mustard, pepper, orange, ginger, red currant jelly and vinegar.
+Question:
+What is the key ingredient of 'Cumberland Sauce'?
+Answer:
+REDCURRANTS

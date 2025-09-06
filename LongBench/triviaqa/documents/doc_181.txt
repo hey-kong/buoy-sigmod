@@ -1,0 +1,623 @@
+Passage:
+Hans-Gunnar Liljenwall
+Hans-Gunnar Liljenwall (born 9 July 1941) is a Swedish modern pentathlete  who caused the disqualification of the Swedish team at the 1968 Summer Olympics for alcohol use. Liljenwall was the first athlete to be disqualified at the Olympics for drug use, following the introduction of anti-doping regulations by the International Olympic Committee in 1967.   Liljenwall reportedly had "two beers" to calm his nerves before the pistol shooting event.  The Swedish team eventually had to return their bronze medals. 
+
+Liljenwall also participated in the 1964 and 1972 Olympics. In 1964 he finished 11th individually and fourth with the team, and in 1972 he placed 25th and fifth, respectively.
+Question:
+What was the cause of the disqualification of Swedish pentathlete Hans-Gunnar Liljenwall at Mexico City in 1968, the first as a result of failing a doping test at an Olympic Games?
+Answer:
+Brewing industry
+Passage:
+Edge (geometry)
+For edge in graph theory, see Edge (graph theory)
+In geometry, an edge is a particular type of line segment joining two vertices in a polygon, polyhedron, or higher-dimensional polytope.  In a polygon, an edge is a line segment on the boundary,  and is often called a side. In a polyhedron or more generally a polytope, an edge is a line segment where two faces meet.  A segment joining two vertices while passing through the interior or exterior is not an edge but instead is called a diagonal.
+
+Relation to edges in graphs
+
+In graph theory, an edge is an abstract object connecting two graph vertices, unlike polygon and polyhedron edges which have a concrete geometric representation as a line segment.
+However, any polyhedron can be represented by its skeleton or edge-skeleton, a graph whose vertices are the geometric vertices of the polyhedron and whose edges correspond to the geometric edges.  Conversely, the graphs that are skeletons of three-dimensional polyhedra can be characterized by Steinitz's theorem as being exactly the 3-vertex-connected planar graphs. 
+
+Number of edges in a polyhedron
+
+Any convex polyhedron's surface has Euler characteristic
+
+V - E + F = 2,
+
+where V is the number of vertices, E is the number of edges, and F is the number of faces. This equation is known as Euler's polyhedron formula. Thus the number of edges is 2 less than the sum of the numbers of vertices and faces. For example, a cube has 8 vertices and 6 faces, and hence 12 edges.
+
+Incidences with other faces
+
+In a polygon, two edges meet at each vertex; more generally, by Balinski's theorem, at least d edges meet at every vertex of a d-dimensional convex polytope. 
+Similarly, in a polyhedron, exactly two two-dimensional faces meet at every edge,  while in higher dimensional polytopes three or more two-dimensional faces meet at every edge.
+
+Alternative terminology
+
+In the theory of high-dimensional convex polytopes, a facet or side of a d-dimensional polytope is one of its (d − 1)-dimensional features, a ridge is a (d − 2)-dimensional feature, and a peak is a (d − 3)-dimensional feature. Thus, the edges of a polygon are its facets, the edges of a 3-dimensional convex polyhedron are its ridges, and the edges of a 4-dimensional polytope are its peaks..
+Question:
+How many sides has a dodecagon?
+Answer:
+twelve
+Passage:
+Kinross services
+Kinross services is a motorway service station near Kinross, Scotland. The service station is located next to the M90 motorway and is accessed using motorway junction 6 in both the northbound and southbound directions. It is owned by Moto.
+
+It is the most northerly motorway service station in the United Kingdom.
+
+History
+
+The services opened in 1982.
+
+In 2011 it was announced that Moto planned to demolish and rebuild the services, with new access via a roundabout. 
+
+Facilities
+
+The following facilities can be found at Kinross:  
+
+Hotels
+
+*Travelodge
+
+Restaurants
+
+*Costa Coffee
+*Burger King
+*The Eat and Drink Co.
+
+Fuel
+
+*BP
+*Ecotricity
+
+Shops
+
+*WHSmith
+*M&S Simply Food
+
+Other
+
+*Toilets
+*Kids Play Area
+*Payphones
+*Cash Machine
+Question:
+On which motorway could you visit Kinross Services
+Answer:
+M90
+Passage:
+Wolverine (train)
+The Wolverine is a higher-speed passenger train service operated by Amtrak as part of its Michigan Services. The 304 mi line provides three daily round-trips along the Pontiac–Detroit–Chicago route. It carries a heritage train name descended from the New York Central (Michigan Central).
+
+During fiscal year 2015, the Wolverine carried 465,627 passengers, a 0.3% decrease from FY 2014's total of 477,157 passengers.   The service had a total ticket revenue of US$18.96 million in FY 2015, an 0.3% increase from FY 2014's $18.90 million total revenue.
+
+History
+
+Prior to Amtrak's takeover of most private-sector passenger service in 1971 the Wolverine was one of three trains which operated over the Michigan Central route between Chicago and Detroit. Under Penn Central operation it continued through South-Western Ontario (Canada) to Buffalo, New York. Amtrak retained two trains (the other was the renamed St. Clair) and truncated the operation to Detroit but otherwise changed little. In April 1975, Amtrak introduced French-built Turboliner equipment to the Michigan route and added a third round-trip. A pool of three Turboliner trainsets served the route, and the three round-trip pairs were numbered 350—355, train numbers which are still in use today. Amtrak dropped the individual train names and rebranded all three Turboliner, in common with similar services to St. Louis, Missouri and Milwaukee, Wisconsin. The new equipment led to massive gains in ridership, topping 340,000 in 1975 and 370,000 in 1976.
+
+The Turboliners became a victim of their own success. Although fast (and flashy), they were unable to reach their design speed of 125 mph because of the poor quality of the Penn Central track in Michigan. The five-car fixed consists had a maximum capacity of 292 passengers, which was often not enough. Starting in March 1976 Amtrak began replacing some of the Turboliners with conventional equipment, including new Amfleet coaches. Individual names returned to the corridor, with the heretofore unnamed third train becoming the Twilight Limited. The last Turboliners left the corridor in 1981.
+
+Amtrak extended the Wolverine and Twilight Limited to Pontiac on May 5, 1994. With this change service began at a new station in Detroit's New Center. Although the Michigan Central Station in Corktown, Detroit had closed on January 6, 1988, trains continued to stop at a temporary platform just east of the old station. Besides Pontiac, new stations were opened at Royal Oak and Troy. The Lake Cities also began serving Pontiac after the end of Toledo service in 1995. 
+
+Amtrak dropped individual names again in 2004 and named all three trains Wolverine.
+
+Due to the increased ridership on these trains, Amtrak executive Morell Savoy, the Central Division Superintendent, spearheaded a test run of Chicago-Kalamazoo Wolverines from September 2, 2010, to September 7, 2010. This was done to determine all that would be involved in operations should Amtrak decide to initiate such service in the future. 
+
+Higher-speed operation 
+
+The federal government considers high-speed rail service to be rail service which at any time reaches the speed of 110 mph or higher.  In 2006 the Detroit–Chicago corridor was designated by the Federal Railroad Administration as a high-speed rail corridor  and in October 2010, the State of Michigan received US$150 million from the federal government to increase track speeds to 110 mph between Kalamazoo and Dearborn. 
+
+Amtrak owns the 97 mi stretch of the Wolverine's route from Porter, Indiana to Kalamazoo, Michigan and it is the longest segment of track owned by Amtrak outside of the Northeast Corridor. Starting in January 2002 Amtrak began track improvements to increase the allowed speed along this section of track. Amtrak trains currently travel at top speeds of 110 mph along this section of track. 
+
+In December 2012, MDOT completed its purchase from Norfolk Southern of 135 mi of track between Kalamazoo and Dearborn.  This will make it easier to maintain track and eventually upgrade it to 110 mph running by late 2017. As part of the purchase agreement, MDOT also agreed to double-track the line east of Ypsilanti.[http://www.michigan.gov/mdot/0%2c4616%2c7-151-9620_11057-263585--%2c00.html MDOT - MDOT seeks to improve both passenger and freight rail lines with purchase of Norfolk Southern Railway track]
+
+Route details
+
+The Wolverine operates over Norfolk Southern Railway, Amtrak, and Canadian National Railway trackage:
+*NS Chicago Line, Chicago to Porter
+*Amtrak Chicago–Detroit Line, Porter to Kalamazoo
+*MDOT (d/b/a Amtrak) Michigan Line, Kalamazoo to Dearborn
+*CN South Bend Sub from CP Gord to CP Baron (about .8 miles) in Battle Creek, MI
+*Amtrak Chicago–Detroit Line, Dearborn to West Detroit
+*CR North Yard Branch, West Detroit to Vinewood
+*CN Shore Line Subdivision and Holly Subdivision, Vinewood to Pontiac
+
+Station stops 
+
+Equipment
+
+, each Wolverine operates with two General Electric Genesis P42DC locomotives, 3-5 Horizon coaches, and an Amfleet cafe/business class car. In the winter, Superliners are sometimes used. The equipment pool for the Wolverines comprises 14 Horizon coaches and 3.5 Amfleet cafe/business class cars (one is shared with the Blue Water), split across three consists. The locomotives usually operate in a push-pull configuration, however sometimes both will be at the head end.  Due to the FRA requirement of positive train control for operations above 79 MPH, locomotives on the Wolverine are required to have Positive Train Control, supplied by Amtrak's Incremental Train Control System. Because of this modification the units are usually captive to the Michigan services.
+
+Between 2016-2018 Michigan expects to take delivery of new bilevel cars which will displace the Horizons and Amfleets in regular service. In addition, in early 2014 the Michigan Department of Transportation issued a request for proposal aimed at acquiring additional passenger equipment for use between 2014-2017.  
+
+In September 2014, the state of Michigan reached an agreement with Talgo, a Spanish railcar manufacturer, to buy two trainsets for the Wolverine, at a cost of $58 million.  The trains had been previously built for the state of Wisconsin, before plans for expanded passenger rail service in that state were canceled and the trainsets placed in storage.  The new equipment will provide a substantial upgrade in passenger amenities over the Amtrak-owned railcars used on the route.
+Question:
+Which of the United States is known as the Wolverine State'?
+Answer:
+Demographics of Michigan
+Passage:
+The History of Black Friday
+The History of Black Friday
+Get Black Friday 2017 Deal Alerts!
+Get Deals
+×
+Check Your Email Now. Verify Your Email to receive Today's Best Deals! Check your other inbox just in case! :)
+You have been unsubscribed from future email notifications.
+Black Friday History
+For millions of people Black Friday is the time to do some serious Christmas shopping --even before the last of the Thanksgiving leftovers are gone! Black Friday is the Friday after Thanksgiving, and it's one of the major shopping days of the year in the United States -falling anywhere between November 23 and 29. While it's not recognized as an official US holiday, many employees have the day off -except those working in retail.
+The term “Black Friday” was coined in the 1960s to mark the kickoff to the Christmas shopping season. “Black” refers to stores moving from the “red” to the “black,” back when accounting records were kept by hand, and red ink indicated a loss, and black a profit. Ever since the start of the modern Macy's Thanksgiving Day Parade in 1924, the Friday after Thanksgiving has been known as the unofficial start to a bustling holiday shopping season.
+In the 1960's, police in Philadelphia griped about the congested streets, clogged with motorists and pedestrians, calling it “Black Friday.” In a non-retail sense, it also describes a financial crisis of 1869: a stock market catastrophe set off by gold spectators who tried and failed to corner the gold market, causing the market to collapse and stocks to plummet.
+Why did it become so popular?
+As retailers began to realize they could draw big crowds by discounting prices, Black Friday became the day to shop, even better than those last minute Christmas sales. Some retailers put their items up for sale on the morning of Thanksgiving, or email online specials to consumers days or weeks before the actual event. The most shopped for items are electronics and popular toys, as these may be the most drastically discounted. However, prices are slashed on everything from home furnishings to apparel.
+Black Friday is a long day, with many retailers opening up at 5 am or even earlier to hordes of people waiting anxiously outside the windows. There are numerous doorbuster deals and loss leaders – prices so low the store may not make a profit - to entice shoppers. Most large retailers post their Black Friday ad scans, coupons and offers online beforehand to give consumers time to find out about sales and plan their purchases. Other companies take a different approach, waiting until the last possible moment to release their Black Friday ads , hoping to create a buzz and keep customers eagerly checking back for an announcement.
+More and more, consumers are choosing to shop online, not wanting to wait outside in the early morning chill with a crush of other shoppers or battle over the last most-wanted item. Often, many people show up for a small number of limited-time "door-buster" deals, such as large flat-screen televisions or laptops for a few hundred dollars. Since these coveted items sell out quickly, quite a few shoppers leave the store empty handed. The benefit of online shopping is that you will know right away if the MP3 player you want is out of stock, and can easily find another one without having to travel from store to store. Also, many online retailers have pre-Black Friday or special Thanksgiving sales, so you may not even have to wait until the big day to save. So, there you have it - the Black Friday history behind the best shopping day of the year!
+Question:
+"The ""boob tube"" is an item of clothing in the UK; but to what did the term refer when it was originally coined in the USA?"
+Answer:
+Babble box
+Passage:
+Roy Thinnes
+Roy Thinnes (born April 6, 1938) is an American television and film actor best known for his portrayal of lonely hero David Vincent in the ABC 1967-68 television series The Invaders. He also played Alfred Wentworth in the pilot episode of Law & Order. He starred in the 1969 British science fiction film, Journey to the Far Side of the Sun (also known as Doppelgänger).
+
+Early life and career
+
+Thinnes was born in Chicago and educated at Los Angeles City College. His first primetime role was as a brother to ex-cop Lee Marvin in a 1964 episode of The Untouchables, called "A Fist of Five". Later he appeared as Ben Quick in the short-lived 1965-66 television series The Long Hot Summer, which ran on ABC. During its run he received around 1,500 letters a week from women and appeared on the cover of TV Guide (April 9–15, 1966 issue) for his one and only time to date. The TV series The Invaders soon followed, with Thinnes playing an architect named David Vincent who accidentally witnesses the arrival of aliens from another planet and wages a seemingly hopeless one-man campaign against them. The series became a cult classic, leading to other 'aliens vs earthlings' films and TV shows. Another short-lived series in which Thinnes starred was in the lead role on The Psychiatrist as Dr. James Whitman. In 1963, Thinnes guest starred as David Dunlear in the episode "Something Crazy's Going On in the Back Room" of The Eleventh Hour. In 1964, he appeared twice in episodes "Murder by Scandal" and the "Lost Lady Blues" of the 13-episode CBS drama The Reporter starring Harry Guardino as journalist Danny Taylor of the fictitious New York Globe newspaper.  Thinnes also appeared as a guest star on Twelve O'Clock High, becoming a casualty of war while commanding a B-17 on a dangerous mission. He appeared as intrepid writer and investigator of the supernatural David Norliss in 1973's The Norliss Tapes, a pilot for an unproduced TV series, and played a suspicious schoolmaster in the TV movie Satan's School for Girls with Kate Jackson. He also appeared in the disaster films Airport 1975 as the co-pilot, and The Hindenburg as a sadistic SS captain. Thinnes was cast in Alfred Hitchcock's 1976 film Family Plot in the role of nefarious jeweler Arthur Adamson when Hitchcock's first choice, William Devane, was unavailable. Thinnes had already shot several scenes for the film when Devane suddenly became available. Hitchcock fired Thinnes and re-shot all of his scenes. Thinnes confronted Hitchcock in a restaurant and asked the director why he was fired. Flabbergasted, Hitchcock simply looked at Thinnes until the actor left. Some shots of Thinnes as the character (from behind) remain in the film.  
+
+During the 1982-1983 season, Thinnes appeared as Nick Hogan in 35 episodes of Falcon Crest starring Jane Wyman. Thinnes thereafter played Roger Collins in the 1991 revival of TV's Dark Shadows. He also appeared on General Hospital as Phil Brewer from 1963 to 1965, in the 1979 miniseries From Here to Eternity as the husband of Natalie Wood, on One Life to Live as Alex Crown from 1984 to 1985, and as Sloan Carpenter from 1992 to 1995. He also played a lead role in "The Final Chapter," the first episode of the 1977 series Quinn Martin's Tales of the Unexpected (known in the United Kingdom as Twist in the Tale), and in "The Crystal Scarab", a first-season episode of Poltergeist: The Legacy in 1996. Thinnes was once considered by Paramount for the part of Captain Jean-Luc Picard in Star Trek: The Next Generation. He also appeared in the 1988 pilot episode of Law & Order, "Everybody's Favorite Bagman", as District Attorney  Alfred Wentworth. By the time the show was picked up in 1990, however, Thinnes was contractually obligated to another TV series, and so his character was replaced with D.A. Adam Schiff, played by Steven Hill. Thinnes made two appearances in The X-Files as Jeremiah Smith, an alien rebel with healing and shape-shifting abilities. 
+
+Thinnes also appeared in the 1995 TV mini-series The Invaders starring Scott Bakula, in which he returned as a much older David Vincent. Thinnes twice appeared on the ABC soap opera One Life to Live playing two different characters.  From 1984-1985, he played the role of "Alex Crown" and from 1992–1995, he played the role of "Gen. Sloan Carpenter". During both of his stints on the show, his characters became a father-in-law to the same character, Cassie Callison. In 2005, Thinnes co-starred as Dr. Theophile Peyron in the movie The Eyes Of Van Gogh. The film concerns Vincent van Gogh (played by Alexander Barnett, who also wrote and directed) and his voluntary stay in an insane asylum. The movie focuses on Van Gogh's relationships with Dr. Peyron, as well as fellow Expressionist Paul Gauguin, and his brother, Theo. Thinnes recently provided audio commentary for the official DVD releases of The Invaders. 
+
+Personal life
+
+Thinnes was married to actress Lynn Loring from 1967 to 1984. In 1969, Loring gave birth to their son, Christopher Dylan Thinnes.,  and a daughter, Casey Thinnes, (born 1974). In 2005, Thinnes married film editor Stephanie Batailler. 
+
+Filmography
+
+*The Invaders (Television) January 10, 1967 to March 26, 1968
+*Doppelgänger (1969)
+*Black Noon (1971)
+*Death Race (1973)
+*The Horror at 37,000 Feet (1973)
+*The Norliss Tapes (1973)
+*Charley One-Eye (1973)
+*Satan's School for Girls (1973)
+*Airport 1975 (1974)
+*The Hindenburg (1975)
+*Code Name: Diamond Head (1977)
+*Terminal (1996)
+*Broken English (2007)
+Question:
+What was Roy Thinnes' character name in 'The Invaders'?
+Answer:
+Evil D
+Passage:
+Carolyn Davidson
+Carolyn Davidson is a graphic designer best known for designing the Nike "swoosh" logo. The Nike "swoosh" was named the Number 1 most iconic logo of all time in Complex (magazine)'s 50 Most Iconic Brand Logos of All Time.   
+
+Davidson designed the swoosh in 1971 while a graphic design student at Portland State University in Portland, Oregon. She started as a journalism major, but switched to design after taking a design course to "fill an empty elective."  Phil Knight, who was teaching an accounting class at the university, overheard Davidson say that she couldn't afford oil painting supplies, and asked her to do some work for what was then Blue Ribbon Sports, Inc. Knight asked Davidson to design a shoe stripe logo that "had something to do with movement." She gave him five different designs, one of which was the "swoosh."  Needing to choose a logo in order to meet looming production deadlines, Knight settled on the swoosh, after rejecting four other designs by Davidson. At the time, he stated of the logo, "I don't love it, but it will grow on me."  For her services, the company paid her $35, which, if adjusted for inflation for 2015, would be the value equivalent of about $205.  Davidson continued working for Blue Ribbon Sports (it officially became Nike, Inc. in 1971), until the design demands of the growing company were beyond one person's capacity. In 1976, the company hired its first external advertising agency, John Brown and Partners, and Davidson went on to work on other clients' needs.
+
+In September 1983, nearly three years after the company went public, Knight invited Davidson to a company lunch. There, he presented her with a diamond ring engraved with the Swoosh, and an envelope filled with 500 shares of Nike stock (which have since split into more shares).   Of the gift, Davidson says, "this was something rather special for Phil to do, because I originally billed him and he paid that invoice." Davidson went on to be known as "The Logo Lady." In 1995, Nike removed the word "Nike" from the logo. The "swoosh" stands alone as the brand's logo.
+Question:
+In 1964, what did University of Oregon grad. student Carolyn Davidson design for $35?
+Answer:
+Swoosh logo
+Passage:
+Freestyle skiing
+Freestyle skiing is a  skiing discipline created by skigod Steve Stepp comprising aerials, moguls, cross, half-pipe and slopestyle as part of the winter olympics. It can consist of a skier performing aerial flips and spins, and can include skiers sliding rails and boxes on their skis. It is also commonly referred to as freeskiing, jibbing, as well as many other names around the world.
+
+History 
+
+Aerial skiing was developed in about 1950 by Olympic gold medalist Stein Eriksen. The International Ski Federation (FIS) recognized freestyle as a sport in 1979 and brought in new regulations regarding certification of athletes and jump techniques in an effort to curb the dangerous elements of the competitions. The first FIS Freestyle Skiing World Cup was staged in 1980 and the first FIS Freestyle World Ski Championships took place in 1986 in Tignes, France.  Freestyle skiing was a demonstration event at the 1988 Winter Olympics in Calgary. Mogul skiing was added as an official medal event at the 1992 Winter Olympics in Albertville, and the aerials event was added for the 1994 Winter Olympics in Lillehammer. Stein Eriksen was a silver medalist in slalom.
+
+Forms of freestyle skiing 
+
+Aerial skiing (no style) 
+
+Aerialists ski off 2-4 meter jumps, that propel them up to 6 meters in the air (which can be up to 20 meters above the landing height, given the landing slope).  Once in the air, aerialists perform multiple flips and twists before landing on a 34 to 39-degree inclined landing hill about 30 meters in length.  The top male aerialists can currently perform triple back flips with up to four or five twists.
+
+Aerial skiing is a judged sport, and competitors receive a score based on jump takeoff (20%), jump form (50%) and landing (30%). A degree of difficulty (DD) is then factored in for a total score. Skiers are judged on a cumulative score of two jumps. These scores do not generally carry over to the next round.
+
+Aerialists train for their jumping maneuvers during the summer months by skiing on specially constructed water ramps and landing in a large swimming pool. An example of this is the Utah Olympic Park training facility. A water ramp consists of a wooden ramp covered with a special plastic mat that when lubricated with sprinklers allows an athlete to ski down the ramp towards a jump.  The skier then skis off the wooden jump and lands safely in a large swimming pool.  A burst of air is sent up from the bottom of the pool just before landing to break up the surface tension of the water, thus softening the impact of the landing.  Skiers sometimes reinforce the skis that they use for water-ramping with 6mm of fiberglass or cut holes in the front and back in order to soften the impact when landing properly on their skis.
+
+Summer training also includes training on trampolines, diving boards, and other acrobatic or gymnastic training apparatus.
+
+Mogul skiing 
+
+Moguls are a series of bumps on a trail formed when skiers push the snow into mounds or piles as they execute short-radius turns.
+
+Ski ballet 
+
+Ski ballet (later renamed acroski) was a competitive discipline until the International Ski Federation ceased all formal competition of this event after 2000.
+
+Ski cross 
+
+Ski cross is based on the snowboarding boardercross. Despite it being a timed racing event, it is often considered part of freestyle skiing because it incorporates terrain features traditionally found in freestyle.
+
+Half-pipe skiing 
+
+Half-pipe skiing takes the well-known halfpipe to the next level. Competitors gradually ski to the end of the pipe by doing flips and tricks.
+
+Slopestyle 
+
+Equipment 
+
+Twin-tip skis are used in events such as slopestyle and halfpipe. Mogul skis are used in moguls and sometimes in aerials. Specially designed racing skis are used in ski cross. Ski bindings took a major design change to include plate bindings mounted to the bottom of the skiers boot to allow for multi-directional release.
+Question:
+When did freestyle skiing first became a sport contested at the World Olympics?
+Answer:
+1992
+Passage:
+Guatemalan quetzal
+The quetzal (; code: GTQ) is the currency of Guatemala, named after the national bird of Guatemala, the resplendent quetzal.
+
+In ancient Mayan culture, the quetzal bird's tail feathers were used as currency. It is divided into 100 centavos or lenes in Guatemalan slang. The plural is quetzales.
+
+Exchange rate 
+
+History
+
+The quetzal was introduced in 1925 during the term of President José María Orellana, whose image appears on the obverseof the one-quetzal bill. It replaced the peso. Until 1987, the quetzal was pegged to and domestically equal to the United States dollar and before the pegging to the US dollar, it was pegged to the French franc as well, since the quetzal utilized the gold standard.
+
+Coins
+
+In 1925, coins in denominations of 1, 5, 10 centavos, ¼, ½ and 1 quetzal were introduced, although the majority of the 1 quetzal coins were withdrawn from circulation and melted. ½ and 2 centavos coins were added in 1932. Until 1965, coins of 5 centavos and above were minted in 72% silver. ½ and 1 quetzal coins were reintroduced in 1998 and 1999, respectively. Coins currently in circulation are:
+*1 centavo
+*5 centavos
+*10 centavos
+*25 centavos
+*50 centavos
+*1 quetzal
+
+Banknotes
+
+The first banknotes were issued by the Central Bank of Guatemala in denominations of 1, 2, 5, 10, 20 and 100 quetzales, with ½ quetzal notes added in 1933. In 1946, the Bank of Guatemala took over the issuance of paper money, with its first issues being overprints on notes of the Central Bank.  Except for the introduction of 50 quetzales notes in 1967, the denominations of banknotes were unchanged until ½ and 1 quetzal coins replaced notes at the end of the 1990s.
+
+In the top-right corner of the obverse face of each banknote, the value is displayed in Mayan numerals, representing Guatemala's cultural history.
+
+The Bank of Guatemala has introduced a polymer banknote of 1 quetzal on August 20, 2007. The Bank of Guatemala has also introduced a 5 quetzal polymer banknote on November 14, 2011.
+Question:
+The quetzal is the basic monetary unit of which country?
+Answer:
+República de Guatemala
+Passage:
+Shakespeare becomes first commoner on GB stamps - Britain
+Shakespeare becomes first commoner on GB stamps - Britain
+By continuing to use this site, you agree to our use of cookies. Find out more
+Britain     
+Shakespeare becomes first commoner on GB stamps
+By James Mackay
+The Shakespeare Festival set of 1964 broke new ground with its portrait of a commoner, and with its presentation pack, postmarks and aerogrammes
+ 
+ 
+The exact date on which William Shakespeare was born in Stratford-upon-Avon is unknown, but tradition says it was on St George’s Day, April 23, 1564.
+The Post Office’s long-standing refusal to countenance stamps in honour of famous people gave it a problem in 1964 when there was agitation for a special issue of stamps to mark the 400th anniversary.
+But it found a way around its discomfort. It argued that its special issue was to celebrate an event of international importance (the annual Shakespeare Festival at Stratford), rather than the man himself.
+Nevertheless, this was a real break with previous policy, in that the four lower denominations featured the first portrait of a commoner to appear on British stamps.
+In the original version of the Droeshout portrait the poet faced left. On the stamps it was reversed so that he faced towards the centre, balancing the familiar Dorothy Wilding portrait of the Queen.
+Scene on stage
+Designed by David Gentleman and photogravure-printed by Harrison & Sons, each of the four low values also depicted a 16th-century set from one of Shakespeare’s plays.
+The 3d had Puck cavorting round Bottom from A Midsummer Night’s Dream, and the 6d showed Feste, the clown in Twelfth Night. The 1s 3d depicted the famous balcony scene from Romeo & Juliet, while the 1s 6d portrayed the King kneeling in prayer on the eve of Agincourt from Henry V. All the figures were reproduced from woodcuts.
+In contrast, the 2s 6d was the first commemorative since the £1 Postal Union Congress stamp of 1929 to be line-engraved.
+Designed by the brothers Robin and Christopher Ironside, and recess-printed by Bradbury Wilkinson, it showed Hamlet contemplating the skull of his father’s court jester, Yorick. This was the only stamp in the set to bear the name of the play.
+Three precedents
+Question:
+In 1964, the first commoner featured on a British postage stamp was?
+Answer:
+Shakspeare
+Passage:
+Forearm
+The forearm refers to the region of the upper limb between the elbow and the wrist.  The term forearm is used in anatomy to distinguish it from the arm, a word which is most often used to describe the entire appendage of the upper limb, but which in anatomy, technically, means only the region of the upper arm, whereas the lower "arm" is called the forearm. It is homologous to the region of the leg that lies between the knee and the ankle joints, the crus.
+
+The forearm contains two long bones, the radius and the ulna, forming the radioulnar joint. The interosseous membrane connects these bones. Ultimately, the forearm is covered by skin, the anterior surface usually being less hairy than the posterior surface.
+
+The forearm contains many muscles, including the flexors and extensors of the digits, a flexor of the elbow (brachioradialis), and pronators and supinators that turn the hand to face down or upwards, respectively. In cross-section the forearm can be divided into two fascial compartments. The posterior compartment contains the extensors of the hands, which are supplied by the radial nerve. The anterior compartment contains the flexors, and is mainly supplied by the median nerve. The ulnar nerve also runs the length of the forearm.
+
+The radial and ulnar arteries and their branches supply the blood to the forearm. These usually run on the anterior face of the radius and ulna down the whole forearm. The main superficial veins of the forearm are the cephalic, median antebrachial and the basilic vein. These veins can be used for cannularisation or venipuncture, although the cubital fossa is a preferred site for getting blood.
+
+Anatomy
+
+Bones
+
+*radius
+*ulna
+
+Joints
+
+*proximal to forearm
+**elbow
+*in the forearm
+**proximal radioulnar joint
+**distal radioulnar joint
+*distal to forearm
+**wrist
+
+Muscles
+
+* "E/I" refers to "extrinsic" or "intrinsic". The intrinsic muscles of the forearm act on the forearm, meaning, across the elbow joint and the proximal and distal radioulnar joints (resulting in pronation or supination, whereas the extrinsic muscles act upon the hand and wrist. In most cases, the extrinsic anterior muscles are flexors, while the extrinsic posterior muscles are extensors.
+* The brachioradialis, flexor of the forearm, is unusual in that it is located in the posterior compartment, but it is actually in the anterior portion of the forearm.
+* The anconeus is considered by some as a part of the posterior compartment of the arm.
+
+Nerves
+
+(See separate nerve articles for details on divisions proximal to the elbow and distal to the wrist; see Brachial plexus for the origins of the median, radial and ulnar nerves)
+*Median nerve – principle nerve of the anterior compartment (PT, FCR, PL, FDS).
+**anterior interosseous nerve (supplies FPL, lat. 1/2 of FDP, PQ).
+*Radial nerve – supplies muscles of the posterior compartment (ECRL, ECRB).
+**Superficial branch of radial nerve
+**Deep branch of radial nerve, becomes Posterior interosseus nerve and supplies muscles of the posterior compartment (ED, EDM, ECU, APL, EPB, EPL, EI).
+*Ulnar nerve - supplies some medial muscles (FCU, med. 1/2 of FDP).
+
+Vessels
+
+*Brachial artery
+**Radial artery
+***Radial recurrent artery
+***dorsal metacarpal artery
+****Princeps pollicis artery
+**Ulnar artery
+***Anterior ulnar recurrent artery and posterior ulnar recurrent artery
+***Common interosseous artery
+****Posterior interosseous artery
+****Anterior interosseous artery
+
+Other structures
+
+*Interosseous membrane of forearm
+*Annular ligament of ulna
+
+Fracture
+
+A fracture of the forearm can be classified as to whether it involves only the ulna (ulnar fracture), only the radius (radius fracture) or both (radioulnar fracture)
+
+Additional images
+Question:
+Which bone in the human forearm is slightly thicker than its pair?
+Answer:
+Radius (geometry)
+Passage:
+Tubou
+Tubou is a village on the Fijian island of Lakeba.  One of eight villages on Lakeba, it is considered the capital of the Lau Islands, being the seat of the Vuanirewa clan, a powerful chiefly family from which Fiji's longtime Prime Minister and President, Ratu Sir Kamisese Mara (1920–2004) and one of Fiji's famous cricketers I. L. Bula (1921–2002), hailed.
+
+The Tongan-Fijian warlord Enele Ma'afu, who conquered much of eastern and northern Fiji in the mid-19th century, is buried in Tubou, as are Ratu Sir Lala Sukuna (1888–1958), Fiji's first modern statesman, and Mara himself.  Many early Christian missionaries are also buried in Tubou.
+Question:
+Queen Salote Tubou ruled over which country from 1918 to 1965?
+Answer:
+ISO 3166-1:TO
+Passage:
+Gallery - Try-me
+Gallery
+(Detail)
+Nina Mae Fowler (England, b. 1981)    
+Graphite on paper, cast resin, slate, 2009. Installation comprising three life-size murals of Hollywood celebrities mourning the death of Rudolph Valentino. Positioned in the center of the installation is an underscale casket cast in black resin and resting on a white pedestal, the casket opens to reveal an effigy of the deceased Valentino. A small bas-relief tablet in cast resin and slate depicts additional mourners and hangs to the side of the mural.
+Variable dimensions.
+Silent screen star, Rudolph Valentino's 1926 funeral in New York attracted over 100,000 visitors. A second funeral took place in Los Angeles, where over 80,000 mourners paid tribute to Valentino, followed by an invitation only service held at Good Shepherd Catholic Church in Beverly Hills. Depicted among the illustrious mourners are Gloria Swanson, Mary Pickford, Douglas Fairbanks, Theda Bara, William S. Hart, Harold Lloyd, Buster Keaton, Charlie Chaplin, John Barrymore, and Pola Negri
+© 2011 Try-me
+Question:
+Whose funeral in New York in 1926 attracted 100,000 mourners?
+Answer:
+Rudolph Valentino
+Passage:
+At Your Inconvenience
+At Your Inconvenience is the second studio album by British rapper Professor Green, released on 28 October 2011. "At Your Inconvenience" was released as a promotional single on 26 July. The first official single "Read All About It" was released on 21 September 2011.  Some guests from his debut album appear on the album, including Ed Drewett, Fink and Emeli Sandé, New guests include Slaughterhouse and Bad Meets Evil member Royce da 5'9", Kobe, Luciana, Ruth Anne, Sierra Kusterbeck and Haydon. Upper Clapton Dance originally featured on Green's debut mixtape Lecture #1,
+As of 6 September 2014 the album has sold 280,000 copies in UK.
+
+Background
+
+The album's general theme is different, in that it is more emotional, to Professor Green's previous album; he had a difficult upbringing with a hard relationship with his parents. His father committed suicide in 2008 and it heavily affected him. Professor Green said of his father's suicide and upbringing that "This album helped — writing about it was my way to deal with it."  The album, thus, is generally more emotional than his previous album, Alive Till I'm Dead, which covered more humorous themes. Ed Drewett and Emeli Sandé, who had previously worked on Alive Till I'm Dead, were featured on the album.
+
+Singles
+
+* "At Your Inconvenience" was released as the album's first promotional single on 26 July 2011. It was released via promotional single and digital download, and a music video was released in support of the track. The video features Green in various alter egos, performing the song in and around a bar. The track peaked at number 97 on the UK Singles Chart.
+* "Read All About It" was released as the album's first official single on 23 October 2011. The tracks features vocals from Emeli Sandé. On 5 September 2011, BBC Radio 1Xtra presenter MistaJam debuted the single, and gave it its first radio airplay. In promotion of the single, Green and Sande performed the song live on The X Factor results show on 23 October 2011. It peaked at number one on the UK Singles Chart.
+* "Never Be a Right Time" was released as the album's second official single on 22 January 2012. The single features guest vocals from Ed Drewett. A music video was created for the track, however, Drewett does not appear in the video. The video features Green agonising over his relationship with a girl. The track peaked at number 35 on the UK Singles Chart.
+* "How Many Moons" was released as the album's second promotional single on 21 April 2012, in support of the fifth annual Record Store Day. The song is produced by Austrian duo Camo & Krooked. The remix (released as the single) features guest vocals from Dream Mclean and Rinse. A lyric video was created for the track, however, no official music video was filmed. The track was ineligible to chart, as only 1000 copies of the single were produced.
+* "Remedy" was released as the album's third official single on 3 June 2012. The single features guest vocals from Ruth-Anne Cunningham. The song was remixed for its release as a single. The track reached #18 on the UK Singles Chart. In support of the single, Green prepared and released his own brand of beer, entitled "Professor Green's Remedy".
+* "Avalon" was released as the album's fourth official single on 16 September 2012. The single features guest vocals from Sierra Kusterbeck. The song was once again remixed for its release as a single. A music video for the track was filmed during the first week of July. Kusterbeck made a guest appearance in the video.
+
+Reception
+
+In general, the album has received mixed reviews from music critics. However, RWD Magazine gave the album 4/5 stars and stated 'Introspective and reflective, this borders on emo-rap on occasions, while retaining edginess on the sonic side'. MTV UK gave the album a positive review stating 'From hip-hop, to UK garage influences, this slick LP really does have it all.' The Guardian awarded the album 3/5 stars, saying 'It's difficult to reconcile Green's more crass verses with his sentimental numbers; Astronaut's tale of innocent rape victim turned junkie sits uncomfortably next to all the phallus jokes and Eminem-style sadism of songs such as Into the Ground. It's a heavy, ambivalent confessional, but Green's precocious personality and distinctive flow manage to keep it fired up.'
+
+The Independent were less positive, saying 'Having managed to parlay an association with Lily Allen into the semblance of a career, Professor Green punches above his weight on his second album' before stating 'Green's delivery is too Estuary-Eminem, scattershot hip-hop asperity snarled out with a mockney menace that is too secondhand to be effective' and the Evening Standard said 'At his best, as on the vitriolic Read All About It, he can still sound like the English Eminem. When the acoustic guitars come out, though, he's closer to Just Jack.' The BBC were also unimpressed, with the BBC saying that Green is basically just saying "Please let me on The X Factor… I promise I won’t swear!" and that you are left "frankly, bemused and, increasingly, very, very bored". The Evening Standard summed up the album by saying "The good news is that if fame really is so tough Manderson won't have to suffer for long: another album like this and nobody will be listening." Uncut gave the album 2 out of 5 stars, summing it up as "rather tiring". Perhaps the most damning review of all though was The Daily Telegraphs 1 out of 5, claiming "his rhymes are too often lewd brags or boneheaded non sequiturs". Any Decent Music, the online review aggregator, finds the album awarded overall 4.3 out of 10.[http://www.anydecentmusic.com/review/3852/Professor-Green-At-Your-Inconvenience.aspx At Your Inconvenience by Professor Green reviews | Any Decent Music]
+
+Track listing
+
+Charts and certifications
+
+Charts
+
+Certifications
+
+Release history
+Question:
+How many moons does the planet Mars have?
+Answer:
+2
+Passage:
+Douglas Reeman
+Douglas Edward Reeman, born at Thames Ditton , is a British author who has written many historical fiction books on the Royal Navy, mainly set during either World War II or the Napoleonic Wars.
+
+Reeman joined the Royal Navy in 1940, at the age of 16, and served during World War II and the Korean War. He eventually rose to the rank of lieutenant. In addition to being an author, Reeman has also taught the art of navigation for yachting and served as a technical advisor for films. Douglas married Canadian Kimberley Jordan in 1985.
+
+Reeman's debut novel, A Prayer for the Ship was published in 1958. His pseudonym Alexander Kent was the name of a friend and naval officer who died during the Second World War.  Reeman is most famous for his series of Napoleonic naval stories, whose central character is Richard Bolitho, and, later, his nephew, Adam. He also wrote a series of novels about several generations of the Blackwood family who served in the Royal Marines from the 1850s to the 1970s, and a non-fiction account of his World War II experiences, D-Day: A Personal Reminiscence (1984).
+
+Bibliography (with publication dates)
+
+World War II novels
+
+The Blackwood Saga
+
+aka The Royal Marines Saga
+*Badge of Glory (1982) (1st in plot sequence)
+*The First to Land (1984) (2nd)
+*The Horizon (1993) (3rd)
+*Dust on the Sea (1999) (4th)
+*Knife Edge (2004) (5th)
+
+Other settings
+
+*High Water (1959)
+*Send a Gunboat (1960)
+*The Hostile Shore (1962)
+*The Last Raider (1963)
+*Path of the Storm (1966)
+*The Deep Silence (1967)
+*The Greatest Enemy (1970)
+
+Richard Bolitho novels
+
+(written under the name Alexander Kent)
+*Richard Bolitho, Midshipman (1975)
+*Midshipman Bolitho and the 'Avenger'  (1978)
+*Band of Brothers (2005)
+*Stand into Danger (1980)
+*In Gallant Company (1977)
+*Sloop of War (1972)
+*To Glory We Steer (1968)
+*Command a King's Ship (1973)
+*Passage To Mutiny (1976)
+*With All Despatch (1988)
+*Form Line of Battle! (1969)
+*Enemy in Sight! (1970)
+*Flag Captain (1971)
+*Signal – Close Action! (1974)
+*The Inshore Squadron (1977)
+*A Tradition of Victory (1981)
+*Success to the Brave (1983)
+*Colours Aloft (1986)
+*Honour This Day (1987)
+*The Only Victor (1990)
+*Beyond The Reef (1992)
+*The Darkening Sea (1993)
+*For My Country's Freedom (1995)
+*Cross of St. George (1996)
+*Sword of Honour (1998)
+*Second to None (1999)
+*Relentless Pursuit (2001)
+*Man of War (2003)
+*Heart of Oak (2007)
+*In the King's Name (2011)
+Question:
+Who is the fictional naval Captain, hero of Alexander Kent's novels?
+Answer:
+Adam Bolitho
+Passage:
+Médoc
+The Médoc (; Gascon: Medòc) is a region of France, well known as a wine growing region, located in the département of Gironde, on the left bank of the Gironde estuary, north of Bordeaux. Its name comes from (Pagus) Medullicus, or "country of the Medulli", the local Celtic tribe. The region owes its economic success mainly to the production of red wine; it is home to around 1,500 vineyards.
+
+The area also has pine forests and long sandy beaches. The Médoc's geography is not ideal for wine growing, with its proximity to the Atlantic Ocean resulting in a comparatively mild climate and high rainfall making rot a constant problem. It is generally believed that the nature of the region's wine derives from the soil; although the terrain is flat, excellent drainage is a necessity and the increased amount of gravel in the soil allows heat to be retained, encouraging ripening, and extensive root systems.
+
+Viticulture
+
+With the exception of Château Haut-Brion from Graves, all of the red wines in the 1855 Classification are from the Médoc. Many of the Médoc wines that are not in this classification were classified using the Cru Bourgeois system until 2007. Following legal challenges this category was abolished, and reintroduced in 2010 as an annual "mark of quality" depending on independent annual assessment.
+Question:
+Medoc is a wine region in which country?
+Answer:
+La Republique francaise
+Passage:
+Merlyn Lowther
+Merlyn Vivienne Lowther (born March 1954)  was Chief Cashier of the Bank of England for 1999  to 2003. She was the first woman to hold the post. The signature of the Chief Cashier appears on Bank of England banknotes. Lowther was succeeded by Andrew Bailey. 
+
+Since February 2013, Lowther has been a Deputy Chairman of Co-Operative Banking Group Limited and The Co-operative Bank plc.
+Question:
+Merlyn Lowther, Andrew Bailey and Chris Salmon are the last three holders of which financial post?
+Answer:
+Chief Cashier of the Bank of England
+Passage:
+Registering for the Draft: It's Still the Law
+Registering for the Draft: It's Still the Law
+By Robert Longley
+Updated July 04, 2016.
+The Selective Service System wants you to know that the requirement to register for the draft did not go away with the end of the Vietnam War . Under the law, virtually all male U.S. citizens, and male aliens living in the U.S., who are ages 18 through 25, are required to register with Selective Service .
+Since there is no draft currently in effect, and men are not being classified for service, disabled men, clergymen, and men who believe themselves to be conscientiously opposed to war must also register.
+Penalties for Failure to Register for the Draft
+Men who do not register could be prosecuted and, if convicted, fined up to $250,000 and/or serve up to five years in prison. In addition, men who fail to register with Selective Service before turning age 26, even if not prosecuted, will become ineligible for:
+Student Financial Aid - including Pell Grants , College Work Study , Guaranteed Student/Plus Loans, and National Direct Student Loans .
+U.S. Citizenship - if the man first arrived in the U.S. before his 26th birthday.
+Federal Job Training - The Job Training Partnership Act (JTPA) offers programs that can train young men for jobs in auto mechanics and other skills. This program is only open to those men who register with Selective Service.
+Federal Jobs - men born after December 31, 1959, must be registered to be eligible for jobs in the Executive Branch of the Federal government and the U.S. Postal Service.
+In addition, several states have added additional penalties for those who fail to register.
+You may have read or been told that there is no need to register because so few people are prosecuted for failing to register. The goal of the Selective Service System is registration, not prosecution. Even though those who fail to register may not be prosecuted they will be denied student financial assistance , federal job training , and most federal employment unless they can provide convincing evidence to the agency providing the benefit they are seeking, that their failure to register was not knowing and willful.
+Who Does NOT Have to Register for the Draft?
+Men who are not required to register with Selective Service include;  nonimmigrant aliens in the U.S. on student, visitor, tourist, or diplomatic visas; men on active duty in the U.S. Armed Forces ; and cadets and midshipmen in the Service Academies and certain other U.S. military colleges. All other men must register upon reaching age 18 (or before age 26, if entering and taking up residence in the U.S. when already older than 18).
+What About Women and the Draft?
+While women officers and enlisted personnel serve with distinction in the U.S. Armed Forces, women have never been subject to Selective Service registration or a military draft in America. For a complete explanation of the reasons for this, see,  Backgrounder: Women and the draft in America from the Selective Service System.
+What is the Draft and How Does it Work?
+The "draft" is the actual process of calling men between ages 18 - 26 to be inducted to serve in the U.S. military. The draft is typically used only in the event of war or extreme national emergency as determined by the Congress and the president.
+Should the President and the Congress decide a draft was needed, a classification program would begin. Registrants would be examined to determine suitability for military service, and they would also have ample time to claim exemptions, deferments, or postponements. To be inducted, men would have to meet the physical, mental, and administrative standards established by the military services. Local Boards would meet in every community to determine exemptions and deferments for clergymen, ministerial students, and men who file claims for reclassification as conscientious objectors.
+Men have not actually been drafted into service since the end of the Vietnam War.
+How Do You Register?
+The easiest and fastest way to register with Selective Service is to register on-line .
+You can also register by mail using a Selective Service "mail-back" registration form available at any U.S. Post Office. A man can fill it out, sign (leaving the space for your Social Security Number blank, if you have not yet obtained one), affix postage, and mail it to Selective Service, without the involvement of the postal clerk. Men living overseas may register at any U.S. Embassy or consular office.
+Many high school students can register at school. More than half the high schools in the United States have a staff member or teacher appointed as a Selective Service Registrar. These individuals help register male high school students.
+Question:
+What must nearly all American men register for at age 18?
+Answer:
+Conscription in the United States
+Passage:
+Alfred Chuang
+Alfred S. Chuang () was part of the original Executive for BEA Systems founded by Bill Coleman, he later served as chairman, CEO and president of BEA Systems   until it was purchased by Oracle in April 2008.  Prior to founding BEA, Chuang worked at Sun Microsystems.
+
+Chuang received a B.S. in computer science from the University of San Francisco and a master's degree in computer science with specialization in distributed data management from the University of California, Davis. His graduate thesis, "Table-Tabular Data Objects and their Use in Table Editing", remains one of California State Library's most frequently used reference materials on relational database development. 
+
+Chuang is an alumnus of Wah Yan College, Hong Kong.
+
+Since 2008, Chuang has been the founder and CEO of a Mobile App Server startup called Magnet Systems, Inc.  On April 27, 2011 Magnet Systems, Inc. received $12.6 million of financing in their Series A round from investment firm Andreessen Horowitz.  In August 2012 Magnet received an extra $47 million in Series B funding from HTC and  Andreessen Horowitz
+Question:
+Which Californian computer software company was founded in 1995 by Bill Coleman, Ed Scott and Alfred Chuang?
+Answer:
+BEA Systems, Inc.
+Passage:
+Tom Swift and His Electric Rifle
+Tom Swift and His Electric Rifle; or, Daring Adventures in Elephant Land is a young adult novel written by Stratemeyer Syndicate writers using the pen name Victor Appleton. It is Volume 10 in the original Tom Swift novel series published by Grosset & Dunlap. The novel is notable for inspiring the name of the Taser.
+
+Plot 
+
+While Tom Swift is working on his latest new invention, the electric rifle, he meets an African safari master whose stories of elephant hunting sends the group off to deepest, darkest Africa. Hunting for ivory is the least of their worries, as they find out some old friends are being held hostage by the fearsome tribes of the red pygmies.
+
+Swift builds two major inventions in this volume. The first is a replacement airship, known as The Black Hawk. This new airship is to replace The Red Cloud, which was destroyed during his adventures in Tom Swift in the Caves of Ice. This airship is of the same general construction as The Red Cloud, but is smaller and more maneuverable.
+
+Of foremost notice is Swift's invention of the electric rifle, a gun which fires bolts of electricity. The electric rifle can be calibrated to different levels of range, intensity and lethality; it can shoot through solid walls without leaving a hole, and is powerful enough to kill a rampaging whale, as in their steamer trek to Africa. With the electric rifle, Tom and friends bring down elephants, rhinoceroses, and buffalo, and save their lives several times in pitched battle with the red pygmies. It also can discharge a globe of light that was described as being able to maintain itself, like ball lightning, making hunting at night much safer in the dark of Africa. In appearance, the rifle looked very much like contemporary conventional rifles.
+
+Claims of racism 
+
+Although the book exists in a historical context, a modern reading reveals bold racism in the plot. 
+
+Homages 
+
+Sixty years later a non-lethal weapon delivering an electric shock was developed by Jack Cover and marketed by Taser International under the name "Taser", an acronym for Thomas A. Swift's Electric Rifle. The middle initial 'A' is gratuitous to avoid "TSER", as no other name than "Tom Swift" is used for the book's hero.
+Question:
+What is Thomas A. Swift's Electric Rifle better known as?
+Answer:
+Taser Gun
+Passage:
+Vistula Lagoon
+The Vistula Lagoon (;  or Kaliningradskiy Zaliv; ; ) is a brackish water lagoon on the Baltic Sea roughly 56 miles (90 km) long, 6 to 15 miles (10 to 19 km) wide, and up to 17 feet (5 m) deep, separated from Gdańsk Bay by the Vistula Spit. It is now known as the Vistula Bay or Vistula Gulf. The modern German name, Frisches Haff, is derived from an earlier form, Friesisches Haff.Erhard Riemann, Alfred Schoenfeldt, Ulrich Tolksdorf, Reinhard Goltz, Akademie der Wissenschaften und der Literatur (Germany), Akademie der Wissenschaften und der Literatur, Mainz, Preussisches Wörterbuch: Deutsche Mundarten Ost- und Westpreussens, 6th edition, Wachholtz, 1974, p.595, ISBN 3-529-04611-6
+
+The lagoon is a mouth of a few branches of the Vistula River, notably the Nogat, and the Pregolya River. It is connected to Gdańsk Bay by the Strait of Baltiysk.
+
+The Poland–Russia border runs across the lagoon.
+
+Localities on the lagoon include Kaliningrad, Baltiysk, and Primorsk in Russia's Kaliningrad Oblast and Elbląg, Tolkmicko, Frombork, Krynica Morska in Poland. The Polish port of Elbląg used to see a substantial amount of trading traffic on the lagoon, but that has declined owing to the current border situation. Kaliningrad and Baltiysk are currently major seaports on the lagoon.
+
+Etymology
+
+The earliest version of the name of Vistula Lagoon has been recorded in historical sources by Wulfstan, an Anglo-Saxon sailor and merchant at the end of the 9th Century as Estmere.  It is an Anglo-Saxon translation of Old Prussian name for the lagoon - *Aīstinmari (modern Lithuanian - Aistmarės) derived from (OP - Old Prussian) Aistei - "Ests", (LAT - Latin)"Aestii" etc. and (OP) *mari - "lagoon (a body of water cut off from a larger body by a reef of sand), fresh water bay".  The Ests were Baltic people who since 9th Century became called in some historical sources (first time by Bavarian Geographer) Bruzi, Pruzzen, Pruteni etc. - Old Prussians. So the oldest known meaning of the name of Vistula Lagoon was "The lagoon or sea of the Ests". Over three hundred years later, in the first half of the 13th Century, the name of Vistula Lagoon occurs in deeds issued by Teutonic Order in Latin version as Mare Recens (1246 - "mare" - a pool or lake or sea and "recens" - fresh) in contrast to the contemporary name for the Baltic Sea - Mare Salsum (Salty Sea). Then in 1251 we find record about Mare Recens et Neriam (Frisches Haff and Frische Nehrung, now Vistula Spit) and finally in 1288 Recenti Mari Hab (Haff) which as one can see corresponds with later German "Frisches Haff" = "Fresh Lagoon". 
+
+Proposed Canal
+
+Digging a canal to connect the lagoon with the Baltic Sea is in consideration as a major EU-supported project. The canal, 1 km in length, would re-activate the Elbląg port. It would also free its dependence on Russia, which time and again revokes the right of passage for Polish ships through Strait of Baltiysk as a form of pressure on Polish authorities. It would cost an estimated PLN 800 million. However, major ecological considerations stand in the way. For example, mammal migration along the lagoon could be disrupted. Also, the inflow of brackish waters from the Baltic sea could result in serious unbalancing of the lagoon's freshwater ecosystem.
+
+History 
+
+From 1772 until 1918, the lagoon was part of the Kingdom of Prussia, which had become part of the German Empire in 1871. Between 1920 and 1946 it was split between Germany and the Free City of Danzig. At present state since 1945 its eastern part belongs to Russia (formerly USSR), Poland has 43.8% of its area at lagoon's western side. The bordering administrative regions is polish Warmian-Masurian Voivodeship and modern Russian Kaliningrad Oblast, which had name Königsberg Oblast during half of 1946.
+
+Kursenieki
+
+While today the Kursenieki, also known as Kuršininkai are a nearly extinct Baltic ethnic group living along the Curonian Spit, in 1649 Kuršininkai settlement spanned from Memel (Klaipėda) to Danzig (Gdańsk), including the area around the Vistula Lagoon. The Kuršininkai were eventually assimilated by the Germans, except along the Curonian Spit where some still live. The Kuršininkai were considered Latvians until after World War I when Latvia gained independence from the Russian Empire, a consideration based on linguistic arguments. This was the rationale for Latvian claims over the Curonian Spit, Memel, and other territories of East Prussia which would be later dropped.
+
+Historical events related to lagoon 
+
+From January until March 1945 throughout the Evacuation of East Prussia refugees from East Prussia crossed the frozen lagoon on their way to the west after the Red Army had reached the coast of the lagoon near Elbing on January 26. Attacked by Soviet fighter aircraft thousands of them were killed or broke through the ice.
+Question:
+The Vistula Lagoon is a freshwater lagoon on which sea?
+Answer:
+Mare Suevicum

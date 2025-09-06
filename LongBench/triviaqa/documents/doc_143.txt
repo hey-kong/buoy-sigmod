@@ -1,0 +1,533 @@
+Passage:
+Gland
+A gland is an organ in an animal's body that synthesizes substances (such as hormones) for release into the bloodstream (endocrine gland) or into cavities inside the body or its outer surface (exocrine gland).
+
+Structure
+
+Development
+
+Every gland is formed by an ingrowth from an epithelial surface. This ingrowth may in the beginning possess a tubular structure, but in other instances glands may start as a solid column of cells which subsequently becomes tubulated.
+
+As growth proceeds, the column of cells may divide or give off offshoots, in which case a compound gland is formed. In many glands, the number of branches is limited, in others (salivary, pancreas) a very large structure is finally formed by repeated growth and sub-division. As a rule, the branches do not unite with one another, but in one instance, the liver, this does occur when a reticulated compound gland is produced. In compound glands the more typical or secretory epithelium is found forming the terminal portion of each branch, and the uniting portions form ducts and are lined with a less modified type of epithelial cell.
+
+Glands are classified according to their shape.
+* If the gland retains its shape as a tube throughout it is termed a tubular gland.
+* In the second main variety of gland the secretory portion is enlarged and the lumen variously increased in size. These are termed alveolar or saccular glands.
+
+Function
+
+Glands are divided based on their function into two groups:
+
+Endocrine glands
+
+Endocrine glands secrete substances that circulate through the blood stream. These glands that secrete their products through the basal lamina into the blood stream and lack a duct system. These glands often secrete hormones, and play an important role in maintaining homeostasis. The pineal gland, thymus gland, pituitary gland, thyroid gland, and the two adrenal glands are all endocrine glands.
+
+Exocrine glands
+ 
+
+Exocrine glands secrete their products through a duct onto an outer surface of the body, such as the skin or the human gastrointestinal tract. Secretion is directly onto the apical surface. The glands in this group can be divided into three groups:
+* Apocrine glands a portion of the secreting cell's body is lost during secretion. Apocrine gland is often used to refer to the apocrine sweat glands, however it is thought that apocrine sweat glands may not be true apocrine glands as they may not use the apocrine method of secretion. e.g. mammery gland, sweat gland of arm pit, pubic region, skin around anus, lips, nipples.
+* Holocrine glands the entire cell disintegrates to secrete its substances (e.g., sebaceous glands)sebaceous, meibomiun & zeis gland.
+* Merocrine glands cells secrete their substances by exocytosis (e.g., mucous and serous glands). Also called "eccrine". e.g. max sweat gland of humans, goblet cells, salivary gland, tear gland, intestinal glands.
+
+The type of secretory product of exocrine glands may also be one of three categories:
+* Serous glands secrete a watery, often protein-rich, fluid-like product, e.g. sweat glands.
+* Mucous glands secrete a viscous product, rich in carbohydrates (such as glycoproteins), e.g. goblet cells.
+* Sebaceous glands secrete a lipid product. These glands are also known as oil glands, e.g. Fordyce spots and meibomian glands.
+
+Clinical significance
+
+Other animals
+
+Additional images
+
+ Image:Gray1025.png|Section of submaxillary gland of kitten. Duct semidiagrammatic.
+ Image:Gray1105.png|Section of pancreas of dog. X 250. 
+ Image:Gray1172.png|Dissection of a lactating breast.
+ Image:Gray1173.png|Section of portion of mamma.
+ Image:Apocrine.jpg|Apocrine 
+ Image:Drüse Kopie.jpg|Methods of secretion
+ Image:405 Modes of Secretion by Glands updated.svg|Modes of secretion
+ Image:406 Types of Glands.jpg|Types of gland
+Question:
+Which gland in the human body secretes the hormone responsible for the body's growth?
+Answer:
+Pituitary glands
+Passage:
+What is Fennec? - Definition from WhatIs.com
+What is Fennec? - Definition from WhatIs.com
+pneumatics
+What is Fennec?
+Fennec is a version of the Firefox browser adapted for mobile phones and other small computing devices. According to the Mozilla Foundation, the intention behind Fennec is to enable a mobile browsing experience that is equivalent to browsing through Firefox on a desktop computer.
+Current or planned features of Fennec include:
+Support for touch screen input.
+Support for Firefox extensions and themes.
+Support for Windows, OS X and Linux.
+A tab interface similar to that of Firefox.
+Pop-up blocker.
+Address bar functionality like that of Firefox.
+The Mozilla wiki explains the most important design requirements for Fennec:
+Fast and easy navigation to Web content and optimization of tasks that are often problematic on mobile devices, such as entering URLs , managing and sharing bookmarks, tabbed browsing and maintaining readability while zooming and scrolling.
+The ability to access any Web content available from desktop computers.
+Security measures that address the particular vulnerabilities of mobile devices.
+Integration with device components to enable, for example, initiation of a phone call from a number in a Web link.
+Support for third-party technologies to stimulate mobile innovation.
+Mozilla released an alpha version of Fennec in October 2008. The alpha release targets developers as a means of improving Fennec prior to wider release and stimulating the creation of applications for the browser. Fennec extensions use XUL (Extensible User-interface Language), as do extensions for Firefox and other Mozilla programs, which means that basic elements of design will be familiar to developers. According to the Mozilla wiki, any developer with HTML, JavaScript and cascading style sheet ( CSS ) skills should be able to develop applications for mobile devices.
+The first versions of Fennec will be for Windows Mobile and Nokia's N810 Internet Tablet; versions for Android and Linux-based operating systems are expected to follow. Other browsers adapted for mobile devices include Pocket Internet Explorer and Opera Mini.
+In the animal kingdom, a fennec is a small desert fox. (The Firefox mascot is a full-sized fox.)
+Learn More About IT:
+Question:
+What type of animal is the fennec?
+Answer:
+The Desert Fox
+Passage:
+Love Is All Around
+"Love Is All Around" is a song recorded by the Troggs, featuring a string quartet and a 'tick tock' sound on percussion, in D-major.  It was written by lead singer Reg Presley and was purportedly inspired by a television transmission of the Joy Strings Salvation Army band's "Love That's All Around".    The song was first released as a single in the UK in October 1967.  On the UK Singles Chart top 50, the record debuted at number 50 on 18 October 1967  (using the Wednesday date system)  (date derived from 21 October 1967  and 28 October 1967 ), peaked at number five on 22 November 1967  (using the Wednesday date system)  (date derived from 25 November 1967 ), and appeared 15 straight times.  On the Hot 100, the record entered at number 98 on 24 February 1968, peaked at number seven on 18 May 1968, was on the chart a total of 16 weeks, and ranked #40 for all of 1968.
+
+"Love Is All Around" has been covered by numerous artists, including R.E.M., with whom the Troggs subsequently recorded their 1992 comeback album Athens Andover. R.E.M.'s cover was a B-side on their 1991 "Radio Song" single, and they also played it during their first appearance at MTV's Unplugged series that same year.  Wet Wet Wet's cover, for the soundtrack to the 1994 film Four Weddings and a Funeral, was an international hit and spent 15 consecutive weeks at number one on the UK Singles Chart.
+
+Charts
+
+Wet Wet Wet version
+
+Wet Wet Wet's version of "Love Is All Around", which has a different introduction from the Troggs' version, was recorded in B-flat-major on 4 January 1994 and released on 9 May 1994. It topped the UK Singles Chart after just under three weeks and, fuelled by its appearance in the film Four Weddings and a Funeral,  remained there for 15 consecutive weeks, the joint second longest stay at the top of that chart, along with Drake's One Dance (beaten only by "(Everything I Do) I Do It for You" by Bryan Adams, which topped the chart for 16 weeks). The song was later included on the band's album Picture This.
+
+Chart performance
+
+On 15 May 1994, "Love Is All Around" entered the UK Singles Chart at number four.  After climbing to number two the following week, it finally got to number one on 29 May. It then remained there for 15 weeks, the second longest UK chart reign of all time (beaten only by Bryan Adams' "(Everything I Do) I Do It for You", which was number one for 16 weeks), before it was finally knocked off the top spot by Whigfield's "Saturday Night" on 11 September. The song spent a further 22 weeks in the UK Top 75. Throughout its chart run, some radio stations even banned the song, as many listeners were fed up of hearing it. The band themselves eventually took the decision to delete the record from sale.  As of February 2016, it has sold 1.88 million copies in the United Kingdom, making it the country's best-selling love ballad of all time. 
+
+Reg Presley famously spent some of his songwriting royalties on crop circle research.  Wet Wet Wet lead singer Marti Pellow also recorded his own version of the song for inclusion on his 2002 album Marti Pellow Sings the Hits of Wet Wet Wet & Smile.
+
+In 2004, Pellow told the Daily Record, "We did everybody's head in the summer of 1994".  Nevertheless, Pellow said, "I still think it's a brilliant record. Its strength is its sheer simplicity. Any band would give their eye teeth to have a hit record like that. I'm very proud of it."   In 2013, the year that Reg Presley died, "Love Is All Around" was named as the number one song in VH1's The Ultimate Movie Soundtrack: Top 100.
+
+Track listings
+
+;CD, Promo, Single 
+#"Love Is All Around (Remix)"
+#"Love Is All Around"
+;CD 1
+#"Love Is All Around"
+#"I Can Give You Everything" (7" Arthur Baker soul remix)
+#"Ain't No Stoppin'/Le Freak"
+
+;CD 2 Limited Edition Digi Pack
+#"Love Is All Around"
+#"Is This Love?" (live)
+#"Love Is All Around" (TV mix)
+#"I Can Give You Everything" (12" house mix)
+
+;MC
+#"Love Is All Around"
+#"I Can Give You Everything" (7" Arthur Baker soul remix)
+
+;7"
+#"Love Is All Around"
+#"I Can Give You Everything" (7" Arthur Baker remix)
+
+Charts and certifications
+
+Weekly charts
+
+Year-end charts
+
+Certifications
+
+| Australia
+| 3× Platinum
+| 210,000^
+|-
+| Austria 
+| Platinum
+| 30,000
+|-
+| Germany 
+| Platinum
+| 500,000
+|-
+| Netherlands 
+| Gold
+| 40,000
+|-
+| Sweden 
+| Platinum
+| 20,000
+|-
+| United Kingdom 
+| 3× Platinum
+| 1,880,000
+|}
+
+Other cover versions and film uses
+
+Prior to achieving international success with their single "These Eyes", "Love Is All Around" was covered by The Guess Who around 1967/68, and is available on compilation album This Time Long Ago.  The song was also covered by Lotta Engbergs orkester as "Du ger mig av din kärlek" with Swedish lyrics written by Peter Stedt in 1994   while the Spanish rendering "El Amor Me Envuelve (Sabes Que Te Amo)" was recorded by Rocío Banquells for her 1999 album Fuerza Del Amor.
+
+The song appeared in "Get Real 1998" directed by Simon Shore, screenplay by Patrick Wilde.  After its use in Four Weddings and a Funeral, the song appeared in several of Richard Curtis' other projects including the 2003 film Love Actually (reinvented as the Christmas song "Christmas Is All Around" performed by Bill Nighy as fictional rock star Billy Mack)  and an episode of his 90s sitcom The Vicar of Dibley where it is performed by a church choir.
+Question:
+Love is All Around was a number one hit for Wet Wet Wet in 1994. In which film of that year did it feature?
+Answer:
+Four Weddings and A Funeral
+Passage:
+Organ (anatomy)
+In biology, an organ or viscus is a collection of tissues joined in a structural unit to serve a common function.  In anatomy, a viscus is an internal organ, and viscera is the plural form.   
+
+Organs are composed of main tissue, parenchyma, and "sporadic" tissues, stroma. The main tissue is that which is unique for the specific organ, such as the myocardium, the main tissue of the heart, while sporadic tissues include the nerves, blood vessels, and connective tissues. Functionally related organs often cooperate to form whole organ systems. Organs exist in all higher biological organisms, in particular they are not restricted to animals, but can also be identified in plants. In single-cell organisms like bacteria, the functional analogue of an organ is called organelle. 
+
+A hollow organ is a visceral organ that forms a hollow tube or pouch, such as the stomach or intestine, or that includes a cavity, like the heart or urinary bladder.
+
+Organ systems 
+
+Two or more organs working together in the execution of a specific body function form an organ system, also called a biological system or body system. The functions of organ systems often share significant overlap. For instance, the nervous and endocrine system both operate via a shared organ, the hypothalamus. For this reason, the two systems are combined and studied as the neuroendocrine system. The same is true for the musculoskeletal system because of the relationship between the muscular and skeletal systems.
+
+Mammals such as humans have a variety of organ systems. These specific systems are also widely studied in human anatomy.
+* Cardiovascular system: pumping and channeling blood to and from the body and lungs with heart, blood and blood vessels.
+* Digestive system: digestion and processing food with salivary glands, esophagus, stomach, liver, gallbladder, pancreas, intestines, colon, rectum and anus.
+* Endocrine system: communication within the body using hormones made by endocrine glands such as the hypothalamus, pituitary gland, pineal body or pineal gland, thyroid, parathyroids and adrenals, i.e., adrenal glands.
+* Excretory system: kidneys, ureters, bladder and urethra involved in fluid balance, electrolyte balance and excretion of urine.
+* Lymphatic system: structures involved in the transfer of lymph between tissues and the blood stream, the lymph and the nodes and vessels that transport it including the Immune system: defending against disease-causing agents with leukocytes, tonsils, adenoids, thymus and spleen.
+* Integumentary system: skin, hair and nails.
+* Muscular system: movement with muscles.
+* Nervous system: collecting, transferring and processing information with brain, spinal cord and nerves.
+* Reproductive system: the sex organs, such as ovaries, fallopian tubes, uterus, vagina, mammary glands, testes, vas deferens, seminal vesicles, prostate and penis.
+* Respiratory system: the organs used for breathing, the pharynx, larynx, trachea, bronchi, lungs and diaphragm.
+* Skeletal system: structural support and protection with bones, cartilage, ligaments and tendons.
+
+Other animals
+
+The organ level of organisation in animals can be first detected in flatworms and the more advanced phyla. The less-advanced taxons (like Placozoa, Porifera and Radiata) do not show consolidation of their tissues into organs.
+
+Plants
+
+The study of plant organs is referred to as plant morphology, rather than anatomy, as in animal systems. Organs of plants can be divided into vegetative and reproductive. Vegetative plant organs are roots, stems, and leaves. The reproductive organs are variable. In flowering plants, they are represented by the flower, seed and fruit. In conifers, the organ that bears the reproductive structures is called a cone. In other divisions (phyla) of plants, the reproductive organs are called strobili, in Lycopodiophyta, or simply gametophores in mosses.
+
+The vegetative organs are essential for maintaining the life of a plant. While there can be 11 organ systems in animals, there are far fewer in plants, where some perform the vital functions, such as photosynthesis, while the reproductive organs are essential in reproduction. However, if there is asexual vegetative reproduction, the vegetative organs are those that create the new generation of plants (see clonal colony).
+
+History
+
+Etymology
+
+The English word "organ" derives from the Latin ', meaning "instrument", itself from the Greek word , ' ("implement; musical instrument; organ of the body"). The Greek word is related to , ' ("work").Barnhart's Concise Dictionary of Etymology The viscera, when removed from a butchered animal, are known collectively as offal. Internal organs are also informally known as "guts" (which may also refer to the gastrointestinal tract), or more formally, "innards".
+
+Aristotle used the word frequently in his philosophy, both to describe the organs of plants or animals (e.g. the roots of a tree, the heart or liver of an animal), and to describe more abstract "parts" of an interconnected whole (e.g. his philosophical works, taken as a whole, are referred to as the "organon").
+
+The English word "organism" is a neologism coined in the 17th century, probably formed from the verb to organize. At first the word referred to an organization or social system. The meaning of a living animal or plant is first recorded in 1842. Plant organs are made from tissue built up from different types of tissue. When there are three or more organs it is called an organ system. 
+
+The adjective visceral, also splanchnic, is used for anything pertaining to the internal organs. Historically, viscera of animals were examined by Roman pagan priests like the haruspices or the augurs in order to divine the future by their shape, dimensions or other factors. This practice remains an important ritual in some remote, tribal societies.
+
+The term "visceral" is contrasted with the term "", meaning "of or relating to the wall of a body part, organ or cavity". The two terms are often used in describing a membrane or piece of connective tissue, referring to the opposing sides.
+
+7 Vital Organs of Antiquity
+
+Some alchemists (e.g. Paracelsus) adopted the Hermetic Qabalah assignment between the 7 vital organs and the 7 Classical planets as follows:
+Question:
+Which organ in the body secretes insulin and glucagon to regulate blood sugar levels?
+Answer:
+Inferior surfaces of the pancreas
+Passage:
+Dog sled
+A dog sled or dog sleigh  is a sled pulled by one or more sled dogs used to travel over ice and through snow. Numerous types of sleds are used, depending on their function. They can be used for dog sled racing.
+
+History
+
+Dog power has been used for hunting and travel for over a thousand years. As far back as the 10th century BCE these dogs have contributed to human culture. 
+
+Assembling a dog sled team involves picking leader dogs, point dogs, swing dogs, and wheel dogs. The lead dog is crucial, so mushers take particular care of these dogs. Another important detail is to have powerful wheel dogs to pull the sled out from the snow. Point dogs (optional) are located behind the leader dogs, swing dogs between the point and wheel dogs, and team dogs are all other dogs in between the wheel and swing dogs and are selected for their endurance, strength and speed as part of the team. In dog sledding, Siberian Huskies or Alaskan Malamutes are the main types of dogs that are used for recreational sledding because of their strength and speed and endurance as well as their ability to withstand the cold.  However, Alaskan Huskies (a mix between Siberian Huskies and Alaskan Malamutes) are also a popular dog for sled dog racing, because of their endurance, good eating habits, speed, and dedication to running even when tired.
+
+Sometimes, for sprint races, mushers use short haired hounds that are faster than the average husky. These hounds are raised from a young age to pull. It is harder to train hounds than it is to train siberian huskies and malamutes to pull a sled because it is not in their nature. To train a pup how to pull a sled, you must start them at around six months old by having them pull a small log behind them so that they get a feeling for it and are comfortable with it.
+
+Gallery
+
+File:Dog sled quebec 2010.JPG|Dog sled in Quebec
+Image:Engagé mit einem indianischen Hundeschlitten by Maximilian zu Wied-Neuwied.jpg|Indian dog sled near Fort Clark. Watercolor by Prince Maximilian of Wied-Neuwied 1833
+Image:MOHAI Alaska glass.jpg|Stained glass Alaskan theme, formerly part of a Seattle storefront, now in the Museum of History and Industry
+Image:ADK Museum - Dog Sled.jpg|Antique dog sled at the Adirondack Museum
+File:dog sled kennels.JPG|Commercial sled dog kennels
+Question:
+Which six letter word is used to describe a person whose occupation is to drive a dog sled?
+Answer:
+Dog Sledding
+Passage:
+Leatherstocking Tales
+The Leatherstocking Tales is a series of five novels by American writer James Fenimore Cooper, each featuring the main hero Natty Bumppo, known by European settlers as "Leatherstocking," 'The Pathfinder",  and "the trapper" and by the Native Americans as "Deerslayer," "La Longue Carabine" and "Hawkeye".
+
+Publication history
+
+The "Story Dates" are derived from dates given in the tales, but do not necessarily correspond with the actual dates of the historical events described in the series.  This may have been done for convenience's sake, for instance to avoid making Leatherstocking 100 years old when he traveled the Kansas plains in The Prairie.
+
+The Natty Bumppo character is generally believed to have been inspired, at least in part, by the real-life Daniel Boone or the lesser known David Shipman. 
+
+Characters
+
+*Natty Bumppo is the protagonist of the series: an Anglo-American raised in part by Native Americans, and later a near-fearless warrior (his chief weapon is the long rifle). He and his Mohican "brother" Chingachgook are constant companions. He is known as "Deerslayer" in The Deerslayer, "Hawkeye" and "La Longue Carabine" in The Last of the Mohicans, "Pathfinder" in The Pathfinder, "Leatherstocking" in The Pioneers, and "the trapper" in The Prairie. The novels recount significant events in Natty Bumppo's life from 1740-1806.   Critic Georg Lukacs identified Bumppo as similar to the middling characters of Sir Walter Scott, who, because they don't represent the extremes of society, can act as tools for social and cultural examination of historical events, without portraying the history itself.Lukacs 69-72
+*Chingachgook is a Mohican chief and companion of Bumppo. His son Uncas, "last of the Mohicans",  grew to manhood, but was killed in a battle with the hostile scout Magua.
+
+In other media
+
+Many depictions of Natty Bumppo and his adventures appear on film. Most used one of his nicknames, most often Hawkeye. In the 1992 film version of Last of the Mohicans, Hawkeye's name was changed from Bumppo to Poe.  Bumppo is also featured in the comic book series Jack of Fables, along with Slue-Foot Sue, as trackers hired to capture other "Fables". In Alan Moore's graphic novel The League of Extraordinary Gentlemen Natty Bumppo is a member of the group assembled by Lemuel Gulliver  alongside other literary characters including Dr Syn, Fanny Hill, The Scarlet Pimpernel, and Orlando.
+Question:
+What 19th century author wrote the pentalogy of Leatherstocking Tales novels featuring the protagonist Natty Bumppo?
+Answer:
+Fenimore Cooper
+Passage:
+Adam Afriyie
+Adam Afriyie (born 4 August 1965)  is a British Conservative Party politician, and the Member of Parliament (MP) for Windsor.  He was first elected in the 2005 general election and re-elected in the 2010 and 2015 elections.
+
+Early life 
+
+The son of an English mother and a Ghanaian father, Afriyie was born in Wimbledon, London, and grew up on a council estate in Peckham, attending the local Oliver Goldsmith Primary School. He was educated at Addey and Stanhope School and has a BSc, degree in agricultural economics from Wye College. 
+
+Afriyie has seven half-siblings and one brother.  He said of his upbringing: "I never knew my father until I was much older and my mother, Gwen, brought us up alone.  She was my rock, the gel at the centre of my life, although her tumultuous relationships with different men made for a constant state of flux at the boundaries of our family."
+
+Business career 
+
+Afriyie is chairman of Connect Support Services, an IT support company he set up in 1993.  He owned two-thirds of DeHavilland, a political monitoring company, which was sold to publishers Emap in 2005 for £18 million. He was also a regional finalist in the 2003 Ernst and Young Entrepreneur of the year awards. He was a Governor of the Museum of London, a trustee of the Museum in Docklands and a director of Policy Exchange, a centre-right policy body.
+
+Afriyie is a stakeholder of Axonn Media, a content marketing business which produces content for clients. The company incorporates brands such as Content Plus, NewsReach, DirectNews and ReelContent. Axonn turned over £9.4m in 2011 and made a pre-tax profit of £1.3m. Afriyie is the largest shareholder of the firm and he and his fellow directors split dividends of £2.2m in 2010 and 2011 and shared directors' pay of £3.6m over the last five years.
+
+Political career 
+
+A member of the Conservative Party since 1990,  Afriye in 1999 worked for Jeffrey Archer on his unsuccessful campaign to be the first directly elected Mayor of London.
+
+Afriyie was selected as parliamentary candidate for the constituency of Windsor in October 2003.  He was first elected at the 2005 general election with an increased share of the vote (49.5%) and a swing to the Conservatives of 1.2%.  He is the Conservative Party's first mixed-race MP, although he said in an interview with the Evening Standard that he considers himself not as black but "post-racial".  In the 2010 election, Afriyie was re-elected with an increased share of the vote (60.8%) and a swing to the Conservatives of 11.4%. He made his maiden speech on 23 May 2005. 
+
+In Parliament, he was a member of the Science and Technology select committee from 2005 until its abolition in July 2007, and has since been a member of the Children, Schools and Families select committee. Since 2010 he has been the President of the Conservative Technology Forum. He has been the chair of the Parliamentary Office of Science and Technology since 2010. 
+
+Afriyie voted against the Marriage (Same Sex Couples) Bill, stating fear for religious freedom and also that he thought that straight civil partnerships should be allowed, but the bill did not. 
+
+In late 2013, Afriyie proposed an amendment to the European Union (Referendum) Bill 2013-14 to force an early vote for an early referendum on membership of the European Union, against the express wishes of his party. 
+Afriyie continued to advocate an early referendum after his rebel amendment was easily defeated in the House of Commons with just 6% of the vote, citing public support for such a move  
+
+In 2014 Afriyie along with six other Conservative Party MPs voted against the Equal Pay (Transparency) Bill which would require all companies with more than 250 employees to declare the gap in pay between the average male and average female salaries. 
+
+Afriyie was mooted as a possible candidate for a challenge to David Cameron for leadership of the Conservative Party, but there was little support within the party for a leadership challenge or Afriyie as a potential candidate. 
+
+Personal life
+
+In May 2004, Adam and Romi Afriyie won a libel case against The Mail on Sunday over a published article, "What IDS's Mr Perfect didn't tell Tory bosses".  The article was called a "hatchet job" by Darcus Howe in the New Statesman. 
+
+In August 2005,  he married his second and current wife Tracy-Jane (née Newell),  a barrister and the former wife of London deputy mayor (then deputy leader of Westminster Council) Kit Malthouse.
+
+A self-made millionaire,  he is worth an estimated wealth of £13m to £100m.  Afryie owns a large house in Westminster, and a former 17th-century monastery in Old Windsor called "The Priory".  As of March 2016, the Priory is on the market with an asking price of £4.85M.
+Question:
+Adam Afriyie is the conservative MP for which Berkshire constituency?
+Answer:
+Windsor, Florida
+Passage:
+Judith Hann
+Judith Hann (born 8 September 1942) at Littleover, Derby, Derbyshire, England, is a freelance broadcaster and writer specialising in science, food and the environment. She is the daughter of former Derby County footballer and trainer Ralph Hann.
+
+Education 
+
+Hann was educated at the selective state girls' school Parkfield Cedars Grammar School in Derby, followed by the University of Durham in Durham, from which she graduated with a BSc Degree in Zoology.
+
+Life and career 
+
+Hann presented BBC's Tomorrow's World between 1974 and 1994. She has since made guest appearances on various TV shows, and has done some TV commercials. In 1997 she appeared in a Shredded Wheat advertisement in which she used her scientific judgement to inform viewers that the product could possibly help keep their hearts healthy. In 2006 she presented a series on BBC Radio 4, Two's A Crowd which searched for the secrets of human identity.  She runs her own media training and presentation skills company with her husband John Exelby.
+
+Personal life 
+
+Judith Hann lives on a farm near the small town of Lechlade, Gloucestershire, in the Cotswolds. She is married to John Exelby, a former executive at BBC News, and has two sons; Jake and Daniel Exelby. She is passionate about herbs and has a very large garden. 
+
+TV appearances 
+
+* Tomorrow's World (BBC1) Presenter (1974–1994) (she was its longest serving presenter.)
+* The Risk Business (BBC1) - Presenter (1980)
+* Not with a Bang (ITV) - as herself (1990)
+* Shooting Stars with Vic Reeves and Bob Mortimer (BBC2) - Episode #3.7 (1997) as herself.
+
+Books 
+
+* How Science Works ISBN 0-7513-0832-3 (1991).
+* The Food of Love ISBN 1-85225-025-9 (1987).
+* Judith Hann's Total Health Plan ISBN 0-552-99242-9 (1984).
+* But What About the Children? A Working Parents' Guide to Child Care" ISBN 0-370-10441-2 (1976).
+* The Family Scientist ISBN 0-354-04361-7 (1979).
+* The Perfect Baby? ISBN 0-297-78125-1 (1982).
+Question:
+On which TV show was Judith Hann the longest serving presenter, with over 20 years?
+Answer:
+Tomorrow's World
+Passage:
+Wainfleet, Lincolnshire
+Wainfleet All Saints is an ancient port and market town on the east coast of the East Lindsey district of Lincolnshire, England.   It is situated on the A52 road, geographically 5 mi south-west from Skegness and 14 mi north-east from Boston. It stands on the small rivers Steeping and Limb that form Wainfleet Haven.Cox, J. Charles (1916); Lincolnshire p. 325; Methuen & Co. Ltd.; retrieved 23 April 2011 The town is close to the Lincolnshire Wolds. The village of Wainfleet St Mary is directly to the south. 
+
+History and landmarks
+
+The name "Wainfleet" is derived from Wegn fleot, a stream that can be crossed by a wagon.  The town stands on or near the former Roman settlement of Vainona. Two tumuli, one to the north and one to the south of the town, are of unknown origin, although it has been suggested that they could be Viking or Roman.  A number of coins from the period have been found in the vicinity. In Domesday, Wainfleet is referred to as 'Wenflet'.
+
+The parish church of All Saints was built in 1820-21 following the demolition of a previous medieval church of the same dedication, using part of the old church's material. A further church, St Thomas, had been destroyed by this time. During the demolition of All Saints the tomb of William of Waynflete's father, Richard Patten, was broken up but was later restored within Waynflete's Magdalen College Chapel, Oxford.
+
+Waynflete founded the town's Magdalen College School in 1484,[http://www.bbc.co.uk/dna/h2g2/A251137 "The Magdalen College School, Wainfleet, Lincolnshire, UK"] BBC - 	The Guide to Life, The Universe and Everything.; retrieved 28 April 2011 and obtained for the town a charter of incorporation in 1457.
+
+In 1847 Barkham Street, a 'London-style' terrace was commissioned by Bethlem Hospital and built to the design of Sydney Smirke and to similar specifications as other Bethlem terraces in Southwark, London.
+
+The Market Place has two Grade II listed structures, a clock tower erected in 1899, and a 15th-century limestone Buttercross (set on three steps and topped with a 19th-century finial and weathervane), from which John Wesley preached. [http://www.e-lindsey.gov.uk/NR/rdonlyres/4B57C659-1C66-468E-AD15-A02203C2A8AA/0/wainfleet_conservation_area_appraisal.pdf Wainfleet Conservation Area Appraisal] East Lindsey District Council; retrieved 30 April 2011
+
+The town is notable for Batemans Brewery; the brewery building incorporates the Georgian Salem House  and a previous corn mill, Salem Bridge Mill.  Public houses in Wainfleet are the Woolpack Hotel, Royal Oak, and the Red Lion on High Street. Former pubs included the Jolly Sailor (St Johns Street) and the Angel (High Street).
+
+Skegness Grammar School has a boarding house in the town on Low Road.
+
+Wainfleet became a conservation area in 1972.
+
+Transport 
+
+The town was at the end of the Great Northern Railway until the development of Skegness 6–7 miles to the east. Wainfleet railway station is on Station Road, and is on the Nottingham to Skegness Line.
+
+Northolme
+
+At the northern end of Wainfleet All Saints is the hamlet of Northolme, which is all that remains of the lost parish of Wainfleet St Thomas.
+
+No distinction was made between Wainfleet All Saints, Wainfleet St Mary, or Wainfleet St Thomas, until a deed from Peter De Beningword to Bardney Abbey mentions North Wenfled. The original deed held in the British museum is undated, but is estimated to be from the 13th century. 
+In 1316 Wainfleet St Thomas is mentioned as paying tax under Feudal Aid. At the time of the reformation, the chapel belonged to Kyme Priory. There is no clear indication of when it was demolished, but it was still standing at the time of the Protectorate, when the general Baptists were granted its use. Nothing remains of the chapel today, although its site is used as an extension of the present cemetery.
+
+In 1546 Thomas Lyttlebury Esq was heir to the manor of Northolme through his brother John. However it seems that the estate became the property of John's daughter, Alice, who married Thomas Upton. Thomas Upton's successors lived at Northolme Hall.
+
+The first Northolme Hall was an Elizabethan moated manor house, reputedly built in 1549. The present Northolme Hall was built on the same site in 1866.
+
+Population
+
+Geography
+Question:
+Which brewery is based in Wainfleet, Lincolnshire?
+Answer:
+Bateman's
+Passage:
+Manet's Bar at the Folies-Bergere (Getty Center Exhibitions)
+Manet's Bar at the Folies-Bergere (Getty Center Exhibitions)
+Manet's Bar at the Folies-Bergere
+Manet's Bar at the Folies-Bergere
+June 5–September 9, 2007 at the Getty Center
+A Bar at the Folies-Bergère (detail), Édouard Manet, 1882
+The Samuel Courtauld Trust, Courtauld Institute of Art Gallery, London
+ 
+Curator Scott Allan discusses the visual inconsistencies in the painting.
+French painter Édouard Manet presented A Bar at the Folies-Bergère at the 1882 Paris Salon exhibition just one year before his death. The painting is the culmination of his interest in scenes of urban leisure and spectacle, a subject that he had developed in dialogue with Impressionism over the previous decade. On loan from the Courtauld Institute of Art Gallery in London, the painting is a masterpiece that has perplexed and inspired artists and scholars since it was painted over 100 years ago.
+The Folies-Bergère was one of the most elaborate variety-show venues in Paris, showcasing entertainment ranging from ballets to circus acts. Another attraction was the barmaids, who were assumed by many contemporary observers to be available as clandestine prostitutes. By depicting one of these women and her male customer on an imposing scale, Manet brazenly introduced a morally suspect, contemporary subject into the realm of high art. By treating the topic with deadpan seriousness and painterly brilliance, Manet staked his claim to be remembered as the heroic "painter of modern life" envisaged by critics like Charles Baudelaire.
+A Bar at the Folies-Bergère, Édouard Manet, 1882
+ 
+Learn more about the Folies-Bergère and modern Paris.
+In addition to the social tensions evoked by the painting's subject, Manet's composition presents a visual puzzle. The barmaid looks directly at the viewer, while the mirror behind her reflects the large hall and patrons of the Folies-Bergère. Manet seems to have painted the image from a viewpoint directly opposite the barmaid. Yet this viewpoint is contradicted by the reflection of the objects on the bar and the figures of the barmaid and a patron off to the right. Given such inconsistencies, Manet seems not to have offered a single, determinate position from which to confidently make sense of the whole.
+In the installation at the Getty Center, a mirror has been installed to help dramatize the questions of vision and reflection raised by Manet's painting.
+ 
+The visual and psychological ambiguities of A Bar at the Folies-Bergère have prompted many questions:
+ How are we to characterize the barmaid's expression?
+ What is the nature of the viewer's relationship to the barmaid?
+ What is happening between the barmaid and the man reflected in the mirror?
+ If we see the man's reflection in the mirror, why isn't his figure also visible in front of the bar?
+ Why is there no indication in the mirror of the balcony walkway on which we imagine the man, or ourselves, to be standing?
+ Why are the reflections of the figures and still life objects displaced so far to the right?
+The more one reflects on Manet's painting, the more difficult it becomes to project a straightforward narrative onto it, and the more conscious and uncertain we become of our position as spectators. At once invoking and undermining the traditional notion of painting-as-mirror, Manet's work becomes a profound interrogation of the act of looking itself.
+What's Your Reaction to the Painting?
+Question:
+"Who painted ""A Bar at the Folies-Bergre""?"
+Answer:
+Eduard Manet
+Passage:
+Unus pro omnibus, omnes pro uno
+Unus pro omnibus, omnes pro uno is a Latin phrase that means "One for all, all for one" in English. 
+
+Earlier uses
+
+In a meeting in 1618 between leaders of the Bohemian Catholic and Protestant communities, which resulted in the defenestrations of Prague, a representative of the Protestants read a letter affirming, "As they also absolutely intended to proceed with the execution against us, we came to a unanimous agreement among ourselves that, regardless of any loss of life and limb, honour and property, we would stand firm, with all for one and one for all... nor would we be subservient, but rather we would loyally help and protect each other to the utmost, against all difficulties". 
+
+Traditional motto of Switzerland
+
+Switzerland has no official motto defined in its constitution or legislative documents.   The phrase, in its German (Einer für alle, alle für einen), French (un pour tous, tous pour un), Italian (Uno per tutti, tutti per uno) and Romansh (In per tuts, tuts per in) versions, came into widespread use in the 19th century. After autumn storms had caused widespread floods in the Swiss Alps in late September and early October 1868, officials launched an aid campaign under that slogan,  deliberately using it to evoke a sense of duty and solidarity and national unity in the population of the young nation. Switzerland had become a federal state only 20 years earlier, and the last civil war among the cantons, the Sonderbundskrieg, had been in 1847. Newspaper ads that used the motto to call for donations were run in all parts of the country.  The phrase was increasingly associated with the founding myths of Switzerland, which often also have solidarity as a central theme, to such a degree that "Unus pro omnibus, omnes pro uno" was even written in the cupola of the Federal Palace of Switzerland in 1902.  It has since been considered the motto of the country. 
+
+Politicians of all parties and regions acknowledge it as the motto of Switzerland.     
+
+Three Musketeers
+
+One for all, and all for one (Un pour tous, tous pour un; also inverted to All for one, and one for all) is a motto traditionally associated with the titular heroes of the novel The Three Musketeers written by Alexandre Dumas père, first published in 1844.  In the novel, it was the motto of a group of French musketeers named Athos, Porthos, Aramis and d'Artagnan who stayed loyal to each other through thick and thin.  
+
+On November 30, 2002, in an elaborate but solemn procession, six Republican Guards carried the coffin of Dumas from its original interment site in the Cimetière de Villers-Cotterêts in Aisne to the Panthéon. The coffin was draped in a blue-velvet cloth inscribed with the motto.
+Question:
+Whose motto was all for one and one for all
+Answer:
+Trois Mousquetaires
+Passage:
+Volatility (chemistry)
+In chemistry and physics, volatility is the tendency of a substance to vaporize. Volatility is directly related to a substance's vapor pressure. At a given temperature, a substance with higher vapor pressure vaporizes more readily than a substance with a lower vapor pressure.    
+
+The term is primarily written to be applied to liquids; however, it may be used to describe the process of sublimation which is associated with solid substances, such as dry ice (solid carbon dioxide) and osmium tetroxide (OsO4), which can change directly from the solid state to a vapor, without becoming liquid.
+
+Relations between vapor pressure, temperature, and boiling point
+
+The vapor pressure of a substance is the pressure at which its gas phase is in equilibrium with its condensed phases (liquid or solid). It is a measure of the tendency of molecules and atoms to escape from a liquid or a solid. A liquid's atmospheric pressure boiling point corresponds to the temperature at which its vapor pressure is equal to the surrounding atmospheric pressure and it is often called the normal boiling point.
+
+The higher the vapor pressure of a liquid at a given temperature, the higher the volatility and the lower the normal boiling point of the liquid. The vapor pressure chart (right hand side) displays the vapor pressures dependency for a variety of liquids as a function of temperature. 
+
+For example, at any given temperature, chloromethane (methyl chloride) has the highest vapor pressure of any of the liquids in the chart. It also has the lowest normal boiling point (−24.2 °C), which is where the vapor pressure curve (the blue line) intersects the horizontal pressure line of one atmosphere (atm) of absolute vapor pressure.
+Question:
+Technically 'flash point' refers to the triggering of what aspect of a volatile substance?
+Answer:
+Vapourisation
+Passage:
+Upper Peru
+This article is about a historical region now in Bolivia. Alto Perú is also the name of a shanty town area just outside Lima, Peru (see Asociacion SOLAC).
+
+Upper Peru () was the region in the Viceroyalty of Peru, and after 1776, the  Viceroyalty of the Río de la Plata, comprising the governorships of Potosí, La Paz, Cochabamba, Chiquitos, Moxos and Charcas (since renamed Sucre). It was governed by the Audiencia of Charcas.
+
+Following the Bolivian War of Independence, the region became an independent country and was renamed Bolivia in honour of Simón Bolívar.
+Question:
+Which country was once called Upper Peru?
+Answer:
+Bolivia, Plurinational State of
+Passage:
+Stapedius muscle
+The stapedius is the smallest skeletal muscle in the human body. At just over one millimeter in length, its purpose is to stabilize the smallest bone in the body, the stapes.
+
+Structure
+
+The stapedius emerges from a pinpoint foramen in the apex of the pyramidal eminence (a hollow, cone-shaped prominence in the posterior wall of the tympanic cavity), and inserts into the neck of the stapes.  
+
+Innervation
+
+The stapedius is innervated by the nerve to stapedius, a branch of the facial nerve. 
+
+Function
+
+The stapedius dampens the vibrations of the stapes by pulling on the neck of that bone.   It prevents excess movement of the stapes, helping to control the amplitude of sound waves from the general external environment to the inner ear. The stapedius muscle dampens the ability of the stapes vibration and protects the inner ear from high noise levels, primarily the volume of your own voice.
+
+Clinical relevance
+
+Paralysis of the stapedius, such as an injury to the facial nerve (CN VII) distal to the geniculate ganglion prior to its branch to stapedius muscle (which would also cause Bell's Palsy), allows wider oscillation of the stapes, resulting in heightened reaction of the auditory ossicles to sound vibration. This condition, known as hyperacusis, causes normal sounds to be perceived as very loud.
+
+Evolutionary variation
+
+Like the stapes bone to which it attaches, the stapedius muscle shares evolutionary history with other vertebrate structures.
+
+The mammalian stapedius evolved from a muscle called the depressor mandibulae in other tetrapods, the function of which was to open the jaws (this function was taken over by the digastric muscle in mammals). The depressor mandibulae arose from the levator operculi in bony fish, and is equivalent to the epihyoidean in sharks.  Like the stapedius, all of these muscles derive from the hyoid arch and are innervated by cranial nerve VII.
+Question:
+Where can you find the stapedius, the smallest muscle in the human body?
+Answer:
+The Ear
+Passage:
+Meal voucher
+A meal voucher or luncheon voucher is a voucher for a meal given to employees as an employee benefit, allowing them to eat at outside restaurants, typically for lunch.  In many countries, meal vouchers have had favorable tax treatment.  Vouchers are typically in the form of paper tickets.
+
+United Kingdom
+
+A luncheon voucher (LV) is a paper ticket (voucher) used by some employees in the United Kingdom to pay for meals in private restaurants. It allows companies to subsidise midday meals (luncheons) for their employees without having to run their own canteens.  
+
+The scheme dates to 1946, when food rationing was still in force following the end of the war. The British government granted an extra-statutory tax concession, believing that this would help citizens afford healthy meals. Under the concession, luncheon vouchers are free of income tax and national insurance contributions up to the value of 3 shillings (15 pence) a day. The initial level of 2s. 3d. (11.25p) was increased in 1948 to its current level of 3/- (15p), but has not been adjusted for inflation since.  The UK government announced in March 2011 its intention to abolish this relief with effect from April 2013, although this was subject to independent advice from the Office of Tax Simplification following wider consultation.  The abolition of the concession, effective from 6 April 2013, was confirmed in December 2011, with the government maintaining its view that the relief was redundant given that it is worth only 15p per day. 
+
+In the early days, a company that wanted to subsidise their staff lunches, but not run a canteen, had to have vouchers printed and make arrangements with one or more local restaurants to accept them. In addition, it would have to administer the scheme (for instance by checking and counting the vouchers returned from the restaurants prior to settling their account). In 1954, a businessman, John Hack, realised that a single standardised voucher acceptable across the UK would be more logical and efficient. He subsequently started the Luncheon Vouchers Company in 1955 to implement the nationwide Luncheon Voucher scheme. In 1956, nine large catering companies purchased the company, with Hack staying on as managing director. The company was bought by Accor in 1982.  Restaurants that accept the vouchers display an "LV" logo in their windows.
+
+The vouchers were used as a form of payment in Cynthia Payne's brothel in London during the 1970s. 
+
+Belgium
+
+Meal vouchers were introduced in Belgium in 1965. Electronic meal vouchers were introduced in 2011 and the old paper meal voucher system was phased out on January 1, 2016.
+
+France
+
+Meal vouchers were introduced to France in 1962 by Jacques Borel, who was inspired by Luncheon Vouchers; he called them Ticket Restaurant.  Starting in 1976, Ticket Restaurant expanded outside France, and became part of Accor in 1983.
+
+Accor and Edenred
+
+By 1983, Accor owned both the British Luncheon Vouchers and the French Ticket Restaurant. Accor spun off the voucher business in 1998 as Accor Services, which became Edenred in 2010."[http://www.ticketrestaurant.fr/Pages/NotreHistoire.aspx?CSRT
+18097525953718332783 50 ans d'innovation]", Ticket Restaurant web site
+Question:
+In which year (or decade) were luncheon vouchers introduced in the UK?
+Answer:
+1955

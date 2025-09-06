@@ -1,0 +1,312 @@
+Passage:
+The Fosdyke Saga
+The Fosdyke Saga was a British comic strip by cartoonist Bill Tidy, published in the Daily Mirror newspaper from March 1971 - February 1985. Described as "a classic tale of struggle, power, personalities and tripe", the strip was a parody of John Galsworthy's classic novel series The Forsyte Saga. However, the slightly bizarre and strange antics of the characters and those around them had a Lancashire/Cheshire lean with mangles, chimneys and soot ever present.
+
+The Fosdyke Saga was the story of Roger Ditchley, a wastrel son of tripe magnate, Old Ben Ditchley, who was deliberately disinherited by his father in favour of Jos Fosdyke. Roger, blinded by rage, seeks to regain his rightful inheritance over the next twelve years. His wicked plans are always thwarted as he enlists the most inept allies and twisted methods to attain his goal. 
+
+Each book included bizarre settings such as the rugby game between a Welsh choir and a lady's casual rugby team held in a Salford hotel (the stairs collapsed in the first half), the hunt for the Tripe Naughtee and the unforgettable "Brain of Salford" competition.  
+
+The series was axed from the Daily Mirror in 1985, the year after tycoon Robert Maxwell had purchased Mirror Group Newspapers.
+
+Created by well-known cartoonist Bill Tidy, who also produced cartoons for the satirical magazine Private Eye and created The Cloggies, the wry humour in this classic 1970s comic strip was very popular, if often unintelligible to those outside of the mid-north-west of England.
+
+Adaptations
+
+The Fosdyke Saga has been adapted as a TV movie, a radio serial by the BBC and a theatrical stage play, most recently performed by [http://www.cadsroyston.org.uk CADS] of Royston, Hertfordshire.
+
+The radio adaptation starred (among others) Miriam Margolyes, Enn Reitel, Christian Rodska and David Threlfall.
+Question:
+Who drew the cartoon strip The Fosdyke Saga?
+Answer:
+Bill Tidy
+Passage:
+2009 Epsom Derby
+The 2009 Epsom Derby was a horse race which took place at Epsom Downs on Saturday 6 June 2009. It was the 230th running of the Derby, and it was won by Sea the Stars. The winner was ridden by Michael Kinane and trained by John Oxx. The pre-race favourite Fame and Glory finished second.
+
+Race details
+
+* Sponsor: Investec
+* Winner's prize money: £709,625
+* Going: Good
+* Number of runners: 12
+* Winner's time: 2m 36.74s
+
+Full result
+
+* The distances between the horses are shown in lengths or shorter - nse 
+ nose; shd short-head; hd 
+ head; nk = neck† Trainers are based in Great Britain unless indicated
+
+Winner's details
+
+Further details of the winner, Sea the Stars:
+
+* Foaled: 6 April 2006 in Ireland
+* Sire: Cape Cross; Dam: Urban Sea (Miswaki)
+* Owner: Christopher Tsui
+* Breeder: Sunderland Holdings Ltd
+* Rating in 2009 World Thoroughbred Rankings: 136
+
+Form analysis
+
+Two-year-old races
+
+Notable runs by the future Derby participants as two-year-olds in 2008.
+
+* Sea the Stars – 1st Beresford Stakes
+* Fame and Glory – 1st Critérium de Saint-Cloud
+* Masterofthehorse – 3rd Beresford Stakes, 11th Racing Post Trophy
+* Rip Van Winkle – 1st Tyros Stakes, 7th Dewhurst Stakes
+* Crowded House – 2nd Tattersalls Million, 1st Racing Post Trophy
+* Age of Aquarius – 4th Critérium de Saint-Cloud
+* Kite Wood – 1st Autumn Stakes
+* Gan Amhras – 2nd Goffs (C & G) Million
+
+The road to Epsom
+
+Early-season appearances in 2009 and trial races prior to running in the Derby.
+
+* Sea the Stars – 1st 2,000 Guineas
+* Fame and Glory – 1st Ballysax Stakes, 1st Derrinstown Stud Derby Trial
+* Masterofthehorse – 2nd Chester Vase
+* Rip Van Winkle – 4th 2,000 Guineas
+* Golden Sword – 4th Prix Noailles, 1st Chester Vase
+* Crowded House – 8th Dante Stakes
+* Age of Aquarius – 1st Lingfield Derby Trial
+* Debussy – 1st Blue Riband Trial Stakes, 3rd Chester Vase
+* Kite Wood – 5th Dante Stakes
+* Black Bear Island – 3rd Prix La Force, 1st Dante Stakes
+* Gan Amhras – 3rd 2,000 Guineas
+* Montaff – 2nd Lingfield Derby Trial
+
+Subsequent Group 1 wins
+
+Group 1 / Grade I victories after running in the Derby.
+
+* Sea the Stars – Eclipse Stakes (2009), International Stakes (2009), Irish Champion Stakes (2009), Prix de l'Arc de Triomphe (2009)
+* Fame and Glory – Irish Derby (2009), Tattersalls Gold Cup (2010), Coronation Cup (2010), Ascot Gold Cup (2011)
+* Rip Van Winkle – Sussex Stakes (2009), Queen Elizabeth II Stakes (2009), International Stakes (2010)
+* Debussy - Arlington Million (2010)
+Question:
+Which horse won the 2009 Epsom Derby?
+Answer:
+Sea the Stars
+Passage:
+Tianhe-I
+Tianhe-I, Tianhe-1, or TH-1 (,; Sky River Number One) is a supercomputer capable of an Rmax (maximum range) of 2.5 petaFLOPS. Located at the National Supercomputing Center in Tianjin, China, it was the fastest computer in the world from October 2010 to June 2011 and is one of the few Petascale supercomputers in the world.  
+
+In October 2010, an upgraded version of the machine (Tianhe-1A) overtook ORNL's Jaguar to become the world's fastest supercomputer, with a peak computing rate of 2.507 petaFLOPS.   In June 2011 the Tianhe-1A was overtaken by the K computer as the world's fastest supercomputer, which was also subsequently superseded.
+
+Both the original Tianhe-1 and Tianhe-1A use a Linux-based operating system.  
+
+On 12 August 2015, the 186,368-core Tianhe-1, felt the impact of the powerful Tianjin explosions and went offline for some time. Xinhua reports that "the office building of Chinese supercomputer Tianhe-1, one of the world's fastest supercomputers, suffered damage." Sources at Tianhe-1 told Xinhua the computer is not damaged, but they have shut down some of its operations as a precaution.  Operation resumed on 17 August 2015. 
+
+Background
+
+Tianhe-1
+
+Tianhe-1 was developed by the Chinese National University of Defense Technology (NUDT) in Changsha, Hunan. It was first revealed to the public on  2009, and was immediately ranked as the world's fifth fastest supercomputer in the TOP500 list released at the 2009 Supercomputing Conference (SC09) held in Portland, Oregon, on  2009. Tianhe achieved a speed of 563 teraflops in its first Top 500 test and had a peak performance of 1.2 petaflops. Thus at startup, the system had an efficiency of 46%.   Originally, Tianhe-1 was powered by 4,096 Intel Xeon E5540 processors and 1,024 Intel Xeon E5450 processors, with 5,120 AMD graphics processing units (GPUs), which were made up of 2,560 dual-GPU ATI Radeon HD 4870 X2 graphics cards.  
+
+Tianhe-1A
+
+In October 2010, Tianhe-1A, an upgraded supercomputer, was unveiled at HPC 2010 China.  It is now equipped with 14,336 Xeon X5670 processors and 7,168 Nvidia Tesla M2050 general purpose GPUs. 2,048 FeiTeng 1000 SPARC-based processors are also installed in the system, but their computing power was not counted into the machine's official Linpack statistics as of October 2010.  Tianhe-1A has a theoretical peak performance of 4.701 petaflops.  NVIDIA suggests that it would have taken "50,000 CPUs and twice as much floor space to deliver the same performance using CPUs alone." The current heterogeneous system consumes 4.04 megawatts compared to over 12 megawatts had it been built only with CPUs. 
+
+The Tianhe-1A system is composed of 112 computer cabinets, 12 storage cabinets, 6 communications cabinets, and 8 I/O cabinets. Each computer cabinet is composed of four frames, with each frame containing eight blades, plus a 16-port switching board. Each blade is composed of two computer nodes, with each computer node containing two Xeon X5670 6-core processors and one Nvidia M2050 GPU processor.  The system has 3584 total blades containing 7168 GPUs, and 14,336 CPUs, managed by the SLURM job scheduler.  The total disk storage of the systems is 2 Petabytes implemented as a Lustre clustered file system, and the total memory size of the system is 262 Terabytes. 
+
+Another significant reason for the increased performance of the upgraded Tianhe-1A system is the Chinese-designed NUDT custom designed proprietary high-speed interconnect called Arch that runs at 160 Gbit/s, twice the bandwidth of InfiniBand.
+
+The system also used the Chinese made FeiTeng-1000 central processing unit.U.S. says China building 'entirely indigenous' supercomputer, by Patrick Thibodeau Computerworld, 4 November 2010 [http://www.computerworld.com/s/article/9194799/U.S._says_China_building_entirely_indigenous_supercomputer_] The FeiTeng-1000 processor is used both on service nodes and to enhance the system interconnect.The TianHe-1A Supercomputer: Its Hardware and Software by Xue-Jun Yang, Xiang-Ke Liao, et al in the Journal of Computer Science and Technology, Volume 26, Number 3, pages 344-351; DOI:10.1007/s11390-011-1137-4
+
+The supercomputer is installed at the National Supercomputing Center, Tianjin, and is used to carry out computations for petroleum exploration and aircraft design. It is an "open access" computer, meaning it provides services for other countries.  The supercomputer will be available to international clients. 
+
+The computer cost $88 million to build. Approximately $20 million is spent annually for electricity and operating expenses. Approximately 200 workers are employed in its operation.
+
+Tianhe-IA was ranked as the world's fastest supercomputer in the TOP500 list   until July 2011 when the K computer overtook it.
+
+In June 2011, scientists at the Institute of Process Engineering (IPE) at the Chinese Academy of Sciences (CAS) announced a record-breaking scientific simulation on the Tianhe-1A supercomputer that furthers their research in solar energy. CAS-IPE scientists ran a complex molecular dynamics simulation on all 7,168 NVIDIA Tesla GPUs to achieve a performance of 1.87 petaflops (about the same performance as 130,000 laptops). 
+
+The Tianhe-1A supercomputer was shut down after the National Supercomputing Center of Tianjin was damaged by an explosion nearby. The computer was not damaged and still remains operational.
+Question:
+Tianhe-1A, the supercomputer at the National Supercomputer Center in Tianjin, China which in October 2010 became the world's fastest supercomputer, uses what operating system?
+Answer:
+Linux-based GNU system
+Passage:
+Bleacher Report: Pros and Cons of the Most Popular Boxing ...
+Pros and Cons of the Most Popular Boxing Gloves Used by the Pros | Bleacher Report
+Pros and Cons of the Most Popular Boxing Gloves Used by the Pros
+Use your ← → (arrow) keys to browse the slideshow
+174.0K
+42
+Comments
+Perhaps the most important piece of equipment used in the ring by fighters is the type of gloves they choose to wear on the night of the fight, as well as during their training. 
+To the casual observer, all gloves basically look the same; however, it’s the subtle nuances in the various brands of gloves that can potentially be the difference between winning and losing on fight night.
+So, here’s a breakdown of the most popular types of boxing gloves used by top professionals, amateurs and just people boxing to stay fit. 
+1. Winning Gloves
+Mayweather with a pair of Winnings during training.
+Winning is a very high-quality brand of glove that is manufactured in Japan. They’re arguably the best gloves you can get on the market in terms of their construction and long-lasting ability. You could own these things for five years and they’ll still look and feel new.
+Winning also offers the greatest hand protection of any gloves out there, which is why they’re often referred to as “pillows.” But if you’re a fighter with hand problems, these gloves are for you. They’re very expensive, but no other glove will give you the protection that these will.
+These gloves are worn by too many top pros during their training to list, but they are a little bit rarer of a sight in actual fights, due to the drawback of they’re reduced power. Fighters who wear them in the ring are Canelo Alvarez, Erik Morales and Floyd Mayweather (formerly).  
+2. Everlast Gloves
+Miguel Cotto wearing Everlasts against Floyd Mayweather.
+Everlast is the company that most people think about when it comes to boxing. They've been around for over 100 years and definitely make high-quality pro fight gloves. Personally, I train in Everlast gloves, as they're very supportive and solid all around.
+And recently, a lot more professionals are using them in the ring, as they overhauled all their products in favor of new types of gloves that offer better construction and are of higher overall quality. Basically, they're in between "pillows" and the "puncher's gloves," which gives them a nice balance in terms of protection and punching power. 
+Some top fighters who routinely wear Everlast are Miguel Cotto, Andre Ward, Nonito Donaire, Deontay Wilder and Brandon Rios. 
+Scott Heavey/Getty Images
+Wladimir Klitschko and David Haye wearing Grants.
+Grants are excellent gloves, and like Winning, they are used by fighters who need hand protection but still aren't too protective to be deemed as pillow-type gloves. Grants are extremely well constructed and are personally my second-favorite pair of gloves to wear, and they are a step up from Everlast.
+They conform nicely to your hand, offer good wrist support and just feel great to have around your hands. And they look pretty good as well; the quality and craftsmanship are top-notch. Fighters who wear them on fight night are Floyd Mayweather, Wladimir and Vitali Klitschko, Andre Berto, Tim Bradley, Bernard Hopkins and Julio Cesar Chavez Jr. 
+Ethan Miller/Getty Images
+Pacquiao and Marquez wear Reyes.
+Cleto Reyes are my favorite gloves. They're made in Mexico and are of the utmost quality. They're hand made and hand stitched, and it shows. They feel awesome and it's like they're not even there; they feel very natural when put onto your hands. These gloves are different from the others on this list up to this point because they're considered to be "puncher's gloves."
+This is the case because less padding is on the knuckle area than other gloves, like Winning or Grant gloves. Reyes gloves are very soft—you can feel your knuckles through the padding when you have them on. This naturally translates to more punching power, but with less hand protection.
+Reyes gloves are used by Manny Pacquiao, Juan Manuel Marquez, Kelly Pavlik, Marcos Maidana, Amir Khan and numerous other top fighters. They're popular with boxers who don't have a history of hand problems and who have above-average punching power.   
+5. Rival Gloves
+Jean Pascal wears Rival gloves against B-Hop.
+Rival is a relatively new brand that's popular in Canada, and it's rapidly becoming more well-known in the U.S. Rival gloves have a great look to them, with a really awesome logo and a cool construction. They look kind of more futuristic, like they're ahead of the curve in terms of the way they look. 
+Personally, I've never worn Rivals, but from what I've been told, they're terrific gloves that offer really good support and are very safe for your hands, but still provide pretty good punching power. They're kind of like a blend of all different types of gloves. Well-padded but with power is the future of gloves, and Rival has already impressively been able to blend the two together. 
+The only top-fighter who wears Rivals that I know of is Canadian Jean Pascal, but gradually, more and more people are beginning to take notice and wear these gloves in training.
+Question:
+Everlast, Winning, and Grant are famous equipment brands for?
+Answer:
+Prize fight
+Passage:
+By Country Code - World Telephone Numbering Guide
+World Telephone Numbering Guide
+Greenland
+Some country codes in World Zone 2 are not in Africa. Aruba (+297) is near the South American continent, but there are no spare codes available in World Zone 5. A free code from World Zone 2 seemed to be the next best choice.
+Faroe Islands (+298) and Greenland (+299) are in the northern Atlantic, between North America and Europe. But for many years, there were no available country code assignments in the traditional European zones (World Zones 3 and 4). However, due to political upheavals such as the post-Soviet era national breakups, several codes have since become available in World Zones 3 and 4. There is no indication that these nations will be changing country codes, however.
+Zone 3
+Question:
+International dialling codes beginning with the number 2 are chiefly for which continent?
+Answer:
+Africay
+Passage:
+Yes Sir, I Can Boogie
+"Yes Sir, I Can Boogie" is a 1977 hit single by the Spanish vocal duo Baccara.
+
+Written by Frank Dostal and Rolf Soja, and produced by Soja, this standard disco song was a major hit across Europe and became the duo's sole number one single in the UK, spending a single week at the top in October 1977. It did not chart in the United States, despite receiving airplay in several markets. It is one of the best-selling singles of all time, despite being virtually unknown in the U.S., with an estimated total of 18 million units.  
+
+Baccara was composed of Spanish flamenco dancers Mayte Mateos and Maria Mendiola.  They were discovered on the island of Fuerteventura by RCA Records executive Leon Deane who saw them dancing flamenco and singing traditional songs for tourists; he subsequently signed them to the label.
+
+Track listings
+
+;7" single (Europe & US)
+#"Yes Sir, I Can Boogie" — 4:28
+#"Cara Mia" — 2:
+;12" maxi single (US only)
+#"Yes Sir, I Can Boogie" — 6:50
+#"Yes Sir, I Can Boogie" — 6:50
+
+Chart positions
+
+Covers
+
+*Finnish musician M. A. Numminen recorded a German version of the song, and also a Swedish one - with more verses.
+*In 1978, Czech singer Věra Špinarová recorded cover "Já mám ráda boogie".
+*In 1977, a sound-alike cover of the song was featured on the album Top of the Pops, Volume 62, using uncredited studio singers and musicians. When the album was released on iTunes in 2008, it was credited to Top of the Poppers.
+*In 1981, Brotherhood of Man recorded the song on their 20 Disco Greats / 20 Love Songs album.
+*In 1985, Alexander Bard recorded the song on their Barbie album.
+*In 1993, transgender Israeli singer Dana International recorded the song on her first album Danna International.
+*ABBA cover act Björn Again recorded a cover version that appears on the second disc of their double album Flash Back!/Live
+*In 2000, Nina Miranda of Smoke City fame covered the track for the soundtrack of the movie Born Romantic.
+*In 2003, Goldfrapp included a live cover version with altered lyrics titled "Yes Sir" on the Dutch edition of their album Black Cherry.
+*In 2003, Sophie Ellis-Bextor has also performed the song live and recorded a studio version for the B-Side of her single "I Won't Change You".
+*In the 2005 film Kinky Boots, it is sung by Chiwetel Ejiofor during the final monologue and over the credits.
+*In 2005, the Danish heavy metal band Evil Masquerade cover the song in the Japanese release of the album Theatrical Madness. 
+*In 2006, Tanja Thomas covered the song on her album, My Passion.
+*In 2008, Mexican band La Gusana Ciega also recorded a cover for their cover album Jaibol.
+*In 2008, The Ukulele Orchestra of Great Britain included a cover of the song on their live album, Live in London #1.
+*In 2010, a cover was recorded by Australian singer Christine Tski for her album Life in Auto-Tune. 
+*In 2013, the band Sala & The Strange Sounds released the song in April 2013 featuring Mayte Mateos (half of the original Baccara). 
+*In 2014, the Tolmachevy Sisters performed the song live on Russian variety show Odin v Odin! (One on One!). 
+
+Other uses
+
+*In 2014, the song was used in a television advertisement in the United Kingdom for Cadbury Dairy Milk. 
+*In 2015, fans of League of Ireland football club St. Patrick's Athletic F.C., possibly inspired by the Cadbury ad, adopted the song's melody as a chant, amending the lyrics to "Oh yes sir, I can boogie, but I need a certain team. We're the Patrick's, super Patrick's, all night long".
+*In 2015, in the spanish movie "La Isla Minima", the song can be heard in the scene at the disco bar.
+
+Parodies
+
+*Prima Vera made a parody of the song with lyrics about a fisherman, who is denied access to a nightclub because he smells like fish.
+Question:
+Who topped the UK charts in 1977 with ‘Yes, Sir, I Can Boogie’?
+Answer:
+Baccara
+Passage:
+Galanthophile
+A galanthophile is an enthusiastic collector of snowdrops (Galanthus species and cultivars).
+
+Term 
+
+The term galanthophile was probably invented by the noted British plantsman and garden writer E. A. Bowles (1865–1954) in a letter to his friend Oliver Wyatt, another keen collector of bulbs, whom he addressed as "Dear Galanthophil". Wyatt may have been the first person to whom the term was applied but he was by no means the first galanthophile; as well as Bowles himself there had been keen collectors of snowdrops since at least the mid 19th century. Many galanthophiles are commemorated in the names of snowdrop species or cultivars. Nurseryman James Atkins (1804–1884) of Northampton was one of the earliest, and the tall, early-flowering, robust Galanthus 'Atkinsii' is still widely grown: Canon Ellacombe of Bitton distributed 'Atkinsii' widely. 
+
+Collectors
+
+James Allen (1832–1906) of Shepton Mallet was probably the first person to raise hybrid snowdrops from seed made from deliberate crosses. In 1891 he reported that he grew every known species of Galanthus and had raised over 100 distinct seedlings, but much of his collection was lost to botrytis and narcissus fly soon afterward. At least two of his cultivars, G. 'Magnet' and G. 'Merlin', survive and are widely grown by collectors. He also raised hybrids which he called G. 'Galatea' and G. 'Robin Hood', but the plants now grown under those names today may not be the same as those he selected. Galanthus x allenii is a hybrid, of unknown origin, that appeared in a batch of G. latifolius (now called G. platyphyllus), which Allen had got from an Austrian supplier in 1883 (according to Bishop et al. it is more likely that the bulbs were another broad-leaved species, G. woronowii, often confused with G. platyphyllus). The bulbs were most probably collected in the Caucasus but G. ×allenii has never been found in the wild since then, so one can only speculate where the cross occurred and what other species may have been involved. It is a handsome plant with broad, greenish-grey foliage and fairly large flowers which smell of bitter almonds. Margery Fish at East Lambrook Manor was another enthusiast and popularizer of Galanthus nivalis and its varieties in the 1950s and 1960s. 
+
+Notable modern galanthophiles include the late Primrose Warburg (1920–1996), after whom G. 'Primrose Warburg' is named: appropriately, it has yellow markings and a yellow ovary (primroses are generally yellow). She was married to the noted botanist E.F. Warburg. Several other fine snowdrops originated at her garden at South Hayes in Oxfordshire, including the unusual cultivar named G. 'South Hayes' which has strong green markings on the outer "petals" (actually tepals) of the flower.
+
+Botanist Aaron Davis and gardeners Matt Bishop and John Grimshaw, authors of the works on which these notes are based, also qualify as galanthophiles.
+Question:
+What does a 'Galanthophile' collect?
+Answer:
+Snow drops
+Passage:
+Never the Twain
+Never the Twain is a British sitcom that ran for eleven series from 7 September 1981 to 9 October 1991. 
+
+It was created by  Johnnie Mortimer, and was the only sitcom he ever created without his usual writing partner, Brian Cooke. Mortimer wrote the entirety of the first two series, one episode of the seventh, and five out of six episodes of the eighth, with the rest being mainly written by John Kane and Vince Powell (who wrote the whole of the last three series).
+
+The series starred Windsor Davies (of, "It Ain't Half Hot Mum" fame) and the late Donald Sinden as rival antique dealers, and also co-starred Robin Kermode (later replaced by Christopher Morris), Julia Watson (later replaced by Tacy Kneale), Honor Blackman, Teddy Turner, Derek Deadman, Maria Charles and Zara Nutley.
+
+It was made by Thames Television for the ITV network. Since it finished, it has been repeated a few times on satellite television: first on UK Gold and later on ITV3.
+
+The title is taken from the Rudyard Kipling poem; The Ballad of East and West. The show's theme tune was composed by Jack Trombey and the track was entitled Domino.
+
+Plot
+
+Oliver Smallbridge, played by Windsor Davies, and Simon Peel, played by Donald Sinden, are antiques dealers who are also bitter enemies (after a falling-out having been business partners) and next-door neighbours, both in their homes and shops. They are engaged in a continuous game of one-upmanship, so both of them are shocked when they find out that their respective children (Smallbridge's daughter Lyn - played by Watson and later Kneale - and Peel's son David - played by Kermode and later Morris) are in love and want to marry as soon as possible. The fathers are forced to reluctantly accept the relationship and marriage, which takes place at the end of the first series.
+
+It is the impending marriage of Lyn and David and the early days of their marriage, alongside Oliver and Simon battling over the affection of middle-class widow Veronica Barton (played by Blackman), that provides the basis for the first two series (both written entirely by Mortimer). The third series features a failed attempt by Simon and Oliver to try to renew their business partnership.
+
+After the third series, Lyn and David move to Vancouver in Canada, leaving the daily goings on at Simon and Oliver's shops and in their private lives as the main themes of the show. Other notable characters in the series are be Simon's butler Banks (played by Turner), a replacement for a foreign au pair that Simon had requested; Ringo (played by Deadman), Oliver's idiotic assistant in his shop; and Mrs. Sadler (played by Charles), Oliver's clumsy cleaner, who has an annoying tendency to accidentally break things. Banks and Mrs. Sadler's amorous relationship provides humorous material in these series, with both of them marrying and leaving the show at the end of the seventh series. The fourth to seventh series were written by a group of  writers, Powell and Me and My Girl co-creator Kane being the most prominent.
+
+In the eighth series (mostly written again by Mortimer), Lyn and David return from Canada with their son (and Oliver's and Simon's grandson) Martin, who provides a new platform on which Simon and Oliver can develop their long-standing rivalry, fighting over who is the better grandfather. However, at the end of that series, Lyn, David and Martin move to a new flat in Friern Barnet.
+
+Simon and Oliver's daily personal and business lives are the primary focus of the final three series (all written in their entirety by Powell). In these series, another character (who had already made two appearances in series 4 and 7) begins to appear regularly: Simon's Aunt Eleanor (played by Nutley, who had also appeared in Vince Powell's earlier sitcom Mind Your Language), moves near Oliver and Simon.
+
+Also, appearing in some episodes of the series were Donald Sinden's sons Marc and Jeremy, while his wife Diana appeared in the last ever episode. 
+
+DVD releases
+
+The complete first series was released on DVD in June 2001, by Clear Vision and no other series were released. It was announced that a different company will release a DVD featuring the first two series, it was released in September 2010. 
+
+Locations
+
+The outside locations for the two antique shops were filmed in Hersham, Surrey on the site of a restaurant.
+
+Repeats
+
+Beginning in late 2014 the channel ITV3 began showing repeats beginning with series one in a late afternoon timeslot with other classic series such as Rising Damp and On The Buses.
+Question:
+Who played Oliver Smallbridge in the eighties Australia sitcom Never The Twain
+Answer:
+Windsor Davis
+Passage:
+Papillon (horse)
+Papillon is an Irish racehorse formerly trained at Greenhills stables, near Naas in County Kildare.  His most notable success was winning the 2000 Grand National.
+
+Papillon is owned by American Mrs Betty Moran, owner of Brushwood Stable.  She was not a fan of the Grand National and it took considerable persuasion before she would allow Papillon to be entered for the race in 2000. 
+
+Papillon had started the day with odds of 33–1 but was backed down to 10-1 by the time the race began. He was a first ever ride in the race for 20-year-old jockey Ruby Walsh, and was trained by Ruby's father Ted Walsh. When Papillon crossed the finishing line to win the world's richest steeplechase he became an instant punters' favourite.  Papillon previously came a very close second in the 1998 Irish Grand National to Bobbyjo under top-weight. 
+
+In 2001 Papillon returned to Aintree to attempt to defend his winning record.  However, conditions were completely different from the previous year, as the race was run on very heavy ground and Papillon carried more weight.  He was brought down at the 19th fence but Ruby Walsh realised there would be very few completions and remounted the horse to finish last of the four finishers, earning £25,000 for doing so.
+
+Papillon was retired at the end of the 2002/03 season, having earned his connections over £400,000 in win and place prize money.
+
+Pedigree
+Question:
+Riding both Papillon in 2000, and Hedgehunter in 2005, which is the only jockey to ride two Aintree Grand National winners in the 21st century?
+Answer:
+RUBY WALSH

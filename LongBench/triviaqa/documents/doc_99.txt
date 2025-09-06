@@ -1,0 +1,816 @@
+Passage:
+Which USA State borders only one other USA state?
+Which USA State borders only one other USA state?
+Which USA State borders only one other USA state?
+By Cynthia Kirkeby
+Which USA State borders only one other USA state?
+Maine is the only state that has only one bordering, neighboring state.
+Cynthia Kirkeby
+Question:
+Which American state has a border with only one other state?
+Answer:
+Remember maine
+Passage:
+Weber (unit)
+In physics, the weberIn America also. (symbol: Wb) is the SI unit of magnetic flux. A flux density of one Wb/m2 (one weber per square metre) is one tesla.
+
+The weber is named after the German physicist Wilhelm Eduard Weber (1804–1891).
+
+Definition 
+
+The weber may be defined in terms of Faraday's law, which relates a changing magnetic flux through a loop to the electric field around the loop. A change in flux of one weber per second will induce an electromotive force of one volt (produce an electric potential difference of one volt across two open-circuited terminals).
+
+Officially,
+Weber (unit of magnetic flux) — The weber is the magnetic flux that, linking a circuit of one turn, would produce in it an electromotive force of 1 volt if it were reduced to zero at a uniform rate in 1 second. 
+The weber is commonly expressed in a multitude of other units:
+
+\mathrm{Wb} 
+=\dfrac{\mathrm{kg} \cdot \mathrm{m}^2}{\mathrm{s}^2 \cdot \mathrm{A}}
+=\mathrm{V} \cdot \mathrm{s} 
+=\mathrm{H} \cdot \mathrm{A} 
+=\mathrm{T} \cdot \mathrm{m}^2 
+=\dfrac{\mathrm{J}}{\mathrm{A}}
+=10^8\mathrm{Mx}
+
+where
+Wb = weber,
+V = volt,
+T = tesla,
+J = joule,
+m = meter,
+s = second,
+A = ampere,
+H = henry,
+Mx = maxwell.
+
+History 
+
+In 1861, the British Association for the Advancement of Science (known as "The BA" ) established a committee under William Thomson (later Lord Kelvin) to study electrical units.
+ In a February 1902 manuscript, with handwritten notes of Oliver Heaviside, Giovanni Giorgi proposed a set of rational units of electromagnetism including the weber, noting that "the product of the volt into the second has been called the weber by the B. A."   
+
+The International Electrotechnical Commission began work on terminology in 1909 and established Technical Committee 1 in 1911, its oldest established committee, "to sanction the terms and definitions used in the different electrotechnical fields and to determine the equivalence of the terms used in the different languages."
+ 
+
+It was not until 1927 that TC1 dealt with the study of various outstanding problems concerning electrical and magnetic quantities and units. Discussions of a theoretical nature were opened at which eminent electrical engineers and physicists considered whether magnetic field strength and magnetic flux density were in fact quantities of the same nature. As disagreement continued, the IEC decided on an effort to remedy the situation. It instructed a task force to study the question in readiness for the next meeting.
+
+In 1930, TC1 decided that the magnetic field strength (H) is of a different nature from the magnetic flux density (B), and took up the question of naming the units for these fields and related quantities, among them the integral of magnetic flux density.
+
+In 1935, TC 1 recommended names for several electrical units, including the weber for the practical unit of magnetic flux (and the maxwell for the CGS unit).
+
+This page incorrectly states that the units were established in 1930, since that year, TC 1 decided "that the question of names to be allocated to magnetic units should not be considered until general agreement had been reached on their definitions" [http://www.iec.ch/zone/si/si_role.htm]
+
+It was decided to extend the existing series of practical units into a complete comprehensive system of physical units, the recommendation being adopted in 1935 "that the system with four fundamental units proposed by Professor Giorgi be adopted subject to the fourth fundamental unit being eventually selected".  This system was given the designation of "Giorgi system". 
+
+Also in 1935, TC1 passed responsibility for "electric and magnetic magnitudes and units" to the new TC24.  This "led eventually to the universal adoption of the Giorgi system, which unified electromagnetic units with the MKS dimensional system of units, the whole now known simply as the SI system (Système International d’unités)." 
+
+In 1938, TC24 "recommended as a connecting link [from mechanical to electrical units] the permeability of free space with the value of µ0 4π H/m. This group also recognized that any one of the practical units already in use (ohm, ampere, volt, henry, farad, coulomb, and weber), could equally serve as the fourth fundamental unit. "After consultation, the ampere was adopted as the fourth unit of the Giorgi system in Paris in 1950."
+
+Notes and references
+Question:
+Wb is the symbol for which SI derived unit?
+Answer:
+Weber (surname)
+Passage:
+Top Ten Best Selling Books of All-Time - Rankings.com
+Top Ten Best Selling Books of All-Time - Rankings.com
+Awarding the best products, companies, and more
+Top Ten Best Selling Books of All-Time
+1. The Holy Bible – Various Authors
+Book Sales: 2,500,000,000+
+Year Published: 100 BC – 100 AD
+Original Language: Hebrew, Greek, Aramaic
+Many copies of The Holy Bible have been freely given away during missionary work.
+2. Quotations from Chairman Mao – Authored by Mao Zedong
+Book Sales: 800,000,000+
+Year Published: 1966
+Original Language: Chinese
+It was mandatory for all people living in China to carry a copy of Quotations from Chairman Mao.
+3. The Qur’an – Authored by the Islamic prophet Muhammad
+Book Sales: 800,000,000
+Year Published: 600 AD – 750 AD
+Original Language: Arabic
+Traditional views consider The Qu’ran to be a Revelation by Allah, through Gabriel, to the prophet Muhammad.
+4. Xinhua Dictionary – Edited by Wei Jiangong
+Book Sales: 400,000,000
+The best selling pocket-sized Xinhua Dictionary is used mostly by students in China.
+5. Chairman Mao’s Poems – Authored by Mao Zedong
+Book Sales: 400,000,000
+Chairman Mao, considered a romantic poet, was educated in Chinese classical literature.
+6. Selected Articles of Mao Zedong – Authored by Mao Zedong
+Book Sales: 250,000,000
+Mao is recognized as one of China’s most influential literary figures.
+7. A Tale of Two Cities – Authored by Charles Dickens
+Book Sales: 200,000,000
+Year Published: 1859
+Original Language: English
+A historical novel telling the story of two men who fall in love with the same woman during revolutionary times.
+8. Scouting for Boys: A Handbook for Instruction in Good Citizenship – Authored by Robert Baden-Powell
+Book Sales: 150,000,000
+Year Published: 1908
+Original Language: English
+This manual for the Boy Scout Movement emphasises the outdoors and has practical tips on health and hygiene.
+9. The Lord of the Rings – Authored by J. R. R. Tolkien
+Book Sales: 150,000,000
+Year Published: 1954–1955
+Original Language: English
+The Lord of the Rings was originally intended to be a sequel to The Hobbit, but became an epic fantasy on its own.
+10. Book of Mormon – Various Authors
+Book Sales: 140,000,000
+Year Published: 1830
+Original Language: English
+The Book of Mormon, published by Joseph Smith, Jr., is sacred text of the Latter Day Saints.
+Awarding the best products, companies, and more
+Question:
+Whose quotations are collected into the best-selling book in Chinese history?
+Answer:
+Mao Ze-dong
+Passage:
+Organ (anatomy)
+In biology, an organ or viscus is a collection of tissues joined in a structural unit to serve a common function.  In anatomy, a viscus is an internal organ, and viscera is the plural form.   
+
+Organs are composed of main tissue, parenchyma, and "sporadic" tissues, stroma. The main tissue is that which is unique for the specific organ, such as the myocardium, the main tissue of the heart, while sporadic tissues include the nerves, blood vessels, and connective tissues. Functionally related organs often cooperate to form whole organ systems. Organs exist in all higher biological organisms, in particular they are not restricted to animals, but can also be identified in plants. In single-cell organisms like bacteria, the functional analogue of an organ is called organelle. 
+
+A hollow organ is a visceral organ that forms a hollow tube or pouch, such as the stomach or intestine, or that includes a cavity, like the heart or urinary bladder.
+
+Organ systems 
+
+Two or more organs working together in the execution of a specific body function form an organ system, also called a biological system or body system. The functions of organ systems often share significant overlap. For instance, the nervous and endocrine system both operate via a shared organ, the hypothalamus. For this reason, the two systems are combined and studied as the neuroendocrine system. The same is true for the musculoskeletal system because of the relationship between the muscular and skeletal systems.
+
+Mammals such as humans have a variety of organ systems. These specific systems are also widely studied in human anatomy.
+* Cardiovascular system: pumping and channeling blood to and from the body and lungs with heart, blood and blood vessels.
+* Digestive system: digestion and processing food with salivary glands, esophagus, stomach, liver, gallbladder, pancreas, intestines, colon, rectum and anus.
+* Endocrine system: communication within the body using hormones made by endocrine glands such as the hypothalamus, pituitary gland, pineal body or pineal gland, thyroid, parathyroids and adrenals, i.e., adrenal glands.
+* Excretory system: kidneys, ureters, bladder and urethra involved in fluid balance, electrolyte balance and excretion of urine.
+* Lymphatic system: structures involved in the transfer of lymph between tissues and the blood stream, the lymph and the nodes and vessels that transport it including the Immune system: defending against disease-causing agents with leukocytes, tonsils, adenoids, thymus and spleen.
+* Integumentary system: skin, hair and nails.
+* Muscular system: movement with muscles.
+* Nervous system: collecting, transferring and processing information with brain, spinal cord and nerves.
+* Reproductive system: the sex organs, such as ovaries, fallopian tubes, uterus, vagina, mammary glands, testes, vas deferens, seminal vesicles, prostate and penis.
+* Respiratory system: the organs used for breathing, the pharynx, larynx, trachea, bronchi, lungs and diaphragm.
+* Skeletal system: structural support and protection with bones, cartilage, ligaments and tendons.
+
+Other animals
+
+The organ level of organisation in animals can be first detected in flatworms and the more advanced phyla. The less-advanced taxons (like Placozoa, Porifera and Radiata) do not show consolidation of their tissues into organs.
+
+Plants
+
+The study of plant organs is referred to as plant morphology, rather than anatomy, as in animal systems. Organs of plants can be divided into vegetative and reproductive. Vegetative plant organs are roots, stems, and leaves. The reproductive organs are variable. In flowering plants, they are represented by the flower, seed and fruit. In conifers, the organ that bears the reproductive structures is called a cone. In other divisions (phyla) of plants, the reproductive organs are called strobili, in Lycopodiophyta, or simply gametophores in mosses.
+
+The vegetative organs are essential for maintaining the life of a plant. While there can be 11 organ systems in animals, there are far fewer in plants, where some perform the vital functions, such as photosynthesis, while the reproductive organs are essential in reproduction. However, if there is asexual vegetative reproduction, the vegetative organs are those that create the new generation of plants (see clonal colony).
+
+History
+
+Etymology
+
+The English word "organ" derives from the Latin ', meaning "instrument", itself from the Greek word , ' ("implement; musical instrument; organ of the body"). The Greek word is related to , ' ("work").Barnhart's Concise Dictionary of Etymology The viscera, when removed from a butchered animal, are known collectively as offal. Internal organs are also informally known as "guts" (which may also refer to the gastrointestinal tract), or more formally, "innards".
+
+Aristotle used the word frequently in his philosophy, both to describe the organs of plants or animals (e.g. the roots of a tree, the heart or liver of an animal), and to describe more abstract "parts" of an interconnected whole (e.g. his philosophical works, taken as a whole, are referred to as the "organon").
+
+The English word "organism" is a neologism coined in the 17th century, probably formed from the verb to organize. At first the word referred to an organization or social system. The meaning of a living animal or plant is first recorded in 1842. Plant organs are made from tissue built up from different types of tissue. When there are three or more organs it is called an organ system. 
+
+The adjective visceral, also splanchnic, is used for anything pertaining to the internal organs. Historically, viscera of animals were examined by Roman pagan priests like the haruspices or the augurs in order to divine the future by their shape, dimensions or other factors. This practice remains an important ritual in some remote, tribal societies.
+
+The term "visceral" is contrasted with the term "", meaning "of or relating to the wall of a body part, organ or cavity". The two terms are often used in describing a membrane or piece of connective tissue, referring to the opposing sides.
+
+7 Vital Organs of Antiquity
+
+Some alchemists (e.g. Paracelsus) adopted the Hermetic Qabalah assignment between the 7 vital organs and the 7 Classical planets as follows:
+Question:
+Which organ of the body produces bile
+Answer:
+Impressio duodenalis
+Passage:
+Mat Fraser
+Mat Fraser is an English actor. He has thalidomide-induced Phocomelia. 
+
+Performing career
+
+As an actor Fraser has performed on the hit show American Horror Story: Freak Show, and with the "Graeae Theatre Company", Europe's leading disabled theatre company. He is the creator and main performer in a new play called Thalidomide!! A Musical. He also co-hosts the BBC's Ouch! Podcast. 
+
+Fraser has appeared on television both as a presenter and as an actor, in a number of productions including Metrosexuality and Every Time You Look at Me. He is also a martial artist having studied hapkido, taekwondo, and karate.  
+Fraser coined the use of term "spacking up" to describe when a non-disabled actor plays the part of a disabled person rather than the part going to a disabled actor, as a play on "blacking up", used to describe the controversial practice where non-black actors take on the characters of black people.  
+
+His film Kung Fu Flid was released in 2009, starring Faye Tozer (formerly of pop group Steps), Frank Harper and Terry Stone. 
+
+Fraser appeared in the RTÉ One soap opera Fair City in June 2011,  playing Esther's son David. 
+
+Fraser played the drums in a performance of Ian Dury's "Spasticus Autisticus" at the 2012 Paralympics opening ceremony,[http://www.timeout.com/london/cabaret/article/3696/flippers-and-strippers-mat-fraser-and-julie-atlas-muz Flippers and strippers – Mat Fraser and Julie Atlas Muz] Time Out London, 31 August 2012[http://www.thisiscabaret.com/from-paraphilia-to-paralympics-with-mat-fraser/ From Paraphilia to Paralympics with Mat Fraser] This is Cabaret, 8 September 2012 and with Coldplay during the closing ceremony.  
+
+Personal life
+
+Fraser married Julie Atlas Muz, a burlesque star, in May 2012 in New York City.
+Question:
+A 2000s British musical by Mat Fraser whose plot is about the love affair of a guy with phocomelia (a birth defect that causes stunted limbs) is titled after what drug?
+Answer:
+Glutanon
+Passage:
+Is the steel pan the only acoustic musical instrument to ...
+music - Is the steel pan the only acoustic musical instrument to be invented in the 20th century and used widely around the world? - History Stack Exchange
+Is the steel pan the only acoustic musical instrument to be invented in the 20th century and used widely around the world?
+up vote 12 down vote favorite
+1
+I have seen claims that the steel pan (commonly called steel drum) was the only acoustic instrument developed in the 20th century. Is this true? There are related instruments (the Hang or hand pan) but I'm interested in the history of unique musical instruments that are more than experimental musical instruments.  I'm trying to find sources to support or refute these claims, but I cannot seem to find anything definitive.
+1
+ 
+Now that would be interesting to know. My first guess was Harmonica, but it's from 19th century. A fine question, I'm just retagging it a bit. Good that you provide the current state of your research with related instruments, but adding some links to external sources which could guide others to expand their knowledge (f.e. to descriptions or history of mentioned instruments) would be also nice for the future. Welcome to the site! –  Darek Wędrychowski Feb 16 '13 at 16:49
+  
+ 
+What's your definition of acoustic instrument? E.g. Hammond organs contain also mechanical parts to create the sound. –  knut Feb 16 '13 at 18:32
+  
+ 
+... and what is your definition of "widely"? Is the steelpan really widely used? The wiki also states that it was developed between 1880 and 1937. –  coleopterist Feb 16 '13 at 19:26
+  
+ 
+@knut, I'm not the one asking the question, but probably everything in this system , excluding electrophones. –  Nathan Cooper Feb 16 '13 at 19:39
+  
+ 
+We the music.stackexchange.com guys complain this question ended up here? –  Nathan Cooper Feb 16 '13 at 19:45
+Question:
+What is the only non electrical musical instrument invented in the 20th Century
+Answer:
+Steeldrum
+Passage:
+Helen Graham (The Tenant of Wildfell Hall)
+Helen Lawrence (married name is Helen Huntingdon but she is most commonly known under her alias Helen Graham) is the main female protagonist of Anne Brontë's 1848 novel The Tenant of Wildfell Hall. Helen was portrayed by Janet Munro in the 1968 TV adaptation and Tara FitzGerald in the 1996 miniseries.
+
+Biography
+
+Helen Lawrence was born in 1802 (or in the first half of 1803) at Wildfell Hall. Rachel, later her maid and friend, takes care of infant Helen. Her mother dies when Helen is still too young to remember her. Immediately after that, her father, unwilling to take any care of a girl, sends Helen to her aunt, Mrs. Peggy Maxwell, at Staningley Hall.
+
+At the age of eighteen Helen enters her first season, where she meets witty and handsome Arthur Huntingdon. She falls in love with him and eventually marries him, in spite of all his faults and strong disapproval of her aunt. Helen is firmly convinced that she can reform Arthur with gentle persuasion and good example.
+
+One year after their marriage Helen gives birth to their son Arthur Jr., often referred to in the novel as Little Arthur. Huntingdon, who doesn't like his baby, becomes increasingly jealous of him and his claims on Helen's attentions and affections. He spends even more time with his dissolute friends and eventually begins an affair with Lady Lowborough. Walter Hargrave, Helen's unwanted admirer, tells her about it. Nevertheless, Helen plans to run away from Huntingdon and, therefore, violate the law,  only when he begins to encourage their son to drink and swear at his early age.
+
+Unfortunately, Huntingdon learns of Helen's plans from her journal and burns her artist's tools (by which she had hoped to support herself). Unable to run away to America as she planned before, Helen, with help from her brother, Frederick, finds a secret refuge at Wildfell Hall. She lives there under an assumed name: Helen Graham (Graham is her mother's maiden name).
+
+There she meets Gilbert Markham, a young farmer who falls in love with her. When he begins to believe the filthy gossip that is spread about her, she gives him her diary. From it Gilbert learns than Helen is a runaway wife. Soon after this, Helen goes back to Grassdale Manor where she discovers that Huntingdon has fallen from his horse (in a state of inebriation) and is badly injured. As he is unwilling to stop drinking alcohol, Arthur's health deteriorates and he eventually dies.
+
+Now unburdened by her marriage to Arthur, Helen and Gilbert marry and have at least two children together.
+
+Appearance
+
+Helen is described by Gilbert in the first chapter of the novel when he sees her at church:
+
+Later he revealed that her eyes were very dark grey, almost black and a 'large, clear and full of soul'.
+
+Notable portrayals
+
+* Janet Munro in 1968 adaptation
+* Tara FitzGerald in 1996 adaptation
+Question:
+Helen Graham is the eponymous protagonist of which 19th-century novel?
+Answer:
+The Tenant of Wildfell Hall
+Passage:
+Chas & Dave
+Chas & Dave (often billed as Chas 'n' Dave) are an English pop rock duo, most notable as creators and performers of a musical style labelled "rockney" (a portmanteau of "rock" and "cockney"), which mixes "pub singalong, music-hall humour, boogie-woogie piano and pre-Beatles rock 'n' roll".  For a time, "Rockney" was also the name of their record label, and they achieved several British chart hits, their major breakthrough being "Gertcha" in 1979, which peaked at No. 20 in the UK Singles Chart, and was the first of eight Top 40 hit singles the duo played on. They also had nine best-selling albums. In October 2013 they released That's What Happens, their first studio album in 18 years.
+
+History and formation
+
+The group originally consisted of Charles Nicholas "Chas" Hodges (piano, vocals, banjo, guitars) and David Victor "Dave" Peacock (bass guitar, vocals, piano, banjo, guitar, ukulele), with sidesman Mick Burt on drums.  In 2011, Burt retired from the band with Chas's son, Nicholas Charles "Nik" Hodges taking over on drums. In the 1970s Chas & Dave were prominent session musicians, playing for a wide range of artists; for instance – the hook used on Eminem's "My Name Is" was taken from a Labi Siffre tune, "I Got The", on which Chas & Dave performed. 
+
+The rockney style was from the start intentional, as they felt an alternative to the way British bands copied American accents was needed. Chas has said:
+
+The songs for which they are most known are partly comic, and Chas & Dave are strongly identified with London's blue collar and working class pub sing-song culture. However, their 1982 number two hit, "Ain't No Pleasing You" was a more romantic record, with strings added to the usual piano, drum and bass sound.
+
+Their single "Gertcha" was used as the music behind a notable television commercial for Courage Bitter. 
+
+"Rabbit" comes from the Cockney rhyming slang "rabbit and pork" meaning "talk".  The song is about a relationship between a man and a woman, in which the man expresses his love for his girlfriend, but complains that she will not stop talking or, "rabbiting". It was also used in a television commercial for Courage Bitter.  "Snooker Loopy", a comic song about snooker, was released as a single in May 1986 and entered the UK Singles Chart, reaching number 6.
+
+Chas & Dave were offered the chance to record the theme song for the sitcom Only Fools and Horses but turned it down as they were in Australia at the time due to the success of "Ain't No Pleasing You". However their song "Margate" was used in a feature-length episode of the comedy, entitled "The Jolly Boys Outing".
+
+They also recorded four FA Cup final singles for Tottenham Hotspur including "Glory Glory Tottenham Hotspur"/"Ossie's Dream" in 1981 and "Tottenham Tottenham" in 1982. Tottenham Hotspur were victorious in both of these finals.   as well as appearing on the 1987 FA Cup Final song Hot Shot Tottenham!.
+
+They opened for Led Zeppelin at the 1979 Knebworth Festival,  and Chas Hodges has said that one of his proudest moments was playing the Glastonbury Festival in 2005. 
+
+Their work influenced The Libertines, who played their songs at rehearsals.
+
+On 6 October 2008, their autobiography, Chas & Dave – All About Us, written by Hodges, was published in the UK. It is reported that it took him a quarter of a century to write. 
+
+It was announced in September 2009 that the pair would no longer be working together as Peacock planned to retire from the band following the death of his wife Sue.    However, In June 2010, it was announced that Chas & Dave would reunite for one final tour in 2011. They also played their "Christmas Jamboree" at the IndigO2 on 23 and 24 December 2011 and 8 December 2012. It was announced on 4 October 2012 that they would be the sixth act announced to play Rebellion Festival, as part of their last tour. Their subsequent "Back By Demand" tour of the UK occurred between February and May 2013.
+
+In October 2012 they were subject of the BBC Four documentary Chas & Dave: Last Orders. 
+
+In October 2013 they released That's What Happens, their first studio album in 18 years. In July 2014 Hodges appeared in the first episode of Graham Fellows' BBC Radio 4 comedy series John Shuttleworth's Lounge Music. 
+
+On 19th October 2014 the official website announced the death of Mick Burt, their original drummer, the previous day.
+
+On 9 May 2015 they performed at VE Day 70: A Party to Remember in Horse Guards Parade, London. In December they took their traditional Christmas show to the Hammersmith Apollo.
+
+Chas and Dave's Knees Up
+
+In 1983, Chas & Dave presented their own variety show, made by LWT and broadcast on ITV, which was set in an East End pub.
+
+* Episode 1: 21 May 1983, Appearing: Eric Burdon, Linda Lewis and Jeff Stevenson
+* Episode 2: 4 June 1983, Appearing: Lulu, Rocky Sharpe and the Replays, Bobby Knutt and Roy Jay
+* Episode 3: 11 June 1983, Appearing: Mike Berry, The Flying Pickets and Dave Ismay
+* Episode 4: 18 June 1983, Appearing: Paul Shane, Captain Sensible and Berni Flint
+* Episode 5: 25 June 1983, Appearing: Clarence "Frogman" Henry, Rose-Marie and Jimmy Jones
+* Episode 6: 2 July 1983, Appearing: Lonnie Donegan, Diz and The Doormen and Gary Wilmot
+* Xmas Knees Up (MCMLXXXII). Channel Five (UK) broadcast this episode, that featured a similar setting to the series, on Christmas Day 2014 and 2015. Appearing were Jimmy Cricket, Eric Clapton and Jim Davidson  among others.
+
+Discography
+Question:
+Which musical duo could have been billed as 'Hodges & Peacock'?
+Answer:
+Chas & Dave
+Passage:
+The War of the Roses (1989) - IMDb
+The War of the Roses (1989) - IMDb
+IMDb
+There was an error trying to load your rating for this title.
+Some parts of this page won't work property. Please reload or try later.
+X Beta I'm Watching This!
+Keep track of everything you watch; tell your friends.
+Error
+The War of the Roses ( 1989 )
+R |
+A married couple try everything to get each other to leave the house in a vicious divorce battle.
+Director:
+From $2.99 (SD) on Amazon Video
+ON DISC
+a list of 27 titles
+created 01 Aug 2011
+a list of 45 titles
+created 11 Sep 2011
+a list of 43 titles
+created 01 Jul 2012
+a list of 42 titles
+created 06 Feb 2014
+a list of 48 titles
+created 04 Aug 2014
+Title: The War of the Roses (1989)
+6.8/10
+Want to share IMDb's rating on your own site? Use the HTML below.
+You must be a registered user to use the IMDb rating plugin.
+Nominated for         3         Golden Globes. Another       2 wins & 6 nominations. See more awards  »
+Videos
+This is the sequel to "Romancing the Stone" where Jack and Joan have their yacht and easy life, but are gradually getting bored with each other and this way of life. Joan accepts an ... See full summary  »
+Director: Lewis Teague
+A romance writer sets off to Colombia to ransom her kidnapped sister, and soon finds herself in the middle of a dangerous adventure.
+Director: Robert Zemeckis
+A married man's one-night stand comes back to haunt him when that lover begins to stalk him and his family.
+Director: Adrian Lyne
+A computer specialist is sued for sexual harassment by a former lover turned boss who initiated the act forcefully, which threatens both his career and his personal life.
+Director: Barry Levinson
+Two NYC cops arrest a Yakuza member and must escort him when he's extradited to Japan.
+Director: Ridley Scott
+A violent, suspended police detective investigates a brutal murder, in which a manipulative and seductive woman could be involved.
+Director: Paul Verhoeven
+A remake of the Alfred Hitchcock classic Dial M for Murder (1954).
+Director: Andrew Davis
+A borderline personality disordered defense worker frustrated with the various flaws he sees in society, begins to psychotically and violently lash out against them.
+Director: Joel Schumacher
+A young and impatient stockbroker is willing to do anything to get to the top, including trading on illegal inside information taken through a ruthless and greedy corporate raider who takes the youth under his wing.
+Director: Oliver Stone
+A bitter ex-husband and a put-upon momma's boy both want their respective former spouse and mother dead. Who will pull it off?
+Director: Danny DeVito
+A millionaire offers $1,000,000 to a young married couple for a night with the wife.
+Director: Adrian Lyne
+An American reporter goes to the Australian outback to meet an eccentric crocodile poacher and invites him to New York City.
+Director: Peter Faiman
+Edit
+Storyline
+The Roses, Barbara and Oliver, live happily as a married couple. Then she starts to wonder what life would be like without Oliver, and likes what she sees. Both want to stay in the house, and so they begin a campaign to force each other to leave. In the middle of the fighting is D'Amato, the divorce lawyer. He gets to see how far both will go to get rid of the other, and boy do they go far.. Written by Rob Hartill
+See All (71)  »
+Taglines:
+Once in a lifetime comes a motion picture that makes you feel like falling in love all over again. This is not that movie.
+Genres:
+8 December 1989 (USA) See more  »
+Also Known As:
+Did You Know?
+Trivia
+The amount of time that the Roses, Oliver Rose ( Michael Douglas ) and Barbara Rose ( Kathleen Turner ), had been married was seventeen years. See more »
+Goofs
+After Barbara runs over Oliver's car, we see a view from the left side of the crushed car. Then, after a shot of the dinner guests followed by a close-up of Barbara in the truck, there is a shot showing the front of the car, with steam suddenly rising from the engine. Since the car was not running, the engine would not have been hot, so there would have been no steam. See more »
+Quotes
+[first lines]
+Gavin : [Gavin is talking to a client] You have some valid reasons for wanting a divorce.
+[blows his nose with a handkerchief]
+Gavin : Excuse me. My sinuses are very sensitive to irritants.
+[sprays nasal decongestant up his nostrils]
+Gavin : In the past five months, I think I've breathed freely with both sides working maybe a week total.
+[pulls a cigarette out of a pack]
+Gavin : I gotta cut this out. It's gonna kill me.
+[lights his cigarette]
+Gavin : I hadn't smoked for thirteen years. I kept the last cigarette from my last ...
+[...]
+Question:
+What are the first names of the Roses played by Kathleen Turner and Michael Douglas in the 1989 film ‘The War of the Roses’?
+Answer:
+Barbara and Oliver
+Passage:
+Strombolian eruption
+Strombolian eruptions are relatively mildly explosive, with a volcanic explosivity index of about 2 to 3. They are named for the Italian volcano Stromboli, which is the eponym for the type. Strombolian eruptions consist of ejection of incandescent cinder, lapilli, and lava bombs, to altitudes of tens to a few hundreds of metres. The eruptions are small to medium in volume, with sporadic violence.
+
+The Italian vulcanologist Giuseppe Mercalli studied eruptions at Stromboli and Vulcano in 1888-1890, and observed that the characteristic features of eruptions were different between the two. To distinguish between them, Mercalli defined Strombolian eruptions as "...Mildly explosive at discrete but fairly regular intervals of seconds to minutes..."
+
+The tephra typically glows red when leaving the vent, but its surface cools and assumes a dark to black colour and may significantly solidify before impact.  The tephra accumulates in the vicinity of the vent, forming a cinder cone. Cinder is the most common product; the amount of volcanic ash is typically rather minor.
+
+The lava flows are more viscous, and therefore shorter and thicker, than the corresponding Hawaiian eruptions; it may or may not be accompanied by production of pyroclastic rock.
+
+Instead the gas coalesces into bubbles, called gas slugs, that grow large enough to rise through the magma column, bursting near the top due to the decrease in pressure and throwing magma into the air.  Each episode thus releases volcanic gases, sometimes as frequently as a few minutes apart. Gas slugs can form as deep as 3 kilometers, making them difficult to predict.  
+
+Strombolian eruptive activity can be very long-lasting because the conduit system is not strongly affected by the eruptive activity, so that the eruptive system can repeatedly reset itself. 
+
+Monogenetic cones usually erupt in the Strombolian style. For example, the Parícutin volcano erupted continuously between 1943-1952, Mount Erebus, Antarctica has produced Strombolian eruptions for at least many decades, and Stromboli itself has been producing Strombolian eruptions for over two thousand years. The Romans referred to Stromboli as the "Lighthouse of the Mediterranean."
+Question:
+Hawaiian, Strombolian, Peléan, Phreatomagmatic and Submarine are types of?
+Answer:
+Types of eruptions
+Passage:
+Denim Disco: 1970's TV GOLD - BUDGIE
+Denim Disco: 1970's TV GOLD - BUDGIE
+1970's TV GOLD - BUDGIE
+                                   ''From the bright busy streets of the Charing Cross Road
+                                    To the dark little alleys in old Soho
+                                    From the smart noisy clubs where everybody goes
+                                    To the dark little streets that nobody knows''
+BUDGIE was one of the great BRITISH TV DRAMA series of the 1970's.It was first broadcast in the UK during 1971/72 and has become one of the most fondly remembered TV Shows of the era.The programme showed the gritty reality of everyday life in a way that was rarely touched upon in other TV shows of the day and the passing of time has not lessened the shows impact
+ 
+                                    
+The central role of small time crook RONALD 'BUDGIE' BIRD was played by the former teen pop idol ADAM FAITH.Faith had only really dabbled in acting before.He'd performed in a couple of movies in the wake of his chart success and after the pop career tailed off he appeared in some minor theatrical roles. The show was created by two experienced and successful writers:KEITH WATERHOUSE and WILLIS HALL and a few eyebrows were raised when they choose Faith for the lead role
+                                     
+Throughout the series Bird attempts to become a player in the SOHO CRIMINAL UNDERWORLD. He possesses of a fair degree of charm,but a lack of the requisite amount of cunning places him firmly at the bottom of the criminal 'food chain'
+ 
+Faith played the part with such conviction that the public began to question where RONALD BIRD finished and where ADAM FAITH began.During a 1974 TV interview RUSSEL HARTY said to Faith that he would be ''Frightened to come up against you in a dark alley''.Adam was forced to remind him ''Thats Budgie,thats not me.I can't help what Budgie is''.Another striking character in the programme was the gangster Charlie Endell {played by IAN CUTHBERTSON}.Cuthbertson stood at 6ft4 and also turned in a remarkably believable performance.I doubt if  HARTY would have even walked into a room if 'Charlie Endell' had been present!
+ 
+  
+ 
+The show proved to be incredibly popular and soon every 'JACK THE LAD' worth his salt would be attempting to emulate BUDGIE in the fashion stakes.In an early episode Faith wore a short zip up cotton jacket by STIRLING COOPER which had large lapels and patch pockets in contrasting colours. Similar jackets were also manufactured in suede and leather and these became known as 'BUDGIE' jackets.
+ 
+ 
+The 'FEATHERED' haircut he sported in the show {created by KEITH WAINWRIGHT of SMILE} was also widely emulated.Before long the BUDGIE haircut and jacket teamed with FLARED trousers,wide collared shirt and broad STACK HEELED became THE LOOK for working class white males in the UK and made ADAM FAITH the much emulated 'FACE' of STREET FAHION.
+BUDGIE was more than just a character in a TV drama show. BUDGIE was no less than THE WIDE BOY JAMES DEAN OF THE TELEVISION SCREEN!
+Question:
+Who played the part of Budgie in the 1970’s drama series?
+Answer:
+Terry Nelhams-Wright
+Passage:
+Could this be the world's largest diamond? Huge uncut gem ...
+Could this be the world's largest diamond? Huge uncut gem discovered in African mine | Daily Mail Online
+Could this be the world's largest diamond? Huge uncut gem discovered in African mine
+comments
+A huge gem stone which could become the largest polished round diamond in history has been discovered.
+The massive stone is the 20th largest rough diamond ever found, weighs 478 carats and is said to be of outstanding clarity.
+It was recovered earlier this week at the Letseng Mine, in Lesotho, a small kingdom in  South Africa.
+Perfect clarity: A model inspects the world's 20th largest rough diamond, which was discovered at Gem Diamond's Letseng Mine in Lesotho this week
+Another similar sized rough stone from the same mine was recently valued at $12million.
+But the clarity and round shape of the new gem mean it could be worth considerably more and in its polished state could fetch tens of millions of pounds.
+It is estimated to be capable of producing a 150 carat polished gem stone, dwarfing the Koh-i-Noor diamond which is part of the Crown Jewels.
+A spokesman for Gem Diamonds, who own the mine, added that initial examination suggested that the white diamond, which has yet to be named and valued, has a completely flawless centre.
+Enlarge  
+The new diamond, left, could be larger than the  Koh-i-noor diamond, seen in the Queen mother's crown
+The mine, which was owned by famous diamond company De Beers for many years, has already produced three of the world's biggest diamonds including the 603 carat Lesotho Promise, the 493 carat Leteng Legacy and the 601 carat Lesotho Brown.
+Clifford Elphick, chief executive officer of Gem Diamonds, said 'Preliminary examination of this remarkable diamond indicates that it will yield a record breaking polished stone of the very best colour and clarity.'
+The find is still dwarfed by the Cullinan Diamond which was discovered in 1905.
+At 3,106 carats it was the largest gem-quality rough diamond ever found but the biggest polished stone produced from it, the Great Star of Africa - 530 carats - is a teardrop shape.
+The Koh-i-noor is a round cut but at 105 carats it is smaller than the potential size of the new find.
+It originated in India but was seized by Britain as a spoil of war in 1849. It supposedly brings good luck to female owners and misfortune or death to any male who wears or owns it.
+Question:
+What is the largest rough gem-quality diamond ever found (as at 2010)?
+Answer:
+Cullinan II
+Passage:
+Activity: Clocks and Angles - Maths Resources
+Activity: Clocks and Angles
+About Ads
+Activity:     Clocks and Angles
+This     activity is about Analog clocks and the angles made by the     hands of the clock. You can find out more about angles and how they're measured on the     page Degrees     (Angles) .
+ 
+What is the angle between the hands of a clock at 1 o'clock?
+At 1 o'clock the minute hand     (red) points to the 12 and the     hour hand (blue) points to the 1.     So we need to find the angle between     the 12     and the 1.
+How many of this angle are there in a complete turn?
+There are 12 of them in a complete turn (360°), so each     one     must be 360° ÷ 12     = 30°
+So the angle between     the     hands     of a clock at 1 o'clock is 30°.
+Note:
+It doesn't       matter whether we are talking about 1 am or 1       pm, the answer is exactly the same for both.
+The angle between the hands at       1 o'clock could also be given as the reflex angle 330°,      but we will       always give the smaller (acute or obtuse) angle.
+What is the angle     between the hands of a clock at 2:30?
+At 2:30 the minute hand     (red) points to the 6 and the hour hand     (blue) points halfway between the 2 and the 3.
+So how many lots of 30° do we have this time?
+The angle between the 5 and the 6 is 30°
+The angle between the 4 and the      5 is 30°
+The angle between the 3 and the      4 is 30°
+The remaining angle is ½ × 30° = 15°
+So the angle     between the hands of a clock at 2:30 = 30° + 30° + 30° + 15° = 105°
+ 
+Complete the following table (give the smaller angle in each case):
+Time
+Check your answers at the bottom of the page.
+ 
+More Complicated Times
+Finding the angle between the hands of a clock is easy  as long     as we don't use complicated times.
+For example finding the angle     between the hands at 9:37 is much more difficult. You can try     that one if you wish, but it's probably too hard.
+Example: At     what times is the angle between the hands of a clock equal to     30°?
+Notice that the question asks for 'times'.     There are many possible     answers.  Some of them are easy to find, others much more difficult.
+Here are two easy answers:
+But what about     this one?
+At first glance, it looks like this might be a 30° angle also,     but at 4:15,  the hour hand has already moved     a quarter of the way between the 4 and the 5.
+So the     angle is 30° + ¼ × 30° = 30° + 7½° = 37½°.
+This might be a more accurate answer:
+Can you find more 30° angles like this one?
+ 
+At what times of the day do the hands of a clock lie in a straight     line?
+In other words the angle between them is 180°?
+One obvious answer is 6 o'clock:
+ 
+But what other answers could there be?
+9:15 is not correct for a similar reason that 4:15 didn't give us exactly a     30° angle ... the hour hand has moved on beyond the 9.
+This seems to be a very difficult question to answer, but there is an     easy way.
+How many times between 6:00 am and 6:00 pm do the hands make a     straight line?
+There must be at least one point  time for each hour:
+one between 7:00 am and 8:00 am,
+one between 8:00 am and 9:00 am,
+one between      9:00 am and 10:00 am,
+etc, up to ...
+one between 4:00 pm and 5:00 pm
+That makes 11 equal parts, and so:
+12 Hours / 11
+Question:
+On a regular clock face, which number lies opposite 10?
+Answer:
+four
+Passage:
+Archibald Ormsby-Gore
+Archibald Ormsby-Gore, better known as Archie, was the teddy-bear of English poet laureate John Betjeman. Together with a toy elephant known as Jumbo, he was a lifelong companion of Betjeman's.
+
+Betjeman brought his bear with him when he went up to university at Oxford in the 1920s, and as a result Archie became the model for Aloysius, Sebastian Flyte's bear in Evelyn Waugh's novel Brideshead Revisited. In the 1940s, Betjeman also wrote and illustrated a story for his children, entitled Archie and the Strict Baptists, in which the bear's sojourns at the family's successive homes in Uffington and Farnborough are fictionalised. Archie is here described as a member of the Strict Baptist denomination, riding a hedgehog to chapel, and enjoying amateur archaeology, digging up molehills, "which, he considered, were the graves of baby Druids". A version of the story with illustrations by Phillida Gili was published as a children's book in 1977, Jock Murray, Betjeman's publisher, having declined to publish Betjeman's own coloured illustrations on grounds of cost.
+
+Betjeman also wrote a poem "Archibald" in which the bear is temporarily stuffed in the loft for fear of Betjeman appearing "soft" to his father.
+
+Archie and Jumbo were in Betjeman's arms when he died in 1984.
+
+Bibliography
+
+*Betjeman, John (1977). Archie and the Strict Baptists. London: John Murray.
+*Waugh, Evelyn (1945). Brideshead Revisited: The Sacred and Profane Memories of Captain Charles Ryder. London: Chapman & Hall.
+
+Other sources
+
+*[http://shop.bodley.ox.ac.uk/acatalog/Exhibitions.html Introduction] to an exhibition on Betjeman at the Bodleian Library
+*[http://www.newcriterion.com/archive/23/mar05/betjeman.htm Betjeman: a "whim of iron"], article by Brooke Allen in The New Criterion
+*[http://www.longbarnbooks.com/pages/new_titles/archie_and_the_strict_baptists.htm Advertisement for a facsimile] of Betjeman's original version of Archie and the Strict Baptists.
+*[http://www.dbeinla.org/index.php?optioncom_content&view
+article&id227&Itemid
+261 John Betjeman at St. Pancras]
+Question:
+Who owned a teddy bear called Archibald Ormsby-Gore?
+Answer:
+Betjeman, John, Sir
+Passage:
+Stonewall County, Texas
+Stonewall County is a county located in the U.S. state of Texas. As of the 2010 census, its population was 1,490.  Its county seat is Aspermont.  The county was created in 1876 and organized in 1888.  It is named for Stonewall Jackson, a general of the Confederate States Army.
+
+Republican Drew Springer, Jr., a businessman from Muenster in Cooke County, has since January 2013 represented Stonewall County in the Texas House of Representatives. 
+
+History
+
+Stonewall County was formed in 1876 from portions of Bexar County and Young County. It was named after Thomas Jonathan "Stonewall" Jackson, a general of the Confederate Army.
+
+Geography
+
+According to the U.S. Census Bureau, the county has a total area of 920 sqmi, of which 916 sqmi is land and  (0.4%) is water. 
+
+Geographic features
+
+*Double Mountain (county high point  and most topographically prominent point for almost 160 mi 
+* The Brazos River (proper) begins in Stonewall County at the confluence of the Double Mountain Fork and Salt Fork Brazos River, about 3 mi west of Jud, Texas, now a ghost town. 
+
+Major highways
+
+* U.S. Highway 83
+* U.S. Highway 380
+* State Highway 283
+
+Adjacent counties
+
+*King County (north)
+*Haskell County (east)
+*Jones County (southeast)
+*Fisher County (south)
+*Kent County (west)
+
+Demographics
+
+As of the census  of 2010, there were 1,490 people, 642 households, and 426 families residing in the county.  The population density was 2 people per square mile (1/km²).  There were 928 housing units at an average density of 1 per square mile (0/km²).  The racial makeup of the county was 87.7% White, 2.6% Black or African American, 0.5% Native American, 0.9% Asian, 6.3% from other races, and 1.9% from two or more races.  14.0% of the population were Hispanic or Latino of any race.
+
+There were 642 households out of which 24% had children under the age of 18 living with them, 53% were married couples living together, 10.1% had a female householder with no husband present, and 33.6% were non-families. 15.7% had someone living alone who was 65 years of age or older.  The average household size was 2.28 and the average family size was 2.83.
+
+In the county, the population was spread out with 22.80% under the age of 18, 6.20% from 18 to 24, 22.60% from 25 to 44, 24.50% from 45 to 64, and 24.00% who were 65 years of age or older.  The median age was 44 years. For every 100 females there were 90.00 males.  For every 100 females age 18 and over, there were 91.10 males.
+
+The median income for a household in the county was $27,935, and the median income for a family was $35,571. Males had a median income of $27,083 versus $15,000 for females. The per capita income for the county was $16,094.  About 14.80% of families and 19.30% of the population were below the poverty line, including 31.50% of those under age 18 and 14.50% of those age 65 or over.
+
+Communities
+
+*Aspermont (county seat)
+*Old Glory
+*Peacock
+*Rath City
+*Swenson
+Question:
+Stonewall is a CDP (Census-designated place) in which US state?
+Answer:
+Texas (U.S. State)
+Passage:
+Queensferry, Flintshire
+Queensferry is a town and electoral ward in Flintshire, Wales, lying on the River Dee near the border with England.
+
+Its name derives from the ferries that crossed the River Dee. The settlement of Higher Ferry () is now known as Saltney, while Queensferry was named Lower Ferry (). The town's name was changed to Kingsferry on the coronation of King George IV of the United Kingdom in 1820, and became Queensferry on the coronation of Queen Victoria in 1837. 
+
+Queensferry lies along the B5441 and B5129 roads, and is bypassed by the A494 dual carriageway.  It is contiguous with Deeside. Queensferry is considered part of Deeside, which lends its name to many of Queensferry's features, including the Deeside Leisure Centre, a sports and leisure venue that also hosts music concerts.
+
+The town has a Memorial Institute rather than a cenotaph type of war memorial. It is a corrugated black and white building near the entrance to Asda from the coast road. The Jubilee Bridge, also known as the Blue Bridge, spans the River Dee. It is a double leaf rolling bascule bridge. The railway station served the town on the North Wales Coast Line between 1864 and 1966.
+
+Media
+
+Queensferry is served by a citizen led hyperlocal news website,  a collaborative community resource set up in 2013.
+Question:
+Which popular building is situated at the address, Chester Road West, Queensferry, Flintshire CH5 1SA? It is the largest of its type in North Wales.
+Answer:
+Deeside Ice Rink
+Passage:
+Caprinae
+Subfamily Caprinae is part of the  ruminant family Bovidae, consisting of mostly medium-sized bovids. Its members are commonly referred to as goat-antelopes or caprids. The domestic sheep and domestic goat are both part of the goat-antelope group by its widest definition, but some taxonomists prefer to use the term only for members of the Caprinae that are not members of the tribe Caprini (caprines). The term "goat-antelope" does not mean that these animals are true antelopes: a true antelope is a bovid with a cervid-like or antilocaprid-like morphology.
+
+Characteristics
+
+Although most goat-antelopes are gregarious and have fairly stocky builds, they diverge in many other ways – the muskox (Ovibos moschatus) is adapted to the extreme cold of the tundra; the Rocky Mountain goat (Oreamnos americanus) of North America is specialised for very rugged terrain; the urial (Ovis orientalis) occupies a largely infertile area from Kashmir to Iran, including much desert country. The European mouflon (Ovis musimon) is thought to be the ancestor of the modern domestic sheep (Ovis aries).
+
+Many species have become extinct since the last ice age, probably largely because of human interaction. Of the survivors:
+*Five are classified as endangered,
+*Eight as vulnerable,
+*Seven as of concern and needing conservation measures, but at lower risk, and
+*Seven species are secure.
+
+Members of the group vary considerably in size, from just over 1 m long for a full-grown grey goral (Nemorhaedus goral), to almost  long for a musk ox, and from under 30 kg to more than 350 kg. Musk oxen in captivity have reached over 650 kg.
+
+The lifestyles of caprids fall into two broad classes: 'resource-defenders', which are territorial and defend a small, food-rich area against other members of the same species; and 'grazers', which gather together into herds and roam freely over a larger, usually relatively infertile area.
+
+The resource-defenders are the more primitive group: they tend to be smaller in size, dark in colour, males and females fairly alike, have long, tassellated ears, long manes, and dagger-shaped horns. The grazers (sometimes collectively known as tsoan caprids, from the Semitic tso'wn meaning "to migrate") evolved more recently. They tend to be larger, highly social, and rather than mark territory with scent glands, they have highly evolved dominance behaviours. No sharp line divides the groups, but a continuum varies from the serows at one end of the spectrum to sheep, true goats, and musk oxen at the other.
+
+Evolution
+
+ 
+The goat-antelope, or caprid, group is known from as early as the Miocene, when members of the group resembled the modern serow in their general body form. The group did not reach its greatest diversity until the recent ice ages, when many of its members became specialised for marginal, often extreme, environments: mountains, deserts, and the subarctic region.
+
+The ancestors of the modern sheep and goats (both rather vague and ill-defined terms) are thought to have moved into mountainous regions – sheep becoming specialised occupants of the foothills and nearby plains, and relying on flight and flocking for defence against predators, and goats adapting to very steep terrain where predators are at a disadvantage.
+
+Extant species
+
+FAMILY BOVIDAE
+* Subfamily Caprinae
+** Tribe Ovibovini
+*** Genus Budorcas
+**** Takin, Budorcas taxicolor
+*** Genus Ovibos
+**** Muskox, Ovibos moschatus
+** Tribe Caprini
+*** Genus Ammotragus
+**** Barbary sheep, Ammotragus lervia
+*** Genus Arabitragus
+**** Arabian tahr, Arabitragus jayakari
+*** Genus Capra
+**** West Caucasian tur, Capra caucasica
+***** East Caucasian tur, Capra caucasica cylindricornis
+**** Markhor, Capra falconeri
+**** Wild goat, Capra aegagrus
+***** Domestic goat, Capra aegagrus hircus
+**** Alpine ibex, Capra ibex
+**** Nubian ibex, Capra nubiana
+**** Spanish ibex, Capra pyrenaica
+**** Siberian ibex, Capra sibirica
+**** Walia ibex, Capra walie
+*** Genus Hemitragus
+**** Himalayan tahr, Hemitragus jemlahicus
+*** Genus Ovis
+**** Argali, Ovis ammon
+**** Domestic sheep, Ovis aries
+**** American bighorn sheep, Ovis canadensis
+**** Dall or thinhorn sheep, Ovis dalli
+**** European mouflon, Ovis musimon
+**** Snow sheep, Ovis nivicola
+**** Wild sheep, Ovis orientalis
+*****Mouflon, Ovis orientalis orientalis
+*****Urial, Ovis orientalis vignei
+*** Genus Nilgiritragus
+**** Nilgiri tahr, Nilgiritragus hylocrius
+*** Genus Pseudois
+**** Bharal (Himalayan blue sheep), Pseudois nayaur
+**** Dwarf blue sheep, Pseudois schaeferi
+** Tribe Naemorhedini
+*** Genus Capricornis
+**** Japanese serow, Capricornis crispus
+**** Sumatran serow, Capricornis sumatraensis
+**** Taiwan serow, Capricornis swinhoei
+**** Chinese serow, Capricornis milneedwardsii
+**** Red serow, Capricornis rubidus
+**** Himalayan serow Capricornis thar
+*** Genus Nemorhaedus
+**** Red goral, Nemorhaedus baileyi
+**** Chinese goral, Nemorhaedus griseus
+**** Grey goral, Nemorhaedus goral
+**** Long-tailed goral, Naemorhedus caudatus
+*** Genus Oreamnos
+**** Mountain goat, Oreamnos americanus
+*** Genus Rupicapra
+**** Pyrenean chamois, Rupicapra pyrenaica
+**** Chamois, Rupicapra rupicapra
+
+Fossil genera
+
+The following extinct genera of Caprinae have been identified:  
+
+* Tribe Ovibovini
+** Genus Bootherium †
+*** Bootherium bombifrons †
+** Genus Euceratherium †
+*** Euceratherium collinum †
+** Genus Makapania †
+*** Makapania broomi †
+** Genus Soergelia †
+*** Soergelia mayfieldi †
+** Genus Tsaidamotherium †
+*** Tsaidamotherium brevirostrum †
+*** Tsaidamotherium hedini †
+* Tribe Caprini
+** Genus Myotragus †
+*** Myotragus balearicus †
+
+Unsorted
+
+*†Benicerus
+*†Boopsis
+*†Capraoryx
+*†Caprotragoides
+*†Criotherium
+*†Damalavus
+*†Gallogoral
+*†Lyrocerus
+*†Megalovis
+*†Mesembriacerus
+*†Neotragocerus
+*†Nesogoral
+*†Norbertia
+*†Numidocapra
+*†Oioceros
+*†Olonbulukia
+*†Pachygazella
+*†Pachytragus
+*†Palaeoreas
+*†Palaeoryx
+*†Paraprotoryx
+*†Parapseudotragus
+*†Parurmiatherium
+*†Praeovibos
+*†Procamptoceras
+*†Prosinotragus
+*†Protoryx
+*†Pseudotragus
+*†Samotragus
+*†Sinocapra
+*†Sinomegoceros
+*†Sinopalaeoceros
+*†Sinotragus
+*†Sivacapra
+*†Sporadotragus
+*†Symbos
+*†Tethytragus
+*†Tossunnoria
+*†Turcocerus
+*†Urmiatherium
+Question:
+The adjective caprine refers to which animals?
+Answer:
+Nanny goat
+Passage:
+Liberace - Pianist - Biography.com
+Liberace - Pianist - Biography.com
+Liberace
+Liberace was a flamboyant pianist who twice had his own TV show and frequently performed in Las Vegas.
+IN THESE GROUPS
+Liberace - Mini Biography (TV-14; 3:36) Liberace, the highest-paid pianist of all time, embodied flamboyant showmanship with his incredible stage performances in Las Vegas. Find out more about his life in this mini biography.
+Synopsis
+Born in Wisconsin in 1919, Liberace appeared as a soloist with the Chicago Symphony Orchestra at age 16. He later began giving concerts in flamboyant costumes with ornate pianos and candelabra, playing primarily popular music. Very successful, he hosted his own TV variety series, The Liberace Show (1952–55, 1969), and appeared in films such as Sincerely Yours (1955). In later years he performed frequently in Las Vegas.
+Early Life
+With his unique blend of classical training and over-the-top showmanship, Liberace was one of the most famous performers of the 20th century. Born Wladziu Valentino Liberace on May 16, 1919, in West Allis, Wisconsin, his middle name was taken from one of his mother's favorite film stars—Rudolph Valentino. Little did she know that her son would develop a devoted following of his own one day.
+Both of Liberace's parents were interested in music, and he began piano lessons very early on in his life. A child prodigy, he began his studies at the Wisconsin College of Music when he was only seven years old. Liberace started performing with orchestras in his early teens.
+Musical Sensation
+To make a living, Liberace played in movie theaters and night clubs. He even adopted the stage name "Walter Busterkeys" for a time. Before long Liberace found some success in mixing his love of classical music with more contemporary tunes. His real career breakthrough, however, came in 1951 with the premiere of The Liberace Show. The musical program first aired locally in Los Angeles before going national a few years later.
+Viewers—35 million of them at the program's height—couldn't get enough of Liberace's piano prowess and his cherubic charms. With his trademark candelabra resting atop his piano, Liberace played with great ease and glee. His largely female audience also admired for Liberace's great devotion to his mother Frances. His brother George played the violin on the program and acted as his orchestral arranger.
+In addition to his television show, Liberace sold out many of his live concerts and sold millions of records. He even starred in the 1955 film Sincerely Yours, which served as a showcase for his talents. In Las Vegas, Liberace became one of the city's most popular performers and one of its top-paid stars. He became equally famous for the glitz and glamour of his shows and costumes as he was for his music. In 1956, Liberace was joined on stage by Elvis Presley.
+Around this time, however, Liberace's personal life was turned into a legal drama. He had long been derided for his effeminate ways, and he ended up suing a British publication for libel after the magazine implied that he was gay. Liberace later won another court battle against a British columnist over his comments. While he was later revealed to be gay, Liberace worked hard to conceal this fact to maintain his dominantly female following.
+While interest in his television show eventually faded, Liberace remained popular with concert-goers. His shows and costumes seemed to get more elaborate and ostentatious with the years. His hands showcased a number of ornate, piano-shaped rings, and he draped himself in long, heavy fur capes. He even drove to his piano on stage in one of his many luxury automobiles. In the mid-1970s, Liberace decided to give the public a peek into his lavish lifestyle. He transformed his Hollywood home into a museum. He later displayed his collection of costumes, cars and other treasures at his own museum in Las Vegas.
+Final Years
+Once again, Liberace found himself in a legal struggle. He was sued by his former bodyguard and chauffeur Scott Thorson in 1982. Thorson claimed that he had been in a relationship with Liberace and that Liberace had promised to take care of him and support him. The case was later settled out of court.
+Shortly before his death, stories circulated that Liberace had AIDS. He and his staff, however, vehemently denied that the entertainer had the disease. Liberace passed away on February 4, 1987, at his home in Palm Springs, California. Initially, his doctor reported that the showman died of cardiac arrest. Later, an autopsy by the Riverside County coroner concluded that Liberace had actually died of AIDS-related pneumonia.
+While some critics have dismissed him for being overly sentimental, Liberace has left a lasting impact on the world of entertainment. His elaborate and sometimes garish style has influenced the likes of Elvis Presley, Elton John and David Bowie to name a few. An HBO film celebrating Liberace's life is slated to be released in 2013, with Michael Douglas playing the legendary showman.
+Related Videos
+Fact Check
+We strive for accuracy and fairness. If you see something that doesn't look right, contact us !
+Citation Information
+Question:
+Which musician, who died in 1987, famously had a candelabra on his piano?
+Answer:
+Liberachi

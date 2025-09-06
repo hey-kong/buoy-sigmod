@@ -1,0 +1,977 @@
+Passage:
+Google logo
+The Google logo appears in numerous settings to identify the search engine company. Google has relied on several logos since its renaming (see History of Google), with the first logo created by Sergey Brin using GIMP. A revised logo debuted on September 1, 2015. The previous logo, with slight modifications between 1999 and 2013, was designed by Ruth Kedar; the wordmark was based on the Catull typeface, an old style serif typeface designed by Gustav Jaeger for the Berthold Type Foundry in 1982. 
+
+The company also includes various modifications or humorous features, such as cartoon modifications of their logo for use on holidays, birthdays of famous people, and major events, such as the Olympics.  These special logos, some designed by Dennis Hwang, have become known as Google Doodles.
+
+History 
+
+In 1998, Larry Page created a computerized version of the Google letters using the free graphics program GIMP. The typeface was changed and an exclamation mark was added mimicking the Yahoo! logo. 
+
+"There were a lot of different color iterations", says Ruth Kedar, the graphic designer who developed the now-famous logo. "We ended up with the primary colors, but instead of having the pattern go in order, we put a secondary color on the L, which brought back the idea that Google doesn't follow the rules." 
+
+In 2010, the Google logo received its first major overhaul since May 31, 1999. The new logo was first previewed on November 8, 2009,  and was officially launched on May 6, 2010.  It utilises an identical typeface to the previous logo, but the "o" is distinctly more orange-colored in place of the previously more yellowish "o", as well as a much more subtle shadow rendered in a different shading style. On October 25, 2013, Google introduced a new "flat" (two-dimensional) logo with a slightly altered color palette.   On May 24, 2014, the Google logo was updated, the second 'g' moved right one pixel and the 'l' moved down and right one pixel.   The old 2010 Google logo remained in use on some pages, such as the Google Doodles page, for a period of time. 
+
+On September 1, 2015, Google introduced a controversial "new logo and identity family" designed to work across multiple devices.    The notable difference in the logo is the change in the typeface. The colors remained the same; however, Google switched to a modern, geometric sans-serif typeface called Product Sans, created in-house at Google (and also used for the Alphabet logo). 
+
+ Google Doodles 
+
+The first Google Doodle was in honor of the Burning Man Festival of 1998.   The doodle was designed by Larry Page and Sergey Brin to notify users of their absence in case the servers crashed. Subsequent Google Doodles were designed by an outside contractor, until Larry and Sergey asked then-intern Dennis Hwang to design a logo for Bastille Day in 2000.  Hwang has been designing the Google Doodles ever since.  
+
+Colorless logo
+
+From time to time, Google shows a special colorless logo,  on a local homepage in recognition of a major tragedy, often for several days. The design was apparently first used on the Google Poland homepage following the air disaster that killed, among others, Polish President Lech Kaczyński in April 2010. A few days later, the logo was used in China and Hong Kong to pay respects to the victims of the Qinghai earthquake. 
+
+On September 8, 2010, the doodle once again changed to a greyed-out Google logo that lit up with the standard Google colors as the first 6 letters of a search query were entered. It goes by the name of the Keystroke Logo. 
+
+Favicon
+
+Google's favicon from May 31, 1999 to May 29, 2008, was a blue, uppercase "G" on white background. It was accompanied by a border with a red, blue, and a green side.
+
+On May 30, 2008, a new favicon was launched. It showed the lowercase "g" from Google's 1999 logo, colored in blue against a white background, and originally was intended to be a part of a larger set of icons developed for better scalability on mobile devices. 
+
+A new favicon was launched on January 9, 2009. It included a left-aligned white "g" with background areas colored in red, green, blue and yellow, with the top, bottom, and left edges of the "g" cropped.   It was based on a design by André Resende, a computer science undergraduate student at the University of Campinas in Brazil. He submitted it for a contest launched by Google in June 2008 to receive favicon submissions. The official Google blog stated: "His placement of a white 'g' on a color-blocked background was highly recognizable and attractive, while seeming to capture the essence of Google".
+
+The favicon used from August 13, 2012 to August 31, 2015, showed the small letter "g" in white, centered on a solid light blue background.
+
+, Google's favicon shows a capital letter "G", in the tailor-made font for the new logo, with segments colored red, yellow, green, and blue.
+Question:
+What colour are the ‘G’s’ in the regular Google logo?
+Answer:
+Blue
+Passage:
+Kingdom of Aragon
+The Kingdom of Aragon (, , , ) was a medieval and early modern kingdom on the Iberian Peninsula, corresponding to the modern-day autonomous community of Aragon, in Spain. It should not be confused with the larger Crown of Aragon, that also included other territories — the County of Barcelona and other Catalan Counties, the Kingdom of Valencia, the Kingdom of Majorca, and other possessions that are now part of France, Italy, and Greece — that were also under the rule of the King of Aragon, but were administered separately from the Kingdom of Aragon.
+
+History 
+
+Independent kingdom 
+
+Aragon was originally a Carolingian feudal county around the city of Jaca, which in the first half of the 9th century became a vassal state of the kingdom of Pamplona (later Navarre), its own dynasty of counts ending without male heir in 922. The name Aragón is the same as that of the river Aragón, which flows by Jaca. It might derive from the Basque Aragona/Haragona meaning "good upper valley" ("haran+goi+ona", where "haran" valley, "goi"
+ upper, high, and "ona"= good). Alternatively, the name may be derived from the earlier Roman province of Hispania Tarraconensis.
+
+On the death of Sancho III of Navarre in 1035, the Kingdom of Navarre was divided into three parts: (1) Pamplona and its hinterland along with western and coastal Basque districts, (2) Castile and (3) Sobrarbe, Ribagorza and Aragon. Sancho's son Gonzalo inherited Sobrarbe and Ribargorza, whereas his illegitimate son Ramiro received Aragon, but Gonzalo was killed soon after and all the land he owned went to his brother Ramiro, thus becoming the first de facto king of Aragon,  although he never used that title.
+
+By defeating his brother, García Sánchez III of Navarre, Ramiro achieved independence for Aragon. His son Sancho Ramírez, who also inherited the kingdom of Navarre, was the first to call himself "King of the Aragonians and Pamplonese".  As the Aragonian domains expanded to the south, conquering land from Al Andalus, the capital city moved from Jaca to Huesca (1096), and later to Zaragoza (1118). After Alfonso the Battler died childless in 1135, different rulers were chosen for Navarre and Aragon, and the two kingdoms ceased to have the same ruler. By 1285 the southernmost areas of what is nowadays Aragon had been taken from the Moors.
+
+Dynastic union with the County of Barcelona 
+
+The Kingdom of Aragón gave the name to the Crown of Aragon, after the dynastic union in 1150 of the Queen of Aragon (Petronilla of Aragon) with a Count of Barcelona (Ramon Berenguer IV), their son inheriting all different territories in the House of Aragon and the House of Barcelona. The Kings of Aragon had also the title of Count of Barcelona and ruled territories that consisted of not only the present administrative region of Aragon but also Catalonia, and later the kingdoms of Majorca, Valencia, Sicily, Naples and Sardinia. The King of Aragón was the direct King of the Aragonese region, and held also the title of Count of Provence, Count of Barcelona, Lord of Montpellier, and Duke of Athens and Neopatria. Each of these titles gave him sovereignty over a certain region, and these titles changed as he lost and won territories. In the 14th century, his power was greatly restricted by the Union of Aragon.
+
+The Crown of Aragon became a part of the Spanish monarchy after the dynastic union with Castile, which supposed the de facto unification of both kingdoms under a common monarch. After this happened, Aragon kept its own institutions, such as the Corts, until the Nueva Planta decrees, promulgated between 1707 and 1715 in the aftermath of the War of the Spanish Succession, finally put an end to it.  The decrees ended the kingdoms of Aragon, Valencia and Mallorca and the Principality of Catalonia, and merged them with Castile to officially form the Spanish kingdom.  A new Nueva Planta decree in 1711 restored some rights in Aragon, such as the Aragones Civil Right, but preserved the end of the political independence of the kingdom.
+
+File:Reino d'Aragón en a Corona d'Aragón.svg|Location of Aragon in Crown of Aragon
+Image:Petronila Ramon Berenguer.jpg|Petronilla of Aragon, and Ramon Berenguer IV, Count of Barcelona depicted later in a 16th-century painting.
+File:Cortes de Aragón.jpg|Aljafería Palace
+Question:
+The unification of the crowns of Aragon and Castile laid the basis of which modern-day European country?
+Answer:
+Islands of Spain
+Passage:
+Meibomian gland
+The meibomian glands (or tarsal glands) are a special kind of sebaceous gland at the rim of the eyelids inside the tarsal plate, responsible for the supply of meibum, an oily substance that prevents evaporation of the eye's tear film. Meibum prevents tear spillage onto the cheek, trapping tears between the oiled edge and the eyeball, and makes the closed lids airtight.  There are approximately 50 glands on the upper eyelids and 25 glands on the lower eyelids.
+
+Dysfunctional meibomian glands often cause dry eyes, one of the more common eye conditions. They may also contribute to blepharitis.
+
+Function
+
+Meibum
+
+Lipids 
+
+Lipids are the major components of meibum (also known as "meibomian gland secretions"). The term "meibum" was originally introduced by Nicolaides et al. in 1981. 
+
+The biochemical composition of meibum is extremely complex and very different from that of sebum. Lipids are universally recognized as major components of human and animal meibum. Recently, an update on the composition of human meibum and on the structures of various positively identified meibomian lipids was published. 
+
+Currently, the most sensitive and informative approach to lipidomic analysis of meibum is mass spectrometry in combination with liquid chromatography.
+
+Proteins
+
+In humans, more than 90 different proteins have been identified in meibomian gland secretions. 
+
+Clinical significance
+
+Dysfunctional meibomian glands often cause dry eyes, one of the more common eye conditions. They may also contribute to blepharitis. Inflammation of the meibomian glands (also known as meibomitis, meibomian gland dysfunction, or posterior blepharitis) causes the glands to be obstructed by thick waxy secretions. Besides leading to dry eyes, the obstructions can be degraded by bacterial lipases, resulting in the formation of free fatty acids, which irritate the eyes and sometimes cause punctate keratopathy.
+
+Meibomian gland dysfunction is more often seen in women and is regarded as the main cause of dry eye disease.   Factors that contribute to meibomian gland dysfunction can include things such as a person's age and/or hormones.  Treatment can include warm compresses or expression of the gland by a professional. In some cases antibiotics or steroids are prescribed.
+
+History
+
+The glands are named after Heinrich Meibom (1638–1700), a German physician.
+Question:
+Producing meibum, an oily sealant, where on the human head are the meibomian glands ?
+Answer:
+Eyelid diseases
+Passage:
+Germinal (French Republican Calendar)
+Germinal was the seventh month in the French Republican Calendar. The month was named after the Latin word germen, "germination". Germinal was the first month of the spring quarter (mois de printemps). It started March 21 or March 22, and ended April 19 or April 20. It follows Ventôse and precedes Floréal.
+
+In the context of the French Revolution, Germinal sometimes refers to the downfall and execution of the Indulgents, Georges Danton and Camille Desmoulins, which took place during Germinal of 1794, four months before the Thermidorian Reaction in which Robespierre himself was executed. The events of Germinal 1794 signaled the beginning of the end of the Reign of Terror.
+
+Day name table 
+
+Like all FRC months, Germinal lasted 30 days and was divided into three 10-day weeks called décades (decades). Every day had the name of an agricultural plant, except the 5th (Quintidi) and 10th day (Decadi) of every decade, which had the name of a domestic animal (Quintidi) or an agricultural tool (Decadi). The 26th and 27th changed their role in later years.
+
+Conversion table
+Question:
+Germinal and Messidor are months in which calendar?
+Answer:
+French Revolutionary Calendar
+Passage:
+HM Prison Full Sutton
+HM Prison Full Sutton is a Category A and B men's prison in the village of Full Sutton, near Pocklington in the East Riding of Yorkshire, England. Full Sutton is operated by Her Majesty's Prison Service and holds some 600 inmates. The prison's primary function is to hold, in conditions of high security, some of the most difficult and dangerous criminals in the country.
+
+The Prison also has a unit known as the 'Close Supervision Centre', which is referred to as a "Prison inside a Prison". This is used to house prisoners, who are a high risk to the public and national security. HMP Full Sutton will not accept prisoners who have been sentenced to less than 4 years, or who have less than 12 months left to serve.
+
+History
+
+Full Sutton Prison opened in 1987, as a purpose-built maximum security prison for men. Over the years, it has held some of the most difficult, violent and dangerous criminals in the country.
+
+In March 2000, the Home Office ordered an inquiry into Full Sutton after evidence emerged of racism among prison officers at the jail. The evidence centred on a log of an Asian inmate's phone conversations kept by two prison officers.  In January 2003, the prison was criticised again, when it emerged that inmates at Full Sutton were being paid as an incentive to learn to read and write. Payments of between £1 to £3 were being made to prisoners on successful completion of literacy and numeracy courses at the jail. 
+
+In December 2005, an report by the Chief Inspector of Prisons stated that gangs inside the prison were arranging "fight clubs" to pay off debts. The level of bullying and violence was so great that many wings were unsafe. There was evidence that gangs who had been operating on the streets continued to function inside the prison using intimidation. Security concerns had led to prisoners being denied access to outside sports. 
+
+In February 2006, the Independent Monitoring Board criticised Full Sutton for high levels of drug use amongst prisoners. The board stated that illegal drugs were an "insidious disease" inside the prison. 
+
+On 22 February 2011, the convicted murderer Colin Hatch, who was jailed for the murder of 7-year-old Sean Williams in 1993, was murdered in the prison. The killer was Damien Fowkes, an inmate who also attacked fellow child killer Ian Huntley, who survived. 
+
+The prison today
+
+The healthcare centre at the prison has a six-bed ward, with an additional two safer cells and a crisis suite. The centre is staffed by a full-time Medical Officer. Full Sutton Prison provides a range of educational courses, from Basic Skills through to Open University degree courses. 
+
+Employment and training is also available in various prison workshops including bricklaying, painting and decorating, plumbing, recycling, textiles, contract services, Braille transcription, catering and industrial cleaning. The prison's gym also provides physical education with recognised qualifications, as well as recreational gym. There is a visitors' centre, with facilities including a baby changing area, a play area for children and refreshment machines. 
+
+On 26 May 2013, a prison warder was taken hostage. He and a female colleague were injured; other officers successfully dealt with the incident. 
+
+Notable inmates
+
+Former inmates
+
+* Freddie Foreman
+* Stefan Williams-Dennis 
+* Donald Neilson
+* Sean O'Callaghan
+* Dale Cregan 
+* Charles Bronson 
+*Barry Horne 
+
+Current inmates
+
+* Dennis Nilsen
+* Jeremy Bamber
+* John Cannan
+* Curtis "Cocky" Warren
+Question:
+In which English town or City is Her Majesty's Prison Full Sutton?
+Answer:
+Park Grove (1895)
+Passage:
+Glad All Over
+"Glad All Over" is a song written by Dave Clark and Mike Smith and recorded by The Dave Clark Five. In January 1964, it became the British group's first big hit, reaching No.1 on the UK Singles Chart.  In April 1964, it reached No.6 on the American U.S. Billboard Hot 100 chart, becoming the first British Invasion hit by a group other than The Beatles. It was also No.1 in Ireland, No.3 in Australia  and No.2 in Canada. It reached No.4 in the Netherlands  and No.16 in Germany.  "Glad All Over" was the No.2 selling single of 1964 in the U.K. (behind "Can't Buy Me Love" by The Beatles),  and also had sufficient UK sales in November and December 1963 to make it the 58th best-selling single of 1963;  put together these statistics suggest U.K. sales for "Glad All Over" of around 1,000,000 units by the end of 1964.
+
+"Glad All Over" featured Smith leading unison group vocals, often in call and response style, a saxophone line used not for solo decoration but underneath the whole song, and a big, "air hammer" beat that underpinned the wall of sound production known as the "Tottenham Sound".
+
+In 1993, "Glad All Over" was reissued as a single in the UK, coupled with "Good Old Rock ’n ’Roll" and "Having a Wild Weekend". The reissue reached No.37 on the UK singles chart.
+
+Use by football and rugby teams and in adverts
+
+Crystal Palace Football Club adopted the song as their anthem in the 1960s. It is played at the start of all home games, and after full time (when Palace win). The chorus is played after home goals, before the goalscorer's name is read out. It is also sung by fans as a chant. On Saturday 10 February 1968 The Dave Clark Five played "Glad All Over" live at Crystal Palace's home, Selhurst Park. A cover version, sung by the squad at the time, was released as part of their FA Cup run (where they reached the final of the competition) in 1990. 
+
+Blackpool have also used Glad All Over, played after a home goal is scored, since 2008, and other English Football League teams Rotherham United, Port Vale and Swindon Town have followed suit. It has also been used by Scottish Football League club Partick Thistle when they score a goal. Woking FC have played the song as part of their celebrations at score a goal. 
+
+The Welsh Rugby Football Club, Pontypridd, began using the song in 2004 to herald the points scored when converting a try, kicking a penalty or scoring a drop goal. This is in contrast to the Chumbawamba song "Top of the World (Ole Ole Ole)" used when Pontypridd score a try.
+
+, Wigan Warriors rugby league team have used it at the end of a home game at the DW Stadium if they have won.
+
+Irish team Shamrock Rovers use it as their anthem. BBC Radio Cambridge found this on the notes accompanying the song on their database.
+
+Covers
+
+Suzi Quatro recorded it on her Rock Hard album in 1980 (second track on the album).  It was also the second single from the album and reached chart positions in Scandinavia and Germany (peaking as number 70 on chart 100).
+
+It was released as a single by Australian band Hush in 1975 and reached number 8 on the Australian singles chart. It was also included on their 1975 album "Rough Tough 'N' Ready".
+
+It was covered by The Rezillos on their debut album Can't Stand the Rezillos.
+Question:
+Who were 'Glad All Over' in their No. 1 hit of 1965?
+Answer:
+DAVE CLARK FIVE
+Passage:
+Angolan kwanza
+The kwanza (sign: Kz; ISO 4217 code: AOA) is the currency of Angola. Four different currencies using the name kwanza have circulated since 1977.
+
+Overview
+
+First Kwanza, AOK, 1975-1990
+
+Kwanza was introduced following Angolan independence. It replaced the escudo at par and was subdivided into 100 lwei. Its ISO 4217 code was AOK.
+
+Coins
+
+The first coins issued for the kwanza currency did not bear any date of issue, although all bore the date of independence, "11 de Novembro de 1975". They were in denominations of 50 lwei, 1, 2, 5 and 10 kwanzas. 20 kwanza coins were added in 1978. The last date to appear on these coins was 1979.
+
+Banknotes
+
+On 8 January 1977, banknotes dated 11 DE NOVEMBRO DE 1975 were introduced by the Banco Nacional de Angola (National Bank of Angola) in denominations of 20, 50, 100, 500, and 1000 kwanzas.  The 20 kwanza note was replaced by a coin in 1978.
+
+Novo kwanza, AON, 1990-1995
+
+In 1990, the novo kwanza was introduced, with the ISO 4217 code AON. Although it replaced the kwanza at par, Angolans could only exchange 5% of all old notes for new ones; they had to exchange the rest for government securities. This kwanza suffered from high inflation.
+
+Banknotes
+
+This currency was only issued in note form. The first banknotes issued in 1990 were overprints on earlier notes in denominations of 50 (report not confirmed), 500, 1000 and 5000 novos kwanzas (5000 novos kwanzas overprinted on 100 kwanzas). In 1991, the word novo was dropped from the issue of regular banknotes for 100, 500, 1000, 5000, 10,000, 50,000, 100,000 and 500,000 kwanzas.
+
+Kwanza reajustado, AOR, 1995-1999
+
+In 1995, the kwanza reajustado replaced the previous kwanza at a rate of 1,000 to 1. It had the ISO 4217 code AOR. The inflation continued and no coins were issued.
+
+Banknotes
+
+Despite the exchange rate, such was the low value of the old kwanza that the smallest denomination of banknote issued was 1000 kwanza reajustado. Other notes were 5,000, 10,000, 50,000, 100,000, 500,000, 1,000,000 and 5,000,000 kwanzas.
+
+Second kwanza, AOA, 1999-
+
+In 1999, a second currency was introduced simply called the kwanza. It replaced the kwanza reajustado at a rate of 1,000,000 to 1. Unlike the first kwanza, this currency is subdivided into 100 cêntimos. The introduction of this currency saw the reintroduction of coins. Although it suffered early on from high inflation, its value has now stabilized.
+
+Coins
+
+Coins in 10 and 50 cêntimo denominations are no longer used, as the values are minuscule.
+
+During 2012-14, new coins were introduced in denominations of 50 cêntimos, 1, 5, 10 and 20 kwanzas.
+
+Banknotes
+
+The banknotes are quite similar in design, with only different colours separating them.
+
+The Banco National de Angola issued a new series of kwanza banknotes on March 22, 2013 in denominations of 50, 100, 200 and 500 kwanzas. The other denominations (1000, 2000 and 5000 kwanzas) were issued on May 31, 2013.  
+
+Historical exchange rates
+
+This table shows the historical value of one U.S. dollar in Angola kwanzas:
+
+On several occasions during the 1990s, Angola's currency was the least valued currency unit in the world.
+
+Production
+
+The Angolan kwanza banknotes have been produced by De La Rue in England.
+Question:
+Which African country has the Kwanza as its currency?
+Answer:
+Angola
+Passage:
+Heart Gloucestershire
+Heart Gloucestershire (formerly Severn Sound) is a local radio station owned and operated by Global Radio as part of the Heart network. It broadcasts to Gloucestershire from studios in Gloucester. 
+
+The transmitter is at Churchdown Hill, just west of the M5; the same transmitter as Radio Gloucestershire.
+
+History
+
+Severn Sound started transmissions on 23 October 1980, from its first studio at the "Old Talbot Pub" in Southgate Street, Gloucester.  The pub had been bought by local businessmen including Clive Lindley (Chairman of the Roadchef motorway service stations and Chairman of Severn Sound).  The station's first employee was Chief Engineer Quentin Howard who converted the pub into the radio station. 
+
+The original presenters were Alan Roberts (Head of Music) on Breakfast, Christopher Musk on mid-mornings, Eddie Vickers (Programme Controller) on the Lunchtime News and Topical programme, Laura de Vere on the Afternoon Show and Steve Ellis on Drivetime.  There used to be a Sunday lunch show where the presenter would go to various areas of Gloucester and share Sunday lunch with the residents of that house.  Jerry Thomas, top Gloucester Comedian, used to host the show, with Christopher Musk.
+
+One, notable, director was the writer Dennis Potter, who played an active role in the station's early years and lived in Ross on Wye. Potter's Pennies from Heaven producer, Kenith Trodd, presented a Sunday programme of 78 records featuring singers such as Al Bowlly, which Todd and Potter had used in Pennies from Heaven. Another Director was England rugby player, Mike Burton, who also started Gulliver's Travels, a sports travel agency.  
+
+In 1983, two of the station's engineers were killed on an outside broadcast. The pneumatic mast of their radio car touched an overhead 11kV power line, whilst they were preparing for a live broadcast from Soudeley Castle, Winchcombe. The inquiry into the accident found Severn Sound guilty of Health and Safety offences and fined the company £2,500. Many new safety procedures for radio cars were introduced across the whole industry as a result of the accident. 
+
+The station was sold to the Chiltern Radio Group, after some resistance, in 1989 and was later taken over by the GWR group in 1995. GCap Media was sold to Global Radio in 2008.
+
+During the Gloucester/Tewkesbury flood crisis of Summer 2007, Severn Sound was forced to move, temporarily, to the GWR FM Bristol Studios, due to a loss of electricity and running water. 
+
+Split frequencies
+
+In 1990, Severn Sound split frequencies, with its 774 kHz AM frequency being renamed Three Counties Radio, expanding to cover Hereford & Worcester. This was an "oldies" station and was a mix of local programmes and networking from Chiltern Radio Network's Supergold service. Presenters who moved from Severn Sound to Three Counties included Tony Peters & Sally Low Hurry. John Hellings was brought in as breakfast presenter. In 1992, Three Counties Radio was re-branded as Severn Sound Supergold (it also stopped being promoted in Hereford & Worcester) and was re-branded again, in 1996, by new owners GWR as Severn Sound Classic Gold. Ownership rules meant that GWR had to sell all their Classic Gold licences to UBC Media and another re-brand to Classic Gold 774 followed. Today, the heritage name "Severn" is no longer mentioned on 774 AM after it was re-branded again, in 2007, to Gold, and again on 24 March 2014 to Smooth Radio, all programming on 774 AM now comes from London.
+
+Rebrand
+
+In September 2008, it was announced that Severn Sound would become Heart Gloucestershire as part of a national re-branding exercise by owners Global Radio, which has seen twenty-nine stations renamed as Heart Radio. 
+
+The new Heart Gloucestershire branding was launched at 6am on Monday 23 March 2009 with local programming broadcast from the above-the-street Bridge Studios, part of the Eastgate Shopping Centre (The Mall) in Gloucester. Local news bulletins on the station are now produced by Heart West Country in Bristol, following the closure of its Gloucester newsroom during the summer of 2010.
+
+Programming
+
+Local programming is produced and broadcast from Heart's Gloucester studios from 6-10am and 4-7pm on weekdays, 1-5pm on Saturdays and 12pm-4pm on Sundays. All networked programming originates from Global Radio's London headquarters, including the syndicated Vodafone Big Top 40 on Sunday afternoons.
+
+The station's local presenters include Warren Moore (Heart Breakfast) and Justin Walker (weekday drivetime).
+
+Heart News
+
+Heart Gloucestershire broadcasts hourly local news bulletins from 6am-7pm on weekdays and 6am-12pm at weekends, produced by the Heart West Country news team based in Bristol, which also produces the news service for Heart Wiltshire.
+
+National news updates air hourly from Global's London headquarters at all other times.
+Question:
+In which west of England city is 'Severn Sound FM' radio station located?
+Answer:
+Gloucester, England
+Passage:
+Winslow High School (Maine)
+Winslow High School is a four year public high school located in Winslow, Maine. It is a part of Maine AOS 92 - Kennebec Valley Consolidated Schools (formerly of Maine School Union 52) along with the city of Waterville, Maine and the town of Vassalboro, Maine, and is one of two high schools in the School Unit (the other being Waterville High School of Waterville). Winslow serves the community of Winslow and is open to high school students from the towns of Vassalboro, and China, Maine (of Regional School Unit 18) at a tuition cost since there is no public high school in either town.  
+
+School Philosophy
+
+As quoted by Winslow's Principal Doug Carville, the school's "philosophy is to tailor education to meet the needs of each individual. We have a safe and friendly school climate where the administration, faculty and staff are committed to students of all ages". 
+
+Athletics
+
+Winslow offers several freshmen, junior varsity, and varsity sports that students participate in throughout the school year. 
+Fall
+
+Boys Soccer
+Cheering
+Cross Country
+Field Hockey
+Football
+Girls Soccer
+Golf
+
+Winter
+
+Boys Basketball
+Boys Ice Hockey
+Cheering
+Girls Basketball
+Girls Ice Hockey
+Indoor Track
+Swimming
+Wrestling
+
+Spring
+
+Baseball
+Softball
+Tennis
+Track and Field
+Boys and Girls Lacrosse
+
+Extracurricular activities
+
+In addition to offering sports, Winslow offers several extracurricular activities that students can take part it. These activities include, 
+Fall Musical
+Jazz Band
+Math Team
+National Honors Society
+Theater Program
+Anime Club
+Pep Band
+Pit Band
+Renaissance
+Service Club
+Spring Play
+Student Senate
+Art Club
+Philosophy Club
+Yearbook Staff
+The Economics classes also nominate the top eight performers to compete in the State Economics Meet, with the top four as the A Team, and the other four as the B Team.
+
+Music students can also choose to participate in the annual Kennebec Valley Music Festival, All State Music Festival, or Jazz All State Music Festival through an audition.
+
+The Cheerleaders set up the Homecoming Dance.
+Sophomore students can choose to participate in setting up the Sadie Hawkins Dance, which that class pays for, while Juniors, whose class pays for the Prom, can choose to join the Prom Committee, which takes place in May.
+
+School song
+
+Sung to the tune of the American Navy's Song, Anchors Aweigh, Winslow's school song is,
+Stand loyal to our school
+Our Winslow High
+We'll all unite and send our
+Cheers up to the sky.
+Stand back old (opposing team name _______)
+Stand back or fall
+We're coming down your way
+And Winslow has possession of the ball.
+
+Administration
+
+*Eric L. Haley - Superintendent
+*Chad Bell - Principal
+*Richard Hendsbee - Assistant Principal
+*Jason Briggs - Athletic Director
+
+Notes
+Question:
+"Which American TV series (2000 to 2004) centred on Winslow High School, a fictional public high school located in Boston, Massachusetts, had the slogan ""Every day is a fight. For respect. For dignity. For sanity.""?"
+Answer:
+Winslow High
+Passage:
+Chris Lowe
+Christopher Sean "Chris" Lowe (born 4 October 1959 ) is an English musician and songwriter, and co-founder of the synthpop duo Pet Shop Boys which he formed with Neil Tennant in 1981. 
+
+Biography
+
+Early life
+
+Lowe attended Arnold School,  an independent school in his home town of Blackpool, Lancashire. He also worked in the Solarium. While there, Lowe played trombone in a seven-piece dance band called One Under the Eight, that played old-time favourites like "Hello Dolly", "La Bamba" and "Moon River".  Lowe's grandfather had been a trombonist and was a member of comedy jazz troupe The Nitwits. Lowe also became a skilled pianist.
+
+Education
+
+Lowe studied architecture at the University of Liverpool from 1978 but never fully graduated as he stated various times on television appearances and the Life in Pop documentary due to the formation of the Pet Shop Boys. During a work placement in 1981 at a London architectural practice, he designed a staircase for an industrial estate in Milton Keynes. It was at this time that he met Neil Tennant in a hi-fi shop on the Kings Road in London.
+
+Pet Shop Boys
+
+Solo Appearances
+
+In 1995, Lowe had a cameo in the Australian soap opera Neighbours.  His appearance was filmed whilst Pet Shop Boys were touring Australia.
+
+In 1997, his flat was the subject of an in-depth feature in Elle Decoration magazine.
+
+In 1993 he wrote and produced the track "Do the Right Thing" for the footballer Ian Wright (Lowe is a die-hard Arsenal F.C. fan).  The song featured backing vocals by the long-time Pet Shop Boys’ backing singer, Sylvia Mason-James, and the single featured remixes by Rollo. 
+
+In 2004, Lowe was commissioned to do music for an advertisement for the sunscreen brand Blockhead. The song ended up in a remixed version on a "Café Mambo" chill-out compilation. 
+
+He has also written the music for the song "Streets of Berlin", featured in the revival of Bent at the Trafalgar Studios in Whitehall in 2006.
+
+In 2011, Lowe appeared as featured vocalist on Stop Modernists's cover version of the New Order song "Subculture". This was the first time Lowe had appeared as vocals on a non-Pet Shop Boys' project. 
+
+Public appearance
+
+Lowe is well-known for his understated public presence, often wearing sportswear and with his eyes invisible behind sunglasses. In Pet Shop Boys videos and photoshoots he is often seen looking on as a spectator standing slightly behind Tennant. In live performances he rarely interacts with the audience and often stands still while playing keyboards.  In 1995, The Guardian commented that he was "possibly more famous for not doing anything than almost anyone else in the history of popular entertainment." 
+
+A Guardian profile of the group from 1993 noted that Lowe's image of "silent Chris walking two steps behind singing Neil" was an intentional choice, developed in discussion with photographer and music video director Eric Watson; Watson has commented that "Chris didn't want to be seen playing keyboards or anything. We realised there was something about somebody singing and somebody else doing nothing – just looking, then looking away – that adds a hideous tension."
+Question:
+Who are Chris Lowe and Neil Tennant
+Answer:
+Watapalava
+Passage:
+Alloway
+Alloway (Gaelic Allmhaigh, pronounced) is a former Scottish village that is now a suburb of Ayr. It is best known as the birthplace of Robert Burns and the setting for his poem "Tam o' Shanter". Tobias Bachope, the mason responsible for the construction of Hopetoun House, Craigiehall, and Kinross House, also hailed from Alloway. 
+
+The former village and surrounding area was incorporated into the former Royal Burgh of Ayr in 1935, and the extended village is now a suburb of Ayr on the River Doon.
+
+Robert Burns
+
+The birthplace of Robert Burns, known as "Burns Cottage", is located in Alloway, now adjacent to a museum containing original manuscripts of his poetry. A nineteenth century memorial to Burns, designed by Thomas Hamilton, is located at the foot of the village next to the present church.
+
+The nearby, ruined Alloway Auld Kirk and the old bridge over the River Doon (Brig o' Doon) are featured in the poem "Tam O'Shanter", and are presently tourist attractions. Burns's father, William Burnes, is buried in the Auld Kirk. To add a "ghostly" appearance to the place, green lights are illuminated over it at night.
+
+The whole site relating to Burns, encompassing Burns Cottage, the Brig o' Doon, Alloway Auld Kirk, the old and new Museum buildings, the Burns Monument and relevant local landmarks, is maintained by the National Trust for Scotland as the [http://www.burnsmuseum.org.uk Robert Burns Birthplace Museum].
+
+Public parks
+
+There are two main parks in Alloway. The first, Rozelle, hosts the Ayr Flower Show each summer and has an art gallery which holds various exhibitions throughout the year. Rozelle also maintains a permanent sculpture collection, including a Henry Moore and a series of granite carvings by Ronald Rae.  The second, Belleisle Park, houses two golf courses, walled garden, Camelia House, and a playground.
+
+Alloway has a primary school, library, post office, general store, church, pharmacy, tearoom and gift shop.
+
+Sport
+
+Cambusdoon New Ground is located in Alloway on the former Robertson's Field, and has hosted a number of Scotland Cricket Internationals. It is also the home of the Ayr Cricket Club, founded in 1859. Ayr Cricket Club has been at Cambusdoon since 1996, when they moved across the road from the original Cambusdoon ground. Ayr Cricket Club moved from the Dam Park to the original Cambusdoon ground in 1935; it remained their home for 60 years until it was sold for housing in 1995. The original cricket ground, which hosted two first-class matches (Scotland vs. Ireland in 1958 and 1974), was developed on the grounds of the former Cambusdoon Estate, once owned by 19th Century Iron and Coal magnate James Baird. Baird's original Cambusdoon House, now a ruin, was converted to a boys' preparatory school in the late 1920s, and the rest of the estate surrounding the cricket ground was developed for housing in the late 1930s. Former England cricket captain Mike Denness grew up in one of the houses on Shanter Way, which adjoined the cricket ground.
+
+Ayr Hockey Club also play out of the Cambusdoon ground, on a purpose-built floodlit astroturf pitch, which is also used for 5-a-side and 11-a-side football. There is also a bowling green, with the Cricket Club, Hockey Club and Bowling Club being held under the Cambusdoon Sports Club title.
+
+Millbrae, the home of Ayr Rugby Club since 1964, is also located in Alloway.
+
+Nearby
+
+Newark Estate is a pheasant and partridge game shooting estate immediately to the south of Alloway. It has been owned by the Walker family for at least three generations, their family grave being prominent in the churchyard of Alloway Parish Church.
+Question:
+Who is commemorated by a museum at Alloway, Strathclyde?
+Answer:
+Rabbie Burns
+Passage:
+Understanding old British money - pounds, shillings and pence
+Understanding old British money - pounds, shillings and pence
+Before decimalization on 15 February 1971, there were twenty (20) shillings per pound.
+The shilling was subdivided into twelve (12) pennies.
+The penny was further sub-divided into two halfpennies or four farthings (quarter pennies).
+2 farthings = 1 halfpenny
+2 halfpence = 1 penny (1d)
+3 pence = 1 thruppence (3d)
+6 pence = 1 sixpence (a 'tanner') (6d)
+12 pence = 1 shilling (a bob) (1s)
+2 shillings = 1 florin ( a 'two bob bit') (2s)
+2 shillings and 6 pence = 1 half crown (2s 6d)
+5 shillings = 1 Crown (5s)
+Did you know
+The pre-decimalisation British system of coinage was introduced by King Henry II. It was based on the troy system of weighing precious metals. The penny was literally one pennyweight of silver. A pound sterling thus weighed 240 pennyweights, or a pound of sterling silver.
+Symbols
+The symbols 's' for shilling and 'd' for pence derive from the Latin solidus and denarius used in the Middle Ages.
+The '£' sign developed from the 'l' for libra.
+£ or l in some documents
+= pound
+A £1 coin was called a Sovereign and was made of gold.
+A paper pound often was called a quid.
+More than a pound (£)
+1 guinea and a £5.0.0 note
+1 guinea = £1-1s-0d ( £1/1/- ) = one pound and one shilling = 21 shillings or 21/- (which is £1.05 in todays money)
+1 guinea could be written as '1g' or '1gn'.
+A guinea was considered a more gentlemanly amount than £1. You paid tradesmen, such as a carpenter, in pounds but gentlemen, such as an artist, in guineas.
+A third of a guinea equalled exactly seven shillings.
+Why guinea?
+Because the Guinea coast was fabled for its gold, and its name became attached to other things like guinea fowl, and New Guinea.
+"A Guinea coin was available as legal tender and they were minted from gold. Therefore ceased to be used as such as they became collectors items, for the gold presumably. I was given 4 gold guinea coins when I was 13."
+Manuel, Wilmslow, Cheshire
+"I remember the £5.0.0 note. It was larger than other notes, stiff and very white with black lettering.   It had to be folded to fit into a wallet and I never possessed more than one at a time and then infrequently.   It did not appear to last very long because, I have been given to understand, it was easily forged."
+Edwin J Cato
+"Bob" is slang for shilling (which is 5p in todays money)
+1 shilling equalled twelve pence (12d).
+£1 (one pound) equalled 20 shillings (20s or 20/-)
+240 pennies ( 240d ) = £1
+There were 240 pennies to a pound because originally 240 silver penny coins weighed 1 pound (1lb).
+A sum of £3 12s 6d was normally written as £3-12-6, but a sum of 12s 6d was normally recorded as 12/6.
+Amounts less than a pound were also written as:
+12/6 meaning 12s-6d
+10/- meaning ten shillings.
+An amount such as 12/6 would be pronounced 'twelve and six' as a more casual form of 'twelve shillings and sixpence'.
+More than a Shilling (s. or /- )
+Coins of more than one shilling ( 1/- ) but less than £1 in value were:
+a florin (a two shillings or 2 bob or 2 bob bit)
+10 x 2/- = £1
+a penny (copper) often called a 'copper'
+12 x 1d  = 1/-
+The word threepence would often be pronounced as though there was only a single middle "e", therefore "thre-pence".  The slang name for the coin was Joey.
+Penny coins were referred to as 'coppers'
+We also used the words couple of coppers, tanner, bob, half-a-dollar, dollar,   quid to mean  the value or amount of the money needed, e.g. can you lend me ten   bob please? It didn't really matter if in was made up of shillings and pennies,   or any other coins.
+John Curd
+Less than a penny (d)
+Pennies were broken down into other coins:
+a farthing
+Question:
+In shillings, what was the value of a crown?
+Answer:
+5 shillings
+Passage:
+Hombro - Spanish to English Translation | Spanish Central
+Hombro - Spanish to English Translation | Spanish Central
+hombro
+encogerse de hombrosto shrug one's shoulders
+hombro con hombroshoulder to shoulder
+llevé mi hija en hombrosI carried my daughter on my shoulders
+a hombroson one's shoulders
+arrimar el hombro : to lend a hand, to pull one's weight
+Seen & Heard
+What made you want to look up hombro? Please tell us where you read or heard it (including the quote, if possible).
+Spanish Quizzes
+Question:
+Hombro is Spanish for which part of the body?
+Answer:
+Shoulder
+Passage:
+Papworth Everard
+Papworth Everard is a village in Cambridgeshire, England. It lies ten miles west of Cambridge and six miles south of Huntingdon, having along its centre Ermine Street, the old North Road, the Roman highway that for centuries served as a major artery from London to York, which is now the A1198. A bypass now means that most traffic can avoid Ermine Street, and it is comprehensively traffic-calmed.
+
+Today, Papworth Everard is a large village with a thriving community, home to substantial light industry and local business. It is also the centre for the Papworth Trust, a charity which offers housing and training to the disabled, and Papworth Hospital, renowned in the field of cardiology.
+
+History
+
+Recent archaeological work in the area of the Papworth Business Park has shown that there was some Bronze Age activity in the area.  But by the Roman period, when Ermine Street was built in the first century AD, it is unlikely that there was as yet anything we would now recognise as a village there. However the same archaeological work shows signs of Romano-British activity, as well as the road, in the area.  Roman rule collapsed in Britain in 410 AD. It was at least another two or three centuries before a Saxon leader, probably called 'Papa', established a small settlement about a quarter of a mile to the west of Ermine Street around the site of the present parish church. Indeed Papworth means "the enclosure of Papa's people": they were also involved in establishing Papworth St Agnes and Papley Grove.  Following the Norman conquest of 1066 the village and land of Papworth were granted by the new king to a Norman knight, Everard De Beche, from whose name the second element of the village's name is derived.   A moated area in the village is the remains of his castle.
+
+Sport and recreation
+
+Papworth Everard has a King George's Field in memorial to King George V. Adjacent to the playing fields are a bowling green (currently in the process of renovation) and a series of all-weather, floodlit tennis courts. The village also has an open-air paddling pool in its park.
+
+Papworth Blasters
+
+Papworth Blasters is the village's local Association football team. They play their Home games at King George's Field. They have varying age ranges of teams from under 8s to under 16s and a men's team.
+
+Local facilities & services
+
+Papworth Everard is served by a variety of local services, primarily based in the central location of Pendrill Court, between Chequers Lane and Ermine Street. This area is adjacent to the playing fields and so provides a central hub for the village. In addition to a combined pharmacy and doctors' surgery (on Chequers Lane) the village centre contains a convenience store incorporating a Post Office, a veterinary surgery, a coffee shop, a unisex hair salon, a chip shop, a library, Norfolk Street Deli and a family run party business, Bluebird Parties. The Village Hall was re-opened in 2015, under the control of the Parish Council.
+
+Plans remain to develop the old print works in the village into a micro-brewery and bakery but at present these remain hopeful.  The re-developed social club (formerly The Conservatory) opened as Rocky's Bar and Restaurant in August 2015.
+
+Local news and information is published monthly in Papworth News & Views.
+
+Gallery
+
+Image:Papworth Everard shield.jpg
+Image:Papworth everard11.jpg
+Image:Papworth Everard3.jpg
+Image:Papworth 32.jpg
+Image:Papworth hospital.jpg|Papworth Hospital
+Image:Papworth Kebab Van.jpg|Kebab van
+
+Notes
+Question:
+Papworth is in which county ?
+Answer:
+Cambridgeshire county council
+Passage:
+Miss Tibbs and Miss Gatsby
+Miss Abitha Tibbs and Miss Ursula Gatsby are fictional characters, played by Gilly Flower and Renee Roberts respectively, in the BBC television sitcom Fawlty Towers.
+
+Miss Tibbs and Miss Gatsby are two mostly inseparable and slightly scatty elderly spinsters who are permanent residents of Fawlty Towers (the only other long-term guest being Major Gowen). Basil Fawlty switches from being overly kind to being utterly rude during his various conversations with them, although they rarely understand his sarcasm. They are depicted as being "on the edge of their eighties". 
+
+The two ladies appear in every episode of the series, though are uncredited in "A Touch of Class" (the pilot). They seldom have main roles in the plot, usually being background characters adding to the atmosphere. Miss Tibbs plays a larger role in the episode "The Kipper and the Corpse", the only time she is seen away from Miss Gatsby, where she is repeatedly startled by a guest's corpse, which Basil, Manuel and Polly are desperately trying to keep hidden from guests until the undertaker arrives. Her unfortunate encounters with the deceased include being knocked unconscious by Polly, being locked in a cupboard with Leeman and fainting in horror after stumbling across the body in the hotel office. In that episode it is revealed that Tibbs is 79.
+Question:
+In which TV establishment were Miss Gatsby and Miss 'Tibbs residents?
+Answer:
+Polly Shearman
+Passage:
+Pianist
+A pianist ( , ) is an individual musician who plays the piano. Most forms of Western music can make use of the piano. Consequently, pianists have a wide variety of repertoire and styles to choose from, including traditionally classical music, jazz, blues and all sorts of popular music, including rock music. Most pianists can, to a certain extent, play other keyboard-related instruments such as the synthesizer, harpsichord, celesta and the organ.
+
+Pianists past and present
+
+Modern classical pianists dedicate their careers to performing, recording, teaching, researching as well as learning new works/expanding their repertoire. They generally do not write or transcribe music as pianists did in the 19th century. Some classical pianists might specialize in accompaniment and chamber music while others (relatively few) will perform as full-time piano soloists.
+
+Classical 
+
+Mozart could be considered the first "concert pianist" as he performed widely on the piano. Composers Beethoven and Clementi from the classical era were also famed for their playing, as were, from the romantic era,  Liszt, Brahms, Chopin, Mendelssohn and Rachmaninoff. From that era, leading performers less known as composers were Clara Schumann and Hans von Bülow. However, as we do not have modern audio recordings of most of these pianists, we rely mainly on written commentary to give us an account of their technique and style.
+
+Jazz 
+
+Jazz pianists almost always perform with other musicians. Their playing is freer than that of  classical pianists and they create an air of spontaneity in their performances. They generally do not write down their compositions; improvisation is a significant part of their work. Well known Jazz pianists include Art Tatum, Duke Ellington, Thelonious Monk, Oscar Peterson and Herbie Hancock.
+
+Popular pianists might work as live performers (concert, theatre, etc.), session musicians, arrangers most likely feel at home with synthesizers and other electronic keyboard instruments. Notable popular pianists include Victor Borge who performed as a comedian; Richard Clayderman, who is known for his covers of popular tunes; and singer and entertainer Liberace, who at the height of his fame, was one of the highest paid entertainers in the world.
+
+Well known pianists
+
+A single listing of pianists in all genres would be impractical, given the multitude of musicians noted for their performances on the instrument.  Below are links to lists of well-known or influential pianists divided by genres:
+
+Classical pianists
+
+*List of classical pianists (recorded)
+*List of classical pianists
+*List of classical piano duos (performers)
+
+Jazz pianists
+
+*List of jazz pianists
+
+Pop and rock music pianists
+
+*List of pop and rock pianists
+
+Blues pianists
+
+*List of blues musicians
+*List of boogie woogie musicians
+
+Gospel pianists
+
+*List of gospel musicians
+
+New-age pianists
+
+*List of new-age music artists
+
+Pianists-composers
+
+Many important composers were also virtuoso pianists. The following is an incomplete list of such musicians.
+
+Classical period
+
+*Franz Schubert
+*Ludwig van Beethoven
+*Wolfgang Amadeus Mozart
+*Johann Nepomuk Hummel
+*Muzio Clementi
+*Carl Maria von Weber
+*Malek Jandali
+
+Romantic period
+
+*Edvard Grieg
+*Franz Liszt
+*Frédéric Chopin
+*Felix Mendelssohn
+*Johannes Brahms
+*Sergei Rachmaninoff
+*Anton Rubinstein
+*Camille Saint-Saëns
+*Isaac Albéniz
+*Nikolai Medtner
+*Charles-Valentin Alkan
+*Anton Arensky
+
+Modern period
+
+*Béla Bartók
+*George Gershwin
+*Mikhail Pletnev
+*Sergei Prokofiev
+*Dmitri Shostakovich
+
+Amateur pianists
+
+Some people, having received a solid piano training in their youth, decide not to continue their musical careers but choose nonmusical ones. As a result, there are prominent communities of amateur pianists all over the world that play at quite a high level and give concerts just because of their love to music, but not to earn money.  The International Piano Competition for Outstanding Amateurs, held annually in Paris, attracts about one thousand listeners each year and is broadcast on French radio. It is also a notable fact that Jon Nakamatsu, the Gold Medal winner of the prestigious Van Cliburn International Piano Competition for professional pianists in Fort Worth, Texas (1997) was at the moment of his victory technically an amateur: he never attended a music conservatory or major in music, and worked as a high school German teacher then. It was only after the competition that he started pursuing a career as a classical pianist.
+
+The German pianist Davide Martello is known for travelling around conflict zones to play his moving piano. Martello has previously been recognised by the European parliament for his “outstanding contribution to European cooperation and the promotion of common values”.[http://www.theguardian.com/world/2015/nov/15/paris-attacks-john-lennon-imagine-pianist-davide-martello-klavierkunst]
+Question:
+Which composer and pianist, usually included as one of the Three B's of classical music, wrote A German Requiem ?
+Answer:
+Brahm's
+Passage:
+Duet
+A duet is a musical composition for two performers in which the performers have equal importance to the piece. It is often used to describe a composition involving two singers. It differs from a harmony, as the performers take turns performing a solo section rather than performing simultaneously. In classical music, the term is most often used for a composition for two singers or pianists. A piece performed by two pianists performing together on the same piano is referred to as "piano duet" or "piano four hands".  A piece for two pianists performing together on separate pianos is referred to as a "piano duo".
+
+"Duet" is also used as a verb for the act of performing a musical duet, or colloquially as a noun to refer to the performers of a duet. The word is also occasionally used in reference to non-musical activities performed together by two people.
+
+A musical ensemble with more than two solo instruments or voices is called trio, quartet, quintet, sextet, septet, octet, etc. 
+
+History 
+
+When Mozart was young, he and his sister Marianne played a duet of his composition at a London concert in 1765. The four-hand, described as a duet, was in many of his compositions which included five sonatas; a set of variations, two performers and one instrument, and a sonata for two pianos. The first published sonata or duet was in 1777. 
+
+In Renaissance music, a duet specifically intended as a teaching tool, to be performed by teacher and student, was called a bicinium (see Étude).
+
+In opera 
+
+Duets have always been a part of the structure of operas. Early 16th-century operas such as L'Orfeo and L'incoronazione di Poppea involve duets throughout the performance. In 17th-century Italy duets were often used in comic scenes within serious operas. In Baroque France the duet was popular in tragedies, such as songs of vengeance and confrontation. The love duet was characterized by singing in close harmonies of 3rds and 6ths, symbolizing unity after conflict. 
+
+Famous operatic duets 
+
+* La clemenza di Tito by Wolfgang Amadeus Mozart
+* La Cenerentola by Gioachino Rossini
+* The Puritans of Vincenzo Bellini
+* Don Pasquale by Gaetano Donizetti
+* La traviata by Giuseppe Verdi
+* Aida of Giuseppe Verdi
+* Mefistofele of Arrigo Boito
+* Manon Lescaut by Giacomo Puccini
+*Madama Butterfly by Giacomo Puccini
+* L'amico Fritz by Pietro Mascagni
+
+In pop music 
+
+Throughout the 20th century duets have been common in the popular music of the era. Some songs were written to be heard as conversations, such as "Baby, It's Cold Outside". Others were performed around a theme, for example New York in "Empire State of Mind". Occasionally duets are an improvisation between artists, such as "Under Pressure". David Bowie and Freddie Mercury reportedly composed the lyrics in a day by improvising together. 
+
+Famous pop duets 
+
+* "Baby, It's Cold Outside" - Ricardo Montalbán and Esther Williams, and with roles reversed, Red Skelton and Betty Garrett, 1948
+* "Dream a Little Dream of Me" – Louis Armstrong and Ella Fitzgerald, 1950
+* "I Got You Babe" – Sonny & Cher, 1965
+* "Ain't No Mountain High Enough" – Marvin Gaye and Tammi Terrell, 1967
+* "Jackson" – Johnny Cash and June Carter, 1967
+* "Somethin' Stupid" – Frank Sinatra and Nancy Sinatra, 1967
+* "Waters of March" – Elis Regina and Antonio Carlos Jobim, 1972
+* "Don't Go Breaking My Heart" – Elton John and Kiki Dee, 1976
+* "You're The One That I Want" – John Travolta and Olivia Newton-John, 1978
+* "Dead Ringer for Love" – Meat Loaf and Cher, 1981
+* "Endless Love" – Diana Ross and Lionel Richie, 1981
+* "Under Pressure" – Queen and David Bowie, 1981
+* "Ebony and Ivory" – Paul McCartney and Stevie Wonder, 1982
+* "Islands in the Stream" – Kenny Rogers and Dolly Parton, 1983
+* "Don't Give Up" – Kate Bush and Peter Gabriel, 1985
+* "(I've Had) The Time of My Life" – Bill Medley and Jennifer Warnes, 1987
+* "Scream/Childhood" – Michael Jackson and Janet Jackson, 1995
+* "Tell Him" – Barbra Streisand and Celine Dion, 1997
+* "When You Believe" – Whitney Houston and Mariah Carey, 1998
+* "Where You Are" – Jessica Simpson and Nick Lachey, 2000
+* "Beautiful Liar" – Beyoncé and Shakira, 2007
+* "No Estamos Solos" – Eros Ramazzotti and Ricky Martin, 2007
+* "Ta Voix (The Calling)" – Jennifer Paige and Lââm, 2008
+* "Empire State of Mind" – Jay-Z and Alicia Keys, 2009
+* "Limpido" – Laura Pausini and Kylie Minogue, 2013
+* "Hurt You" – Toni Braxton and Babyface, 2014
+Question:
+Who duetted with Kenny Rogers on Islands In The Stream
+Answer:
+Floyd Parton
+Passage:
+Dipsomania
+Dipsomania is a historical term describing a medical condition involving an uncontrollable craving for alcohol. In the 19th century, dipsomania was a variety of alcohol-related problems, most of which are known today as alcoholism. Dipsomania is occasionally still used to describe a particular condition of periodic, compulsive bouts of alcohol intake. The idea of dipsomania is important for its historical role in promoting a disease theory of chronic drunkenness. The word comes from Greek dipso ("δίψα"= thirst) and mania. It is still mentioned in the WHO ICD10 as an alternative description for alcohol dependence syndrome, episodic use F10.26
+
+History
+
+The term was coined by the German physician C. W. Hufeland in 1819, when, in a preface to an influential book by German-Russian doctor C. von Brühl-Cramer,  he translated Brühl-Cramer's term "trunksucht" as "dipsomania".[http://www3.interscience.wiley.com/journal/119222474/abstract?CRETRY1&SRETRY
+0 The history of alcoholism: Brühl-Cramer's concepts and observations - KIELHORN - 2006 - Addiction - Wiley Online Library]
+   Brühl-Cramer classified dipsomania in terms of continuous, remittent, intermittent, periodic and mixed forms, and in his book he discussed its etiology, pathogenesis, sequelae, and treatment options, all influenced by prevailing ideas about the laws of chemistry and concepts of excitability. 
+
+Due to the influence of Brühl-Cramer's pioneering work, dipsomania became popular in medical circles throughout the 19th century.  Political scientist Mariana Valverde describes dipsomania as "the most medical" of the many terms used to describe habitual drunkenness in the 19th century.  Along with terms such as "inebriety", the idea of dipsomania was used as part of an effort of medical professionals and reformers to change attitudes about habitual drunkenness from being a criminally punishable vice to being a medically treatable disease.  As historian Roy MacLeod wrote about this dipsomania reform movement, it "illuminates certain features of the gradual transformation taking place in national attitudes towards the prevention and cure of social illnesses during the last quarter of the 19th century."
+
+Although dipsomania was used in a variety of somewhat contradictory ways by different individuals, by the late 19th century the term was usually used to describe a periodic or acute condition, in contrast to chronic drunkenness.   In his 1893 book Clinical Lessons on Mental Diseases: The Mental State of Dipsomania, Magnan characterized dipsomania as a crisis lasting from one day to two weeks, and consisting of a rapid and huge ingestion of alcohol or whatever other strong, excitatory liquid was available. Magnan further described dipsomania as solitary alcohol abuse, with loss of all other interests, and these crises recurred at indeterminate intervals, separated by periods when the subject was generally sober.
+
+Over time, the term dipsomania became less common, replaced by newer ideas and terms concerning chronic and acute drunkenness and alcoholism. 
+
+Examples in fiction
+
+* Whip Whitaker, in the 2012 film Flight, is a dipsomaniac airline pilot who flies by instinct, even when drunk.  
+* Ben Sanderson, a character played by Nicolas Cage in Leaving Las Vegas 
+* Sebastian Flyte, a character from the novel Brideshead Revisited by Evelyn Waugh, who sarcastically describes himself as a dipsomaniac
+* Captain Archibald Haddock, a good friend of Tintin
+* Ramakant Malhotra, a stock character in Surender Mohan Pathak's novels
+* James O. Incandenza, a character in Infinite Jest by David Foster Wallace, described in the novel as having "crippling dipsomania"
+* Dwight Carson, a talented writer in The Fountainhead, who is turned into a dipsomaniac on the whim of Gail Wynand
+* Charlotte Merriam (actress who plays Mrs. Ritchey in the 1931 movie Night Nurse) who exclaims that she is a dipsomaniac several times when confronted by Barbara Stanwyck's character (Lora Hart) with the fact that Ritchey's daughter is dying from malnutrition
+* Peter Morgan Sr., (played by actor Charles Coburn) in the 1938 movie Vivacious Lady, talks about his nephew Keith Morgan's (played by James Ellison) dipsomania ways.
+* Geoffrey Firmin, protagonist of Malcolm Lowry's Under the Volcano and one of the more recognized dipsomaniacs in fiction
+* Richard Gilmore, a character in the TV series Gilmore Girls, refers to a fundraiser speaker as a dipsomaniac in the season one episode "P.S. I Lo..."
+
+Examples in science
+
+* William Thomson, 1st Baron Kelvin writing to George FitzGerald on April 9, 1896:  I have not had a moment's peace or happiness in respect to electromagnetic theory since Nov. 28, 1846 (see vol i. p. 80 M.P.P). All this time I have been liable to fits of ether dipsomania, kept away at intervals only by rigorous abstention from thought on the subject.
+Question:
+If you suffer from dipsomania what are you obsessed by
+Answer:
+Octyldodecanol
+Passage:
+Three Times a Lady
+"Three Times a Lady" is a song by American soul group the Commodores, from their 1978 album Natural High. It was produced by James Anthony Carmichael and the Commodores. It was also the only Motown song to reach the Top 10 on the US Billboard Hot 100 that year and the Commodores's first Billboard Hot 100 number-one hit, topping the chart for two weeks on August 12, 1978 and also went to number one the soul chart for two weeks.   The song spent three weeks at #1 on the adult contemporary chart. 
+
+The song also reached #1 on the Canadian RPM Singles Chart for four weeks, and was one of only a few Motown singles to reach the top spot in the UK Singles Chart, staying there for five weeks.  The song was also successful in Ireland, staying at #1 in the charts for three consecutive weeks. It was #1 in Australia for five weeks, and reached #2 in New Zealand.
+
+The original Commodores' version of the song was included as the final track on Lionel Richie's greatest hits compilation album Back To Front, released in 1992.
+
+In an appearance on The Early Show on June 12, 2009, Lionel Richie said he was inspired to write the song because of a comment his father made about his mother. His father said to his mother "I love you. I want you. I need you. Forever" hence the three times a lady. 
+
+Covers
+
+* Nate Harvell recorded one of the first country versions in 1978, reaching #23 on the Billboard country chart.
+* The song was also covered in the country genre by country singer Billy "Crash" Craddock on his 1986 album Crash Craddock and in 2007 by Cobra Starship as an iTunes bonus track for their album ¡Viva La Cobra!. In 2001 it was covered by Anglo-Norwegian boy band a1 and featured on Motown Mania and as a bonus track on their hit single "No More".
+* The Shadows did an instrumental of the song on Moonlight Shadows (1986).
+* Kenny Rogers covered the song on After Dark.  It was also featured on his hits compilation All The Hits And All New Love Songs.  Rogers performed the song on the Barbara Mandrell and the Mandrell Sisters television show on November 29, 1980.
+* The most successful cover version was performed by Conway Twitty, whose version appears on his 1983 album Lost in the Feeling. Twitty's version reached No. 7 on the Billboard Hot Country Singles chart in the late winter of 1984.  Allmusic reviewer Tom Jurek wrote that "Three Times a Lady" and the previous single, "Heartache Tonight" "offer(ed) a solid view of Twitty's amazing crossover potential, and his ability to take well-known pop tracks and turn them into solid country smashes long after the countrypolitan days of Chet Atkins and RCA."  (In addition to "Heartache Tonight" (a cover of a song by The Eagles), Twitty had successfully covered "Slow Hand" and "The Rose," previously pop hits for the Pointer Sisters and Bette Midler, respectively.)
+Question:
+"Which group had a 1978 UK No. 1 hit with ""Three Times a Lady""?"
+Answer:
+Walter Orange
+Passage:
+The Biggest Eyes in the Animal Kingdom - Mission Blue
+The Biggest Eyes in the Animal Kingdom – Mission Blue
+The Biggest Eyes in the Animal Kingdom
+August 20, 2012
+By Mera McGrew
+Researchers say that colossal squid (Mesonychoteuthis hamiltoni) have the largest eyes ever studied in the animal kingdom. Measuring 27cm (11in) in diameter, each eye is roughly the size of a soccer ball. “They are probably the largest eyes that have ever existed,” says Eric Warrant, a professor at the University of Lund in Sweden and an expert on animal vision.
+Researchers say these huge eyes help the colossal squid survive and thrive in the depths of the Southern Ocean. Their eyes face forward, allowing them to properly judge distances. At great depths, where there is very little light, their large eyes also help them spot large animals, including predators like sperm whales.
+Recently, Mission Blue caught up with Warrant to ask him more about his research and the massive eyes of the colossal squid.
+At Lund University’s Department of Biology, Warrant pursues world-leading research that focuses on vision in dim light, primarily concentrating on deep-sea and nocturnal animals. In 2008, Warrant traveled to the Museum of New Zealand Te Papa in Wellington to take part in the dissection of a colossal squid and investigate the morphology of their eyes along with his friend and colleague Dan-Eric Nilsson.
+Below is a cut version of a Q&A with Eric Warrant.
+Why do colossal squid have such large eyes?
+In order to spot sperm whales (their major enemy) at great depths in the sea where there is almost no daylight. Sperm whales trigger bioluminescence from the great density of tiny planktonic animals that they collide with while swimming. This light creates a bright aura around and behind the whale that can be seen at a great distance in the sea (about 120 m away), but only by an animal with an eye as large as that of the colossal squid.
+In your opinion what is the most fascinating thing about the colossal squid’s eyes and why?
+Their sheer size. They are probably the largest eyes that have ever existed, and the next largest eyes are only 9 cm in diameter (the eyes of a large swordfish). For most visual tasks – such as detecting objects illuminated in the faint downwelling daylight – an eye of greater than 9 cm isn’t justified on the basis of visual gains per unit energy cost. The only visual task that is an exception to this is the detection of large luminous objects – the major reason for the evolution of the giant eyes of squids. This evolution was necessary in order to give them an early warning visual alarm system for detecting sperm whales.
+In 2008, you traveled to the Museum of New Zealand Te Papa in Willington to take part in the dissection of a colossal squid. Can you briefly describe what your role was within that dissection?
+My role – together with my friend and colleague Dan-Eric Nilsson – was to investigate the morphology of the eyes of the squid to that level it was possible in an animal that had been frozen for over a year and then thawed-out.
+Why was dissecting the colossal squid so important from a scientific standpoint?
+Colossal squid are not uncommon in the deep ocean but our investigations of them are very few because they are so hard to see and to find. Most specimens that exist in museums are in very poor condition, having been found washed up on beaches in a half-rotten state. The eyes are usually in a particularly bad state. The New Zealand specimen had been caught alive on a long-line fishing vessel, dragged up onto the ship’s deck and then frozen immediately (I suspect that the ship’s crew recognized the scientific value in the specimen directly). Never before in the history of colossal squid research had so fine a specimen been obtained. Hence its enormous scientific value.
+What did you and other researchers discover through the dissection?
+I think this can be best answered by consulting  Te Papa’s web site .
+ 
+Top photo: Christine Dell’Amore. The eye pictured is not a colossal squid eye, it is a preserved giant squid eye.
+One Comment
+“The New Zealand specimen had been caught alive on a long-line fishing vessel, dragged up onto the ship’s deck and then frozen immediately.”
+How very cruel.
+Question:
+Which creature has the largest eye?
+Answer:
+Mouchezis
+Passage:
+Motorsport
+Motorsport or motorsports is a global term used to encompass the group of competitive events which primarily involve the use of motorised vehicles, whether for racing or non-racing competition.  The terminology can also be used to describe forms of competition of two-wheeled motorised vehicles under the banner of motorcycle racing, and includes off-road racing such as motocross.
+
+Four- (or more) wheeled motorsport competition is globally governed by the Fédération Internationale de l'Automobile (FIA); and the Fédération Internationale de Motocyclisme (FIM) governs two-wheeled competition.
+
+History
+
+In 1894, a French newspaper organised a race from Paris to Rouen and back, starting city to city racing.  In 1900, the Gordon Bennett Cup was established.  Closed circuit racing arose as open road racing, on public roads, was banned.  Brooklands was the first dedicated motor racing track in the United Kingdom.
+
+Following World War I, European countries organised Grand Prix races over closed courses.  In the United States, dirt track racing became popular.
+
+After World War II, the Grand Prix circuit became more formally organised.  In the United States, stock car racing and drag racing became firmly established.
+
+Motorsports ultimately became divided by types of motor vehicles into racing events, and their appropriate organisations.
+
+Open-wheel racing
+
+Open-wheel racing is a set of classes of motor vehicles, with their wheels outside of, and not contained by any bodywork of their vehicle.  These have been globally classified as specific 'Formula' series - the most common being Formula One, and many others include the likes of Formula 3, Formula Ford, Formula Renault and Formula Palmer Audi.  However, in North America, the IndyCar series is their pinnacle open-wheeled racing series.  More recently, new open-wheeled series have been created, originating in Europe, which omit the 'Formula' moniker, such as GP2 and GP3.  Former 'Formula' series include Formula 5000 and Formula Two.
+
+Formula One
+
+Formula One is a class of single seat grand prix closed course racing, governed by the Fédération Internationale de l'Automobile (FIA), and currently organized by the privately owned company Formula One Group.  The formula is a very strict set of rules which govern vehicle power, weight and size. 
+
+IndyCar Series
+
+In the United States, Indy Car is a class of single seat paved track racing, organized by  INDYCAR.  Its premier race is the Indianapolis 500.
+
+Enclosed wheel racing
+
+Enclosed wheel racing is a set of classes of vehicles, where the wheels are primarily enclosed inside the bodywork of the vehicle, similar to a North American 'stock car'.
+
+Sports car racing
+
+Sports car racing is a set of classes of vehicles, over a closed course track, including sports cars, and specialised racing types.  The premiere race is the 24 Hours of Le Mans which takes place annually in France during the month of June.  Sports car racing rules and specifications differentiate in North America from established international sanctioning bodies. 
+
+Stock car racing
+
+Stock car racing is a set of vehicles, that race over a speedway track, organised by NASCAR.  While once stock cars, the vehicles are now purpose built, but resemble the body design and shape of production cars.  NASCAR was organised in 1947, to combine flat track oval racing of production cars.   Daytona Beach and Road Course was founded where land speed records were set on the beach, and including part of A1A.
+
+Touring car racing
+
+Touring car racing is a set of vehicles,  modified street cars, that race over closed purpose built race tracks and street courses.
+
+Other racing
+
+Motor sports which involve competitors racing against each other include:
+*Auto (car) racing
+*Motor rallying
+*Motorcycle racing
+*Air racing
+*Kart racing
+*Boat racing
+*Hovercraft racing
+*Lawn mower racing
+*Snowmobile racing
+*Truck racing
+
+Non-racing motorsport
+
+Forms of motorsport which do not involve racing include drifting, regularity rally, motorcycle trials, gymkhana, Freestyle Motocross and tractor pulling.
+
+Olympics
+
+Motorsport was a demonstration event at the 1900 Summer Olympics.
+Question:
+What famous French endurance motor racing track/city is named after the early inhabiting Cenomani Celtic people?
+Answer:
+Manceaux
+Passage:
+Sciatic nerve
+The  sciatic nerve (; also called ischiadic nerve, ischiatic nerve) is a large nerve in humans and other animals. It begins in the lower back and runs through the buttock and down the lower limb. It is the longest and widest single nerve in the human body, going from the top of the leg to the foot on the posterior aspect.  The sciatic nerve provides the connection to the nervous system for nearly the whole of the skin of the leg, the muscles of the back of the thigh, and those of the leg and foot. It is derived from spinal nerves L4 to S3. It contains fibres from both the anterior and posterior divisions of the lumbosacral plexus.
+
+Structure
+
+The sciatic nerve is formed from the L4 to S3 segments of the sacral plexus, a collection of nerve fibres that emerge from the sacral part of the spinal cord. The fibres unite to form a single nerve in front of the piriformis muscle. The nerve passes beneath piriformis and through the greater sciatic foramen, exiting the pelvis. From here, it travels down the posterior thigh to the popliteal fossa. The nerve travels in the posterior compartment of the thigh behind (superficial to) the adductor magnus muscle, and is itself in front of (deep to) one head of the biceps femoris muscle. At the popliteal fossa, the nerve divides into its two branches:
+* The tibial nerve, which travels down the posterior compartment of the leg into the foot
+* The common peroneal nerve (also called the common fibular nerve), which travels down the anterior and lateral compartments of the leg into the foot
+
+The sciatic nerve is the largest nerve in the human body. 
+
+Development
+
+Function
+
+The sciatic nerve supplies sensation to the skin of the foot, as well as the entire lower leg (except for its inner side). Sensation to skin to the sole of the foot is provided by the tibial nerve, and the lower leg and upper surface of the foot via the common fibular nerve.
+
+The sciatic nerve also innervates muscles. In particular:  
+* Via the tibial nerve, the muscles in the posterior compartment of the leg and sole of the foot (plantar aspect).  
+* Via the common peroneal nerve (also called the common fibular nerve), the muscles in the anterior and lateral compartments of the leg. 
+
+Clinical significance
+
+Sciatica
+
+Pain caused by a compression or irritation of the sciatic nerve by a problem in the lower back is called sciatica.  Common causes of sciatica include the following lower back and hip conditions:  spinal disc herniation, degenerative disc disease, lumbar spinal stenosis, spondylolisthesis, and piriformis syndrome.   Other acute causes of sciatica include coughing, muscular hypertension, and sneezing. 
+
+Injury
+
+Sciatic nerve injury occurs between 0.5% and 2.0% of the time during total hip arthroplasty.  Sciatic nerve palsy is a complication of total hip arthroplasty with an incidence of 0.2% to 2.8% of the time, or with an incidence of 1.7% to 7.6% following revision.  Following the procedure, in rare cases, a screw, broken piece of trochanteric wire, fragment of methyl methacrylate bone cement, or Burch-Schneider metal cage can impinge on the nerve; this can cause sciatic nerve palsy which may resolve after the fragment is removed and the nerve freed.  The nerve can be surrounded in oxidized regenerated cellulose to prevent further scarring.  Sciatic nerve palsy can also result from severe spinal stenosis following the procedure, which can be addressed by spinal decompression surgery.  It is unclear if inversion therapy is able to decompress the sacral vertebrae, it may only work on the lumbar aspects of the sciatic nerves.
+
+Other disease
+
+Bernese periacetabular osteotomy resulted in major nerve deficits in the sciatic or femoral nerves in 2.1% of 1760 patients, of whom approximately half experienced complete recovery within a mean of 5.5 months. 
+
+Sciatic nerve exploration can be done by endoscopy in a minimally invasive procedure to assess lesions of the nerve.   Endoscopic treatment for sciatic nerve entrapment has been investigated in deep gluteal syndrome; "Patients were treated with sciatic nerve decompression by resection of fibrovascular scar bands, piriformis tendon release, obturator internus, or quadratus femoris or by hamstring tendon scarring." 
+
+Society and culture
+
+According to Jewish law, the sciatic nerve (Hebrew: Gid hanasheh) cannot be eaten, to commemorate Jacob's  hurt in his struggle with an Angel.
+Question:
+Which is the longest nerve in the human body?
+Answer:
+Ischiatic nerves
+Passage:
+Green Hedges
+Green Hedges was Enid Blyton's home from 1938 until near her death. She wrote most of her books there and also held the famous Story Parties there. The house was situated off Penn Road in Beaconsfield, Buckinghamshire.
+
+History
+
+In 1938, Enid Blyton and her first husband Hugh Alexander Pollock moved to the eight-bedroomed, mock-Tudor mansion where she would live for the rest of her life. There were large lawns, tennis courts, and a rose garden. There was also a large porch at the side.
+
+After
+
+After Enid Blyton's death the house was knocked down and new houses were built in its place. A road named Blyton Close stands in the approximate location of the house.
+Question:
+The daughter of which famous author of many children’s books wrote “A Childhood at Green Hedges”?
+Answer:
+The Little lose hen

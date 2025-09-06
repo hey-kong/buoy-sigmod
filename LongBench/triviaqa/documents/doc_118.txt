@@ -1,0 +1,740 @@
+Passage:
+Giacomo Agostini
+Giacomo Agostini (born 16 June 1942) is an Italian multi-time world champion Grand Prix motorcycle road racer.  Nicknamed Ago, with an absolute record of 122 Grand Prix wins and 15 World Championships titles, he is considered to be perhaps the greatest motorcycle racer of all time. Of these, 68 wins and 8 titles came in the 500cc class, the rest in the 350cc class.
+
+Early career
+
+Agostini was born in Brescia, Lombardy, to father Aurelio Agostini and mother Maria Vittoria. His family was from Lovere, where his father was employed in the local town council. The oldest of four brothers, Agostini initially had to steal away to compete, first in hill climb events and then in road racing, as his father did not approve of his son's motorcycle racing career and did everything he could to persuade him not to race.
+
+Eventually his father came to terms with his racing and he won the 1963 Italian 175cc championship aboard a Morini. He got his break when Morini factory rider, Tarquinio Provini left the team to ride for Benelli. Count Alfonso Morini hired the young Agostini to ride for him. In 1964, Agostini would win the Italian 350cc title and proved his ability by finishing fourth in the Italian Grand Prix at Monza. 
+
+World championships
+
+These results caught the eye of Count Domenico Agusta who signed Agostini to ride for his MV Agusta squad as Mike Hailwood's team-mate. Agostini then fought a season-long battle with Honda's Jim Redman for the 1965 350cc world championship. He seemed to have the title won when he led the final round in Japan at Suzuka when his bike failed him, handing the title to Redman.
+
+At the end of the 1965 season, Hailwood left to join Honda as he had tired of working for the difficult Count Agusta. With Agostini now the top MV Agusta rider, he responded by winning the 500cc title seven years in succession for the Italian factory. He would also win the 350cc title seven times in succession and won 10 Isle of Man TTs; he is as of today the only non-British rider to achieve 10 or more TT victories. In 1967 he battled Hailwood in one of the most dramatic seasons in Grand Prix history. Each rider had 5 victories before the championship was decided in Agostini's favor at the last race of the season.
+
+Agostini dropped a bombshell on the Grand Prix world when he announced he would never again race at the Isle of Man TT, after the death of his close friend, Gilberto Parlotti during the 1972 TT. He considered the 37 mile circuit unsafe for world championship competition. At the time, the TT was the most prestigious race on the motorcycling calendar. Other top riders joined his boycott of the event and by 1977, the event was struck from the Grand Prix schedule.
+
+Agostini surprised the racing world when he announced that he would leave MV Agusta to ride for Yamaha in 1974 season. On his first outing for the Japanese factory, he won the prestigious Daytona 200, the premiere American motorcycle race.  He went on to claim the 1974 350cc World Championship but injuries and mechanical problems kept him from winning the 500cc crown. He rebounded and won the 1975 500cc title, marking the first time a two-stroke machine won the premier class.
+
+The 1975 championship would also be the last world title for the 33-year-old Italian. In 1976, he rode both Yamaha and MV bikes in the 500cc class, yet raced only once in the 350cc to win in Assen. For the challenging Nürburgring, he chose the 500cc MV Agusta and took it to victory, winning the last Grand Prix for both himself, the marque and the last for four-stroke engines in the 500cc class.
+
+He retired from motorcycle competition after finishing 6th in the 1977 season in which he also raced in 750cc endurance races for Yamaha.
+
+Racing car career
+
+Like John Surtees and Mike Hailwood before him, Agostini raced in Formula One cars. He competed in non-championship Formula One races in 1978. He competed in the European Formula 2 series in a Chevron B42-BMW and British Aurora Formula 1 with his own team and a Williams FW06. He ended his auto racing career in 1980. 
+
+Team manager
+
+In 1982 Agostini returned to motorcycle racing as the Marlboro Yamaha team manager. In this role he won three 500cc titles with Eddie Lawson and managed many successful riders including Graeme Crosby and Kenny Roberts. Under his management riders won the 1982 Daytona Formula 1 (Crosby), 1983 and 1984 Daytona Formula 1 (Roberts) and 1986 Daytona Superbike championships (Lawson).
+Between 1986 and 1990 he also managed the Marlboro Yamaha 250cc team with riders like Luca Cadalora, Martin Wimmer and Àlex Crivillé.
+
+Since 1992 he served as the Cagiva factory racing team manager until 1994, when Cagiva withdrew from the world championship.
+Agostini's last season as team manager was 1995 when he managed a 250cc Honda team with Doriano Romboni as rider.
+
+Complete Grand Prix motorcycle racing results
+
+Points system from 1964 to 1968:
+
+Points system from 1969 onwards:
+
+Complete Formula 750 Championship results
+
+Complete British Formula One Championship results
+
+(key)
+Question:
+Giacomo Agostini was seven times world champion between 1966 and 1972 in which sport?
+Answer:
+Motorcyclists
+Passage:
+Fool's mate
+In chess, Fool's Mate, also known as the "Two-Move Checkmate", is the checkmate in the fewest possible number of moves from the start of the game. A prime example consists of the moves:
+
+1. f3 e5
+2. g4?? Qh4#
+
+resulting in the position shown. (The pattern can have slight variations: White might play 1.f4 instead of 1.f3 or move the g-pawn first, and Black might play 1...e6 instead of 1...e5.)
+
+Details
+
+Fool's Mate received its name because it can only occur if White plays extraordinarily weakly (i.e. foolishly). Even among rank beginners, the mate almost never occurs in practice.
+
+The same basic mating pattern can also occur later in the game. For instance, a well-known trap in the Dutch Defence  occurred in the game Frank Melville Teed vs. Eugene Delmar, 1896: 
+
+1. d4 f5 2. Bg5 h6 3. Bf4 g5 4. Bg3 f4
+:It seems that Black has won the bishop, but now comes ...
+
+5. e3
+:Threatening Qh5#, a basic Fool's Mate.
+
+5... h5 6. Bd3?!
+:6.Be2 is probably better, but the move played sets a trap.
+
+6... Rh6??
+:Defending against Bg6#, but ...
+
+7. Qxh5+!
+:White sacrifices his queen to draw the black rook away from its control of g6.
+
+7... Rxh5 8. Bg6#
+
+A similar mate can occur in From's Gambit: 1. f4 e5 2. g3? exf4 3. gxf4?? Qh4#
+
+More generally, the term Fool's Mate is applied to all similar mates early in the game.  For example, in 1. e4 g5 2. d4 f6?? 3. Qh5#, the basic Fool's Mate pattern is the same: a player advances his f- and g-pawns, which permit the enemy queen to mate along the unblocked diagonal. One such Fool's Mate is widely reported to have occurred in a possibly apocryphal 1959 game between Masefield and Trinka  which lasted just three moves: 1. e4 g5 2. Nc3 f5?? 3. Qh5#     
+
+Even more generally, the term Fool's Mate is used in chess variants to mean the shortest possible mate, especially those which bear a resemblance to the orthodox chess Fool's Mate.  For example, Fool's Mate in the variant Progressive chess is: 1. e4 2. f6 g5?? 3. Qh5#
+
+Similar traps
+
+A similar trap occurred in a game published by Gioachino Greco in 1625:
+
+1. e4 b6 2. d4 Bb7 3. Bd3 f5? 4. exf5 Bxg2? 5. Qh5+ g6 6. fxg6 Nf6??
+:6...Bg7 would have prolonged the game, as the move opens a flight square for the king at f8. White still wins with 7.Qf5! Nf6 8.Bh6 Bxh6 9.gxh7 Bxh1 10.Qg6+ Kf8 11.Qxh6+ Kf7 12.Nh3, but much slower than in the game. 
+
+7. gxh7+! Nxh5 8. Bg6#
+Question:
+In the game of chess which move is also known as  ‘Fool’s Mate’?
+Answer:
+Fools mate
+Passage:
+Good novels about the plague? - MobileRead Forums
+Good novels about the plague? - MobileRead Forums
+Good novels about the plague?
+User Name
+Tip Got Facebook? Join our MobileRead Facebook Fan Page !
+Page 1 of 3
+Device: Kindle Paperwhite/iOS Kindle App
+Good novels about the plague?
+I just finished Domesday Book by Connie Willis and loved it. Can anyone recommend some other good novels based around the plague?
+ 
+Join Date: Dec 2007
+Location: Paris, France
+Device: eb1150 & is that a nook in her pocket, or she just happy to see you?
+i would recommend The Plague, by Camus. (actually, i recommend anything at all by Camus
+).
+from wikipedia :
+Quote:
+The Plague (Fr. La Peste) is a novel by Albert Camus, published in 1947, that tells the story of medical workers finding solidarity in their labour as the Algerian city of Oran is swept by a plague epidemic. It asks a number of questions relating to the nature of destiny and the human condition. The characters in the book, ranging from doctors to vacationers to fugitives, all help to show the effects the plague has on a populace.
+The novel is believed to be based on the bubonic plague epidemic that killed a large percentage of Oran's population in 1849 following French colonization. Oran and its environs were struck by the plague multiple times before Camus published this novel. According to a research report by the Centers for Disease Control and Prevention, Oran was decimated by the plague in 1556 and 1678, but outbreaks after European colonization, in 1921 (185 cases), 1931 (76 cases), and 1944 (95 cases), were very far from the scale of the epidemic described in the novel.
+The Plague is considered an existentialist classic despite Camus' objection to the label. The narrative tone is similar to Kafka's, especially in The Trial, where individual sentences potentially have multiple meanings, the material often pointedly resonating as stark allegory of phenomenal consciousness and the human condition. Camus included a dim-witted character misreading The Trial as a mystery novel as an oblique homage. The novel has been read as a metaphorical treatment of the French resistance to Nazi occupation during World War II.
+Although Camus's approach in the book is severe, his narrator emphasizes the ideas that we ultimately have no control, irrationality of life is inevitable, and he further illustrates the human reaction towards the ‘absurd’. The Plague represents how the world deals with the philosophical notion of the Absurd, a theory which Camus himself helped to define.
+Question:
+What French novel is said to based on an epidemic that hit the Algerian city of Oran in 1849?
+Answer:
+The Plague by Camus
+Passage:
+Ann Cleeves
+Ann Cleeves (born 1954) is a British crime-writer. In 2006 she won the inaugural Duncan Lawrie Dagger, the richest crime-writing prize in the world, for her novel Raven Black.   Cleeves studied English at Sussex University but dropped out.  She then took up various jobs including cook, auxiliary coastguard, probation officer, library outreach worker and child care officer.   She lives in Whitley Bay. 
+
+The Vera Stanhope novels have been dramatized as the TV detective series Vera and the Jimmy Perez novels as the series Shetland.
+
+In 2014 she was awarded an Honorary Doctorate of Letters by the University of Sunderland. 
+
+In 2015, Ann is the Programming Chair for the Theakstons Old Peculier Crime Writing Festival & the Theakston's Old Peculier Crime Novel of the Year Award.
+
+In 2015 Ann was shortlisted for the Dagger in the Library UK Crime Writers' Association award for an author's body of work in British libraries (UK) 
+
+Bibliography
+
+George & Molly novels
+
+* A Bird in the Hand (1986)
+* Come Death and High Water (1987)
+* Murder in Paradise (1988)
+* A Prey to Murder (1989)
+* Another Man's Poison (1992)
+* Sea Fever (1993)
+* The Mill on the Shore (1994)
+* High Island Blues (1996)
+
+Inspector Ramsay
+
+* A Lesson in Dying (1990)
+* Murder in My Backyard (1991)
+* A Day in the Death of Dorothea Cassidy (1992)
+* Killjoy (1993)
+* The Healers (1995)
+* The Baby Snatcher (1997)
+
+Vera Stanhope
+
+These novels, except for The Glass Room, have been dramatized in the television series Vera on ITV, which stars Brenda Blethyn in the title role.  The programme premiered in May 2011.
+* The Crow Trap (1999)
+* Telling Tales (2005)
+* Hidden Depths (2007)
+* Silent Voices (2011)
+* The Glass Room (2012)
+* Harbour Street (2014)
+* The Moth Catcher (2015); publication date 10 September 2015 in the UK and US.
+
+Shetland Island series
+
+In 2013, Red Bones was dramatised by David Kane for BBC television as the first episode of the series Shetland, which stars Douglas Henshall as Detective Inspector Jimmy Perez. Episodes broadcast in 2014 were based on Raven Black, Dead Water, and Blue Lightning. 
+
+* Raven Black (2006); Gold Dagger Award
+* White Nights (2008)
+* Red Bones (2009) 
+* Blue Lightning (2010)
+* Dead Water (2013)
+* Thin Air (2014)
+* Too Good To Be True (2016, novella)
+
+Other novels
+
+* The Sleeping and the Dead (2001)
+* Burial of Ghosts (2003)
+
+Ghost Stories
+
+In addition to her crime novels, Ann has written a number of ghost stories to be read at Newcastle Upon Tynes Literary and Philosophical Society. One of these was issued as part of the anthology 'Phantoms at the Phil. - The Second Proceedings' (together with a live of the author performing it) in a numbered limited edition of 300 copies by Side Real Press.
+
+* The Midwife's Assistant (2006)
+Question:
+The book 'Red Bones' by Anne Cleeves was dramatised by the BBC, on which islands is it set?
+Answer:
+Shetland lamb
+Passage:
+Achy Breaky Heart
+"Achy Breaky Heart" is a country song written by Don Von Tress. Originally titled "Don't Tell My Heart" and performed by The Marcy Brothers in 1991, its name was later changed to "Achy Breaky Heart" and performed by Billy Ray Cyrus on his 1992 album Some Gave All. As Cyrus' debut single and signature song, it made him famous and has been his most successful song. It became the first single ever to achieve triple Platinum status in Australia and the 1992's best-selling single in the same country.  In the United States it became a crossover hit on pop and country radio, peaking at number 4 on the Billboard Hot 100 and topping the Hot Country Songs chart, becoming the first country single to be certified Platinum since Kenny Rogers and Dolly Parton's "Islands in the Stream" in 1983.  The single topped in several countries and after being featured on Top of the Pops in the United Kingdom, peaked at number 3 on the UK Singles Chart. It remains Cyrus's biggest hit single in the U.S. to date, and his only one to reach the top 10 of the Billboard Hot 100. Thanks to the video of this hit, there was the explosion of the line dance into the mainstream, becoming a craze.     The song is considered by some as one of the worst songs of all time, featuring at number two in VH1 and Blender list of the "50 Most Awesomely Bad Songs Ever." 
+
+Background
+
+The song was initially to be recorded by The Oak Ridge Boys in the early 1990s but the group decided against recording it after lead singer Duane Allen said that he did not like the words "achy breaky".  It was then recorded in 1991 under the title "Don't Tell My Heart" by The Marcy Brothers and Billy Ray Cyrus on his debut album Some Gave All in 1992.  It is written in the key of A major and possesses only two chords: A and E.
+
+The music video for the song was filmed during a concert at the Paramount Arts Center in Ashland, KY. It was nominated for Record of the Year and Song of the Year in the 35th Annual Grammy Awards in 1993, but lost both awards to Eric Clapton's "Tears in Heaven."
+
+Other cover versions
+
+*Alvin and the Chipmunks covered the song in 1992 on Chipmunks in Low Places. This version, which features speaking parts by Billy Ray himself, reached number 71 on the Billboard Hot Country Songs chart, becoming their first chart entry on any Billboard chart in 32 years.
+*Kikki Danielsson covered the song with lyrics in Swedish by Mikael Wendt and Christer Lundh, as "En allra sista chans" on her 1993 album Jag ska aldrig lämna dig. 
+
+Parodies
+
+In the Hannah Montana episode "The Way We Almost Weren't", Billy Ray Cyrus' character Robby Stewart is seen in a fictional setting writing "Achy Breaky Heart" in a New Mexico cafe in 1987. He tries the words "itchy twitchy heart" and "herky jerky heart" but is unsatisfied. Jackson suggests he use the words "achy breaky," but Robby blows it off as "the dumbest thing I've ever heard." 
+
+Celtic fans used the tune of the song to pay tribute to winger Paddy McCourt, a trend continued by various teams, for instance Newcastle United fans for midfielder Yohan Cabaye,West Ham United fans towards attacking midfielder Dimitri Payet  and Leicester City fans for winger Anthony Knockaert.
+
+Critical reception
+
+The song reached number 23 on CMT's 100 Greatest Videos in 2008, and number 2 on Blender magazine's 50 Worst Songs Ever. In 2002, Shelly Fabian from About.com ranked the song number 249 on the list of the Top 500 Country Music Songs. In 2007, the song was ranked at number 87 on VH1's 100 Greatest Songs of the '90s. 
+
+Track listings
+
+Billy Ray Cyrus version
+
+; CD maxi
+# "Achy Breaky Heart" — 3:24
+# "I'm So Miserable" — 4:00
+# "Wher'm I Gonna Live?" — 3:29
+
+Alvin and The Chipmunks version
+
+; 7" single
+# "Achy Breaky Heart"
+# "I Ain't No Dang Cartoon"
+
+Sales and Certifications
+
+Charts
+
+Billy Ray Cyrus version
+
+Alvin and the Chipmunks version
+Question:
+Who had a top ten hit in 1992, with the song 'Achy, Breaky Heart'?
+Answer:
+Braison Chance Cyrus
+Passage:
+M32 Bristol Parkway - motorwayarchive.ihtservices.co.uk
+M32 Bristol Parkway
+M32 Bristol Parkway
+ 
+The future road pattern proposed in the Bristol City Development plan prepared in accordance with the Town and Country Planning Act envisaged a "spiders web" of radial routes linked by four ring roads bounded in the north east by the M4 Motorway, the north west by the M5 Motorway and the Southwest by the Tideway of the River Avon.
+The M32, the Bristol Parkway, is the principal link between the National Motorways and the City network. The first stage of M32 (initially known as the Hambrook Spur), between M4 and the Bristol Outer Ring Road, was completed at the same time as the adjacent part of the M4 in September 1966. The second stage from Hambrook to Eastville Park was constructed as joint County of Gloucestershire and City of Bristol Principal Road with a 75% grant from the Ministry of Transport. The third stage from Muller Road, Eastville to Ashley Road/ Newfoundland Road which completed the Motorway part of the Parkway was opened to traffic in May 1975 also as principal road motorway.
+The design of the part of stage 2 in Gloucestershire was prepared by the County Surveyor and the part in the City of Bristol by Freeman Fox and Partners. Sir Robert McAlpine were awarded the contract for the complete length of the second stage and construction commenced in June 1968. This section was opened to traffic by the Rt. Hon. John Peyton, Minister of Transport in July 1970. The first two and a half miles of stage 2 in the more rural landscape is a dual two lane rural motorway aligned for 70 miles per hour standards. On entry to the urban area near Eastville the road is elevated and the standards change to urban 50 mph standards with a reduced overall width.
+The final section of the Motorway which joins the Bristol Outer Circuit Road at Ashley Road which was built by Reed and Malik was through a densely built up area of housing which necessitated extensive rehousing of residents. During the construction the work was delayed by the three day week and also by a building workers national strike. This section although initiated by the City was affected by Local Government Reorganisation when responsibility was transferred to the new County of Avon in 1974.
+Cost information: the second stage was stated at the opening to be estimated as £3,000,000 and the third stage was reported in March 1976 to be a final cost of £10,400,000.
+Main Menu
+Question:
+Which city is Linked to the M4 by the M32?
+Answer:
+Bristol (England)
+Passage:
+Westminster Abbey, London - Great Britain
+Westminster Abbey, London
+Westminster Abbey, London
+Westminster Palace became a World Heritage Site in 1987. Its proper name is    The Collegiate Church of St Peter, Westminster, but it is almost always referred    to as Westminster Abbey. A mainly Gothic church, on the scale of a cathedral,    in Westminster, London, beside the Palace of Westminster. Traditionally kings    and queens are crowned here, and buried here. It is neither a cathedral nor    a parish church, Westminster Abbey is a “Royal Peculiar” under the    jurisdiction of a Dean and Chapter, subject only to the Sovereign.
+A shrine was is believed to have been sited in 616 on the present site, then    known as Thorney Island, after a fisherman on the River Thames saw a vision    of Saint Peter. And there was a community of Benedictine monks before the first    historic Abbey was built by King Edward the Confessor around 1045–1050.    Apparently King Edward failed to keep a vow to go on a pilgrimage; the Pope    agreed that he could redeem himself by building a church to St. Peter. It was    consecrated on December 28, 1065, just after King Edward died and the coronation    of his successor King Harold. This church was called the “west minster” to distinguish it from St Paul’s Cathedral (the "east minster")    in the City of London.
+The Abbot and monks became a powerful political force in the centuries after    the Norman Conquest: the Abbot enjoyed a seat in the in the House of Lords as    of right. Henry III rebuilt the Abbey in the Gothic style. The work continued    between 1245-1517 and was largely finished by the architect Henry Yevele in    the reign of King Richard II.
+Henry VII added a Perpendicular style chapel dedicated to the Virgin Mary in    1503. This "Lady Chapel" has a wonderful fan-vaulted roof and the    work of Italian sculptor Torrigiano can be seen in Henry VII's tomb. The banners    of the Knights of the Order of the Bath, surround the walls, and there is a    striking Battle of Britain window by Hugh Easton at the east end.
+The Abbey was then seized by Henry VIII in 1534 during the Dissolution of    the Monasteries, and closed in 1540, its royal connections saved it from the    destruction suffered by most other English abbeys.
+The Catholic Queen Mary was restored the abbey to the Benedictines, Queen Elizabeth    I removed them in 1559. In 1579, Elizabeth re-established Westminster as a "Royal    Peculiar" — a church responsible directly to the sovereign, rather    than to a diocesan bishop, and made it the Collegiate Church of St Peter.
+It suffered damage during the 1640s, when it was attacked by Puritans, but    was again protected by its ties to the state during the Commonwealth period.    Oliver Cromwell was given an state funeral there in 1658, but disinterred in    January 1661 and posthumously hanged from a nearby gibbet. His head remaining    there for many years
+The abbey's two western towers were built between 1722 and 1745 by Nicholas    Hawksmoor. They were made from Portland stone, and were an early example of    Gothic Revival design. The western towers had been unfinished from medieval    times.
+Little remains of the original medieval stained glass. The great west window    and the rose window in the north transept date from the early 18th century but    the remainder of the stained glass dates from the 19th century onwards. Further    rebuilding occurred in the 19th century under Sir George Gilbert Scott.
+Until the 19th century, Westminster was the third seat of learning in England,    after Oxford and Cambridge. The first third of the King James Bible Old Testament    and the last half of the New Testament were translated were translated here.    The New English Bible was produced here in the 20th century.
+ 
+Since 1066 all English kings and queens (except Lady Jane Grey, Edward V and    Edward VIII, who did not have coronations) have been crowned in the Abbey. The    Archbishop of Canterbury conducts the coronation ceremony. The new king or queen    sits on St Edward's Chair in order to be crowned.
+Although most kings and queens from the Middle Ages were buried here, Henry    VIII and Charles I are buried at St George's Chapel, Windsor Castle, and all    monarchs since George II have been buried at Windsor.
+In 2005 the original ancient burial tomb of Edward the Confessor was discovered,    in front of the High Altar. A series of royal tombs dating back to the 13th    and 14th centuries was also discovered using ground-penetrating radar.
+Aristocrats were buried in side chapels and clergy were buried in the Cloisters.    Geoffrey Chaucer was buried here as he was employed as master of the Kings Works.    Other poets were then buried around Chaucer in what became known as Poets' Corner.    Abbey musicians such as Henry Purcell were also buried here. Subsequently it    became an honour to be buried or memorialised here. Aristocrats and poets, military,    politicians, scientists, doctors. The Abbey has around 600 monuments and tablets,    and over three thousand people are buried here. They include the Unknown Warrior,    whose grave, close to the west door, is a national monument to the fallen in    war.
+Notable people buried here. Wikipedia records this list
+Nave
+* Clement Attlee, 1st Earl Attlee
+* Angela Georgina Burdett-Coutts
+Question:
+Which British building celebrated its 900th anniversary in 1965?
+Answer:
+Westminster Abbey
+Passage:
+Jarlsberg cheese
+Jarlsberg (;) is a mild cow's-milk cheese with large regular holes, that originates from Jarlsberg, Norway.
+
+Description
+
+Jarlsberg cheese has a yellow-wax rind (outer layer) and a semi-firm yellow interior. It is a mild, buttery cheese. The flavor is "clean and rich, with a slightly sweet and nutty flavour."  It is an all-purpose cheese, used for both cooking and eating as a snack. It has a characteristic smooth, shiny-yellow body, and a creamy supple texture. It is aged a minimum of one year and is distinguished by medium to large holes. It is usually produced in 10 kg wheels with an approximate diameter of 330 mm and a height of 95-105 mm. The characteristic holes or "eyes" are the result of the action of the bacteria Propionibacterium freudenreichii which naturally occurs in milk and is added back to the cheese during production according to a closely guarded secret formula.
+
+History
+
+The history of this cheese can be traced back to the middle 1850s.  Anders Larsen Bakke (1815–1899), a farmer and pioneer in Norway's dairy industry, produced cheese in the village of Våle in what was then the county of Jarlsberg and Larviks Amt (now Vestfold), 80 km south of Oslo. The cheese shares similarities with Emmental, introduced to Vestfold by Swiss cheese makers during the 1830s. The cheese was first noted in the annual county report of Jarlsberg and Larviks Amt in 1855. After several years of popularity marked by a large volume of production Jarlsberg disappeared from the market.
+
+Modern Jarlsberg cheese was developed in 1956 by Ole Martin Ystgaard of the Dairy Institute at the Agricultural University of Norway. Ystgaard's interest was sparked by the thesis of a dairy sciences student, Per Sakshaug, on the cheese historically made in Vestfold. It was named for a Norwegian nobleman Count Wedel Jarlsberg (or the eponymous county) who owned land near Oslo in an area where an earlier version of the cheese was produced in the early 1800s.  The recipe was developed from formulae originating with Swiss cheesemakers who moved to Norway in that time. 
+
+Production and distribution
+
+"Jarlsberg" is a trademark first registered by Tine SA in 1972,  and the exact nature and formula for the process of making Jarlsberg cheese is a trade secret.  The largest producer of Jarlsberg cheese is Tine SA. Tine is the largest Norwegian dairy product cooperative. Jarlsberg cheese accounts for 80% of Tine's total export. Tine's United States subsidiary, Norseland, has sold 150 million 22 lb wheels of Jarlsberg cheese in the U.S. . 
+
+Jarlsberg cheese was introduced in the United States in 1964. Imports to the U.S. in 1965 were 25 e6lb. Since 1979 imports to the U.S. have been limited to 15 e6lb. Jarlsberg is the most popular imported cheese in the U.S.  , 5 e6lb was made in the U.S. in Ohio. 
+
+Annual sales of Jarlsberg cheese in the United Kingdom are £6.9m . Jarlsberg cheese is popular in Australia.  It is also produced in Ireland by Dairygold.
+Question:
+Jarlsberg is a cheese from which country?
+Answer:
+Norvège
+Passage:
+The Tay Bridge Disaster
+"The Tay Bridge Disaster" is a poem written in 1880 by the Scottish poet William McGonagall, who has been widely 'acclaimed' as the worst poet in history.   The poem recounts the events of the evening of December 28, 1879, when, during a severe gale, the Tay Rail Bridge at Dundee collapsed as a train was passing over it with the loss of all on board (now thought to be 75 people, not 90 as stated in the poem). The foundations of the bridge were not removed and are alongside the existing newer bridge.
+
+The poem is by far the most famous ever written by McGonagall, and is still widely quoted. It begins:
+
+"Beautiful railway bridge of the silv'ry Tay
+Alas! I am very sorry to say
+That ninety lives have been taken away
+On the last sabbath day of 1879
+Which will be remember'd for a very long time."
+
+And it ends:
+
+"Oh! Ill-fated bridge of the silv'ry Tay,
+I now must conclude my lay
+By telling the world fearlessly without the least dismay,
+That your central girders would not have given way,
+At least many sensible men do say,
+Had they been supported on each side with buttresses
+At least many sensible men confesses,
+For the stronger we our houses do build,
+The less chance we have of being killed."
+
+William McGonagall wrote two other poems in praise of the Tay Bridge. The first one begins as follows:
+
+The Railway Bridge of the Silvery Tay:
+
+"Beautiful Railway Bridge of the Silvery Tay!
+With your numerous arches and pillars in so grand array,
+And your central girders, which seem to the eye
+To be almost towering to the sky"
+
+And it ends:
+
+"Beautiful Railway Bridge of the Silvery Tay!
+I hope that God will protect all passengers
+By night and by day,
+And that no accident will befall them while crossing
+The Bridge of the Silvery Tay,
+For that would be most awful to be seen
+Nearby Dundee and the Magdalen Green.
+
+Beautiful Railway Bridge of the Silvery Tay!
+And prosperity to Messrs Bouche and Grothe,
+The famous engineers of the present day,
+Who have succeeded in erecting the Railway
+Bridge of the Silvery Tay,
+Which stands unequalled to be seen
+Nearby Dundee and the Magdalen Green."
+
+After the original bridge collapsed, a new one was built, providing the opportunity for another poem, which begins:
+
+An Address to the New Tay Bridge
+
+"BEAUTIFUL new railway bridge of the Silvery Tay,
+With your strong brick piers and buttresses in so grand array,
+And your thirteen central girders, which seem to my eye
+Strong enough all windy storms to defy."
+Question:
+Whose most famous poem is 'The Tay Bridge Disaster' of 1879?
+Answer:
+The world's worst poet
+Passage:
+Portinatx
+Portinatx is a resort on the island of Ibiza. It is located 40 minutes from the island airport in the municipality of Sant Joan de Labritja and is the most northern resort on the island.
+
+Portinatx is a remote part of Ibiza, making it difficult to get to other parts of the island. There is a bus service to Ibiza Town (bus number 20 [http://www.ibizabus.com/Page29.html]) and Santa Eulària des Riu (bus number 21 [http://www.ibizabus.com/Page30.html]), however they only run every few hours. There is also a boat service to Es Canar and Port de Sant Miguel, but again the service is infrequent.
+
+Nonetheless, Portinatx has been praised for its picturesque scenery and  many believe it to be the most beautiful resort on the island. Landmarks include the Punta Moscarter Lighthouse. Like most of Ibiza, the surrounding countryside is heavily forested, as opposed to the more bare neighboring islands of Mallorca and Menorca. The town is shadowed over by sa Descoberta, a large wooded hill rising up to roughly 250 metres above sea level.
+
+Portinatx is a small family resort rather than a party place with warm seas off of its small beaches that remain shallow for some distance, and with several shops, bars and places to eat of various national cuisines and price brackets.  It has two cash points.
+Question:
+On which island is the holiday resort of Portinatx?
+Answer:
+Ebusus
+Passage:
+The Owl and the Pussycat
+"The Owl and the Pussycat" is a nonsense poem by Edward Lear, first published during 1871 as part of his book Nonsense Songs, Stories, Botany, and Alphabets.
+
+Lear wrote the poem for a three-year-old girl, Janet Symonds, the daughter of Lear's friend poet John Addington Symonds and his wife Catherine Symonds. The term "runcible", used for the phrase "runcible spoon", was invented for the poem.
+
+Synopsis 
+
+"The Owl and the Pussycat" features four anthropomorphic animals – an owl, a cat, a pig, and a turkey – and tells the story of the love between the title characters who marry in the land "where the Bong-tree grows".
+
+The Owl and the Pussycat set out to sea in a pea green boat with honey and "plenty of money" wrapped in a five-pound note. The Owl serenades the Pussycat while gazing at the stars and strumming on a small guitar. He describes her as beautiful. The Pussycat responds by describing the Owl as an "elegant fowl" and compliments him on his singing. She urges they marry but they don't have a ring. They sail away for a year and a day to a land where Bong trees grow and discover a pig with a ring in his nose in a wood. They buy the ring for a shilling and are married the next day by a turkey. They dine on mince and quince using a "runcible spoon", then dance hand-in-hand on the sand in the moonlight.
+
+Portions of an unfinished sequel, "The Children of the Owl and the Pussycat" were published first posthumously, during 1938.  How the pair procreated is unspecified but the children are part fowl and part cat.  All love to eat mice.  The family live round places with weird names where their mother the cat died falling from a tall tree.  The death caused their father, the owl, great sadness.  The money is all spent but father still sings to the original guitar. 
+
+Other media 
+
+* Beatrix Potter wrote a prequel, The Tale of Little Pig Robinson, telling the background story of the pig character.
+* The story has been set to music and animated many times, including by Igor Stravinsky in 1966 using twelve-tone technique (a recording was made under the composer's supervision for Columbia Records), John Rutter, Victor Hely-Hutchinson, Burl Ives, Humphrey Searle in 1951, using twelve-tone technique for the accompanying flute, guitar, and cello, but sprechgesang for the vocal part,  and Laurie Anderson.
+* Elton Hayes made a recording of the Hely-Hutchinson setting for Parlophone  during 1953. It became a regular item on Children's Favourites and was one of six Edward Lear recordings he made.
+* The 1965 film Fun in Balloon Land contains references to the poem, and refers to the Turkey as "The Marrying Turkey".
+* It was the main topic of a 1968 children's musical play about Lear's nonsense poems, entitled The Owl and the Pussycat went to See....  The play was written by Sheila Ruskin and David Wood. 
+* The title was borrowed for an unrelated stage play and subsequent 1970 movie featuring Barbra Streisand and George Segal.
+* During 1971, a cartoon based on the poem was made by Weston Woods.
+* In the 1968 Disney animated feature Winnie the Pooh and the Blustery Day, later a part of 1977's The Many Adventures of Winnie the Pooh, the character Owl mentions a relative of his who supposedly "went to sea in a pea-green boat" with a Pussycat.
+* The two main characters were the inspiration for X the Owl and Henrietta Pussycat in the "Neighborhood of Make-Believe" from Mister Rogers' Neighborhood.
+* Laurie Anderson composed and recorded a version titled Beautiful Pea Green Boat that appeared on her 1994 album Bright Red.
+* Eric Idle, a former member of Monty Python, wrote a children's book entitled The Quite Remarkable Adventures of the Owl and the Pussycat which was based on the poem. It is an extended story about when the Owl and the Pussycat were attacked by a band of ruthless rats who were trying to steal pies. It was illustrated by Wesla Weller and was first published during 1996 with an audio version which included some songs by Idle himself.
+* Between 2001 and 2003, Stewart Lee wrote and performed a show titled Pea Green Boat. The show included an extended version of the story of "The Owl and the Pussycat" including the original poem. A 21-minute version of the show has been made available commercially.
+* In 2004 the Folk Duo Sandwich (Buddy Freebury and Andrea Hallier) recorded a musical version of the poem to a tune written by band member Andrea Hallier (now Andrea Freebury) It was included on their third album Crystal Ball.
+* Sananda Maitreya's sixth album, Angels & Vampires – Volume II, has a track entitled "The Owl and the Pussycat."
+* A deleted scene intended for the Family Guy episode "Quagmire's Baby" involves Glenn Quagmire reading the book to his daughter, but then getting aroused by the sexual nature of the story.
+*In 2013, Julia Donaldson and Charlotte Voake published a sequel to Lear's poem, entitled The Further Adventures of the Owl and the Pussycat.
+Question:
+Who in the poem married the owl and the pussycat
+Answer:
+Turkey
+Passage:
+A Death in the Family
+A Death in the Family is an autobiographical novel by author James Agee, set in Knoxville, Tennessee. He began writing it in 1948, but it was not quite complete when he died in 1955. It was edited and released posthumously in 1957 by editor David McDowell. Agee's widow and children were left with little money after Agee's death and McDowell wanted to help them by publishing the work. Agee won the Pulitzer Prize for Fiction in 1958 for the novel. The novel was included on Times 2005 list of the 100 best English-language novels written since 1923. 
+
+Plot
+
+The novel is based on the events that occurred to Agee in 1915 when his father went out of town to see his own father, who had suffered a heart attack. During the return trip, Agee's father was killed in a car accident. The novel provides a portrait of life in Knoxville, Tennessee, showing how such a loss affects the young widow, her two children, her atheist father and the dead man's alcoholic brother.
+
+New version
+
+University of Tennessee professor Michael Lofaro claimed the version published in 1957 was not the version intended for print by the author. He discussed his work at a conference that was part of the Knoxville James Agee Celebration (April 2005). Lofaro tracked down the author's original manuscripts and notes and has reconstructed a version he says is more authentic. Lofaro's version of the novel, A Death in the Family: A Restoration of the Author's Text, was published in 2007 as part of a 10-volume set, The Collected Works of James Agee (University of Tennessee Press). Lofaro is also the author of Agee Agonistes: Essays on the Life, Legend, and Works of James Agee (2007).
+
+Differences
+
+According to Lofaro, McDowell altered the original text in a number of ways:
+*Removed the original opening, a nightmare scene, and instead started the novel with "Knoxville: Summer of 1915," a previously published short work of Agee's that was not intended as part of the novel.
+*Altered the order of the book, which was intended to be chronological.
+*Some chapters were removed.
+*Some chapters were chopped up.
+*Some chapters were moved and presented as flashbacks.
+*The number of chapters was changed from 44 short chapters to 20.
+
+Adaptations
+
+The novel was adapted into All the Way Home, a 1961 Pulitzer Prize-winning play by Tad Mosel.
+
+The movie All The Way Home (1963) was adapted by Philip H. Reisman, Jr. from the Agee novel and the Mosel play. It was filmed in the same neighborhood where Agee grew up in Knoxville. Produced by David Susskind and directed by Alex Segal, it stars Robert Preston, Jean Simmons and Pat Hingle.
+
+A PBS TV movie version, filmed in Tennessee and starring Annabeth Gish, aired in 2002.  
+
+Samuel Barber wrote Knoxville: Summer of 1915 (1947, revised 1950) on commission from the American soprano Eleanor Steber, who had asked for a work for soprano with orchestra.
+
+William Mayer wrote an opera based on the novel; it premiered in 1983.
+Question:
+Which American author wrote the Pulitzer Prize-winner 'A Death in the Family?
+Answer:
+James Agee
+Passage:
+Googly
+In cricket, a googly (or wrong 'un ) is a type of delivery bowled by a right-arm leg spin bowler. It is occasionally referred to as a Bosie (or Bosey), an eponym in honour of its inventor Bernard Bosanquet.
+
+Explanation 
+
+While a normal leg break spins from the leg to the off side, away from a right-handed batsman, a googly spins the other way, from off to leg, into a right-handed batsman (and is distinct from an off break delivery). The bowler achieves this change of spin by bending the wrist sharply from the normal leg break delivery position. When the ball rolls out of the hand (from the side near the little finger, as in a normal leg break), it emerges with clockwise spin (from the bowler's point of view). A googly may also be achieved by bowling the ball as a conventional leg break, but spinning the ball further with the fingers just before it is released.
+
+The change of wrist action can be seen by a skilled batsman and the change of spin allowed for when playing a shot at the ball. Less skilled batsmen, or ones who have lost their concentration, can be deceived completely, expecting the ball to move one direction off the pitch, only for it to move the other direction. If the batsman is expecting a leg break, he will play outside the line of the ball after it spins. This means the ball can either strike the pads for a potential lbw appeal, or may fly between the bat and the pads and hit the wicket, or catch the edge of the bat.
+
+The googly is a major weapon in the arsenal of a leg spin bowler, and can be one of the bowler's most effective wicket-taking balls. It is used infrequently, because its effectiveness comes mostly from its surprise value.
+
+Left-arm unorthodox spinners, commonly known as "chinaman" bowlers, can bowl with the googly action using the left arm.  This delivery is usually known as a chinaman googly and turns away from a right-handed batsman, like a leg break or left-arm orthodox spinner. The googly is similar in principle to the doosra, the ball from an off-spinner which turns the opposite way from his stock ball.
+
+Chambers Dictionary describes the etymology of the word as "dubious".
+
+Mechanics 
+
+To grip the ball for a leg-spinning delivery, the ball is placed into the palm with the seam parallel to the palm. The first two fingers then spread and grip the ball, and the third and fourth fingers close together and rest against the side of the ball. The first bend of the third finger should grasp the seam. The thumb resting against the side is up to the bowler, but should impart no pressure. When the ball is bowled, the third finger will apply most of the spin. The wrist is cocked as it comes down by the hip, and the wrist moves sharply from right to left as the ball is released, adding more spin. The ball is tossed up to provide flight. The batsman will see the back of the hand when the ball is released.
+
+In popular culture
+
+In a scene from John Boorman’s 1987 film Hope and Glory, a father (played by David Hayman), who is leaving to fight in WWII, passes on ‘the secret of the Googly’ to his young son before he departs for the war.
+Question:
+In which sport might you come across a 'googly or a chinaman'?
+Answer:
+Cricket games
+Passage:
+Brabantio
+Brabantio (sometimes called Brabanzio) is a character in William Shakespeare's Othello (c.1601–1604). He is a Venetian senator and the father of Desdemona.  He has entertained Othello in his home countless times before the play opens, thus giving Othello and Desdemona opportunity to fall in love.  He is furious upon learning they have eloped, and Desdemona's decision is reported to be the cause of his death in the last act. The character has no counterpart in Shakespeare's source material for the play but is apparently the Bard's complete invention.  He appears in the first act only and is mentioned in the fifth.
+
+Origin
+
+Othello has its source in the 1565 tale "Un Capitano Moro" from Giovanni Battista Giraldi Cinthio's Gli Hecatommithi, a collection of 100 tales in the vein of Boccacio's Decameron.  While no English translation of Cinthio was available in Shakespeare's lifetime, it is possible Shakespeare knew both the Italian original and Gabriel Chappuy's 1584 French translation.  He may have had access to an English translation in manuscript.  Cinthio's tale may have been based on an actual incident occurring in Venice about 1508.  
+
+While the principal characters in Shakespeare's play have their counterparts in Cinthio's tale, Brabantio is Shakespeare's invention. The relatives of Cinthio's Disdemona   avenge her death in the closing moments of his tale, but her father is not mentioned as being among them.
+
+Role in Othello
+
+Brabantio makes his first appearance in 1.1 when Iago and Roderigo rouse him with the news that Desdemona has eloped.  In 1.2, Brabantio is led to the Sagittary, where the newlyweds are found and there accuses Othello of using magic to bewitch his daughter.  In 1.3, he brings Othello to trial before the Duke and once again accuses him of using witchcraft upon his daughter.  When Desdemona arrives, she tells her father that she respects him only because they are related, and that Othello is whom she truly loves. Brabantio grudgingly accepts what she says, but not without complaining to the senators in an attempt at having Othello stripped of his title; when this is unsuccessful, he disowns his daughter. In the last scene of the play, 5.2, Brabantio's brother Gratiano reveals that Brabantio died of grief after losing his daughter to Othello.
+
+Performances
+
+The first recorded mention of Othello is found in a Revels account indicating the play was performed at Whitehall Palace on November 1, 1604.   The cast list of the performance is likely lost to time, but legend has Shakespeare appearing on stage in minor roles such as Old Adam in As You Like It, and, thus, it is not inconceivable that Shakespeare himself may have played Brabantio. It is possible the actor playing Brabantio "doubled-up" and performed another character appearing later in the play.
+
+Film interpreters of the role include Friedrich Kühne in the 1922 silent version starring Emil Jannings, Hilton Edwards in Orson Welles' 1952 film, Anthony Nicholls in Laurence Olivier's 1965 film, and Pierre Vaneck in the 1995 film starring Laurence Fishburne.
+Question:
+Brabantio is whose father in Shakespeare's play Othello?
+Answer:
+Desdemona (Othello)
+Passage:
+Club legends honoured at Emirates Stadium | News Archive ...
+Club legends honoured at Emirates Stadium | News Archive | News | Arsenal.com
+The three busts in the Director's entrance
+Club legends honoured at Emirates Stadium
+Commemorative busts - Pictures
+Arsenal Chairman Peter Hill-Wood today unveiled three commemorative busts at Emirates Stadium which honour legends from the Club’s history.
+The busts, two of which were synonymous with the Gunners’ old stadium, Highbury, commemorate three great figures who have helped shape the history of Arsenal Football Club – Herbert Chapman, Denis Hill-Wood and Arsène Wenger.
+The three busts, which were unveiled after the Club’s Annual General Meeting, are all positioned in the Directors’ Entrance at Emirates Stadium and will greet the thousands of guests which visit the stadium each year. As well as being a VIP entrance on matchdays, the Directors’ Entrance is also the start point for all of Emirates Stadium’s popular official tours.
+The bust of Herbert Chapman at Emirates Stadium is an exact replica of the bust which graced Highbury’s famous Marble Halls for so many years. The original bust remains at Highbury and will form part of the concierge entrance in the Grade II-Listed East Stand to the Highbury Square development when it reaches completion in summer 2009.
+Herbert Chapman is regarded by many as the greatest visionary the game of football has ever seen. As well as guiding Huddersfield Town and then Arsenal to great successes in the late 1920s to early 1930s, Chapman is also seen as responsible for introducing many changes to the game, including the numbering on playing shirts; proposing floodlit matches and the ten-yard penalty semi-circle. Also, in 1932 through lobbying, Chapman managed to change the name of the local underground station from Gillespie Road to Arsenal, which to this day is still the only London Underground station to be named after a football club.
+Sadly, Chapman’s life was tragically cut short on the morning of January 6, 1934 when he died suddenly from pneumonia, aged just 55. Soon after his death, Arsenal Football Club commissioned a bust of Chapman which was positioned in Highbury’s famous Marble Halls until the Club moved to Emirates Stadium in 2006.
+The bust of Denis Hill-Wood, now positioned at Emirates Stadium, had previously been located on the Directors’ Landing of the East Stand at Highbury for many years before the Club moved to Emirates Stadium in 2006.
+Three generations of the Hill-Wood family have maintained an association with Arsenal Football Club, which stretches back to the 1920s. Denis Hill-Wood was the Club’s Chairman for 20 years and was viewed with great affection and respect by the world of football, and was a guiding force in the Club’s continuing ethos of traditional values and doing things ‘the Arsenal way’.
+On his death in May 1982, Denis was succeeded as Arsenal Chairman by his son Peter who is still the Club’s Chairman to this day, and who fittingly unveiled his father’s bust in its new location.
+The third sculpture unveiled by Peter Hill-Wood at Emirates Stadium was the recently commissioned bust of the Club’s current manager Arsène Wenger.
+The bust of Wenger, which is cast in bronze, was created by figurative sculptor Etienne Millner, who painstakingly worked on the piece for over six months.
+Arsène Wenger is Arsenal Football Club’s most successful manager and has taken charge of more Arsenal matches than any other previous manager in the Club’s history.
+His honours as Arsenal Manager include three League titles, four FA Cups and four Charity/Community Shields, including two League and Cup ‘doubles’ in 1998 and 2002. He is the only Arsenal manager to have won the FA Cup more than once and the only manager to take the Club to a UEFA Champions League Final, while he was also the first manager in English League history to complete an entire 38-match season unbeaten in 2003/04.
+Wenger has also been decorated with an honorary OBE in 2003 and France’s highest civil honour, the Legion d’Honneur, in 2002. He also received the Freedom of Islington in 2004.
+After unveiling the busts, Peter Hill-Wood said: "We are delighted to be unveiling these three busts here in the Directors’ Entrance at Emirates Stadium, which is an appropriate place of honour for these pieces.
+“Herbert Chapman, Denis Hill-Wood and Arsène Wenger are three cornerstones in the history of Arsenal Football Club, each playing their part in shaping the Club as we know it today.
+“Herbert Chapman guided the Club to unprecedented success in the 1930s and was a leader of his time. Under Chapman, Arsenal won its first major honours and his contribution towards football as a whole was immense.
+“My Father, Denis Hill-Wood was a true Arsenal man and guided this Club as Chairman for over 20 years with dignity, passion and with great leadership.
+“And last but no means least, the bust of Arsène Wenger is in recognition of the truly fantastic job which our current manager has done at this Club. Under Arsène’s management, we have experienced fantastic success and witnessed his teams demonstrate such an exhilarating brand of football. Arsène is the Club’s most successful manager and we are proud to have him here at Arsenal Football Club.”
+Today’s unveiling ceremony was attended by the Arsenal Board of Directors and a small group of guests.
+Copyright 2017 The Arsenal Football Club plc. Permission to use quotations from this article is granted subject to appropriate credit being given to www.arsenal.com as the source
+23 Oct 2008
+Question:
+Three generations of the Hill-Wood family have been chairman of which football club?
+Answer:
+Arsenal (weaponry)
+Passage:
+DAX Quote - Deutsche Boerse AG German Stock Index DAX ...
+DAX Quote - Deutsche Boerse AG German Stock Index DAX - Bloomberg Markets
+Deutsche Boerse AG German Stock Index DAX
+DAX:IND
+As of 12:30 PM EST 1/19/2017
+Open
+There are currently no news stories for this ticker. Please check back later.
+Profile
+The German Stock Index is a total return index of 30 selected German blue chip stocks traded on the Frankfurt Stock Exchange. The equities use free float shares in the index calculation. The DAX has a base value of 1,000 as of December 31, 1987. As of June 18, 1999 only XETRA equity prices are used to calculate all DAX indices.
+Address
+Question:
+Name the major German Stock Market Index.
+Answer:
+Xetra dax
+Passage:
+The Human Body Parts
+The Human Body Parts
+The Human Body: Body Parts
+The human body is the entire structure of a human organism, and consists of a head, neck, torso, two arms and two legs. By the time the human reaches adulthood, the body consists of close to 10 trillion cells, the basic unit of life. Groups of cells combine and work in tandem to form tissue, which combines to form organs, which work together to form organ systems.
+Superficial anatomy or surface anatomy is important in human anatomy being the study of anatomical landmarks that can be readily identified from the contours or other reference points on the surface of the body. With knowledge of superficial anatomy, physicians gauge the position and anatomy of the associated deeper structures.
+Common names of well known parts of the human body, from top to bottom:
+Head - Forehead - Jaw - Cheek - Chin
+Neck - Shoulders
+Arm - Elbow - Wrist - Hand - Fingers - Thumb
+Spine - Chest - Thorax
+Abdomen - Groin
+Hip - Buttocks - Leg - Thigh - Knee - Calf - Heel - Ankle - Foot - Toes
+The eye, ear, nose, mouth, teeth, tongue, throat, adam's apple, breast, penis, scrotum, clitoris, vulva, navel are also superficial structures.
+The Human Body
+Organs : In biology and anatomy, an organ is a tissue that performs a specific function or group of functions within an organism.. more »
+Systems : The organ systems of the body include the musculoskeletal system, nervous system, digestive system... more »
+Skeleton : The average adult human skeleton has around 206 bones. These bones meet at joints, the majority of which are ... more »
+Muscles : Muscle is the contractile tissue of the body and is derived from the mesodermal layer of embryonic more »
+Bones : Bones are rigid organs that form part of the endoskeleton of human body. They function to move, support, and protect... more »
+Question:
+Which part of the human body do the French call 'la cheville'?
+Answer:
+Ancle
+Passage:
+PATIENCE - Sermon Illustrations
+Sermon Illustrations
+Sermon Illustrations
+click here to join Sermons.com today!
+  Join our                               FREE Illustrations Newsletter:
+Privacy Policy
+PATIENCE
+The purposes of God often develop slowly because His grand designs are never hurried. The great New England preacher Phillips Brooks was noted for his poise and quiet manner. At times, however, even he suffered moments of frustration and irritability. One day a friend saw him feverishly pacing the floor like a caged lion. "What's the trouble, Mr. brooks?" he asked. 
+"The trouble is that I'm in a hurry, but God isn't!" Haven't we felt the same way many times?
+Some of the greatest missionaries of history devotedly spread the seed of God's Word and yet had to wait long periods before seeing the fruit of their efforts. William Carey, for example, labored 7 years before the first Hindu convert was brought to Christ in Burma, and Adoniram Judson toiled 7 years before his faithful preaching was rewarded. In western Africa, it was 14 years before one convert was received into the Christian church. In New Zealand, it took 9 years; and in Tahiti, it was 16 years before the first harvest of souls began.
+Thomas a Kempis described that kind of patience in these words: "He deserves not the name of patient who is only willing to suffer as much as he thinks proper, and for whom he pleases. The truly patient man asks (nothing) from whom he suffers, (whether) his superior, his equal, or his inferior...But from whomever, or how much, or how often wrong is done to him, he accepts it all as from the hand of God, and counts it gain!" 
+Our Daily Bread.
+True patience is waiting without worrying.
+C. Swindoll, Growing Strong, p. 124.
+"Patience serves as a protection against wrongs as clothes do against cold. For if you put on more clothes as the cold increases it will have no power to hurt you. So in like manner you must grow in patience when you meet with great wrongs, and they will then be powerless to vex your mind." 
+Leonardo da Vinci.
+Possess it if you can.
+Found seldom in a woman,
+Never in a man.
+Source Unknown.
+ 
+To those Christians who are always in a hurry, here's some good advice from the 19th-century preacher A.B. Simpson:
+"Beloved, have you ever thought that someday you will not have anything to try you, or anyone to vex you again? There will be no opportunity in heaven to learn or to show the spirit of patience, forbearance, and longsuffering. If you are to practice these things, it must be now." Yes, each day affords countless opportunities to learn patience. Let's not waste them.
+Commenting on our need for this virtue, M.H. Lount has said, "God's best gifts come slowly. We could not use them if they did not. Many a man, called of God to...a work in which he is pouring out his life, is convinced that the Lord means to bring his efforts to a successful conclusion. Nevertheless, even such a confident worker grows discouraged at times and worries because results do not come as rapidly as he would desire. But growth and strength in waiting are results often greater than the end so impatiently longed for. Paul had time to realize this as he lay in prison. Moses must have asked, 'Why?' many times during the delays in Midian and in the wilderness. Jesus Himself experienced the discipline of delay in His silent years before His great public ministry began."
+God wants us to see results as we work for Him, but His first concern is our growth. That's why He often withholds success until we have learned patience. The Lord teaches us this needed lesson through the blessed discipline of delay. 
+Our Daily Bread.
+Hebrews 12:1 tells us to "run with endurance" the race set before us. George Matheson wrote, "We commonly associate patience with lying down. We think of it as the angel that guards the couch of the invalid. Yet there is a patience that I believe to be harder -- the patience that can run. To lie down in the time of grief, to be quiet under the stroke of adverse fortune, implies a great strength; but I know of something that implies a strength greater still: it is the power to work under stress; to have a great weight at your heart and still run; to have a deep anguish in your spirit and still perform the daily tasks. It is a Christ-like thing! The hardest thing is that most of us are called to exercise our patience, not in the sickbed but in the street." To wait is hard, to do it with "good courage" is harder! 
+Our Daily Bread, April 8.
+According to a traditional Hebrew story, Abraham was sitting outside his tent one evening when he saw an old man, weary from age and journey, coming toward him. Abraham rushed out, greeted him, and then invited him into his tent. There he washed the old man's feet and gave him food and drink.
+The old man immediately began eating without saying any prayer or blessing. So Abraham asked him, "Don't you worship God?"
+The old traveler replied, "I worship fire only and reverence no other god."
+When he heard this, Abraham became incensed, grabbed the old man by the shoulders, and threw him out his his tent into the cold night air.
+When the old man had departed, God called to his friend Abraham and asked where the stranger was. Abraham replied, "I forced him out because he did not worship you."
+God answered, "I have suffered him these eighty years although he dishonors me. Could you not endure him one night?"
+Thomas Lindberg.
+Question:
+"According to the old saying, what ""is a virtue, possess it if you can, seldom found in women and never in a man""?"
+Answer:
+Patience
+Passage:
+Academic conference
+An academic conference or symposium is a conference for researchers (not necessarily academics) to present and discuss their work. Together with academic or scientific journals, conferences provide an important channel for exchange of information between researchers.
+
+Overview 
+
+Conferences are usually composed of various presentations. They tend to be short and concise, with a time span of about 10 to 30 minutes; presentations are usually followed by a discussion. The work may be bundled in written form as academic papers and published as the conference proceedings.
+
+Usually a conference will include keynote speakers (often, scholars of some standing, but sometimes individuals from outside academia). The keynote lecture is often longer, lasting sometimes up to an hour and a half, particularly if there are several keynote speakers on a panel.
+
+In addition to presentations, conferences also feature panel discussions, round tables on various issues and workshops.
+
+Presentations 
+
+Prospective presenters are usually asked to submit a short abstract of their presentation, which will be reviewed before the presentation is accepted for the meeting. Some disciplines require presenters to submit a paper of about 6–15 pages, which is peer reviewed by members of the program committee or referees chosen by them.
+
+In some disciplines, such as English and other languages, it is common for presenters to read from a prepared script. In other disciplines such as the sciences, presenters usually base their talk around a visual presentation that displays key figures and research results.
+
+Size 
+
+A large meeting will usually be called a conference, while a smaller is termed a workshop. They might be single track or multiple track, where the former has only one session at a time, while a multiple track meeting has several parallel sessions with speakers in separate rooms speaking at the same time.
+
+The larger the conference, the more likely it is that academic publishing houses may set up displays. Large conferences also may have a career and job search and interview activities.
+
+At some conferences, social or entertainment activities such as tours and receptions can be part of the program. Business meetings for learned societies or interest groups can also be part of the conference activities.
+
+Types 
+
+Academic conferences typically fall into three categories:
+* the themed conference, small conferences organized around a particular topic;
+* the general conference, a conference with a wider focus, with sessions on a wide variety of topics. These conferences are often organized by regional, national, or international learned societies, and held annually or on some other regular basis.
+* the professional conference, large conferences not limited to academics but with academically related issues.
+
+Infrastructure 
+
+Increasing numbers of amplified conferences are being provided which exploit the potential of WiFi networks and mobile devices in order to enable remote participants to contribute to discussions and listen to ideas.
+
+Advanced technology for meeting with any yet  unknown person in a conference is performed by active RFID that may indicate wilfully identified and relatively located upon approach via electronic tags.
+
+Organizing an academic conference
+
+Conferences are usually organized either by a scientific society or by a group of researchers with a common interest. Larger meetings may be handled on behalf of the scientific society by a Professional Conference Organiser or PCO. 
+
+The meeting is announced by way of a Call For Papers (CFP) or a Call For Abstracts, which is sent to prospective presenters and explains how to submit their abstracts or papers. It describes the broad theme and lists the meeting's topics and formalities such as what kind of abstract (summary) or paper has to be submitted, to whom, and by what deadline. A CFP is usually distributed using a mailing list or on specialized online services. Contributions are usually submitted using an online abstract or paper management service.
+
+Fraudulent conferences
+
+There have been accusations for fake, scam, or fraudulent conferences;   see also BIT Life Sciences and SCIgen § In conferences.
+Question:
+What was a originally an ancient Greek post-banquet drinking party, and nowadays refers to a researchers/academic conference?
+Answer:
+Symposion
+Passage:
+Fanta
+Fanta is a global brand of fruit-flavored carbonated soft drinks created by The Coca-Cola Company. There are over 100 flavors worldwide. The drink originated in Nazi Germany under trade embargo for Coca-Cola ingredients in 1940.
+
+History 
+
+Fanta originated as a result of difficulties importing Coca-Cola syrup into Nazi Germany during World War II due to a trade embargo. To circumvent this, Max Keith, the head of Coca-Cola Deutschland (Coca-Cola GmbH) during the Second World War, decided to create a new product for the German market, using only ingredients available in Germany at the time, including whey and apple pomace – the "leftovers of leftovers", as Keith later recalled.  The name was the result of a brief brainstorming session, which started with Keith's exhorting his team to "use their imagination" (Fantasie in German), to which one of his salesmen, Joe Knipp, immediately retorted "Fanta!"
+
+The plant was effectively cut off from Coca-Cola headquarters during the war. After the war, the Coca-Cola corporation regained control of the plant, formula and the trademarks to the new Fanta product—as well as the plant profits made during the war.
+
+Fanta was discontinued when the parent company was reunited with the German branch.  Following the launch of several drinks by the Pepsi corporation in the 1950s, Coca-Cola competed by relaunching Fanta in 1955.  The drink was heavily marketed in Europe, Asia, Africa and South America. 
+
+Marketing 
+
+United States 
+
+Fanta is known for its upbeat advertising; in the United States, it showcases The Fantanas, a group of young female models, each of whom promotes an individual Fanta flavor. For the re-introduction of Fanta in the United States, Coca-Cola worked with the ad agency Ogilvy (NYC) in 2001. After a brainstorming session, the Ogilvy creative team of Andrea Scaglione, Andrew Ladden and Bill Davaris, created the tagline "Wanta Fanta!" which became the jingle for the Fantanas in the broadcast campaign. The campaign lasted from summer 2001, in the form of a successful trial run, to October 1, 2006. Three years later, in June 2009, Fanta re-launched the campaign. They also held a talent search to find the pineapple Fantana, and, in September selected Shakira Barrera to become the fourth Fantana.  After Barrera won the search, she spent a year at her post, with the latter six months as an actual Fantana called Lily.
+
+International availability 
+
+There are over 90 different flavors worldwide. In Serbia, Albania, Bosnia & Herzegovina, Croatia and some other countries, there is "Fanta Shokata" (a wordplay between "soc" -elderberry in Romanian- and "shock") based on an elderflower blossom extract drink, traditional in Romania (where it is called Socată), Serbia, Bosnia & Herzegovina, Croatia and other Balkan countries.
+
+Orange Fanta is also available in Canada; however, the formula for Canada's Orange variant differs from its American and German/European counterparts, notably in that the German contains orange juice,  the Canadian contains tangerine juice  and the American contains neither.  The other variants available in Canada are Grape and Cream Soda, both made with real grapes. 
+
+Primary competitors to Fanta have included Tango, Mirinda, Slice, Sumol, Crush, Tropicana Twister and Orangina. Fanta was the second drink to be produced by Coca-Cola, after the original Coca-Cola.
+
+International popularity 
+
+*In Australia, there are Fanta Labs in many shopping malls. Fanta Lab provides 2 identical "Labs" where there is a set of water filter cups to the side and a touch screen, which shows the four available Australian flavors, Mango-Passionfruit, Orange, Grape, and Raspberry, and can choose 4 flavors to be mixed. Therefore, can mix 2 flavors twice, 3 flavors, 4 flavors, or just get a free cup of original Fanta.
+* In Japan, the market often issues seasonal rare flavours like yuzu.
+* In Greece you can find a non-carbonated version of the original Orange Fanta, called Fanta Blue
+
+Controversy 
+
+A 2005 British television advertisement for Fanta Z showed a couple enjoying a picnic on a beach and drinking from their cans of Fanta Light, but then calmly spitting the drink out. Others were also shown spitting the drink out in similar ways. The viewers complained that the ad condoned spitting and that children were reported to have copied the ad. A head teacher said that children in the playground had mimicked the commercial. The majority of complaints to the Advertising Standards Authority (ASA) said the images were disgusting and thought it was inappropriate because spitting posed a health risk. The ad became restricted to the post-9pm broadcasts. The ASA agreed that viewers would not want children to see something perceived as anti-social, but did not consider that the images showing people spitting would cause widespread offense or pose a significant health risk. 
+
+75th anniversary advertisement 
+
+In February 2015, a 75th anniversary version of Fanta was released in Germany. Packaged in glass bottles evoking the original design and with an authentic original war-time flavor including 30% whey and pomace, it is described on the packaging as "less sweet" and a German original. An associated television ad referenced the history of the drink and said the Coca-Cola company wanted to bring back "the feeling of the Good Old Times" which was interpreted by many to mean Nazi rule. The ad was subsequently replaced.
+Question:
+Fanta Four are one of what country's top hip hop bands?
+Answer:
+United States of Germany
+Passage:
+Rumbledethumps
+Rumbledethumps is a traditional dish from the Scottish Borders. The main ingredients are potato, cabbage and onion. Similar to Irish colcannon, and English bubble and squeak, it is either served as an accompaniment to a main dish or as a main dish itself.
+
+Cooked leftovers from a roast meal can be used. However, to make fresh rumbledethumps one needs to lightly sauté the shredded onion and cabbage in butter until the onion is translucent and the cabbage wilted, then add some potatoes mashed with butter, salt and pepper; after thoroughly mixing the ingredients, they are placed into an oven proof dish, and cheddar (or similar) cheese placed on top, if desired. This is then baked until golden brown on top.
+
+An alternative from Aberdeenshire is called kailkenny. 
+
+Additional information
+
+In January 2009, Gordon Brown submitted a recipe for rumbledethumps to a cookbook for Donaldson's School for the Deaf, describing it as his favourite food. 
+
+Chef Tom Kitchin cooked rumbledethumps as part of his Scottish menu in the fourth series of the BBC television programme Great British Menu in 2009. 
+
+Similar dishes
+Question:
+What is the English equivalent of the Scottish dish 'Rumbledethumps'?
+Answer:
+Bubble and squeak

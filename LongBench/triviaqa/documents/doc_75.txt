@@ -1,0 +1,899 @@
+Passage:
+Gavel | Define Gavel at Dictionary.com
+Gavel | Define Gavel at Dictionary.com
+gavel
+a small hammer used by a chairman, auctioneer, etc, to call for order or attention
+2.
+a hammer used by masons to trim rough edges off stones
+Word Origin
+Collins English Dictionary - Complete & Unabridged 2012 Digital Edition
+© William Collins Sons & Co. Ltd. 1979, 1986 © HarperCollins
+Publishers 1998, 2000, 2003, 2005, 2006, 2007, 2009, 2012
+Word Origin and History for gavel
+Expand
+n.
+"small mallet used by presiding officers at meetings," 1805, American English, of unknown origin; perhaps connected with German dialectal gaffel "brotherhood, friendly society," from Middle High German gaffel "society, guild," related to Old English gafol "tribute," giefan "to give" (see habit ). But in some sources gavel also is identified as a type of mason's tool, in which case the extended meaning may be via freemasonry. As a verb, by 1887, from the noun.
+Online Etymology Dictionary, © 2010 Douglas Harper
+Question:
+The mallet used by an auctioneer is called a what?
+Answer:
+Gavel
+Passage:
+Eurasian jay
+The Eurasian jay (Garrulus glandarius) is a species of bird occurring over a vast region from Western Europe and north-west Africa to the Indian Subcontinent and further to the eastern seaboard of Asia and down into south-east Asia. Across its vast range, several very distinct racial forms have evolved to look very different from each other, especially when forms at the extremes of its range are compared.
+
+The bird is called jay, without any epithets, by English speakers in Great Britain and Ireland. It is the original 'jay' after which all others are named.
+
+Taxonomy and systematics
+
+The Eurasian jay was one of the many species originally described by Linnaeus in his 18th century work Systema Naturae. He recognised its affinity with other corvids, naming it Corvus glandarius.  The current scientific name is from Latin; Garrulus means noisy or chattering, and glandarius is "of acorns", a favoured food.
+
+Eight racial groups (33 subspecies in total) are recognised by Madge & Burn (1994):
+ 
+
+* the nominate group (nine European races), with a streaked crown.
+* the cervicalis group (three races in North Africa), with a rufous nape, grey mantle, very pale head sides, and a streaked or black crown.
+* the atricapillus group (four races in Middle East, Crimea & Turkey), with a uniform mantle & nape, black crown and very pale face.
+* the race hyrcanus (Caspian Hyrcanian mixed forests of Iran), small with black forecrown and broadly streaked hindcrown.
+* the brandtii group (four races in Siberia and northern Japan), with a streaked crown, reddish head, dark iris and grey mantle.
+* the leucotis group (two races in south-east Asia), with no white in the wing, a white forecrown, black hindcrown and much white on the sides of the head.
+* the bispecularis group (six races in the Himalayan region), with an unstreaked rufous crown, and no white wing-patch.
+* the japonicus group (four races in the southern Japanese islands), with a large white wing-patch, blackish face and scaled crown.
+
+Distribution and habitat
+
+A member of the widespread jay group, and about the size of the jackdaw, it inhabits mixed woodland, particularly with oaks, and is an habitual acorn hoarder. In recent years, the bird has begun to migrate into urban areas, possibly as a result of continued erosion of its woodland habitat. Before humans began planting the trees commercially on a wide scale, Eurasian jays were the main source of movement and propagation for the English oak (Q. robur).
+
+Behaviour and ecology
+
+Its usual call is the alarm call which is a harsh, rasping screech and is used upon sighting various predatory animals, but the jay is well known for its mimicry, often sounding so like a different species that it is virtually impossible to distinguish its true identity unless the jay is seen. It will even imitate the sound of the bird it is attacking, such as a tawny owl, which it does mercilessly if attacking during the day. However, the jay is a potential prey item for owls at night and other birds of prey such as goshawks and peregrines during the day.
+
+Diet
+
+Feeding in both trees and on the ground, it takes a wide range of invertebrates including many pest insects, acorns (oak seeds, which it buries for use during winter),  beech mast and other seeds, fruits such as blackberries and rowan berries, young birds and eggs, bats, and small rodents.
+
+Breeding
+
+It nests in trees or large shrubs laying usually 4–6 eggs that hatch after 16–19 days and are fledged generally after 21–23 days. Both sexes typically feed the young.
+
+Health
+
+In order to keep its plumage free from parasites, it lies on top of anthills with spread wings and lets its feathers be sprayed with formic acid.
+Question:
+What is the main food of the Eurasian jay
+Answer:
+Fruit of the oak tree
+Passage:
+geometry - How to find the parametric equation of a ...
+geometry - How to find the parametric equation of a cycloid? - Mathematics Stack Exchange
+How to find the parametric equation of a cycloid?
+up vote 11 down vote favorite
+1
+"A cycloid is the curve traced by a point on the rim of a circular wheel as the wheel rolls along a straight line." - Wikipedia
+In many calculus books I have, the cycloid, in parametric form, is used in examples to find arc length of parametric equations.  This is the parametric equation for the cycloid:
+$$\begin{align*}x &= r(t - \sin t)\\ y &= r(1 - \cos t)\end{align*}$$
+How are these equations found in the first place?
+5
+ 
+Nice picture! Decompose the motion into two parts: (i) steady motion of the centre along the line $y=r$ and (ii) rotation. –  André Nicolas Apr 18 '12 at 19:56
+  
+ 
+I gave a general approach for deriving roulettes (of which your cycloid is a special case) in an answer to this question . –  J. M. Apr 28 '12 at 8:21
+  
+ 
+Wolfram has quite detailed solutions for not only $r_1 = r_2$ but for all ratios  $\frac{r_1}{r_2}$ –  Carl Witthoft Jan 21 at 18:23
+up vote 5 down vote accepted
+$t$ measures the angle through which the wheel has rotated, starting with your point in the "down" position.  Since the wheel is rolling, the distance it has rolled is the distance along the circumference of the wheel from your point to the "down" position, which (since the wheel has radius $r$) is $rt$.  So the centre of the wheel, which was initially at $(0,r)$, is now at $(rt,r)$.  Your point is displaced from this by $-r\sin(t)$ horizontally and $-r\cos(t)$ vertically, so it is at $(rt - r\sin(t), r - r\cos(t))$.
+up vote 2 down vote
+The center of the circle moves along a horizontal line at constant velocity.  If we want the cusps to be at $y=0$, that means the center should be $(x_c,y_c)=(rt,r)$.  Then  we add on the location of the point on the rim relative to the center.  This will be something like $(r\cos t, r\sin t)$ but we still need to get the phase right.  If we start with the point on the rim at $(0,0)$ at $t=0$ the rim point is at an angle of $\frac {-\pi}2$ at $t=0$, that is, pointing straight down.  A little fiddling with the phases gets the expression you quote.  The scale between the center motion and rotation is set by the requirement that there be no slippage, which means the velocity of the point on the road must be $0$.
+http://www.marystarhigh.com/apps/download/7vb7ETI4n4RtLFWDnZw0xNfQRUSB1swoBHQpP7i1l9pXZS1Y.pdf/Precalculus%20Book.pdf
+You should go to the page before reading on and while reading the rest of the post.
+In it, it explains everything very coherently and breaks down the derivation into 4 steps: finding an equation for the location of the center of the circle (x and y coordinates), and then finding the equation for the point P in in reference to the center.
+We will start off by trying to find where the center of the circle is at angle $\theta$. The x coordinate is going to be equal to the distance traveled, which is the same thing as the length of the sector of the circle we have already covered. The sector is equal to the radius times the central angle, so the center will be at $x = a \theta$
+The y coordinate of the center at any time is really easy because the center is always the height of the radius, which is $a$. Therefore, the center is at coordinates $(a\theta, a)$ at angle $\theta$.
+Now, let's try and find the location of point P in reference to the center. We will start with the x coordinate.
+At angle $\theta$, P will start by lagging behind, then jumping ahead, then going back to where it started. Therefore, we want to start by subtracting $0a$, then $1a$, then $0a$, then -$1a$, then going back to $0$ again. This behavior is exhibited by $a \sin \theta$, so our x coordinate is now complete: $x = a\theta - a \sin \theta = a(\theta - \sin \theta)$
+Now for the y coordinate. To get the height of point P at angle $\theta$, we notice that it starts out below the center, then goes above the center, then back below. Therefore, we want to subtract $1a$, then $0a$, then $-1a$ (add $1a$), then go back to $0a$ again. The pattern of $(1, 0, -1, 0, 1)$ is exhibited by $a \cos \theta$, so we want to subtract this from the center, giving us $y = a - a \cos \theta$ , or $y = a(1 - \cos \theta)$.
+Now, we are done. Our two equations are $$x = a(\theta - \sin \theta)$$ $$y = a(1 - \cos \theta)$$.
+Question:
+What is the name of the type of curve traced by a point on a rolling wheel?
+Answer:
+Cycloidal
+Passage:
+The Gay Divorcee
+The Gay Divorcee is a 1934 American musical film directed by Mark Sandrich and starring Fred Astaire and Ginger Rogers.   It also features Alice Brady, Edward Everett Horton, Eric Blore and Erik Rhodes, and was based on the Broadway musical Gay Divorce written by Dwight Taylor from an unproduced play by J. Hartley Manners,  which was adapted into a musical by Kenneth S. Webb and Samuel Hoffenstein.  The film's screenplay was written by George Marion Jr., Dorothy Yost and Edward Kaufman. Robert Benchley, H. W. Hanemann and Stanley Rauh made uncredited contributions to the dialogue. 
+
+The stage version included many songs by Cole Porter, most of which were left out of the film, "Night and Day" being the only exception. Although the film's screenplay changed most of the songs, it kept the original plot of the stage version. The film features three members of the play's original cast repeating their stage roles - Astaire, Rhodes, and Eric Blore.  The Hays Office insisted on the name change, from "Gay Divorce" to "The Gay Divorcee", believing that while a divorcee could be gay or lighthearted, it would be unseemly to allow a divorce to appear so. In the United Kingdom, the film was released with the original name of the play, Gay Divorce.
+
+The Gay Divorcee was a box office hit  and was nominated for the Academy Award for Best Picture in 1934. 
+
+This film was the second of ten pairings of Rogers and Astaire on film. 
+
+Plot
+
+Mimi Glossop (Ginger Rogers) arrives in England to seek a divorce from her geologist husband Cyril, whom she has not seen for several years. Under the guidance of her domineering and much-married aunt Hortense (Alice Brady), she consults incompetent and bumbling lawyer Egbert Fitzgerald (Edward Everett Horton), once a fiancé of her aunt. He arranges for her to spend a night at a seaside hotel and to be caught in an adulterous relationship, for which purpose he hires a professional co-respondent, Rodolfo Tonetti (Erik Rhodes). But Egbert forgets to arrange for private detectives to "catch" the couple. 
+
+By coincidence, Guy Holden (Fred Astaire) an American dancer and friend of Egbert's, who briefly met Mimi on her arrival in England, and who is now besotted with her, also arrives at the hotel, only to be mistaken by Mimi for the co-respondent she has been waiting for. While they are in Mimi's bedroom, Tonetti arrives, revealing the truth, and holds them "prisoner" to suit the plan. They contrive to escape and dance the night away. 
+
+In the morning, after several mistakes with the waiter, Cyril Glossop (William Austin) arrives at the door, so Guy hides in the next room, while Mimi and Tonetti give a show of being lovers. When Cyril does not believe them, Guy comes out and embraces Mimi in an attempt to convince him that he is her lover, but to no avail. It is an unwitting waiter (Eric Blore) who finally clears the whole thing up by revealing that Cyril himself is an adulterer, thus clearing the way for Mimi to get a divorce and marry Guy.
+
+Cast
+
+* Fred Astaire as Guy Holden
+* Ginger Rogers as Mimi
+* Alice Brady as Hortense
+* Edward Everett Horton as Egbert
+* Erik Rhodes as Tonetti
+* Eric Blore as The Waiter
+* William Austin as Cyril Glossop
+* Charles Coleman as The Valet
+* Lillian Miles as Guest 
+* Betty Grable as Guest
+
+Songs
+
+New songs introduced in the film
+* The Continental (w. Herb Magidson m. Con Conrad) which won the first Academy Award for Best Original Song, and is the music to the twenty-minute dance sequence towards the end of the film, sung by Ginger, Erik Rhodes and Lillian Miles, danced by Ginger and Fred.  Arthur Fiedler and the Boston Pops Orchestra recorded the music in their very first RCA Victor recording session, in Boston's Symphony Hall, on July 1, 1935; the recording can be heard on Youtube.
+* Don't Let It Bother You (w. Mack Gordon m. Harry Revel) opening number, sung by chorus, danced by Fred
+* Let's K-nock K-nees (w. Mack Gordon m. Harry Revel) at the beach resort, sung by Betty Grable, danced by Betty Grable, Edward Everett Horton and chorus
+* Needle in a Haystack (w. Herb Magidson m. Con Conrad), sung and danced by Fred
+
+Other songs
+* Night and Day (Cole Porter) sung by Fred, danced by Ginger and Fred in a hotel suite overlooking an English Channel beach at night
+
+Box office
+
+According to RKO records the film earned $1,077,000 in the US and Canada and $697,000 elsewhere resulting in a profit of $584,000.
+
+Awards and honors
+
+The film was nominated for the following Academy Awards, winning in the category Music (Song): 
+* Art Direction (Van Nest Polglase, Carroll Clark) (Nominated)
+* Music (Scoring) (Max Steiner) (Nominated)
+* Music (Song) - "The Continental" (Won) - the first winner of this award; it won against "Carioca", from the previous Astaire-Roigers film, Flying Down to Rio 
+* Best Film (Nominated)
+* Sound Recording (Carl Dreher) (Nominated)
+Question:
+Which song from the 1934 film ‘The Gay Divorcee’, starring Fred Astaire and Ginger Rogers, won the first Academy Award for Best Original Song?
+Answer:
+The Continental
+Passage:
+Symphony No. 45 (Haydn)
+Symphony No. 45 in F-sharp minor, known as the "Farewell" Symphony (in , modern orthography: ), was composed by Joseph Haydn and dated 1772 on the autograph score. 
+
+History
+
+The tale of how the symphony was composed is widely recounted; it was told by Haydn in old age to his biographers Albert Christoph Dies and Georg August Griesinger. 
+
+When the symphony was written, Haydn's patron Prince Nikolaus Esterházy was resident, together with all his musicians and retinue, at his favorite summer palace at Eszterháza in rural Hungary. The stay there had been longer than expected, and most of the musicians had been forced to leave their wives back at home in Eisenstadt, about a day's journey away. Longing to return, the musicians appealed to their Kapellmeister for help. The diplomatic Haydn, instead of making a direct appeal, put his request into the music of the symphony: during the final adagio each musician stops playing, snuffs out the candle on his music stand, and leaves in turn, so that at the end, there are just two muted violins left (played by Haydn himself and his concertmaster, Luigi Tomasini). Esterházy seems to have understood the message: the court returned to Eisenstadt the day following the performance. 
+
+The music
+
+Key
+
+The work is in F sharp minor. According to Webster, this choice was unusual, indeed the Farewell Symphony is apparently the only 18th century symphony ever written in this key. 
+
+The symphony could not be performed without the purchase of some special equipment:  on 22 October 1772 Haydn signed an order (preserved in the scrupulously maintained Esterházy archives) for two special half-step slides (German "Halbthönige Krummbögen") for use by the horn players. These slightly lengthened the horn's tubing, permitting the instrument to be used to play in keys a half-step lower than usual.  (The horn of the time was the valveless natural horn, which needed to be adjusted with inserted crooks to play in different keys.) Haydn's purchase order is part of the evidence that the symphony was completed in the Fall of 1772. 
+
+Movements
+
+The piece is written for two oboes, bassoon, two horns, and strings (violins in two sections, violas, cellos and double basses).
+
+# Allegro assai, 3/4
+# Adagio, 3/8
+# Menuet: Allegretto, 3/4
+# Finale: Presto, 2/2 – Adagio, 3/8
+
+The turbulent first movement of the work opens in a manner typical of Haydn's Sturm und Drang period, with descending minor arpeggios in the first violins against syncopated notes in the second violins and held chords in the winds. The movement can be explained structurally in terms of sonata form, but it departs from the standard model in a number of ways (just before the recapitulation, for example, new material is introduced, which might have been used as the second subject in the exposition in a more conventional work). Also, the exposition moves to C-sharp minor, the dominant minor, rather than the more usual relative major. 
+
+The second, slow, movement in A major and 3/8 time is also in sonata form. It begins with a relaxed melody played by muted violins, featuring a repeated "hiccuping" motif. The mood gradually becomes more somber and meditative with an alternation between major and minor modes, resembling many similar passages in the later work of Schubert. There follows a series of dissonant suspensions carried across the bar line, which are extended to extraordinary lengths by Haydn when the same material appears in the recapitulation. James Webster   hears this music as programmatic, expressing the yearning for home.
+
+The following minuet is in the key of F-sharp major; its main peculiarity is that the final cadence of each section is made very weak (falling on the third beat), creating a sense of incompleteness.
+
+The last movement begins as a characteristic Haydn finale in fast tempo and cut time, written in sonata form in the home key of F-sharp minor. The rhythmic intensity is increased at one point through the use of unison bariolage in the first violin part. The music eventually reaches the end of the recapitulation in a passage that sounds very much as if it were the end of the symphony, but suddenly breaks off in a dominant cadence.
+
+What follows is a long coda-like section, in essence a second slow movement, which is highly unusual in Classical symphonies and was probably quite surprising to the Prince. This is written in 3/8 time, modulates from A major to F-sharp major, and includes a bit of stage business that may not be obvious to a listener hearing a recorded performance: Several of the musicians are given little solos to play, after which they snuff out the candle on their music stand and take their leave; other musicians leave without solos. The order of departure is: first oboe and second horn (solos), bassoon (no solo), second oboe and first horn (solos), double bass (solo), cello (no solo), orchestral violins (solos; first chair players silent), viola (no solo). As the number of remaining instruments dwindles, the sound emanating from the orchestra gradually becomes audibly thinner. The first chair violinists remain to complete the work. The ending is a kind of deliberate anticlimax and is usually performed as a very soft pianissimo.
+
+A typical performance of the "Farewell" Symphony lasts around twenty-five minutes.
+
+Reception
+
+The work is probably one of the more familiar and frequently performed of the symphonies from the earlier period of Haydn's career.  Haydn himself quoted the opening of the first movement in his  Symphony No. 85, suggesting he knew that his audience would recognize it.  For the musicologist James Webster, the work deserves its fame not so much for its affiliated anecdote but rather in its own right as superlative music, and he devoted to it a substantial book (Webster 1991) analyzing it in great detail and placing it in its musicological context.
+Question:
+What name is usually given to symphony no. 45 by Joseph Haydn, from the musicians gradually leaving the concert platform during the final movement?
+Answer:
+Farewell (disambiguation)
+Passage:
+"Catcalls for Kattomeat" by Bidlake, Suzanne - Marketing ...
+"Catcalls for Kattomeat" by Bidlake, Suzanne - Marketing, January 30, 1992 | Online Research Library: Questia
+Read preview
+Article excerpt
+Spiller Foods is dropping the Kattomeat name from its 40-year-old flagship brand in what some suggest is a desperate attempt to reclaim its main brand asset -- its "spokescat" Arthur.
+The company, locked in intense competition with Mars' Pedigree subsidiary for control of the 1.1bn pounds food market, will next month rename its pretender to the catfood throne as "Arhtur's" after the feline ad star.
+It will be putting 2m pounds -- its biggest single advertising investment ever -- behind a national television, press and poster campaign through Bartle Bogle Hegarty to explain the new identity with the line "No other cat-food is worthy of the name."
+Spillers puts the strategic shift down to a realisation that the white cat Arthur which eats with its paw is its strongest asset. "Arthur is the third most famous cat behind tom (of Tom and Jerry) and Garfied," says marketing director John Sharrock, who claims to have been incubating the name change idea since his appointment in 1986, just waiting for "the right time".  "It would be silly not to capitalise on that."
+He claims that in research people identified Kattomeat as 'Arthur's".  But evidence is that consumers were remembering the Arthur name yet attributing it in some cases to the wrong brand.
+"The ads are successful," says a supermarket petfood buyer.  "But people don't realise Arthur is selling Kattomeat."
+In a market crowded with brands labelled with such cat-speak as Kit-e-kat, Katkins and Meowmix, Spillers is desperately attempting to make its 49.1m pounds turnover flagship stand out from others on the shelf.
+Spillers is also aiming to bring the brand image and can design upmarket to give it more of the standing of a top brand.
+Sharrock denies such a blatant move, but concedes that the new design by Ziggurat, "reinforces what we have been doing with the premium values that the brand has always had."
+This is an unusual market dominated by a duopoly, where own-label takes only a 6% value share and the branding of what are essentially very similar products holds the key to consumer purchase. …
+Subscribe to Questia and enjoy:
+Full access to this article and over 10 million more from academic journals, magazines, and newspapers
+Over 83,000 books
+Access to powerful writing and research tools
+Article details
+Newspapers
+Encyclopedia
+Subscribe to Questia and enjoy:
+Full access to this article and over 10 million more from academic journals, magazines, and newspapers
+Over 83,000 books
+Access to powerful writing and research tools
+Article details
+Question:
+Who was the feline star of the Kattomeat adverts in the seventies
+Answer:
+Arthur
+Passage:
+Tail
+The tail is the section at the rear end of an animal's body; in general, the term refers to a distinct, flexible appendage to the torso. It is the part of the body that corresponds roughly to the sacrum and coccyx in mammals, reptiles, and birds. While tails are primarily a feature of vertebrates, some invertebrates including scorpions and springtails, as well as snails and slugs, have tail-like appendages that are sometimes referred to as tails. Tailed objects are sometimes referred to as "caudate" and the part of the body associated with or proximal to the tail are given the adjective "caudal".
+
+Function
+
+Animal tails are used in a variety of ways. They provide a source of locomotion for fish and some other forms of marine life.  Many land animals use their tails to brush away flies and other biting insects.  Some species, including cats and kangaroos, use their tails for balance;   and some, such as New World monkeys and opossums, have what are known as prehensile tails, which are adapted to allow them to grasp tree branches. 
+
+Tails are also used for social signaling. Some deer species flash the white underside of their tails to warn other nearby deer of possible danger,  beavers slap the water with their tails to indicate danger,  and canids (including domestic dogs) indicate emotions through the positioning and movement of their tails.  Some species' tails are armored, and some, such as those of scorpions, contain venom. 
+
+Some species of lizard can detach ("cast") their tails from their bodies.  This can help them to escape predators, which are either distracted by the wriggling, detached tail or left with only the tail while the lizard flees. Tails cast in this manner generally grow back over time, though the replacement is typically darker in colour than the original. 
+
+Most birds' tails end in long feathers called rectrices. These feathers are used as a rudder, helping the bird steer and maneuver in flight;  they also help the bird to balance while it is perched.   In some species—such as birds of paradise, lyrebirds, and most notably peafowl—modified tail feathers play an important role in courtship displays.   The extra-stiff tail feathers of other species, including woodpeckers and woodcreepers, allow them to brace themselves firmly against tree trunks. 
+
+The tails of grazing animals, such as horses, are used both to sweep away insects and positioned or moved in ways that indicate the animal's physical or emotional state. 
+
+Human tails
+
+Human embryos have a tail that measures about one-sixth of the size of the embryo itself.  As the embryo develops into a fetus, the tail is absorbed by the growing body. Infrequently, a child is born with a ’"soft tail", which contains no vertebrae, but only blood vessels, muscles, and nerves, but this is regarded as an abnormality rather than a vestigial true tail, even when such an appendage is located where the tail would be expected.  
+
+Humans have a "tail bone" (the coccyx) attached to the pelvis, formed of fused vertebrae, usually four, at the bottom of the vertebral column. It does not protrude externally.
+
+Gallery
+
+File:Scorpion tail.jpg|Scorpion
+File:Pig tail DSC03974.jpg|Pig (Sus domestica)
+File:Queue glyptodon museum dijo.jpg|Glyptodon (Glyptodon asper)
+File:Lactoria cornuta (cola).006 - Aquarium Finisterrae.JPG|Longhorn cowfish (Lactoria cornuta)
+File:La Palmyre 041-crop.jpg|Grévy's zebra (Equus grevyi)
+File:Alligator Tail.jpg|American alligator (Alligator mississipiensis)
+File:Flusspferd Backstage.JPG|Hippopotamus (Hippopotamus amphibius)
+Question:
+What word is used for the tail of a rabbit, hare or deer?
+Answer:
+Scut
+Passage:
+Leslie Thomas
+Leslie Thomas, OBE (22 March 1931 – 6 May 2014) was a Welsh author best known for his comic novel The Virgin Soldiers. 
+
+Early life 
+
+Thomas was born in Newport. He was orphaned at the age of 12, when his mariner father was lost at sea and his mother died only a few months later from cancer.  He was subsequently brought up in a Dr Barnardo's home; the story of this upbringing was the subject of his first, autobiographical, book, This Time Next Week.
+
+Thomas attended Kingston Technical School and he then took a course in journalism at South-West Essex Technical College in Walthamstow.[http://www.telegraph.co.uk/news/obituaries/10814267/Leslie-Thomas-obituary.html  Leslie Thomas Daily Telegraph Obituary] Retrieved 7 May 2014 In 1949 he was called up for National Service and embarked on a two-year tour of duty in Singapore with the Royal Army Pay Corps.  While there he was briefly involved with the military action against communist rebels in the Malayan emergency. He also began to write short articles for publication in English newspapers.
+
+Career
+
+On his return to England in 1951, Thomas resumed his work for the local newspaper group in north London where he had worked before his National Service, but within five years he was working for The Exchange Telegraph news agency, now Extel, and eventually with the London Evening News newspaper, first as a sub-editor, later as a reporter.  He stayed with the Evening News until 1965, when he embarked full-time on his writing career.
+
+In 1984, Thomas published In My Wildest Dreams recounting his childhood in South Wales, his days in Doctor Barnardo's homes in London, his National Service in the Far East, and his career in journalism.
+
+Thomas was the subject of the first edition of BBC Wales' series Great Welsh Writers, broadcast on BBC One Wales on 25 February 2013. The programme featured interviews with Thomas, Peter Grosvenor, Frederick Forsyth and Tim Rice, as well as archive clips of earlier programmes. 
+
+His novels about 1950s British National Service such as The Virgin Soldiers spawned two film versions, in 1969 and 1977, while his Tropic of Ruislip and Dangerous Davies, The Last Detective have been adapted for television (the former as Tropic in 1979 and latter having also spawned a film version, in 1981 and a TV series in 2003 with Peter Davison).
+
+His experiences as a British Army conscript in the Far East during the height of the Malayan emergency were recalled when he appeared in the BBC Radio 2 documentary Caught In The Draft in 1985. Thomas joined ex-RAF national serviceman Bob Monkhouse and BBC Radio 2 drivetime presenter John Dunn in a programme filled with reminiscences about their years in uniform.
+
+He was also featured in the short-lived BBC One show Time of My Life in 1983. The show was presented by Noel Edmonds and Thomas was reunited with National Service colleague Reg Wilcock for the first time in 32 years. They duetted on "Tumbling Tumbleweeds", a song they used to sing frequently at the Liberty Club in Singapore.
+
+Honours
+
+In the New Year Honours List published 31 December 2004, he was made an Officer of the Order of the British Empire for services to literature. 
+
+He died in Wiltshire after a lengthy illness on 6 May 2014, aged 83.
+
+Bibliography
+
+Biographical
+*This Time Next Week (1964)
+*In My Wildest Dreams (1984)
+
+Novels
+*The Virgin Soldiers (1966)
+*Orange Wednesday (1967)
+*The Love Beach (1968)
+*Come to the War (1969)
+*His Lordship (1970)
+*Onward Virgin Soldiers (1971)
+*Arthur McCann and All His Women (1972)
+*The Man with the Power (1973)
+*Tropic of Ruislip (1974)
+*Stand Up Virgin Soldiers (1975)
+*Dangerous Davies, the Last Detective (1976)
+*Bare Nell (1977)
+*Ormerod's Landing (1978)
+*That Old Gang of Mine (1979)
+*The Magic Army (1981)
+*The Dearest and the Best (1984) 
+*The Adventures of Goodnight and Loving (1986)
+*Dangerous in Love (1987)
+*Orders for New York (1989)
+*Evening News Short Stories (1990)
+*The Loves and Journeys of Revolving Jones (1991)
+*Arrivals and Departures (1992)
+*Running Away (1994)
+*Dangerous by Moonlight (1995)
+*Kensington Heights (1996)
+*Chloe's Song (1997)
+*Dangerous Davies and the Lonely Heart (1998)
+*Other Times (1999)
+*Waiting for the Day (2003)
+*Dover Beach (2005)
+*Soldiers and Lovers (2007)
+
+Travel
+*Hidden Places of Britain (1981)
+*A World of Islands (1983)
+*Some Lovely Islands (1984)
+
+Miscellaneous 
+
+Midnight Clear: (A Christmas Story) (1978)
+*Almost Heaven: Tales from a Cathedral (2010)
+Question:
+Created by Leslie Thomas, Who was ‘The Last Detective’?
+Answer:
+Dangerous Davies
+Passage:
+Gala (apple)
+'Gala' is a clonally propagated apple cultivar with a mild and sweet flavor. 'Gala' apples ranked at number 2 in 2006 on the US Apple Association's list of most popular apples, after 'Red Delicious' and before 'Golden Delicious', 'Granny Smith', and 'Fuji' (in order).  The skin color of the fruit is non-uniform.
+
+Appearance and flavor 
+
+Gala apples are vertically striped or mottled, overall orange in colour. Gala apples are sweet, fine textured, and aromatic, and can be added to salads or cooked, and are especially suitable for creating sauces. 
+
+History 
+
+The first Gala apple tree was one of many seedlings resulting from a cross between a Golden Delicious and a Kidd's Orange Red planted in New Zealand in the 1930s by orchardist J.H. Kidd. Donald W. McKenzie, an employee of Stark Bros Nursery, obtained a US plant patent for the cultivar on October 15, 1974.  It is a relatively new introduction to the UK, first planted in commercial volumes during the 1980s. The variety now represents about 20% of the total volume of the commercial production of eating apples grown in the UK, often replacing Cox's Orange Pippin.
+
+Sports (mutations)
+
+Many sports of Gala have been selected, mostly for increased red color, including the popular Royal Gala.  The original cultivar produced fruit with orange stripes and a partial orange blush over a yellow background.  Since then, several un-patented sports have been recognized.  Additionally, more than twenty sports have received US plant patents:
+
+Unpatented varieties include: Auvil, Imperial
+
+Descendent cultivar(s)
+
+*Delfloga (Royal Gala × Florina)
+*Jazz (Royal Gala × Braeburn)
+*Envy (Royal Gala × Braeburn)
+* Nicoter (Gala × Braeburn)  
+
+Season 
+
+Gala apples are grown from May through September in the northern hemisphere, but, like most apples, are available almost all year through the use of cold storage and controlled atmosphere storage. Australian Gala are available from late January. California fruit is available until October.
+While the season usually lasts only 9 or 10 months, they are able to last all year round. However, due to some apples continuing to be grown in some orchards, and the fact that they can be refrigerated for some months, leads to the availability of the Gala apple year round in some Australian markets. These usually taste different (slightly less sweet) from those in season.The UK season begins in late summer (August). Storage makes the UK fruit available nearly year round as with fruit from other origins.
+
+Royal Gala cultigen 
+
+Royal Gala is a cultigen made from a redder sport of the Gala apple in the 1970s. It is a pink-red dessert apple and is therefore usually eaten fresh. Royal Galas are usually harvested in early to late February in the southern hemisphere. In New Zealand the pinker original Gala has almost disappeared as a commercial apple in favour of the darker skinned Royal cultigen.
+
+Storage 
+
+The optimum temperature for storing apples is between -1° and 1 °C (30 to 34 °F), and the optimum relative humidity is 90 to 95%. Ethylene gas can speed ripening and spoilage and reduce firmness of apples, as with many other fruit. 
+
+Listeria
+
+In the beginning of 2015, Royal Gala and Granny Smith apples from the United States were identified as the likely cause of a Listeriosis outbreak.  Listeria is a bacterium that can cause nausea, vomiting, headaches, neck stiffness, and can be dangerous to people with deficient immune systems.
+
+Footnotes
+Question:
+Royal Gala is a variety of which fruit?
+Answer:
+Apple Blossom
+Passage:
+SparkNotes: Heart of Darkness: Analysis of Major Characters
+SparkNotes: Heart of Darkness: Analysis of Major Characters
+Analysis of Major Characters
+Themes, Motifs & Symbols
+Marlow
+Although Marlow appears in several of Conrad’s other works, it is important not to view him as merely a surrogate for the author. Marlow is a complicated man who anticipates the figures of high modernism while also reflecting his Victorian predecessors. Marlow is in many ways a traditional hero: tough, honest, an independent thinker, a capable man. Yet he is also “broken” or “damaged,” like T. S. Eliot’s J. Alfred Prufrock or William Faulkner’s Quentin Compson. The world has defeated him in some fundamental way, and he is weary, skeptical, and cynical. Marlow also mediates between the figure of the intellectual and that of the “working tough.” While he is clearly intelligent, eloquent, and a natural philosopher, he is not saddled with the angst of centuries’ worth of Western thought. At the same time, while he is highly skilled at what he does—he repairs and then ably pilots his own ship—he is no mere manual laborer. Work, for him, is a distraction, a concrete alternative to the posturing and excuse-making of those around him.
+Marlow can also be read as an intermediary between the two extremes of Kurtz and the Company. He is moderate enough to allow the reader to identify with him, yet open-minded enough to identify at least partially with either extreme. Thus, he acts as a guide for the reader. Marlow’s intermediary position can be seen in his eventual illness and recovery. Unlike those who truly confront or at least acknowledge Africa and the darkness within themselves, Marlow does not die, but unlike the Company men, who focus only on money and advancement, Marlow suffers horribly. He is thus “contaminated” by his experiences and memories, and, like Coleridge’s Ancient Mariner, destined, as purgation or penance, to repeat his story to all who will listen.
+Kurtz
+Kurtz, like Marlow, can be situated within a larger tradition. Kurtz resembles the archetypal “evil genius”: the highly gifted but ultimately degenerate individual whose fall is the stuff of legend. Kurtz is related to figures like Faustus, Satan in Milton’s Paradise Lost, Moby-Dick’s Ahab, and Wuthering Heights’s Heathcliff. Like these characters, he is significant both for his style and eloquence and for his grandiose, almost megalomaniacal scheming. In a world of mundanely malicious men and “flabby devils,” attracting enough attention to be worthy of damnation is indeed something. Kurtz can be criticized in the same terms that Heart of Darkness is sometimes criticized: style entirely overrules substance, providing a justification for amorality and evil.
+In fact, it can be argued that style does not just override substance but actually masks the fact that Kurtz is utterly lacking in substance. Marlow refers to Kurtz as “hollow” more than once. This could be taken negatively, to mean that Kurtz is not worthy of contemplation. However, it also points to Kurtz’s ability to function as a “choice of nightmares” for Marlow: in his essential emptiness, he becomes a cipher, a site upon which other things can be projected. This emptiness should not be read as benign, however, just as Kurtz’s eloquence should not be allowed to overshadow the malice of his actions. Instead, Kurtz provides Marlow with a set of paradoxes that Marlow can use to evaluate himself and the Company’s men.
+Indeed, Kurtz is not so much a fully realized individual as a series of images constructed by others for their own use. As Marlow’s visits with Kurtz’s cousin, the Belgian journalist, and Kurtz’s fiancée demonstrate, there seems to be no true Kurtz. To his cousin, he was a great musician; to the journalist, a brilliant politician and leader of men; to his fiancée, a great humanitarian and genius. All of these contrast with Marlow’s version of the man, and he is left doubting the validity of his memories. Yet Kurtz, through his charisma and larger-than-life plans, remains with Marlow and with the reader.
+More Help
+Question:
+In which Classic book and film does the character Mr Kurtz appear?
+Answer:
+The Heart Of Darkness
+Passage:
+Melting
+Melting (also known as fusion) is a physical process that results in the phase transition of a substance from a solid to a liquid. This occurs when the internal energy of the solid increases, typically by the application of heat or pressure, which increases the substance's temperature to the melting point. At the melting point, the ordering of ions or molecules in the solid breaks down to a less ordered state, and the solid melts to become a liquid. An object that has melted completely is molten (although this word is typically used for substances that melt only at a high temperature, such as molten iron or molten lava).
+
+Substances in the molten state generally have reduced viscosity as  the temperature increases. An exception to this principle is the element sulfur, whose viscosity increases to a point due to polymerization and then decreases with higher temperatures in its molten state. 
+
+Some organic compounds melt through mesophases, states of partial order between solid and liquid.
+
+Melting as a first-order phase transition 
+
+From a thermodynamics point of view, at the melting point the change in Gibbs free energy ∆G of the material is zero, but there are non-zero changes in the enthalpy (H) and the entropy (S), known respectively as the enthalpy of fusion (or latent heat of fusion) and the entropy of fusion. Melting is therefore classified as a first-order phase transition. Melting occurs when the Gibbs free energy of the liquid becomes lower than the solid for that material. The temperature at which this occurs is dependent on the ambient pressure.
+
+Low-temperature helium is the only known exception to the general rule.  Helium-3 has a negative enthalpy of fusion at temperatures below 0.3 K. Helium-4 also has a very slightly negative enthalpy of fusion below 0.8 K. This means that, at appropriate constant pressures, heat must be removed from these substances in order to melt them. 
+
+Melting criteria
+
+Among the theoretical criteria for melting, the Lindemann  and of Born  criteria are those most frequently used as a basis to analyse the melting conditions . The Lindemann criterion states that melting occurs because of vibrational instability, e.g. crystals melt when the average amplitude of thermal vibrations of atoms is relatively high compared with interatomic distances, e.g. 2>1/2 > δLRs, where δu is the atomic displacement, the Lindemann parameter δL ≈ 0.20...0.25 and Rs is one-half of the inter-atomic distance.  The Lindemann melting criterion is supported by experimental data both for crystalline materials and for glass-liquid transitions in amorphous materials. The Born criterion is based on rigidity catastrophe caused by the vanishing elastic shear modulus, e.g. when the crystal no longer has sufficient rigidity to mechanically withstand load. 
+
+Supercooling
+
+Under a standard set of conditions, the melting point of a substance is a characteristic property.  The melting point is often equal to the freezing point. However, under carefully created conditions, supercooling or superheating past the melting or freezing point can occur. Water on a very clean glass surface will often supercool several degrees below the freezing point without freezing.  Fine emulsions of pure water have been cooled to −38 degrees Celsius without nucleation to form ice.. Nucleation occurs due to fluctuations in the properties of the material. If the material is kept still there is often nothing (such a physical vibration) to trigger this change, and supercooling (or superheating) may occur. Thermodynamically, the supercooled liquid is in the metastable state with respect to the crystalline phase, and it is likely to crystallize suddenly.
+
+Melting of amorphous solids (glasses)
+
+Glasses are amorphous solids which are usually fabricated when the molten material cools very rapidly to below its glass transition temperature, without sufficient time for a regular crystal lattice to form. Solids are characterised by a high degree of connectivity between their molecules, and fluids have lower connectivity of their structural blocks. Melting of a solid material can also be considered as a percolation via broken connections between particles e.g. connecting bonds.  In this approach melting of an amorphous material occurs when the broken bonds form a percolation cluster with Tg dependent on quasi-equilibrium thermodynamic parameters of bonds e.g. on enthalpy (Hd) and entropy (Sd) of formation of bonds in a given system at given conditions: 
+
+T_g = \frac{H_d}{S_d+ R \ln(\frac{1-f_c}{f_c})},
+
+where fc is the percolation threshold and R is the universal gas constant. Although Hd and Sd are not true equilibrium thermodynamic parameters and can depend on the cooling rate of a melt they can be found from available experimental data on viscosity of amorphous materials.
+
+Even below its melting point, quasi-liquid films can be observed on crystalline surfaces. The thickness of the film is temperature dependent. This effect is common for all crystalline materials. Premelting shows its effects in e.g. frost heave, the growth of snowflakes and, taking grain boundary interfaces into account, maybe even in the movement of glaciers.
+
+Related concepts
+
+In genetics, melting DNA means to separate the double-stranded DNA into two single strands by heating or the use of chemical agents, cf. polymerase chain reaction.
+Question:
+What primarily causes an ice-skate to melt ice, creating lubricated contact helpful for skating?
+Answer:
+Manometric unit
+Passage:
+Organ (anatomy)
+In biology, an organ or viscus is a collection of tissues joined in a structural unit to serve a common function.  In anatomy, a viscus is an internal organ, and viscera is the plural form.   
+
+Organs are composed of main tissue, parenchyma, and "sporadic" tissues, stroma. The main tissue is that which is unique for the specific organ, such as the myocardium, the main tissue of the heart, while sporadic tissues include the nerves, blood vessels, and connective tissues. Functionally related organs often cooperate to form whole organ systems. Organs exist in all higher biological organisms, in particular they are not restricted to animals, but can also be identified in plants. In single-cell organisms like bacteria, the functional analogue of an organ is called organelle. 
+
+A hollow organ is a visceral organ that forms a hollow tube or pouch, such as the stomach or intestine, or that includes a cavity, like the heart or urinary bladder.
+
+Organ systems 
+
+Two or more organs working together in the execution of a specific body function form an organ system, also called a biological system or body system. The functions of organ systems often share significant overlap. For instance, the nervous and endocrine system both operate via a shared organ, the hypothalamus. For this reason, the two systems are combined and studied as the neuroendocrine system. The same is true for the musculoskeletal system because of the relationship between the muscular and skeletal systems.
+
+Mammals such as humans have a variety of organ systems. These specific systems are also widely studied in human anatomy.
+* Cardiovascular system: pumping and channeling blood to and from the body and lungs with heart, blood and blood vessels.
+* Digestive system: digestion and processing food with salivary glands, esophagus, stomach, liver, gallbladder, pancreas, intestines, colon, rectum and anus.
+* Endocrine system: communication within the body using hormones made by endocrine glands such as the hypothalamus, pituitary gland, pineal body or pineal gland, thyroid, parathyroids and adrenals, i.e., adrenal glands.
+* Excretory system: kidneys, ureters, bladder and urethra involved in fluid balance, electrolyte balance and excretion of urine.
+* Lymphatic system: structures involved in the transfer of lymph between tissues and the blood stream, the lymph and the nodes and vessels that transport it including the Immune system: defending against disease-causing agents with leukocytes, tonsils, adenoids, thymus and spleen.
+* Integumentary system: skin, hair and nails.
+* Muscular system: movement with muscles.
+* Nervous system: collecting, transferring and processing information with brain, spinal cord and nerves.
+* Reproductive system: the sex organs, such as ovaries, fallopian tubes, uterus, vagina, mammary glands, testes, vas deferens, seminal vesicles, prostate and penis.
+* Respiratory system: the organs used for breathing, the pharynx, larynx, trachea, bronchi, lungs and diaphragm.
+* Skeletal system: structural support and protection with bones, cartilage, ligaments and tendons.
+
+Other animals
+
+The organ level of organisation in animals can be first detected in flatworms and the more advanced phyla. The less-advanced taxons (like Placozoa, Porifera and Radiata) do not show consolidation of their tissues into organs.
+
+Plants
+
+The study of plant organs is referred to as plant morphology, rather than anatomy, as in animal systems. Organs of plants can be divided into vegetative and reproductive. Vegetative plant organs are roots, stems, and leaves. The reproductive organs are variable. In flowering plants, they are represented by the flower, seed and fruit. In conifers, the organ that bears the reproductive structures is called a cone. In other divisions (phyla) of plants, the reproductive organs are called strobili, in Lycopodiophyta, or simply gametophores in mosses.
+
+The vegetative organs are essential for maintaining the life of a plant. While there can be 11 organ systems in animals, there are far fewer in plants, where some perform the vital functions, such as photosynthesis, while the reproductive organs are essential in reproduction. However, if there is asexual vegetative reproduction, the vegetative organs are those that create the new generation of plants (see clonal colony).
+
+History
+
+Etymology
+
+The English word "organ" derives from the Latin ', meaning "instrument", itself from the Greek word , ' ("implement; musical instrument; organ of the body"). The Greek word is related to , ' ("work").Barnhart's Concise Dictionary of Etymology The viscera, when removed from a butchered animal, are known collectively as offal. Internal organs are also informally known as "guts" (which may also refer to the gastrointestinal tract), or more formally, "innards".
+
+Aristotle used the word frequently in his philosophy, both to describe the organs of plants or animals (e.g. the roots of a tree, the heart or liver of an animal), and to describe more abstract "parts" of an interconnected whole (e.g. his philosophical works, taken as a whole, are referred to as the "organon").
+
+The English word "organism" is a neologism coined in the 17th century, probably formed from the verb to organize. At first the word referred to an organization or social system. The meaning of a living animal or plant is first recorded in 1842. Plant organs are made from tissue built up from different types of tissue. When there are three or more organs it is called an organ system. 
+
+The adjective visceral, also splanchnic, is used for anything pertaining to the internal organs. Historically, viscera of animals were examined by Roman pagan priests like the haruspices or the augurs in order to divine the future by their shape, dimensions or other factors. This practice remains an important ritual in some remote, tribal societies.
+
+The term "visceral" is contrasted with the term "", meaning "of or relating to the wall of a body part, organ or cavity". The two terms are often used in describing a membrane or piece of connective tissue, referring to the opposing sides.
+
+7 Vital Organs of Antiquity
+
+Some alchemists (e.g. Paracelsus) adopted the Hermetic Qabalah assignment between the 7 vital organs and the 7 Classical planets as follows:
+Question:
+Which is the largest organ of the human body?
+Answer:
+Animal skin
+Passage:
+Aegean Islands
+The Aegean Islands (, transliterated: Nisiá Aigaíou; ) are the group of islands in the Aegean Sea, with mainland Greece to the west and north and Turkey to the east; the island of Crete delimits the sea to the south, those of Rhodes, Karpathos and Kasos to the southeast. The ancient Greek name of the Aegean Sea, Archipelago (, archipelagos) was later applied to the islands it contains and is now used more generally, to refer to any island group.
+
+The vast majority of the Aegean Islands belong to Greece, being split among nine administrative regions. The only sizable possessions of Turkey in the Aegean Sea are Imbros (Gökçeada) and Tenedos (Bozcaada), in the northeastern part of the Sea. Various smaller islets off Turkey's western coast are also under Turkish sovereignty.
+
+Most of the islands enjoy warm Summer temperatures and cold Winter influenced by the Mediterranean climate.
+
+Groups of Islands
+
+The Aegean Islands are traditionally subdivided into seven groups, from north to south:
+
+* Northeastern Aegean Islands
+* (Northern) Sporades
+* Euboea
+* Argo-Saronic Islands
+* Cyclades
+* Dodecanese (Southern Sporades)
+* Crete
+
+The term Italian Aegean Islands () is sometimes used to refer to the Aegean islands conquered by Italy during the Italo-Turkish War in 1912 and annexed (through the Treaty of Lausanne) from 1923 until 1947: the Dodecanese, including Rhodes and Kastellorizo. In the Treaty of Peace in 1947, these Italian-controlled islands were ceded to Greece.
+
+Episcopal sees 
+
+Ancient episcopal sees of the Roman province of Insulae (the Aegean Islands) listed in the Annuario Pontificio as titular sees :Annuario Pontificio 2013 (Libreria Editrice Vaticana 2013 ISBN 978-88-209-9070-1), "Sedi titolari", pp. 819-1013
+
+Ancient episcopal sees of the Roman province of Lesbos (the Aegean Islands) listed in the Annuario Pontificio as titular sees:
+Question:
+The islands of Kos, Leros, Nisyros, Patmos and Rhodes are in what sea?
+Answer:
+Mediterranian
+Passage:
+Used Auto Parts, Used Engines, Transmissions ...
+Used Auto Parts, Used Engines, Transmissions | QualityAutoParts.com
+Tips & Tricks - Hatchbacks and Small Cars
+Hatchbacks and Small Cars -- The Way to Go!
+Wikipedia defines Hatchback as 'a term designating an automobile design, containing a passenger cabin with an integrated cargo space, accessed from behind the vehicle by a single, top-hinged tailgate or large flip-up window. The vehicle commonly has two rows of seats, with the rear seat able to fold down to increase cargo space.'
+A fitting definition indeed! Even though a hatchback can be either small in size or bigger comparatively, these days it represents a term more synonymous with Small Cars.
+Hatchbacks are the prime constituents of the small-car or compact car segment and their popularity has soared to immeasurable heights over the past few years especially in the developing countries. A concept that had very few takers in the traditional western markets until a few years ago, hatchbacks have bounced back to give the more established segments a run for their money.
+These cute looking small cars are nowadays the bread and butter segment for most manufacturers in the Asian and European markets. Most modern small cars are surprisingly feature packed for their price and exquisitely styled to appeal to the targeted buyer. In countries like India, the small car market is fiercely competitive with new models being launched almost every quarter.
+So what makes these small cars such an exciting proposition?
+Small cars are perfectly suited to city driving. Their small size means easy maneuverability even in narrow lanes and heavy traffic. Most small car buyers are city dwellers and small hatchbacks are the perfect answer to their automotive needs. Also, driving a small car in busy cities means no more parking woes.
+Today automobile markets are flooded with stylish 5-door hatchbacks offering decent power and performance along with increased fuel efficiency. In this era of fuel crisis and frequent fuel price-hikes, small cars present themselves as the perfect buy.
+Most hatchbacks are competitively priced these days and offer more features at lesser prices. There is immense competition in this sector and manufacturers prefer aggressive pricing techniques to woo buyers.
+Hatchbacks are the easiest thing to drive on the road. Even in driving schools, hatchbacks are the first stage in driving lessons. A shorter turning radius coupled with a small frame make them quite a convenient drive.
+Small cars don't function on many heavy-duty moving parts. Over the years, this means less maintenance and repair costs. In fact, small cars are renowned the world over for their low cost of maintenance.
+Question:
+Which automobile design has a passenger cabin with an integrated cargo space, accessed from behind by a single, top-hinged tailgate or large flip-up window, commonly with two rows of seats, with the rear seat able to fold down to increase cargo space?
+Answer:
+Hatch-back
+Passage:
+Guatemalan quetzal
+The quetzal (; code: GTQ) is the currency of Guatemala, named after the national bird of Guatemala, the resplendent quetzal.
+
+In ancient Mayan culture, the quetzal bird's tail feathers were used as currency. It is divided into 100 centavos or lenes in Guatemalan slang. The plural is quetzales.
+
+Exchange rate 
+
+History
+
+The quetzal was introduced in 1925 during the term of President José María Orellana, whose image appears on the obverseof the one-quetzal bill. It replaced the peso. Until 1987, the quetzal was pegged to and domestically equal to the United States dollar and before the pegging to the US dollar, it was pegged to the French franc as well, since the quetzal utilized the gold standard.
+
+Coins
+
+In 1925, coins in denominations of 1, 5, 10 centavos, ¼, ½ and 1 quetzal were introduced, although the majority of the 1 quetzal coins were withdrawn from circulation and melted. ½ and 2 centavos coins were added in 1932. Until 1965, coins of 5 centavos and above were minted in 72% silver. ½ and 1 quetzal coins were reintroduced in 1998 and 1999, respectively. Coins currently in circulation are:
+*1 centavo
+*5 centavos
+*10 centavos
+*25 centavos
+*50 centavos
+*1 quetzal
+
+Banknotes
+
+The first banknotes were issued by the Central Bank of Guatemala in denominations of 1, 2, 5, 10, 20 and 100 quetzales, with ½ quetzal notes added in 1933. In 1946, the Bank of Guatemala took over the issuance of paper money, with its first issues being overprints on notes of the Central Bank.  Except for the introduction of 50 quetzales notes in 1967, the denominations of banknotes were unchanged until ½ and 1 quetzal coins replaced notes at the end of the 1990s.
+
+In the top-right corner of the obverse face of each banknote, the value is displayed in Mayan numerals, representing Guatemala's cultural history.
+
+The Bank of Guatemala has introduced a polymer banknote of 1 quetzal on August 20, 2007. The Bank of Guatemala has also introduced a 5 quetzal polymer banknote on November 14, 2011.
+Question:
+Of which country is the Quetzal the unit of currency?
+Answer:
+República de Guatemala
+Passage:
+Ford Madox Brown | British painter | Britannica.com
+Ford Madox Brown | British painter | Britannica.com
+Ford Madox Brown
+Ford Madox Brown, (born April 16, 1821, Calais , France —died October 6, 1893, London , England ), English painter whose work is associated with that of the Pre-Raphaelite Brotherhood , although he was never a member.
+Pretty Baa-Lambs, oil on panel by Ford Madox Brown, 1851–59; in …
+Fine Art Images/Heritage-Images
+Brown studied art from 1837 to 1839 in Bruges and Antwerp , Belgium. His early work is characterized by sombre colour and dramatic feeling suited to the Byronic subjects that he painted in Paris during 1840–43, such as Manfred on the Jungfrau (c. 1840) and Parisina’s Sleep (1842). Already concerned with the accurate representation of natural phenomena, he drew from corpses in University College Hospital in London when painting his Prisoner of Chillon (1843). During a visit to Italy in 1845, he met Peter von Cornelius , a member of the former Lukasbund, or Nazarenes . This meeting undoubtedly influenced both Brown’s palette and his style. His interest in brilliant, clear colour and neomedievalism first appears in Wyclif Reading His Translation of the Scriptures to John of Gaunt (1847). In 1848 Brown briefly accepted Dante Gabriel Rossetti as a pupil, and in 1850 Brown contributed to the Pre-Raphaelites’ magazine, Germ. Like William Holman Hunt , Brown painted in the open air to obtain naturalistic accuracy.
+His most famous picture, Work (1852–63), which can be seen as a Victorian social document, was first exhibited at a retrospective exhibition held in London (1865), for which he wrote the catalog. He also worked as a book illustrator with William Morris ; produced stained glass, at, among other sites, St. Oswald’s, Durham (1864–65); and between 1879 and 1893 completed a series of 12 murals for the Manchester town hall, depicting scenes from the city’s history.
+The Irish Girl, oil on canvas laid on board by Ford Madox Brown, 1860; …
+Yale Center for British Art, Paul Mellon Fund (B1989.11)
+Learn More in these related articles:
+Question:
+In which country was the painter Ford Madox Brown born?
+Answer:
+La Republique francaise
+Passage:
+A Question of Attribution
+A Question of Attribution is a 1988 one-act stage play, written by Alan Bennett. It was premièred at the National Theatre, London in December 1988, along with the stage version of An Englishman Abroad. The two plays are collectively called Single Spies. 
+
+The one-act play formed the basis of a 1991 television film of the same name broadcast as part of the BBC's Screen One series. The film was directed by John Schlesinger and stars James Fox as Anthony Blunt, David Calder as Chubb, an MI5 officer, and Prunella Scales as 'H.M.Q.' (Queen Elizabeth II).[http://www.screenonline.org.uk/tv/id/986784/ A Question of Attribution], BFI Screenonline, retrieved 17 January 2006 The film was produced by long-time Bennett collaborator Innes Lloyd, and is dedicated to his memory.
+
+The New York Times called the film a "razor-sharp psychological melodrama" and it won the 1992 BAFTA TV award for Best Single Drama.  Prunella Scales was nominated for Best Actress.
+
+Plot
+
+The play and subsequent film is based on Anthony Blunt's role in the Cambridge Spy Ring and, as Surveyor of the Queen's Pictures, personal art advisor to Queen Elizabeth II. It portrays his interrogation by MI5 officers, his work researching and conserving art works, his work at the Courtauld Institute, and his acquaintance with the Queen. Bennett described the piece as an "inquiry in which the circumstances are imaginary but the pictures are real."
+
+While supervising the restoration of a dual portrait in which only partial attribution to Titian is thought credible, Blunt discovers a third figure that had been painted over by an unknown artist, and concludes by comparison with a better known triple portrait in London's National Gallery (Allegory of Prudence) that the newly revealed third figure was Titian's son. As Blunt's public exposure as a spy in 1979 draws near, the play suggests that he has been made a scapegoat to protect others in the security service. At the end of the film, the time of Blunt's exposure, Blunt tells Chubb that X-rays had revealed the presence of a fourth and fifth man.
+
+One of the sub-texts in the scene with the Queen is whether or not Her Majesty knew that Blunt was a former Soviet spy. They briefly discuss the Dutch Vermeer forger Han van Meegeren, and how his paintings now look like fakes, but were accepted as genuine in the (early) 1940s, and touch on the  nature of fakes and secrets. After she has left and an assistant asks what they were talking about, Blunt replies "I was talking about art. I'm not sure that she was."
+
+Main cast (film)
+
+*James Fox - Sir Anthony Blunt
+*David Calder - Chubb
+*Geoffrey Palmer - Donleavy
+*Prunella Scales - H.M.Q.
+Question:
+Who played the part of Queen Elizabeth II in the film 'A Question Of Attribution'?
+Answer:
+Prunella Scales
+Passage:
+Bahamas Country Code 1 242 Country Code BS
+Bahamas Country Code 1 242 Country Code BS
+About Bahamas Hide
+CountryCode.org is your complete guide to make a call from anywhere in the world, to anywhere in the world. This page details Bahamas phone code.
+The Bahamas country code 1-242 will allow you to call Bahamas from another country. Bahamas telephone code 1-242 is dialed after the IDD. Bahamas international dialing 1-242 is followed by an area code.
+The Bahamas area code table below shows the various city codes for Bahamas. Bahamas country codes are followed by these area codes. With the complete Bahamas dialing code, you can make your international call.
+English (official), Creole (among Haitian immigrants)
+Electricity
+Type A North American/Japanese 2-blade
+Type B American 3-pin
+Question:
+BS is the international car registration of which country?
+Answer:
+The Commonwealth of The Bahamas
+Passage:
+Vicki Michelle - IMDb
+Vicki Michelle - IMDb
+IMDb
+Actress | Soundtrack | Producer
+Vicki trained at the Aida Foster Theatre School and quickly won a variety of roles in film, television and on stage but it was her portrayal of Yvette in the hit BBC series Allo Allo that gained her worldwide recognition. Vicki played Yvette for all nine series with the Allo Allo stage play taking her on national and international tours to ... See full bio »
+Born:
+Share this page:
+Related News
+a list of 1815 people
+created 19 Jul 2012
+a list of 47 people
+created 03 Feb 2013
+a list of 2498 people
+created 20 Apr 2013
+a list of 30 people
+created 22 Jul 2015
+a list of 226 people
+created 11 months ago
+Do you have a demo reel?
+Add it to your IMDbPage
+How much of Vicki Michelle's work have you seen?
+User Polls
+ 2015 Silent Hours (TV Series)
+Mary Woodward
+- Whip Hand (2011) ... Penny Lester
+ 2010 Resentment (TV Movie)
+ 1997 Gayle's World (TV Series)
+Guest
+ 1981-1984 Cannon and Ball (TV Series)
+Girl in Saloon Bar
+ 1978-1983 The Professionals (TV Series)
+Tina / Jo
+Bishop's 2nd Lady (as Vicky Michelle)
+ 1980 Minder (TV Series)
+ 1976-1979 The Two Ronnies (TV Series)
+Miss Featherstone / Hughes / Newspaper Hawker
+ 1977 The Goodies (TV Series)
+Nurse
+ 1976 Space: 1999 (TV Series)
+Barbara
+ 1985-1992 'Allo 'Allo (TV Series) (performer - 4 episodes)
+- A Fistful of Francs (1992) ... (performer: "Three Little Maids From School Are We" - uncredited)
+- A Woman Never Lies (1992) ... (performer: "We Are Resistance Fighters" - uncredited)
+- Enigma's End (1989) ... (performer: "La Marseillaise" - uncredited)
+- Six Big Boobies (1985) ... (performer: "Lilli Marlene" (uncredited), "Ave Maria")
+Hide 
+ 2010 Resentment (TV Movie) (the producers wish to thank)
+Hide 
+ 2016 Good Morning Britain (TV Series)
+Herself - Guest
+ 2016 Pointless Celebrities (TV Series)
+Herself - Contestant
+ 2016 Take Two (TV Series documentary)
+Herself - Actress
+ 2016 Too Much TV (TV Series)
+Herself - Interviewed Guest
+ 2016 The Wright Stuff (TV Series)
+Herself - Guest Panelist
+ 2015 National Television Awards (TV Special)
+Herself
+ 2014 Greatest Ever Sitcoms (TV Movie documentary)
+Herself
+- Coming Out (2014) ... Herself (as Vicki Michelle MBE)
+- Episode #14.20 (2014) ... Herself (as Vicki Michelle MBE)
+- Episode #14.19 (2014) ... Herself (as Vicki Michelle MBE)
+- Episode #14.18 (2014) ... Herself (as Vicki Michelle MBE)
+- Episode #14.17 (2014) ... Herself (as Vicki Michelle MBE)
+- Episode #14.22 (2014) ... Herself (as Vicki Michelle MBE)
+- Episode #14.21 (2014) ... Herself (as Vicki Michelle MBE)
+- Episode #14.20 (2014) ... Herself (as Vicki Michelle MBE)
+- Episode #14.19 (2014) ... Herself (as Vicki Michelle MBE)
+- Episode #14.18 (2014) ... Herself (as Vicki Michelle MBE)
+ 2013 The Two Ronnies Spectacle (TV Series documentary)
+Herself 2013
+ 2009 Loose Women (TV Series)
+Herself
+ 2008 The Greatest Christmas Comedy Moments (TV Movie documentary)
+Herself
+ 2008 Celebrity Masterchef (TV Series)
+Herself
+ 2007 Children in Need (TV Series)
+Herself / Barmaid
+ 2007 Granada Reports (TV Series)
+Herself
+ 2007 Richard & Judy (TV Series)
+Herself
+ 2006 Comedy Connections (TV Series documentary)
+Herself
+ 2006 100 Greatest Funny Moments (TV Movie documentary)
+Herself
+ 2004 Britain's Best Sitcom (TV Series)
+Herself
+ 2004 Stars Reunited (TV Series documentary)
+Herself
+ 2003 Loose Lips (TV Series documentary)
+Herself
+ 2002 The Weakest Link (TV Series)
+Herself
+ 1999 The Vanessa Show (TV Series)
+Herself
+ 1997 Pantoland (TV Mini-Series documentary)
+Herself
+ 1997 Funny Business (TV Series)
+Herself
+Question:
+Which actress starred as 'Yvette', 'Rene's' employee and lover in the TV series 'Allo, Allo'?
+Answer:
+VICKY MICHELLE
+Passage:
+Sailor suit
+A sailor suit is a uniform traditionally worn by enlisted seamen in the navy, and other government funded sea services. It later developed into a popular clothing style for children, especially as dress clothes.
+
+Origins and history
+
+In the Royal Navy, the sailor suit or naval rig  is known as Number One uniform and is worn by Able Rates and Leading Hands. It is primarily ceremonial, although it dates from the old working rigs of Royal Navy sailors which has changed continuously since its first introduction in 1857.Royal Navy, [http://www.royal-navy.mod.uk/server/show/nav.3772 The History of Rating Uniforms] 
+
+The blue jean collar is perhaps the most recognisable item of the sailor suit, and tradition says that it dates from the times when seamen wore tarred pigtails.  This is in fact false, as the collar was not part of uniform until after pigtails disappeared. 
+The three stripes have nothing to do with Nelson's three victories but was simply standardised to three when uniform was regulated.  It is often considered lucky to touch a sailor's collar. 
+
+The bell bottomed trousers were designed so that they could be rolled up easily when scrubbing the decks. Ratings used to have either five or seven horizontal creases and this did not represent the seven seas or five oceans but depended on the length of the sailor's leg.
+
+The lanyard was originally used to carry the hornpipe
+
+In the United States, the first standard uniform was issued in 1817. Through government procurement, winter and summer uniforms were provided. White duck jacket, trousers and vest made up the summer uniform, while the winter uniform consisted of a blue jacket and trousers, red vest with yellow buttons and a black hat.Charles A. Malin, [http://www.history.navy.mil/faqs/faq78-1.htm  Ratings and the Evolution of Jobs in the Navy],  Bureau of Naval Personnel, Navy Department, Washington DC, 1971
+
+Sailor suits were also worn by sailors in the Royal Canadian Navy and disappeared in 1968 when the Canadian Forces was established and uniforms were standardized for the unified forces.
+
+As children's clothing
+
+In 1846, the four-year-old Albert Edward, Prince of Wales was given a scaled-down version of the uniform worn by ratings on the Royal Yacht. He wore his miniature sailor suit during a cruise off the Channel Islands that September, delighting his mother and the public. Popular engravings, including the famous portrait done by Winterhalter, spread the idea, and by the 1870s, the sailor suit had become normal dress for both boys and girls all over the world. Some Western cartoon and comic characters use a sailor suit as their trademarks; examples include Popeye, Donald Duck and Spoilt Bastard. Sailor suits have been worn by the members of the Vienna Boy's Choir on their international tours.
+
+A female version of the sailor suit, the sailor dress, was popularly known in early 20th century America as a Peter Thomson dress in the early 20th century after a naval tailor based in New York and Philadelphia.  
+
+When doing the Sailor's Hornpipe dance, a Highland character dancer is required to wear a sailor suit.
+
+Sailor school uniform in Asia
+
+Many schools in some Asian countries, typically in Japan, Taiwan, North Korea, South Korea, Hong Kong, Singapore and Thailand, have adopted sailor outfits as a school uniform.  
+
+Japan
+
+ 
+Sailor suits are especially common in Japanese girls' schools, known as sailor fuku by the Japanese. They are so common that the image of the outfit has evolved to be strongly associated with youth and female adolescence in popular culture. As a result, sailor uniform are seen very frequently in Japanese teen dramas, movies, anime, manga, music videos and concert performances of pop teen idol groups' (notably by Hello! Project, AKB48, Nogizaka46, and Onyanko Club).
+Question:
+What sailor suit wearing, short tempered cartoon character made his first appearance on June 9, 1934 in the Silly Symphonies cartoon The Wise Little Hen?
+Answer:
+Donald Duck
+Passage:
+Oxford University Cricket Club
+Oxford University Cricket Club (OUCC), which represents the University of Oxford, has had major status from 1827: i.e., classified as an unofficial first-class team by substantial sources from 1827 to 1894;   classified as an official first-class team from 1895 by Marylebone Cricket Club (MCC) and the County Championship clubs;  and classified as a List A team in 1973 only. 
+
+Home fixtures are played at the University Parks. The inaugural University Match between OUCC and Cambridge University Cricket Club (CUCC) was played in 1827 and is now the club's sole first-class fixture each season. Apart from this annual game, played in late June or early July, OUCC operates as part of the Oxford University Centre of Cricketing Excellence (UCCE), which includes Oxford Brookes University. The UCCE was rebranded as Oxford MCC University (MCCU) prior to the 2010 season. The University Match is the only one in which a true OUCC team takes part: i.e., composed entirely of current Oxford students. 
+
+The earliest reference to cricket at Oxford is in 1673. OUCC made its known debut in the 1827 University Match. In terms of extant clubs being involved, this is the oldest major fixture in the world: i.e., although some inter-county fixtures are much older, none of the current county clubs were founded before 1839 (the oldest known current fixture is Kent versus Surrey).
+
+The Oxford University Centre of Cricketing Excellence (OUCCE) team played 27 first-class matches from 2001 to 2009. As Oxford Marylebone Cricket Club University, the team has played fourteen first-class matches from 2010 to 2015.
+Question:
+What is the name of Oxford University’s Cricket Ground ?
+Answer:
+Park of culture and recreation
+Passage:
+CCGS Louis S. St-Laurent
+CCGS Louis S. St-Laurent is a Canadian Coast Guard Heavy Arctic Icebreaker. Louis S. St-Laurents home port is St. John's, Newfoundland and Labrador  and is stationed there with other vessels of the coast guard.
+
+Named after the twelfth Prime Minister of Canada, The Right Honourable Louis St. Laurent, PC CC QC LLD DCL LLL BA. The vessel is classed a "Heavy Arctic Icebreaker" and is the largest icebreaker and flagship of the CCG.
+
+Operations
+
+Louis S. St-Laurent is based at CCG Base St. John's in St. John's, Newfoundland. The vessel's current operation tempo consists of summer voyages to Canada's Arctic where she supports the annual Arctic sealift to various coastal communities and carries out multi-disciplinary scientific expeditions. During the winter months, Louis S. St-Laurent sometimes operates in the Gulf of St. Lawrence to aid ships in transiting to Montreal, Quebec, although she usually only serves this assignment during particularly heavy ice years.
+
+History
+
+Louis S. St. Laurent was launched 3 December 1966 by Canadian Vickers Limited at Montreal, Quebec  and commissioned in October 1969.
+
+From 8–22 September 1969 Louis S. St-Laurent sailed on the  expedition in the Northwest Passage. She was assisted by  and the United States Coast Guard vessels  and 
+
+During 1976 Louis S. St-Laurent, Captain Paul M. Fournier in command, made a partial transit of the Northwest Passage traveling from east to west, through Lancaster Sound, Peel Sound, and Victoria Strait.
+
+In 1979 Louis S. St-Laurent, Captain George Burdock in command, made a full east to west transit of the Northwest Passage. She assisted CCGS Franklin, and circumnavigated North America.
+
+Louis S. St-Laurent underwent an extensive and costly modernization at Halifax Shipyard Ltd. in Halifax, Nova Scotia between 1988-1993 which saw her hull lengthened as well as new propulsion and navigation equipment installed.
+
+The modernization program was controversial as the government of Prime Minister Brian Mulroney had initially proposed building a class of mega icebreakers (the Polar 8 Project) for promoting Canadian sovereignty in territorial waters claimed by Canada;  had made an unauthorized transit of Canada's Northwest Passage in 1985 early in Mulroney's administration, provoking a strong nationalist out-cry across the country. However, budget cuts in the late 1980s saw proposed expansions of the coast guard and armed forces scrapped. In compensation to the coast guard, the government opted to modernize the largest icebreaker in its fleet, Louis S. St-Laurent.
+
+On 22 August 1994 Louis S. St-Laurent and USCGC Polar Sea became the first North American surface vessels to reach the North Pole.
+
+In the summer of 2006, CBC TV's The National broadcast from Louis S. St-Laurent in a special series focused on climate change. 
+
+The vessel was originally scheduled to be decommissioned in 2000 however a refit extended the decommissioning date to 2017. In the 26 February 2008 federal budget, the Government of Canada announced it was funding a $721 million "Polar Class Icebreaker" (named ) as a replacement vessel for Louis S. St-Laurent.
+
+At 1:30 a.m. on 2 April 2015, Louis S. St-Laurent, arrived near Burgeo, Newfoundland and Labrador to take the damaged Canadian Coast Guard vessel  under tow. Ann Harvey, which had run aground near Burgeo, was already being towed by the lifeboat CCGS W.G. George when the icebreaker arrived. Louis S. St-Laurent took over the tow and brought Ann Harvery into Connoire Bay where Royal Canadian Navy divers could inspect the ship. 
+
+In 2016 Louis St. Laurent was deployed to the Arctic carrying an international team of scientists mapping the sea floor. The first leg of the mission was a voyage to Norway mapping the Atlantic. This was to be followed by a 47-day leg to the North Pole.
+Question:
+The Louis S. St. Laurent' and the 'John G. Diefenbaker' are specifically what kind of ships?
+Answer:
+Icebreakers
+Passage:
+Glass's Guide
+Glass’s Guide is the leading British motor trades guide to used car prices, often referred to in the trade as "The Bible."
+
+Monitoring car values for over 80 years since 1933, Glass’s Guide has reflected how cars have become increasingly affordable. For example, in the 1930s the £145 list price for a Ford 10 De Luxe, including £5 for an optional sliding roof, was the equivalent of almost two years’ salary. Today, a Ford Mondeo 1.8i LX, with a list price of £14,465, represents the equivalent of just seven months’ salary for a person earning the UK average wage.
+
+William Glass
+
+William Glass was born in Scotland in 1881 and was an engineer by trade. As well as publishing the first Guide to Used Vehicle Values, Glass had an innovative and enquiring mind and made a number of inventions including the portable hydraulic jack, the electric switch-off kettle, the self-filling fountain pen and the through-the-propeller machine gun firing mechanism.
+
+The founder of Glass’s Guide also manufactured cars under the Firefly marque for a short period of time in Croydon. Glass’s other innovations included the first motor auction and the first uniformed attendants at petrol filling stations.
+
+Glass’s history
+
+William Glass founded Glass’s in 1933 and published the first Glass’s Guide to Car Values in July that year. The company expanded into commercial vehicle, motorcycle and caravan values in the 1950s and ’60s, and today provides customers with information in print, electronic and online formats.
+
+*1930s - In 1933 William Glass first publishes Glass’s Guide to Car Values which quickly becomes the “Bible” of the UK motor trade
+*1950s - Hanns W. Schwacke applies the same idea in Germany becoming the first of its kind in continental Europe.
+*1960s - Hanns W. Schwacke expands the business in Europe under the international brand “Eurotax”.  Glass’s launches used valuations Guides for commercial vehicles and motorcycles in the UK.
+*1970s - The first estimation system, including parts prices and labour costs for all makes and models, is launched.
+*1980s - Glass’s introduces the PC version of Glass’s Guide and acquires Editions Professionelles Glass  SARL (EPG) France.  Eurotax launches the AutoWert workplace software which becomes the standard for over 50,000 users across Europe.
+*1990s - Hicks, Muse, Tate & Furst the private equity group acquires Glass's Information Systems Ltd in 1998 and Eurotax AG in 2000. The companies are merged to form EurotaxGlass's AG, registered in Freienbach, Switzerland. 
+*2006 - Candover buy the business from renamed HM Capital for €480 million[http://www.autoindustry.co.uk/news/17-05-06_14 Candover buys EurotaxGlass’s; keeps management in place - News - Auto Industry]
+Question:
+What would you be reading about in Glass's Guide
+Answer:
+Used car prices
+Passage:
+List of shopping arcades in Cardiff
+Shopping arcades in Cardiff include indoor shopping centres and arcades in Cardiff city centre, Wales. Cardiff is known as the "City of Arcades",  due to the highest concentration of Victorian, Edwardian and contemporary indoor shopping arcades in any British city. 
+
+Up until the 1790s there were only 25 retail shops in Cardiff.  Most shopping at that time was made from market stalls.   The opening of the Royal Arcade in 1858, which was the first indoor arcade built in Cardiff, significantly increased the number of shops in Cardiff.
+
+Cardiff's Victorian arcades have been attracting new shops and customers since emerging from the economic recession. Existing retailers have expanded which demonstrates resurgence of the capital’s unique shopping malls, according to the landlords, Curzon, who is responsible for the High Street, Castle, Duke Street and Wyndham arcades. The area around the arcades will be affected by pedestrianisation of High Street in late 2010, to create the £2.5m Castle Quarter. This is expected to attract more shoppers and tourists to the Victorian arcades. 
+
+The total length of Cardiff's city centre arcades is 797m (2,655 ft). 
+__TOC__
+
+Current shopping arcades 
+
+Victorian and Edwardian
+
+Contemporary
+
+Former shopping arcades
+Question:
+Which British city is known as the ‘City of Arcades’?
+Answer:
+City of Cardiff

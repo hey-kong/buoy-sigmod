@@ -1,0 +1,936 @@
+Passage:
+Electrode
+An electrode is an electrical conductor used to make contact with a nonmetallic part of a circuit (e.g. a semiconductor, an electrolyte, a vacuum or air). The word was coined by William Whewell at the request of the scientist Michael Faraday from the Greek words elektron, meaning amber (from which the word electricity is derived), and hodos, a way.  
+
+Anode and cathode in electrochemical cells 
+
+An electrode in an electrochemical cell is referred to as either an anode or a cathode (words that were coined by William Whewell at Faraday's request). The anode is now defined as the electrode at which electrons leave the cell and oxidation occurs, and the cathode as the electrode at which electrons enter the cell and reduction occurs. Each electrode may become either the anode or the cathode depending on the direction of current through the cell. A bipolar electrode is an electrode that functions as the anode of one cell and the cathode of another cell.
+
+Primary cell 
+
+A primary cell is a special type of electrochemical cell in which the reaction cannot be reversed, and the identities of the anode and cathode are therefore fixed. The anode is always the negative electrode. The cell can be discharged but not recharged.
+
+Secondary cell 
+
+A secondary cell, for example a rechargeable battery, is a cell in which the chemical reactions are reversible. When the cell is being charged, the anode becomes the positive (+) and the cathode the negative (−) electrode. This is also the case in an electrolytic cell. When the cell is being discharged, it behaves like a primary cell, with the anode as the negative and the cathode as the positive electrode.
+
+Other anodes and cathodes 
+
+In a vacuum tube or a semiconductor having polarity (diodes, electrolytic capacitors) the anode is the positive (+) electrode and the cathode the negative (−). The electrons enter the device through the cathode and exit the device through the anode. Many devices have other electrodes to control operation, e.g., base, gate, control grid.
+
+In a three-electrode cell, a counter electrode, also called an auxiliary electrode, is used only to make a connection to the electrolyte so that a current can be applied to the working electrode. The counter electrode is usually made of an inert material, such as a noble metal or graphite, to keep it from dissolving.
+
+Welding electrodes 
+
+In arc welding an electrode is used to conduct current through a workpiece to fuse two pieces together. Depending upon the process, the electrode is either consumable, in the case of gas metal arc welding or shielded metal arc welding, or non-consumable, such as in gas tungsten arc welding. For a direct current system the weld rod or stick may be a cathode for a filling type weld or an anode for other welding processes. For an alternating current arc welder the welding electrode would not be considered an anode or cathode.
+
+Alternating current electrodes 
+
+For electrical systems which use alternating current the electrodes are the connections from the circuitry to the object to be acted upon by the electric current but are not designated anode or cathode because the direction of flow of the electrons changes periodically, usually many times per second.
+
+Uses 
+
+Electrodes are used to provide current through nonmetal objects to alter them in numerous ways and to measure conductivity for numerous purposes. Examples include:
+*Electrodes for fuel cells
+*Electrodes for medical purposes, such as EEG (for recording brain activity), ECG (recording heart beats), ECT (electrical brain stimulation), defibrillator (recording and delivering cardiac stimulation)
+*Electrodes for electrophysiology techniques in biomedical research
+*Electrodes for execution by the electric chair
+*Electrodes for electroplating
+*Electrodes for arc welding
+*Electrodes for cathodic protection
+*Electrodes for grounding
+*Electrodes for chemical analysis using electrochemical methods
+*Inert electrodes for electrolysis (made of platinum)
+*Membrane electrode assembly
+
+Chemically modified electrodes
+
+Chemically modified electrodes are electrodes that have their surfaces chemically modified to change the electrode's physical, chemical, electrochemical, optical, electrical, and transport properties. These electrodes are used for advanced purposes in research and investigation.Durst, R., Baumner, A., Murray, R., Buck, R., & Andrieux, C., "[http://old.iupac.org/publications/pac/1997/pdf/6906x1317.pdf Chemically modified electrodes: Recommended terminology and definitions (PDF)]", IUPAC, 1997, pp 1317–1323.
+Question:
+What name is given to the negative electrode of an electrolytic cell?
+Answer:
+Copper cathode
+Passage:
+Codex Leicester
+The Codex Leicester (also briefly known as Codex Hammer) is a collection of famous scientific writings by Leonardo da Vinci.  The Codex is named after Thomas Coke, later created Earl of Leicester, who purchased it in 1719. Of Leonardo's 30 scientific journals, the Codex may be the most famous of all. The manuscript holds the record for the sale price of any book, when it was sold to Bill Gates at Christie's auction house on 11 November 1994 in New York for .
+
+The Codex provides an insight into the inquiring mind of the definitive Renaissance artist, scientist and thinker as well as an exceptional illustration of the link between art and science and the creativity of the scientific process. 
+
+Overview
+
+The manuscript does not take the form of a single linear script, but is rather a mixture of Leonardo's observations and theories on astronomy; the properties of water, rocks, and fossils; air, and celestial light.  The topics addressed include:
+
+* an explanation of why fossils can be found on mountains. Hundreds of years before plate tectonics became accepted scientific theory, Leonardo believed that mountains had previously formed sea beds, which were gradually lifted until they formed mountains.
+* the movement of water. This is the main topic of the Leicester Codex. Among other things, Leonardo wrote about the flow of water in rivers, and how it is affected by different obstacles put in its way. From his observations he made recommendations about bridge construction and erosion.
+* the luminosity of the moon. Leonardo speculated that the moon's surface is covered by water, which reflects light from the sun. In this model, waves on the water's surface cause the light to be reflected in many directions, explaining why the moon is not as bright as the sun. Leonardo explained that the pale glow on the dark portion of the crescent moon is caused by sunlight reflected from the Earth. Thus, he described the phenomenon of planetshine one hundred years before the German astronomer Johannes Kepler proved it.
+
+The Codex consists of 18 sheets of paper, each folded in half and written on both sides, forming the complete 72-page document.  At one time the sheets were bound together, but they are now displayed separately.  It was handwritten in Italian by Leonardo, using his characteristic mirror writing, and supported by copious drawings and diagrams.
+
+Renamings
+
+The Codex was purchased from the Leicester estate in 1980 by wealthy industrialist and art collector Armand Hammer, who purchased the manuscript at auction, for $5.1 million, later renaming the notebook Codex Hammer.  Hammer commissioned Leonardo da Vinci scholar, Dr. Carlo Pedretti, to compile the loose pages of the codex back into its original form. Over the next 7 years Dr. Pedretti translated each page to English, completing the project in 1987.
+
+Recent history
+
+The Codex was sold to Bill Gates by Christie's auction house on 11 November 1994 in New York for .  After Gates acquired the Codex, he had its pages scanned into digital image files, some of which were later distributed as screen saver and wallpaper files on a CD-ROM as part of a Microsoft Plus! for Windows 95 desktop theme, which would later be included with Windows 98 and Windows ME. A comprehensive CD-ROM version (simply titled Leonardo da Vinci) was released by Corbis in 1997.
+
+The Codex Leicester has been unbound with each page individually mounted between glass panes.  It is put on public display once a year in a different city around the world. In 2000, it was displayed at Sydney's Powerhouse Museum.  In 2004, it was exhibited in the Château de Chambord, and in 2005 in Tokyo. One page was exhibited at the Seattle Museum of Flight's 2006 exhibit "Leonardo da Vinci: Man, Inventor, Genius". From June to August 2007, the Codex was the centerpiece of a two-month exhibition hosted by the Chester Beatty Library in Dublin, Ireland.  The Codex was on view at the Phoenix Art Museum in Phoenix, Arizona from January 24, 2015 through April 12, 2015 for the exhibition Leonardo Da Vinci's Codex Leicester and the Power of Observation. Its presentation at Phoenix Art Museum will be the first time a work by the hand of Leonardo himself will be on view in Arizona.  The Codex was then on view at the Minneapolis Institute of Arts in an exhibition Leonardo Da Vinci, the Codex Leicester, and the Creative Mind that opened June 21, 2015, where it remained on display until August 30, 2015.  As part of the same tour, the Codex Leicester was also on display at the North Carolina Museum of Art in Raleigh, North Carolina from October 31, 2015 to January 17, 2016. 
+
+Owners 
+
+* Giovanni della Porta, Michelangelo's student (?)
+* Giuseppe Ghezzi (until 1719)
+* Thomas Coke, 1st Earl of Leicester (fifth creation) (1719-1759)
+* Leicester estate (1759-1980)
+* Armand Hammer (1980-1990)
+* Estate of Armand Hammer (1990-1994)
+* Bill Gates (1994–present)
+Question:
+In 1994, Bill Gates bought The Codex Hammer at an auction for $30.8 million, making it the most expensive book ever. Whose writings does it contain?
+Answer:
+Leonardo Da Vinci's
+Passage:
+Fantasia on a Theme by Thomas Tallis
+Fantasia on a Theme by Thomas Tallis, also known as the Tallis Fantasia, is a work for string orchestra by the British composer Ralph Vaughan Williams. It was composed in 1910 and performed for the first time on September 10 of that year at Gloucester Cathedral for the Three Choirs Festival. Vaughan Williams himself conducted, and the composition proved to be a major success.  He revised the work twice, in 1913 and 1919.  Performances generally run between 14 and 16 minutes.
+
+The  work takes its name from the original composer of the melody, Thomas Tallis (c. 1505 – 1585). Many of  Vaughan Williams' works are associated with or inspired by the music of the English Renaissance. In 1906 Vaughan Williams included Tallis's Third Mode Melody in the English Hymnal, which he was then editing, as the melody for Joseph Addison's hymn When Rising from the Bed of Death. The tune is in Double Common Meter (D.C.M. or C.M.D.). 
+
+Composition
+
+The work is scored for an expanded string orchestra divided into three parts: orchestra I, a full-sized string orchestra; orchestra II, a single desk from each section (ideally placed apart from Orchestra I); and a string quartet. Vaughan Williams made this configuration resemble an organ in sound, with the quartet representing the swell division, orchestra II the choir division, and orchestra I the great division. The score specifies that the second orchestra should be placed apart from the first. This spacing emphasizes the way that the second orchestra several times echoes the first orchestra.
+
+In structure this piece resembles the Elizabethan-age "fantasy." The theme is heard in its entirety three times during the course of the work, but the music grows from the theme's constituent motives or fragments, with variations upon them. A secondary melody, based on the original, is first heard on the solo viola about a third of the way into the Fantasia, and this theme forms the climax of the work about five minutes before the end.
+
+The original 1567 theme
+
+Tallis's original tune is in the Phrygian mode and was one of the nine he contributed to the Psalter of 1567 for the Archbishop of Canterbury, Matthew Parker. When Vaughan Williams edited the English Hymnal of 1906, he also included this melody (number 92). Parker's original words were:
+Why fumeth in fight: The Gentils spite,
+    In fury raging stout?
+Why taketh in hond: The people fond,
+    Vayne thinges to bring about?
+
+The kinges arise: The lordes devise,
+    In counsayles mett thereto:
+Agaynst the Lord: With false accord,
+    Against his Christ they go.
+  —   —  Archbishop Parker's Psalter (1567) 
+
+In popular culture
+
+In 2014, 2015 and 2016, listeners of the UK classical music radio station Classic FM voted the piece into third place on the station's "Hall of Fame", an annual poll of the most popular classical music works.
+
+The piece was used, in part, in the 2003 film Master and Commander: The Far Side of the World directed by Peter Weir. The rising, organ-like melody is used to sombre effect in a concluding scene, where the crew of the HMS Surprise hold a service for their dead after the film's climactic battle.
+Question:
+Who composed the Fantasia on a Theme by Thomas Tallis ?
+Answer:
+Ralph Vaughan Williams
+Passage:
+Andrew Cunanan
+Andrew Phillip Cunanan (August 31, 1969 – July 23, 1997) was an American serial killer  who murdered at least five people, including fashion designer Gianni Versace, during a three-month period in 1997. On June 12, 1997, Cunanan became the 449th fugitive to be listed by the FBI on the FBI Ten Most Wanted Fugitives list. The killing spree ended with Cunanan's suicide. He was 27 years old.
+
+Early life
+
+Cunanan was born in National City, California, to Modesto Cunanan, a Filipino American, and Mary Anne Schillaci, an Italian American, the youngest of four children. Modesto Cunanan was serving in the US Navy in the Vietnam War at the time of his son's birth.
+
+In 1981, Andrew's father enrolled him in The Bishop's School in the La Jolla neighborhood of San Diego, California. At school, Cunanan was remembered as being bright and very talkative, testing with an I.Q. of 147.  As a teenager, however, he developed a reputation as a prolific liar given to telling fantastic tales about his family and personal life. He was also adept at changing his appearance according to what he felt was most attractive at a given moment.
+
+When he was 19, his father deserted his family to avoid arrest for embezzlement. That same year, his mother learned that Cunanan was gay. During an ensuing argument, he threw her against a wall, dislocating her shoulder. Later examination of his behavior from reports indicate that he may have suffered from antisocial personality disorder, a personality disorder characterized by an abnormal lack of empathy (earlier known as psychopathy).
+
+After graduating from high school in 1987, he enrolled at the University of California, San Diego, where he majored in American history.  After dropping out, he settled in the Castro District of San Francisco. While there, he frequented high-class gay bars and sold sex to wealthy older men, 
+and became involved in petty theft and drug dealing. 
+
+Murders
+
+The first known murder was that of his friend Jeffrey Trail, a former US naval officer and propane salesman, on April 25, 1997, in Minneapolis.[http://www.crimelibrary.com/notorious_murders/mass/cunanan/madson_5.html "Andrew Cunanan: After Me, Disaster - Trail and Madson"] (analysis), Crime Library.com, Courtroom Television Network LLC, 2005.
+
+The next victim was architect David Madson, who was found on the east shore of Rush Lake near Rush City, Minnesota, on April 29, 1997, with gunshot wounds to the head.  Police recognized a connection, as Trail's body had been found rolled up in a rug in a closet in Madson's Minneapolis loft apartment. 
+
+Cunanan next drove to Chicago and killed 72-year-old Lee Miglin, a prominent real estate developer, on May 4, 1997.  Following this murder, the FBI added him to its Ten Most Wanted list.
+
+Five days later, Cunanan, who took Miglin's car, found his fourth victim in Pennsville, New Jersey, at the Finn's Point National Cemetery, killing 45-year-old caretaker William Reese. While the manhunt focused on Reese's truck, Cunanan "hid in plain sight" in Miami Beach, Florida, for two months between his fourth and fifth murders.  He even used his own name to pawn a stolen item, knowing that police routinely check pawn shop records for stolen merchandise. 
+
+On July 15, 1997, Cunanan murdered fashion designer Gianni Versace.  A witness attempted to pursue him but could not catch him. The vehicle he used, as well as the clothes he had just been wearing, an alternative passport, and newspaper clippings of his murders, were found in a nearby garage by the police who responded. 
+
+Death
+
+On July 23, 1997, eight days after murdering Versace, Cunanan shot himself in the mouth in the upstairs bedroom of a Miami houseboat. He used the same gun he had used to kill Madson and Miglin,  a Taurus PT100 semi-automatic pistol in .40 S&W caliber, which had been stolen from the first victim, Jeff Trail. His cremated remains are interred in the Mausoleum at Holy Cross Catholic Cemetery in San Diego, California. 
+
+Motive
+
+At the time of the crimes, there was much public and press speculation that Cunanan's motives were tied to a diagnosis of HIV infection; however, an autopsy found him to be HIV-negative.  
+
+In order to piece together a motive for his killing spree, police searched the boathouse where Cunanan died.Dirk Cameron Gibson, Serial Murder and Media Circuses, Greenwood Publishing Group, 2006. p. 138. However, Cunanan left behind few personal belongings, surprising investigators, given his reputation for acquiring money and expensive possessions from wealthy older men. Police considered few of the findings to be of note, except multiple tubes of hydrocortisone cream and a fairly extensive collection of the fiction of C.S. Lewis.  
+
+His motivations remain a mystery. Various theories include jealousy for Versace's role as a "gay icon", as well as necessity and opportunity in some of the other murders.
+Question:
+Between April and July 1997 Andrew Cunanan killed 5 people (beginning with Jeffrey Trail in Minneapolis, David Madson, near Rush City, Minnesota, Lee Miglin in Chicago, William Reese in Pennsville, New Jersey) before shooting himself. Who was his 5th victim, shot in Miami Beach, Florida?
+Answer:
+Giani Versaci
+Passage:
+Organ (anatomy)
+In biology, an organ or viscus is a collection of tissues joined in a structural unit to serve a common function.  In anatomy, a viscus is an internal organ, and viscera is the plural form.   
+
+Organs are composed of main tissue, parenchyma, and "sporadic" tissues, stroma. The main tissue is that which is unique for the specific organ, such as the myocardium, the main tissue of the heart, while sporadic tissues include the nerves, blood vessels, and connective tissues. Functionally related organs often cooperate to form whole organ systems. Organs exist in all higher biological organisms, in particular they are not restricted to animals, but can also be identified in plants. In single-cell organisms like bacteria, the functional analogue of an organ is called organelle. 
+
+A hollow organ is a visceral organ that forms a hollow tube or pouch, such as the stomach or intestine, or that includes a cavity, like the heart or urinary bladder.
+
+Organ systems 
+
+Two or more organs working together in the execution of a specific body function form an organ system, also called a biological system or body system. The functions of organ systems often share significant overlap. For instance, the nervous and endocrine system both operate via a shared organ, the hypothalamus. For this reason, the two systems are combined and studied as the neuroendocrine system. The same is true for the musculoskeletal system because of the relationship between the muscular and skeletal systems.
+
+Mammals such as humans have a variety of organ systems. These specific systems are also widely studied in human anatomy.
+* Cardiovascular system: pumping and channeling blood to and from the body and lungs with heart, blood and blood vessels.
+* Digestive system: digestion and processing food with salivary glands, esophagus, stomach, liver, gallbladder, pancreas, intestines, colon, rectum and anus.
+* Endocrine system: communication within the body using hormones made by endocrine glands such as the hypothalamus, pituitary gland, pineal body or pineal gland, thyroid, parathyroids and adrenals, i.e., adrenal glands.
+* Excretory system: kidneys, ureters, bladder and urethra involved in fluid balance, electrolyte balance and excretion of urine.
+* Lymphatic system: structures involved in the transfer of lymph between tissues and the blood stream, the lymph and the nodes and vessels that transport it including the Immune system: defending against disease-causing agents with leukocytes, tonsils, adenoids, thymus and spleen.
+* Integumentary system: skin, hair and nails.
+* Muscular system: movement with muscles.
+* Nervous system: collecting, transferring and processing information with brain, spinal cord and nerves.
+* Reproductive system: the sex organs, such as ovaries, fallopian tubes, uterus, vagina, mammary glands, testes, vas deferens, seminal vesicles, prostate and penis.
+* Respiratory system: the organs used for breathing, the pharynx, larynx, trachea, bronchi, lungs and diaphragm.
+* Skeletal system: structural support and protection with bones, cartilage, ligaments and tendons.
+
+Other animals
+
+The organ level of organisation in animals can be first detected in flatworms and the more advanced phyla. The less-advanced taxons (like Placozoa, Porifera and Radiata) do not show consolidation of their tissues into organs.
+
+Plants
+
+The study of plant organs is referred to as plant morphology, rather than anatomy, as in animal systems. Organs of plants can be divided into vegetative and reproductive. Vegetative plant organs are roots, stems, and leaves. The reproductive organs are variable. In flowering plants, they are represented by the flower, seed and fruit. In conifers, the organ that bears the reproductive structures is called a cone. In other divisions (phyla) of plants, the reproductive organs are called strobili, in Lycopodiophyta, or simply gametophores in mosses.
+
+The vegetative organs are essential for maintaining the life of a plant. While there can be 11 organ systems in animals, there are far fewer in plants, where some perform the vital functions, such as photosynthesis, while the reproductive organs are essential in reproduction. However, if there is asexual vegetative reproduction, the vegetative organs are those that create the new generation of plants (see clonal colony).
+
+History
+
+Etymology
+
+The English word "organ" derives from the Latin ', meaning "instrument", itself from the Greek word , ' ("implement; musical instrument; organ of the body"). The Greek word is related to , ' ("work").Barnhart's Concise Dictionary of Etymology The viscera, when removed from a butchered animal, are known collectively as offal. Internal organs are also informally known as "guts" (which may also refer to the gastrointestinal tract), or more formally, "innards".
+
+Aristotle used the word frequently in his philosophy, both to describe the organs of plants or animals (e.g. the roots of a tree, the heart or liver of an animal), and to describe more abstract "parts" of an interconnected whole (e.g. his philosophical works, taken as a whole, are referred to as the "organon").
+
+The English word "organism" is a neologism coined in the 17th century, probably formed from the verb to organize. At first the word referred to an organization or social system. The meaning of a living animal or plant is first recorded in 1842. Plant organs are made from tissue built up from different types of tissue. When there are three or more organs it is called an organ system. 
+
+The adjective visceral, also splanchnic, is used for anything pertaining to the internal organs. Historically, viscera of animals were examined by Roman pagan priests like the haruspices or the augurs in order to divine the future by their shape, dimensions or other factors. This practice remains an important ritual in some remote, tribal societies.
+
+The term "visceral" is contrasted with the term "", meaning "of or relating to the wall of a body part, organ or cavity". The two terms are often used in describing a membrane or piece of connective tissue, referring to the opposing sides.
+
+7 Vital Organs of Antiquity
+
+Some alchemists (e.g. Paracelsus) adopted the Hermetic Qabalah assignment between the 7 vital organs and the 7 Classical planets as follows:
+Question:
+In which organ of the body would you find the 'Islets of Langerhans'?
+Answer:
+Inferior surfaces of the pancreas
+Passage:
+Merry Christmas in Spanish. How do you say it? - and the ...
+Merry Christmas in Spanish. How do you say it? - and the Song Lyrics
+How do you say (or sing) Merry Christmas in Spanish?
+Custom Search
+and say a Happy New Year ... of course
+Merry Christmas in Spanish is Feliz Navidad! and Happy New Year is Próspero Año Nuevo, (prosperous New Year).
+It is not entirely necessary to add the word 'new' with the expression Happy New Year when saying it in Spanish. Latinos often just say "próspero año" meaning 'prosperous year'. The 'new' is implicitly understood.
+Learning the lyrics to songs such as these, and singing them is a terrific way to learn, improve, consolidate and keep progressing with your spoken Spanish.
+Buy some Spanish music tapes, you can search for the lyrics online, download them, print  them off and practise your language skills with lots of songs of all genres.
+Do it in the car, on the train, in the bus. Learn the way to say Merry Christmas in Spanish - and a Happy New Year and you will have those tools ready for the appropriate Yuletide greetings when you meet your Latino friends.
+Lyrics to the Merry Christmas song in Spanish - Feliz Navidad!
+Here are the lyrics to the popular Christmas carol, the equivalent to 'We Wish You a Merry Christmas' in Spanish.
+Feliz Navidad,
+Properous (New) Year and felicitations (greetings).
+Latino singer José's Feliciano's lyrics added this bit on to the song in English.
+I wanna wish you a Merry Christmas,
+I wanna wish you a Merry Christmas,
+I wanna wish you a Merry Christmas,
+From the bottom of my heart.
+Speedy ways to learn and remember words like Feliz Navidad! Happy Christmas in Spanish
+To increase your vocab learning speed, cartoon Memory Triggers are a highly effective way to do so. Here is a sample from the 200 Words a Day! system. They use a words association link that helps you remember the word and the word's gender.
+So to remember the Spanish word for Christmas, la navidad, imagine that a little girl looks at a Santa Claus Christmas suit and asks, "Is that what they wear in the NAVY DAD?"
+Copyright exceltra 200 Words a Day!
+The little girl serves more than one purpose. In the 200 Words a Day! system a female main character serves to remind the learner (for a long time) that the gender of the word is feminine. This helps overcome the age-old problem of remembering genders in European languages like Spanish.
+Question:
+"How do you say ""Merry Christmas"" in Spanish?"
+Answer:
+Feliz Navidad (Album)
+Passage:
+Mycosis
+Mycosis (plural: mycoses) is a fungal infection of animals, including humans.  Mycoses are common and a variety of environmental and physiological conditions can contribute to the development of fungal diseases. Inhalation of fungal spores or localized colonization of the skin may initiate persistent infections; therefore, mycoses often start in the lungs or on the skin. 
+
+Fungal infections of the skin was the 4th most common disease in 2010 affecting 984 million people.
+
+Causes
+
+Individuals being treated with antibiotics are at higher risk of fungal infections. 
+
+Individuals with weakened immune systems are also at risk of developing fungal infections. This is the case of people with HIV/AIDS, people under steroid treatments, and people taking chemotherapy.  People with diabetes also tend to develop fungal infections.  Very young and very old people, also, are groups at risk.  Although all are at risk of developing fungal infections, the likelihood is higher in these groups.
+
+Classification
+
+Mycoses are classified according to the tissue levels initially colonized.
+
+Superficial mycoses
+
+Superficial mycoses are limited to the outermost layers of the skin and hair. 
+
+An example of such a fungal infection is Tinea versicolor, a fungus infection that commonly affects the skin of young people, especially the chest, back, and upper arms and legs. Tinea versicolor is caused by a fungus that lives in the skin of some adults. It does not usually affect the face. This fungus produces spots that are either lighter than the skin or a reddish-brown.   This fungus exists in two forms, one of them causing visible spots. Factors that can cause the fungus to become more visible include high humidity, as well as immune or hormone abnormalities. However, almost all people with this very common condition are healthy.
+
+Cutaneous mycoses
+
+Cutaneous mycoses extend deeper into the epidermis, and also include invasive hair and nail diseases. These diseases are restricted to the keratinized layers of the skin, hair, and nails. Unlike the superficial mycoses, host immune responses may be evoked resulting in pathologic changes expressed in the deeper layers of the skin. The organisms that cause these diseases are called dermatophytes. The resulting diseases are often called ringworm (even though there is no worm involved) or tinea.  Cutaneous mycoses are caused by Microsporum, Trichophyton, and Epidermophyton fungi, which together comprise 41 species.
+
+One common disease is the athlete's foot which most commonly affects children before puberty. It is divided in three categories: chronic interdigital athlete's foot, chronic scaly athlete's foot, and acute vesicular athlete's foot. 
+
+Subcutaneous mycoses
+
+Subcutaneous mycoses involve the dermis, subcutaneous tissues, muscle and fascia. These infections are chronic and can be initiated by piercing trauma to the skin which allows the fungi to enter. These infections are difficult to treat and may require surgical interventions such as debridement.
+
+Systemic mycoses due to primary pathogens
+
+Systemic mycoses due to primary pathogens originate primarily in the lungs and may spread to many organ systems. Organisms that cause systemic mycoses are inherently virulent. In general primary pathogens that cause systemic mycoses are dimorphic.
+
+Systemic mycoses due to opportunistic pathogens
+
+Systemic mycoses due to opportunistic pathogens are infections of patients with immune deficiencies who would otherwise not be infected. Examples of immunocompromised conditions include AIDS, alteration of normal flora by antibiotics, immunosuppressive therapy, and metastatic cancer. Examples of opportunistic mycoses include Candidiasis, Cryptococcosis and Aspergillosis.
+
+Prevention
+
+Keeping the skin clean and dry, as well as maintaining good hygiene, will help larger topical mycoses. Because fungal infections are contagious, it is important to wash after touching other people or animals. Sports clothing should also be washed after use.
+
+Treatment
+
+Antifungal drugs are used to treat mycoses. Depending on the nature of the infection, a topical or systemic agent may be used.
+
+Example of antifungals include: fluconazole which is the basis of many over-the-counter antifungal treatments. Another example is  amphotericin B which is more potent and used in the treatment of the most severe fungal infections that show resistance to other forms of treatment  and it is administered intravenously. 
+
+Drugs to treat skin infections are the azoles: ketoconazole, itraconazole, terbinafine among others. 
+
+Yeast infections in the vagina, caused by Candida albicans, can be treated with medicated suppositories such as tioconazole and  pessaries whereas skin yeast infections are treated with medicated ointments. 
+
+Epidemiology
+
+Fungal infections of the skin were the 4th most common skin disease in 2010 affecting 984 million people.
+Question:
+The fungal infection dermatophytosis is better known by what misleading name?
+Answer:
+Dermatophytoses
+Passage:
+Funnel (ship)
+A funnel is the smokestack or chimney on a ship used to expel boiler steam and smoke or engine exhaust.  They are also commonly referred to as stacks.
+
+Purpose
+
+The primary purpose of a ship's funnel(s) is to lift the exhaust gases clear of the deck, in order not to foul the ship's structure or decks, and to avoid impairing the ability of the crew to carry out their duties.
+
+In steam ships the funnels also served to help induce a convection draught through the boilers.
+
+Design
+
+Since the introduction of steam-power to ships in the 19th century, the funnel has been a distinctive feature of the silhouette of a vessel, and used for recognition purposes. 
+
+Funnel area 
+
+The required funnel cross-sectional area is determined by the volume of exhaust gases produced by the propulsion plant.  Often this area is too great for a single funnel. Early steam vessels needed multiple funnels ( had 5 when launched), but as efficiency increased new machinery needed fewer funnels.
+
+Merchant ships 
+
+Merchant shipping companies (and particularly liner companies such as Cunard Line and ferries such as Red Funnel) were quick to recognise the publicity value of distinctive funnels, both in terms of shape, number of funnels, and the colours they were painted. In an era when ship hulls were uniformly painted black (to conceal inevitable dirt when loading the ship with coal) and superstructures were white (to control the temperature in the passenger accommodation in hot summers) the funnel was one of the few parts of the ship that a company could use to clearly differentiate its ships from those of its competitors.  Each company would have their own "house colours", which were often used in publicity material as well as for recognition, making funnel colours an early form of trademark.  Some companies became so closely associated with their funnel colours that their nickname became a de facto company name. For example the shipping line actually registered as 'Alfred Holt & Company' was more widely known as the Blue Funnel Line. The Southampton, Isle of Wight and South of England Royal Mail Steam Packet Company has traded under the name Red Funnel for most of its 150+ year history. Other colours such as the red with black stripes of the Cunard Line and the all buff colour of P&O remain icons of their respective lines and have remained in use for over a century through many changes of corporate ownership. 
+
+Sometimes the shape of the funnel is used as distinguishing feature rather than just the colour. Cunard fitted ships of its Saxonia class with streamlined round tops to the funnels. Intended as an aerodynamic aid to keep exhaust clear of the deck the modification had very little practical effect but was retained because it made the four ships of the class immediately recognisable and gave Cunard a suitable modern image. There was a trend for 'designer funnels' on liners in the 1960s as fashion and aerodynamic advances combined to offer designers more options that the traditional cylindrical smokestack. The Italian Line fitted the liners Michelangelo and Raffaello with funnels topped by flat discs supported on exposed diagonal bracing while P&O's Oriana and Canberra had tall, thin funnels with aerofoil cross sections. 
+ 
+
+In the late 19th and the first half of the 20th century the number of funnels became associated with speed and reliability. For this reason a number of the great liners carried additional false funnels that they did not need. Examples included the White Star Lines ,  and ; Hamburg America Line's  (which became Berengaria under Cunard) and later the Cunard's  and its rival the French Line's .  In most cases the false funnel was the aftermost of the funnels.  The false funnels did have their uses however - a stoker who survived the sinking of the Titanic escaped the boiler room by ascending the false funnel and the aft funnel of Normandie housed the passengers' dog kennels.
+
+For example, the  was built with very distinctive wind-scoops at the base of her funnel.  When fitted with new diesel engines in 1987, which had a different exhaust requirement to the old boilers, the new funnel was built to the same silhouette as the old one, in order to retain this distinctive recognition feature. 
+
+Naval ships 
+
+A key part of the deception practiced by ships carrying out commerce raiding during both the First World War and Second World War was to disguise their ship's outline, and this included using false funnels or by changing the height or diameter of the actual funnel(s). 
+
+Macks
+
+A mack is a combined stack and mast, as fitted to some classes of 20th century warships. Although they can reduce top-weight, they have not gained universal popularity due to the problem of exhaust smoke fouling of electrical aerials and equipment.
+Question:
+How many funnels did the ill-fated liner Titanic have
+Answer:
+Four
+Passage:
+Oscars Awarded Posthumously - Infoplease
+Oscars Awarded Posthumously
+Who was the first actor to receive an Oscar posthumously?
+The Answer:
+The only actor to win an Oscar posthumously was Peter Finch , who won the Academy         Award for Best Actor in 1977 for his role in the movie
+Network
+The British-Australian actor, who was also nominated for his         role in
+Sunday Bloody Sunday
+(1971), died of a         heart-attack on Jan. 14, 1977, in Beverly Hills, while promoting the         movie. His widow, Aletha Finch, accepted the award at the 49th annual Academy Awards .
+An Oscar has been awarded posthumously to several non-actors,         the first being Sidney         Howard , screenwriter of
+Gone With the         Wind
+in 1939. Others include Edward G. Robinson , who was given a         special honorary award by the Academy in 1973. And in 1993, "Hollywood 10" member Dalton Trumbo received a belated,         posthumous award for writing the screenplay to 1953's
+Roman         Holiday
+. The film had won an award for his "front" Ian         McLellan Hunter.
+—The Editors
+Question:
+Who was the first actor to win the Academy Award for Best Actor posthumously?
+Answer:
+Peter finch
+Passage:
+Nuts in May
+Nuts in May is a television film devised and directed by Mike Leigh, filmed in March 1975, and originally broadcast as part of the BBC's Play for Today series on 13 January 1976.  It is the comical story of a nature-loving and rather self-righteous couple's exhausting battle to enjoy what they perceive to be the idyllic camping holiday. Misunderstandings, awkward clashes of values and explosive conflicts occur when less high-minded guests pitch their tents nearby.
+
+Plot summary
+
+The main couple, childlike Candice Marie (Alison Steadman) and eccentric-obsessive Keith (Roger Sloman), arrive at the campsite and pitch their tent in a quiet spot suitable for appreciating nature's wonders while keeping other human beings safely at arm's length. Their usual routine (which includes performing their own guitar-banjo compositions, preparing healthy vegetarian dinners and following the Country Code) is rudely interrupted by Ray (Anthony O'Donnell), a lone student who camps down nearby and switches on his radio: this is treated by the couple as an unforgivable crime, and they force Ray to turn it off. Later, on the way home after a trip to Stair Hole, it begins to rain and the couple notice a figure (which turns out to be Ray) walking along the road and give him a lift home.
+
+Their relationship becomes increasingly tense and tempers flare when Keith notices Candice Marie exhibiting an unseemly interest in Ray's well-being – "she crawls into his tent to show him stones she has collected on the beach; Keith explodes with jealous rage after spying on them from behind the bushes with his binoculars, like a character in a farce."  Later, Ray is asked to take a photograph of the couple but is patronised by Keith and Candice Marie and is forced to participate in a song at Keith's behest. As soon as some kind of order seems to have been restored, Brummie couple Finger and Honky arrive on their motorbike, equipped with an army tent, a football and a fondness for late-night drinking. Needless to say, Keith is tested to the limit. Finally, Keith and Candice Marie leave the campsite after an intense argument over Finger's plans to light a fire to cook some sausages. Keith highly objects to this, as it contravenes the rules of the site, and resorts to violence to stop it.
+
+Themes
+
+In keeping with Leigh's other films, Nuts in May serves as a commentary on many of the daily issues faced by many people, in this case with particular emphasis on neighbour relations. Keith may have the full weight of the law on his side when he reprimands the other campers for their thoughtless, and sometimes reckless, behaviour, but he lacks the compassion, communication skills and understanding of human nature required to have them willingly acknowledge their mistakes. Also, while Keith becomes irritated with almost every human contact, others seem to be able to deal with others without these problems. 'Better than being at home, innit', utters Finger to Honky after one particularly fierce bust up that leaves Keith incandescent. This particularly resonates since Finger, a plasterer, has already confessed to Ray that, because of the shortage of new housing, there is little work available. The couple find peace only when they pitch their tent in a farmer's field, away from other people after Keith, snobbishly, has told the others to 'get back to your tenements'.
+
+It is also interesting to note the parent-child style relationship between Keith and Candice Marie, who appear not to have any form of sexual relationship at all. Candice Marie – who works in a toy shop – takes on the role of the innocent child; one who needs looking after and who is constantly confused and intrigued by her surroundings. (She composes little poems and songs and goes to bed with a fluffy blue cat-shaped hot water bottle called Prudence.) Likewise, Keith assumes a paternal role, planning out their trip with almost militaristic precision.
+
+Cast (alphabetical)
+
+*Alison Steadman as Candice Marie
+*Roger Sloman as Keith
+*Anthony O'Donnell (actor) as Ray
+*Sheila Kelley as Honky (Sheila Kelley and Stephen Bill were a couple in real life at the time)
+*Stephen Bill as Finger
+*Richenda Carey as Miss Beale
+*Eric Allan as Quarryman
+*Sally Watts as Farm-Girl
+*Matthew Guinness as Farmer
+*Richard Ireson as Policeman
+
+Locations
+
+The film is set, and was filmed in its entirety, in the geologically and historically rich Isle of Purbeck area of Dorset in South West England. The characters visit a number of significant points of interest including Corfe Castle, Stair Hole, Kimmeridge, Lulworth Cove and the Jurassic Coast, a World Heritage Site. The location was chosen at the suggestion of the producer David Rose, who came from Purbeck: "I told him about the quarries in the district and asked him to film everything out of doors, under the skies; he reneged only slightly on this condition – there is one sequence of about one minute twenty seconds, in the Greyhound pub near Corfe Castle, and one short scene in a toilet. Apart from that, the only interiors are those of some very small tents."  The campsite used for filming was Corfe Castle Campsite, just outside Corfe Castle, which is still used as a campsite today. The quarry visited is Keats Quarry in Acton.
+
+Reputation
+
+Nuts in May was ranked 49th in the British Film Institute's list of the 100 Greatest British Television Programmes. Nuts in May is highly regarded and often quoted, and as such it could be said to have achieved cult status. Vic Reeves and Bob Mortimer chose the film to end At Home with Vic and Bob (1993), which was an evening of programmes scheduled by the duo.
+Question:
+Who wrote the plays “Nuts in May” and “Abigail’s Party”?
+Answer:
+Mike Leigh
+Passage:
+Bevameter
+A bevameter is a device used in terramechanics to measure the mechanical properties of soil.Bevameter technique was developed to 
+measure terrain mechanical properties 
+for the study of vehicle mobility 
+ Bevameter test consists of penetration 
+test to measure normal loads and 
+shear test to determine shear loads 
+exerted by vehicle. 
+ Bevameter area size need to be the size 
+of the wheel or track. DEM analysis can 
+take data from one size and simulate 
+bevameter performance for a different 
+size.
+Question:
+A bevameter is a device used in terramechanics to measure the mechanical properties of what?
+Answer:
+High phosphorus and titanium
+Passage:
+Obelus
+An obelus (symbol: ÷, plural: obeluses or obeli) is a symbol consisting of a short horizontal line with a dot above and below. It is mainly used to represent the mathematical operation of division. It is therefore commonly called the division sign.  Division may also be indicated by a horizontal line (fraction bar), or a slash.
+
+Historically, this symbol had also been used to represent subtraction in Northern Europe. 
+
+History 
+
+The word "obelus" comes from , the Ancient Greek word for a sharpened stick, spit, or pointed pillar. This is the same root as that of the word "obelisk". Originally this sign (or a plain line) was used in ancient manuscripts to mark passages that were suspected of being corrupted or spurious. The dagger symbol, also called an obelisk, is derived from the obelus and continues to be used for this purpose.
+
+The obelus, invented by Aristarchus to mark suspected passages in Homer, is frequent in manuscripts of the Gospel to mark just those sections, like the Pericope in John, which modern editors reject. The first corrector of א, probably the contemporary  (copy-editor, rectifier, proofreader), was at pains to enclose in brackets and mark with dots for deletion two famous passages in Luke written by the original scribe which, being absent from B W 579 and the Egyptian versions, we infer were not accepted in the text at that time dominant in Alexandria, viz. the incident of the "Bloody Sweat" in Gethsemane (Lk.xxi.43 f.) and the saying "Father forgive them" (Lk.xi.34).  
+
+Although previously used for subtraction, the obelus was first used as a symbol for division in 1659 in the algebra book Teutsche Algebra by Johann Rahn. Some think that John Pell, who edited the book, may have been responsible for this use of the symbol. The usage of the obelus to represent subtraction continued in some parts of Europe (including Norway and, until fairly recently, Denmark). Other symbols for division include the slash or solidus (/), and the fraction bar (the horizontal bar in a vertical fraction).
+
+In computer systems
+
+In Microsoft Windows, the obelus is produced with Alt+0247 on the number pad or by pressing  when an appropriate keyboard layout is in use. In Mac OS, it is produced with .
+
+On UNIX-based systems using Screen or X with a Compose key enabled, it can be produced by composing  (colon) and  (hyphen/minus), though this is locale- and setting-dependent. It may also be input by Unicode code-point on GTK-based applications by pressing , followed by the codepoint in hexadecimal (F7) and terminated by return.
+
+In the Unicode character set, the obelus is known as the "division sign" and has the code point U+00F7.  In HTML, it can be encoded as ÷ or ÷ (at HTML level 3.2), or as ÷.
+
+In LaTeX, the obelus is obtained by \div.
+Question:
+From the Greek root word for a pointed pillar, what is the technical term for the division sign ( ÷ ) ?
+Answer:
+Division mark
+Passage:
+The customer is always right
+"The customer is always right" is a motto or slogan which exhorts service staff to give a high priority to customer satisfaction.  It was popularised by pioneering and successful retailers such as Harry Gordon Selfridge, John Wanamaker and Marshall Field.  They advocated that customer complaints should be treated seriously so that they should not feel cheated or deceived.  This attitude was novel and influential when misrepresentation was rife and caveat emptor (let the buyer beware) was a common legal maxim.   Variations include "le client n'a jamais tort" (the customer is never wrong) which was the slogan of hotelier César Ritz  who said, "If a diner complains about a dish or the wine, immediately remove it and replace it, no questions asked".  A variation frequently used in Germany is "der Kunde ist König" (the customer is king).
+
+However it was pointed out as early as 1914 that this view ignores that customers can be dishonest, have unrealistic expectations, and/or try to misuse a product in ways that void the guarantee and states "if we adopt the policy of admitting whatever claims the customer makes to be proper, and if we always settle them at face value, we shall be subjected to inevitable losses."   The work concluded "If the customer is made perfectly to understand what it means for him to be right, what right on his part is, then he can be depended on to be right if he is honest, and if he is dishonest, a little effort should result in catching him at it."  An article a year later by the same author addressed the caveat emptor aspect while raising many of the same points as the earlier piece.  
+
+Nowadays, the customer is always right motto often leads to situations in which customers tend to overuse their position in relations with customer service representatives who have to provide best possible service and have no right to say “no”.
+Question:
+"Who said: ""The customer is always right""?"
+Answer:
+HG Selfridge
+Passage:
+James Dewar - Grace's Guide
+James Dewar - Graces Guide
+Grace's Guide
+British Industrial History
+Grace's Guide is the leading source of historical information on industry and         manufacturing in Britain. This web publication contains 121,926 pages of         information and 183,284 images on early companies, their products and the         people who designed and built them.
+James Dewar
+Professor James Dewar (1842-1923) FRS, was a Scottish chemist and physicist.
+1842 September 20th. Born
+1886 Lectured at the Royal Institution of Great Britain on 'The Story of a Meteorite'. [1]
+He is probably best-known today for his invention of the Dewar flask, which he used in conjunction with extensive research into the liquefaction of gases. He was also particularly interested in atomic and molecular spectroscopy, working in these fields for more than 25 years.
+1923 Died on 27th March 1923.
+1923 Obituary [2]
+"The scientific world is very much the poorer by the death of Sir James Dewar, which took place early in the morning of Tuesday of this week. Sir James was not, strictly speaking, an engineer, but his life's work marched o nearly hand in hand with engineering that our profession must mourn his loss almost equally with that of the chemist, with which his career was more particularly identified. One is accustomed to associate with the Royal Institution of Great Britain the idea of progress, and Dewar, as occupying the position of Fullerian Professor of Chemistry in that historic building, ably upheld its traditions in that respect. All the world knows of his researches into the phenomena witnessed, and the behaviour of materials, at extremely low temperatures, and it will probably be in connection with his discoveries in that direction that his name will most prominently go down to posterity. His invention of the vacuum flask, now known universally as the Thermos flask , was really incidental to his other discoveries in the domain of cold, but it has proved of very considerable value to the world at large, seeing that by its means hot liquids can be kept hot, and cold liquids cold, almost indefinitely. What he sought to discover and what he did discover was a vessel in which he might store for reasonable periods without serious loss such bodies as liquid air. But he must evidently have realised what a boon his invention must confer on mankind in general, and, seeking not emolument for himself, he proclaimed his discovery to the world. He did not, we believe, make a penny piece out of it. Then, too, his researches made feasible the commercial isolation of gases in a manner impossible before, and revealed many secrets which otherwise would have remained long hidden. Nor must it be forgotten that to him, in collaboration with the late Sir Frederick Abel , is due the discovery of the smokeless "powder" used by the British Army and Navy - cordite. We make no attempt at giving a life history of this most distinguished Scotsman - he was born in Kincardine-on-Forth in the year 1842- but add our lament to that of scientist the world over that he was not spared for many years longer to carry on the beneficent work which has been of such good service to humanity at large."
+1923 Obituary [3]
+SIR JAMES DEWAR, M.A., F.R.S., was born at Kincardine-on-Forth on the 20th September, 1842.
+After being educated at Dollar Academy he went to Edinburgh University, where he was a pupil of, and later became assistant to, Lord Playfair, who was at that time Professor of Chemistry.
+In 1875 he was appointed Jacksonian Professor of Natural Experimental Philosophy at Cambridge. Two years later, in 1877, he became Fullerian Professor of Chemistry at the Royal Institution and retained that position until his death, which occurred on the 27th March, 1923.
+His important researches on the liquefaction of gases and the properties of matter at temperatures approaching absolute zero were carried out at that Institution. By 1886 he had produced oxygen in the solid state, and by 1891 he was making liquid air in large quantities. In the following year he invented the vacuum container in which liquid air could be stored.
+In 1898 he succeeded in liquefying hydrogen, and in the following year obtained this gas in the solid state. He also attacked the problem of the liquefaction of helium, but was prevented by ill-health from carrying out his purpose.
+In addition to investigating the physical constants of the liquefied gases, he also conducted researches on the electrical resistance and thermo-electric, magnetic and dielectric constants of various substances at low temperatures.
+In much of this work he acted in conjunction with Prof. J. A. Fleming. His research on the properties of radium at low temperatures also added much to our knowledge on the subject of radioactivity. In other branches of science his researches include the physiological effect of light, spectroscopic investigations, the diffusion of gases, and the properties of thin liquid films, while in 1888, as a member of the Explosives Committee, he invented, in conjunction with Sir Frederick Abel, the smokeless powder known as cordite.
+He was elected a Fellow of the Royal Society in 1877, and a Member of the Institution of Electrical Engineers in 1881. In 1904 he received the honour of Knighthood.
+See Also
+Question:
+Give a year in the life of Scottish chemist and physicist James Dewar?
+Answer:
+1842 - 1923
+Passage:
+Thought Police
+In the novel Nineteen Eighty-four (1949), by George Orwell, the Thought Police (Thinkpol in Newspeak) are the secret police of the superstate, Oceania, who are charged with uncovering and punishing "thoughtcrime" and thought-criminals. The Thinkpol use psychological methods and omnipresent surveillance (e.g. telescreens) to search, find, monitor, and arrest citizens of Oceania who would challenge the status quo — the authority of the Party and of Big Brother — even if only with a thought. 
+
+George Orwell’s concept of “thought policing” derived from his “power of facing unpleasant facts”, in his criticizism of society’s prevailing ideas — which often placed him in conflict with other people and their “smelly little orthodoxies”. 
+
+In Orwell's novel
+
+In Orwell's novel, the government (which is dominated entirely by the Inner Party) attempts to control not only the speech and actions, but also the thoughts of its subjects, labeling "unapproved thoughts" with the term thoughtcrime, or crimethink in Newspeak. For such infractions, the Thought Police arrest two characters in the book, Winston and Julia.
+
+Orwell's Thought Police also operate a false resistance movement to lure in disloyal Party members before arresting them. One Thought Police agent, O'Brien, is part of this false flag operation. It is not revealed, however, if a genuine resistance movement actually exists—though the tactic of using a false resistance group called Operation Trust was actually used to lure out dissidents by the State Political Directorate in the Soviet Union.  
+
+Every Party member has a telescreen in his or her home, which the Thought Police use to observe the populace's actions, looking for unorthodox opinions or an inner struggle. When a Party member talks in their sleep, the words are carefully analyzed. The Thought Police also target and eliminate highly intelligent people, since there is concern they may come to realize how the Party is exploiting them. An example is Syme, a developer of Newspeak, who, despite his fierce devotion to the Party, simply disappears one day. 
+
+Winston rebels against the Thought Police by writing "DOWN WITH BIG BROTHER" in his journal (which Party members are not even allowed to have) without knowing it. He attempts to cover up his own thoughts, but believes he will be caught quickly. 
+
+The Thought Police generally interfere very little with the working class of Oceania, known as the Proles—although a few Thought Police agents always move among them, spreading false rumors, and identifying and eliminating any individual deemed capable of independent thought or rebellion against the Party, and all Party members live their lives under the constant supervision of the Thought Police.
+ 
+To remove any possibility of creating martyrs, whose memories could be used as a rallying cause against the Party, the Thought Police gradually wear down the will of political prisoners in the Ministry of Love through conversations, degradation, and finally in a torture chamber known as Room 101. These methods are designed and intended to eventually make prisoners genuinely accept Party ideology and come to love Big Brother, not merely confess. The prisoners are then released back into society for a short while, but are soon re-arrested, charged with new offences, and executed. All other Party members who knew them must forget them, and are prohibited from remembering them by the Thoughtcrime avoiding habit known as "crimestop". All records of the executed prisoners are destroyed and replaced with falsified records by the Ministry of Truth, and their bodies are disposed of by means of cremation.
+
+Other uses
+
+In the first half of the twentieth century, before the 1949 publication of 1984, the Special Higher Police (特別高等警察 Tokubetsu Kōtō Keisatsu or 特高 Tokkō) in Japan were sometimes known as the "Thought Police" (Shiso Keisho). 
+
+The term "Thought Police", by extension, has come to refer to real or perceived enforcement of ideological correctness, or preemptive policing where a person is apprehended in anticipation of the possibility that they may commit a crime, in any modern or historical contexts.
+
+In the twenty-first century, a related concept of ideological correctness in reference to the calling out or labeling of words or speech considered by some to be improper or inappropriate is known as "political correctness" (frequently shortened to "PC"). The term has come into the common lexicon.
+Question:
+‘The Thought Police’ feature in which 1949 novel?
+Answer:
+1984
+Passage:
+Gonzo journalism
+Gonzo journalism is a style of journalism that is written without claims of objectivity, often including the reporter as part of the story via a first-person narrative. The word "gonzo" is believed to have been first used in 1970 to describe an article by Hunter S. Thompson, who later popularized the style. It is an energetic first-person participatory writing style in which the author is a protagonist, and it draws its power from a combination of social critique and self-satire. It has since been applied to other subjective artistic endeavors.
+
+Gonzo journalism involves an approach to accuracy that concerns the reporting of personal experiences and emotions, in contrast to traditional journalism, which favors a detached style and relies on facts or quotations that can be verified by third parties.  Gonzo journalism disregards the strictly-edited product favored by newspaper media and strives for a more personal approach; the personality of a piece is as important as the event the piece is on. Use of  sarcasm, humor, exaggeration, and profanity is common.
+
+Thompson, who was among the forefathers of the new journalism movement, said in the February 15, 1973 issue of Rolling Stone, "If I'd written the truth I knew for the past ten years, about 600 people—including me—would be rotting in prison cells from Rio to Seattle today. Absolute truth is a very rare and dangerous commodity in the context of professional journalism." 
+
+Origin of the term
+
+The term "gonzo" was first used in connection with Hunter S. Thompson by The Boston Globe magazine editor Bill Cardoso in 1970. He described Thompson's article "The Kentucky Derby Is Decadent and Depraved", which was written for the June 1970 edition of Scanlan's Monthly, as "pure Gonzo journalism". Cardoso claimed that "gonzo" was South Boston Irish slang describing the last man standing after an all-night drinking marathon. He also claimed that it was a corruption of the French Canadian word "gonzeaux", which means "shining path",  although this is disputed.
+
+Another speculation is that the word may have been inspired by the 1960 hit song Gonzo by New Orleans rhythm and blues pianist James Booker. This possibility is supported by a 2007 oral biography of Thompson, which states that the term is taken from a song by Booker  but does not explain why Thompson or Cardoso would have chosen the term to describe Thompson's journalism. The 2013 documentary Bayou Maharaja: The Tragic Genius of James Booker  quotes Thompson's literary executor as saying that the song was the origin of the term.     According to a Greg Johnson biographical note on Booker,  the song title "Gonzo" comes from a character in a movie called The Pusher,  which in turn may have been inspired by a 1956 Evan Hunter novel of the same title.
+
+Thompson himself first used the term referring to his own work on page 12 of the counterculture classic  Fear and Loathing in Las Vegas.  He wrote, "But what was the story? Nobody had bothered to say. So we would have to drum it up on our own. Free Enterprise. The American Dream. 
+Horatio Alger gone mad on drugs in Las Vegas. Do it now: pure Gonzo journalism."
+
+Hunter S. Thompson
+
+Thompson based his style on William Faulkner's notion that "fiction is often the best fact". While the things that Thompson wrote about are basically true, he used satirical devices to drive his points home. He often wrote about recreational drugs and alcohol use which added subjective flair to his reporting. The term "gonzo" has also come into (sometimes pejorative) use to describe journalism in Thompson's style, characterized by a drug-fueled stream of consciousness writing technique.
+
+Fear and Loathing in Las Vegas followed the Mint 400 piece in 1971 and included a main character by the name of Raoul Duke, accompanied by his attorney, Dr. Gonzo, with defining art by Ralph Steadman. Although this book is considered a prime example of gonzo journalism, Thompson regarded it as a failed experiment.  He had intended it to be an unedited record of everything he did as it happened, but he edited the book five times before publication.
+
+Thompson would instigate events himself, often in a prankish or belligerent manner, and then document both his actions and those of others. Notoriously neglectful of deadlines, Thompson often annoyed his editors because he faxed articles late, "too late to be edited, yet still in time for the printer."  Thompson wanted his work to be read as he wrote it, in its "true Gonzo" form. Historian Douglas Brinkley said gonzo journalism requires virtually no rewriting and frequently uses transcribed interviews and verbatim telephone conversations.
+
+"I don't get any satisfaction out of the old traditional journalist's view: 'I just covered the story. I just gave it a balanced view,'" Thompson said in an interview for the online edition of The Atlantic. "Objective journalism is one of the main reasons American politics has been allowed to be so corrupt for so long. You can't be objective about Nixon." 
+
+Influence
+
+Thompson felt that objectivity in journalism was a myth. Gonzo journalism has now become a bona fide style of writing that concerns itself with "telling it like it is", similar to the New Journalism of the 1960s, led primarily by Tom Wolfe and also championed by Lester Bangs, George Plimpton, Terry Southern, and John Birmingham, and is considered a subgenre of New Journalism. When asked whether there was a difference between the two, Thompson answered, "Yeah, I think so. Unlike Tom Wolfe or Gay Talese, for instance, I almost never try to reconstruct a story. They're both much better reporters than I am, but then I don't really think of myself as a reporter." 
+
+In 1998, Christopher Locke asserted that the web zine genre is descended from gonzo journalism,  a claim that has since been extended to social media.
+Question:
+Gonzo journalism, a style in which reporters involve themselves in the action to such a degree that they become the central figures of their stories, was created by whom?
+Answer:
+Hunter S. Thomson
+Passage:
+Pera Palace Hotel
+The Pera Palace Hotel Jumeirah () is a historic special category hotel and museum hotel located in the Beyoğlu (Pera) district in Istanbul, Turkey. It was built in 1892 for the purpose of hosting the passengers of the Orient Express and was named after the place where it is located. It holds the title of "the oldest European hotel of Turkey".
+
+The Pera Palace Hotel is located in the Tepebaşı neighbourhood of Pera, once known as "Little Europe". It is about 20 km from Atatürk International Airport.
+
+The hotel is in walking distance of Istiklal Avenue, Taksim Square and the British, Swedish, Russian, Dutch, Italian, French and German consulates.
+
+The hotel was closed from 2006, undergoing a major renovation and restoration project and reopened on September 1, 2010. 
+
+History
+
+Establishment work began in 1892 and the grand opening ball was held in 1895.
+
+Pera Palace is located in the Tepebaşı district of Pera.
+
+Alexander Vallaury, a French-Turkish architect living in the city designed the hotel in a blend of neo-classical, art nouveau and oriental styles. Vallaury undertook a number of other projects in Istanbul, including The Ottoman Bank Headquarters and The Istanbul Archaeology Museum.
+
+The hotel was the first building in Turkey to be powered by electricity, other than the Ottoman Palaces. It was also the only address in the city to provide hot running water for its guests and was home to the first electric elevator in Istanbul.
+
+The hotels first owners were the Ottoman Armenian Esayan family. 
+
+Architecture and renovation
+
+Pera Palace Hotel is today regarded as an important historical building and is listed under the general protection of Turkish Law (No. 2863 of 1983, amended with Law No. 5226 of 2004) concerning cultural heritage in Turkey.
+
+Alexander Vallaury, a Levantine of French origin and resident of Istanbul designed the property. Vallaury integrated neo-classical, art nouveau and oriental styles resulting in a building which is typical of the architecture of the 19th-century Istanbul.
+
+The exterior façade, as well as the layout of the property, follows a neo-classical approach. The interiors of the building feature a more oriental style, mostly concentrated in the ballroom interior. In keeping with this eclectic vision, art nouveau lines feature in and around the elevator and in the coffee house section.
+
+Although a prominent symbol of Istanbul’s cityscape, the Pera Palace property was in need of an extensive renovation. Consequently, in April 2008, the Beşiktas Shipping Group launched a 23 million Euro renovation and restoration project. KA.BA Conservation of Historic Buildings and Architecture directed the project alongside the Metex Design Group and the entire renovation project is completed on September 1, 2010.
+
+A key attraction, the Atatürk Room 101 remains as a ‘Museum Room’, with many personal items and reading material of the great leader Mustafa Kemal Atatürk exhibited to the public.
+
+Literature and publications
+
+* In Ernest Hemingway's short story The Snows of Kilimanjaro, the main character, writer Harry, stays at the Pera Palace hotel while serving in the military during the Allied occupation of Constantinople (Istanbul) in World War I.
+* Henry Pulling and his aunt Augusta Bertram, protagonists of Graham Greene's 1969 novel, Travels With My Aunt, stay at the Pera Palace during their Istanbul adventure.
+* Detective writer Agatha Christie's 1934 novel Murder on the Orient Express was  allegedly written in the Pera Palace Hotel in Istanbul, Turkey, the southern terminus of the railway. The hotel maintains Christie's room as a memorial to the author.
+Question:
+The legendary Pera Palace Hotel in Istanbul, also the site where an all-time great mystery novel was conceived, was built in 1892 for passengers who arrived in the city by what specific transport?
+Answer:
+Grandluxe rail
+Passage:
+BBC News | BUSINESS | Who will succeed Eddie George?
+BBC News | BUSINESS | Who will succeed Eddie George?
+Wednesday, 1 May, 2002, 11:53 GMT 12:53 UK
+Who will succeed Eddie George?
+Sir Edward George: stepping down after 10 years
+Analysis
+by Steve Schifferes
+BBC News Online economics reporter
+The race to succeed Sir Edward George, the governor of the Bank of England, has begun 15 months before he is set to retire.
+Sir Edward's second five year term of office ends on 30 June 2003.
+But choice of his successor is closely linked to the question of the UK's membership of the euro.
+The Chancellor, Gordon Brown, is set to announce whether the UK meets the five economic tests he has set before recommending euro membership shortly before the new governor would take office.
+Sir Edward has been cautious about Britain's euro membership - a stance that initially made Gordon Brown reluctant to reappoint him to a second term as governor in February 1998.
+But since then the Chancellor himself has become cooler on euro membership, as the success of his new arrangements for monetary and fiscal policy has become clear.
+Insider on fast track
+The leading euro-sceptic candidate to take over the Bank's leadership is Mervyn King, the current deputy governor and former chief economist at the Bank.
+Mervyn King: next Bank governor?
+Professor King is part of the formidable group of academic economists from the London School of Economics who have joined the Bank's interest rate-setting body, the Monetary Policy Committee (MPC).
+This has included Professor Charles Goodhardt, and Professor Charles Bean - who replaced Mr King as the Bank's chief economist.
+Mervyn King has been a central figure on the MPC, often taking the role of briefing the press after each meeting.
+Mervyn King
+Education: Cambridge
+Previous job: Professor of Economics, LSE
+He has been identified with the "hawks" on the MPC, leaning towards caution when cutting interest rates and worried that inflationary pressures are still strong in the UK economy.
+He believes that the Bank of England's approach to rate-setting is more effective than that of the European Central Bank.
+And he is sceptical about claims that the UK economy has converged with those in the eurozone, once having said that it would take a few hundred years of data to decide.
+The PM's candidate
+The other leading candidate to succeed Sir Edward is the chairman of the Financial Services Agency (FSA), Sir Howard Davies.
+Sir Howard Davies: the PM's candidate?
+Sir Howard had been deputy governor of the Bank, but agreed to take over the FSA when it was separated from the Bank in 1997 - at the same time as the MPC was set up.
+He has strong links to business, as the former director-general of the Confederation of British Industry (CBI), and head of the Audit Commission, which monitors government spending.
+He is strongly in favour of Britain joining the euro.
+Sir Howard Davies
+Education: Oxford
+Previous job: Director-General, CBI
+Sir Howard's populist touch and high-profile role in cracking down on financial rip-offs have made him the favoured candidate of the Prime Minister
+But critics say he lacks the experience in managing interest rates, and the strong economic background of his rivals.
+The outsiders
+Also in the running to succeed Sir Edward is the head of the Bank of International Settlements, Andrew Crockett.
+Mr Crockett is another former Bank of England official - who was in charge of managing the exchange rate before he left to run the central bankers' organisation based in Basle, Switzerland.
+He has been deeply involved in managing international financial crises, working for many years at the International Monetary Fund,  and has excellent contacts with central bankers and international commercial banks around the world.
+But he also lacks experience of working within the MPC, and has always been a backroom operator rather than a public communicator.
+Another earlier candidate to become governor was Gavyn Davies, the chief international economist at Goldman Sachs and a close friend of the Chancellor, Gordon Brown.
+But Mr Davies has probably ruled himself out of the running by taking the job of chairman of the BBC.
+Crucial choice
+The financial markets will be watching the government's choice closely.
+The reappointment of Sir Edward George did much to reassure markets and boost the credibility of the Bank's monetary policy - which helped keep long-term interest rates low.
+His successor must also be someone who can command the confidence of both politicians and City,  and provide a steady hand in managing the economy in potentially turbulent times.
+And were Britain to move towards euro membership, he would also have the crucial task on managing the transition, before giving up power to set interest rates to the European Central Bank.
+See also:
+Question:
+Whom did Mervyn King succeed as Governor of the Bank of England in 2003?
+Answer:
+Eddie George
+Passage:
+Darwin Awards. Chlorinating The Gene Pool.
+Darwin Awards. Chlorinating The Gene Pool.
+DARWINAWARDS MUG
+Amusing coffee mug "A Fool And His Life Are Soon Parted" made by Ms. "Darwin" -- Wendy Northcutt. herself.  This awesome and playful pottery mug is hand-made and signed by Wendy, it's a well-crafted durable porcelain wheel-thrown mug is large enough to easily accomodate 15 ounces of hot coffee. Check it out!
+DARWIN AWARD: Her Sleep Number Was Up
+September 2016, Virginia || Sidney Zelaya, 20, was riding a mattress on top of a van when both of them slipped off the vehicle. She was nominated for the notorious Darwin Award when it became apparent she was not going to bounce back from a bad case of bed head.
+HONORABLE MENTION: Pokémon "Go Jump"
+July 2016, California ||  Pokémon's unanticipated "Go Jump" feature is predicted to have a dwindling fan base. Two California men blindly followed app clues to a clue-less "75 to 100 foot" tumble down a crumbling ocean cliff with minor injuries, missing a full DARWIN. Falling For The Game...
+DARWIN AWARD: Banana Bandido
+July 2014, Costa Rica || A banana plantation was the setting for a Friday evening robbery in Limón. Villegas, 30, lived in the same building as the farm's cafeteria before his fatal slip-up. He was in the process of ( breaking into the cafe... )
+Honorable Mentions
+The HONORABLE MENTION is bestowed on survivors of blunders that flabbergast the rest of us.  The judges point a finger at certain individuals who are up and coming in the competition to win a Darwin Award. Recent Honorable Mentions are Mr. Magnetron, and Marshmallow Mouth Gator Guy. The opposite of role models, these living legends are here on Earth to serve as a warning to others!
+(1) A vodka-swilling pill-popping airline customer.
+(2) A potted plant made of plastic.
+(3) Airport security video showing the former climbing the latter.
+Darwin Award: Resurrection FAIL
+(17 September 2014, Pakistan) Two correspondents nominated the gullible acolyte who volunteered to be killed and resurrected by a holy man--and not a holy man who was experienced with the procedure, but a beginner who thought he'd give it a whirl! ( "Religion did him in. )
+DARWIN AWARD: Delhi Sandwich
+(23 September 2014, India) Life of Pi, move over, Maqsood has a tale to tell.  This 19-year-old factory worker joined a White tiger for lunch yesterday in the cat's Delhi zoo home.  After being cautioned twice to not climb over the fence enclosing the tiger enclosure, Maqsood climbed over the fence a third time and then swam across the moat over to Tiger Island. ( "India zoo gains a meal, loses a patron..." )
+DARWIN AWARD: Anchorman
+(25 May 2014, Georgia) 18-year-old Chance Werner had recently graduated from high school and on the early hours of Sunday morning he was at Lake Allatoona celebrating with friends by playing the Shopping Cart Game.  The Shopping Cart Game is evidently popular...  ( more )
+LIVING DARWIN AWARD! The Thing Ring
+(May 2014, England) In the interest of public safety, the Darwin Awards editors are releasing this ribald and unsavory event to the public to serve as a warning to adventurous amorous males. EYEWITNESS: "Being part of the emergency services, firemen were called to the A&E Department of a central London hospital to assist in removing a thing ring... ( more )
+DOUBLE DARWIN! Sports Training
+(2 March 2014, Rotterdam, Netherlands) Two apparently intoxicated men dared each other to test their courage against an intercity train at a Rotterdam train station. At 1800 hours on a Sunday night, the station was crowded with more than 300 fans returning from a soccer-match pitting Feyenoord against Ajax at De Kuip, the most beautiful soccer stadium in Holland... ( more )
+NO DARWIN AWARD: "No Bull, No Bullets!"
+3 August 2014, Chicago | NOT a Darwin Award winner: the accidental shooting death of a man who failed to prove that his gun had no bullets, when he pointed the gun at his head and pulled the trigger.  Moderators have ruled this recent Illinois shooting death "too common" and lacking the creativity of a true Darwin Award.  Sorry, Mr. Zyzanski ( rawstory.com )
+Slush Pile Palooza
+Hi!  I'm Wendy, Curator of the Darwin Awards, here with a public service message. Please enjoy a browse in our Slush Pile. The Slush Pile is moderated by volunteers, and the fans and I owe them a round of drinks and fresh popcorn.  Check out the Slush Pile archives, the fountain from which the Darwin Awards are fished.
+Human Intelligence is MIA,
+Question:
+Which awards are made each year in memory of those who have killed themselves in bizarre ways?
+Answer:
+Wendy Northcutt
+Passage:
+Meadowhall Interchange
+Meadowhall Interchange is a transport interchange in north-east Sheffield, South Yorkshire, England, which consists of a railway station, tram stop and combined bus and coach station. The interchange was opened by British Rail under the Regional Railways sector in 1990 along with the adjacent Meadowhall Shopping Centre, which can be accessed by a covered suspension footbridge over the River Don. It is served by the majority of rail services heading north from Sheffield, a large range of bus and coach services and the Yellow, and at peak times Purple, Supertram lines.
+
+Layout and services
+
+Rail
+
+The railway station has four platforms on two separate lines, which split just south of the station. Platforms 1 and 2 are located on the Dearne Valley Line towards Swinton, while Platforms 3 and 4 are on both the Penistone Line and the Hallam Line.
+
+Trains per hour (off-peak basic service)
+
+Northern
+*6 to 
+*4 to  (1 via Moorthorpe, 3 via Barnsley)
+*1 to 
+*1 to 
+*1 to 
+*1 to  (limited stop - continues to either  or )
+*1 to  (via Sheffield & Retford)
+*1 to 
+
+TransPennine Express
+*1 to 
+*1 to 
+
+At other times of the day, there are also Northern services that terminate at , , , , ,  and  (via the Dearne Valley Line, limited service only). 
+
+High Speed 2
+
+High Speed 2, upon opening, had been planned to serve Meadowhall  on a high-level viaduct station parallel to the existing M1 motorway Tinsley Viaduct. As a result of the new viaduct, the platforms 1 and 2 and Supertram platforms would be relocated.  A new Supertram line from Dore to Meadowhall would be built to improve connectivity to HS2.   
+
+Following the release of the latest report from HS2 Ltd regarding possible routes for the line through South Yorkshire in July 2016, new proposals to serve Sheffield & Chesterfield separately have been put forward.   If adopted, the new build main line would be re-routed to the east of the city & Rotherham (via Mexborough and the M18 motorway), whilst a new connection would link into the existing Derby to Sheffield main line south of Chesterfield.  This would be used to reach Sheffield Midland station, from where trains would then run via the existing line towards Leeds and then rejoin the new railway at Grimethorpe, to the east of Barnsley.  This would avoid the need for the new station & associated access works at Meadowhall, alleviate potential road congestion in the area and also reduce construction costs for the route as a whole by £1 billion. 
+
+Tram
+
+Meadowhall Interchange tram stop, stop code MEI, consists of two platforms in an island platform layout, one of only two island platforms on the Supertram network (the other being at Netherthorpe Road). Both of the platforms are terminating platforms. Meadowhall is the only Supertram terminus station with two tracks; this is because, at off-peak times, two services terminate here rather than one.
+
+The two platforms at Meadowhall Interchange and numbered MEI1 and MEI2, with the prefix avoiding any confusion with the National Rail platforms. Meadowhall is the terminus for the Yellow Route and, at off-peak times only, the Purple Route. Services are not allocated a platform and simply use whichever is free when they arrive, however yellow route services generally use the platform which does not involve using the pointwork at the entry to the stop.
+
+The current peak time frequency, in trams per hour, is as follows:
+
+*6 to Middlewood (Yellow Route)
+*2 to Herdings Park via Cathedral (Purple Route) Sundays only
+
+Future tram-train
+
+From 2017, the Sheffield to Rotherham tram-train pilot, which will run on to Parkgate Shopping Centre in Rotherham via  using dedicated vehicles is due to come into operation.  This will leave the existing route to Meadowhall Interchange near the Meadowhall South stop and then join the former South Yorkshire Railway line to Rotherham Central via a new 150 m long connection between the two systems at Tinsley. 
+
+Bus and coach
+
+Meadowhall bus and coach station is located a short distance from Junction 34 of the M1 motorway, meaning it is more conveniently located for intercity coach services than Sheffield's main city centre Interchange. As a result, many coach services for Sheffield call at Meadowhall instead of the central Sheffield Interchange. To link passengers with Sheffield city centre, there are many bus services between Sheffield Interchange and Meadowhall Interchange, including the express X78 every ten minutes.
+
+The bus station at Meadowhall Interchange is divided into four main rows - A row, closest to the shopping centre; B row; C row; and D row, closest to the rail platforms. The rows are divided into individual 'stands'; effectively bus stops integrated into the bus station. There are sixteen stands - A1 to A5; B1 and B2; C1 to C5; and D1 to D4.
+
+Intercity coach services, operated by Megabus and National Express, usually depart from stands A1 and A2, the two stands closest to the shopping centre. Coach service destinations include London, Leeds, Newcastle, Scotland and various airports. All other scheduled bus services, to locations across South Yorkshire, have their own dedicated 'stand' which they will always depart from; there are passenger information screens throughout the bus station to help passengers find their stand.
+
+The bus station is in the PlusBus scheme, which means that train and bus tickets can be bought together at a saving.  Meadowhall is in the same zone as Sheffield station.
+Question:
+In which English city will you find the 'Forum' and 'Meadowhall' shopping centres?
+Answer:
+County Borough of Sheffield
+Passage:
+5th Anniversary Celebration Suggestions - Ideas & Symbols
+5th Anniversary Celebration Suggestions - Ideas & Symbols
+Share
+By Sheri Stritof
+Wood, representing strength and a solidified relationship, and silverware, representing connectedness, are the traditional and modern gifts associated with your fifth wedding anniversary. Here are more gift and celebration ideas for your fifth anniversary.
+5th Anniversary Traditional Gift:
+Wood. The strength of your marriage bond is represented by the traditional gift of wood for your 5th anniversary. Wood is strong and long-lasting.
+5th Anniversary Contemporary/Modern Gift:
+Silverware. The modern gift of silverware is a reminder of the connection the two of you formed as you shared meals with each other and your children.
+5th Anniversary Gemstone:
+Daisy. In the language of flowers, daisies represent innocence, loyal love, I'll never tell, and purity.
+Ways to Celebrate Your 5th Anniversary:
+Plant a tree together. You can plant one in your yard, or at a park, school, or church.
+An oak tree represent solidity.
+A pine tree represents the evergreen character of your love for one another.
+A flaming red maple represents the flaming passion you have for each other.
+A flowering crab tree represents love eternal.
+continue reading below our video
+5th Wedding Anniversary Gift Suggestions
+Toast one another with hope that your love continues to grow and prosper like the trees around you.
+Purchase tickets to a show, movie, sports event, concert, theatre, etc. to attend together.
+Gift Suggestions to Purchase for Your 5th Anniversary:
+Purchase a framed share of stock in a major company that has meaning to the both of you.
+Wooden baskets.
+Question:
+What is the symbol for a fifth wedding anniversary?
+Answer:
+Diffuse-porous wood
+Passage:
+Calcaneus
+In humans, the calcaneus (; from the Latin calcaneus or calcaneum, meaning heel ) or heel bone is a bone of the tarsus of the foot which constitutes the heel.  In some other animals, it is the point of the hock.
+
+Structure
+
+In humans, the calcaneus is the largest of the tarsal bones and the largest bone of the foot. The talus bone, calcaneus, and navicular bone are considered the proximal row of tarsal bones. In the calcaneus, several important structures can be distinguished: 
+
+The half of the bone closest to the heel is the calcaneal tubercle. On its lower edge on either side are its lateral and medial processes (serving as the origins of the abductor hallucis and abductor digiti minimi).  The Achilles tendon is inserted into a roughened area on its superior side, the cuboid bone articulates with its anterior side, and on its superior side are three articular surfaces for the articulation with the talus bone.  Between these superior articulations and the equivalents on the talus is the tarsal sinus (a canal occupied by the interosseous talocalcaneal ligament). At the upper and forepart of the medial surface of the calcaneus, below the middle talar facet, there is a horizontal eminence, the talar shelf (also sustentaculum tali), which gives attachment to the plantar calcaneonavicular (spring) ligament, tibiocalcaneal ligament, and medial talocalcaneal ligament. This eminence is concave above, and articulates with the middle calcaneal articular surface of the talus; below, it is grooved for the tendon of the flexor hallucis longus; its anterior margin gives attachment to the plantar calcaneonavicular ligament, and its medial margin to a part of the deltoid ligament of the ankle-joint.
+
+On the lateral side is commonly a tubercle called the calcaneal tubercle (or trochlear process). This is a raised projection located between the tendons of the peroneus longus and brevis. It separates the two oblique grooves of the lateral surface of the calcaneus (for the tendons of the peroneal muscles).
+
+Its chief anatomical significance is as a point of divergence of the previously common pathway shared by the distal tendons of peroneus longus and peroneus brevis en route to their distinct respective attachment sites.
+
+The calcaneus is part of two joints: the proximal intertarsal joint and the talocalcaneal joint. The point of the calcaneus is covered by the calcanean bursa.
+
+Development
+
+In the calcaneus, an ossification center is developed during the 4th–7th week of fetal development.
+
+Function
+
+Three muscles attach to the calcaneus: the gastrocnemius, soleus, and plantaris. These muscles are part of the posterior compartment of the leg and aid in walking, running and jumping. Their specific functions include plantarflexion of the foot, flexion of the knee, and steadying the leg on the ankle during standing.
+
+Clinical significance
+
+Normally the tibia sits vertically above the calcaneus (pes rectus). If the calcaneal axis between these two bones is turned medially the foot is in an everted position (pes valgus), and if it is turned laterally the foot is in an inverted position (pes varus). 
+
+*Calcaneal fracture, also known as Lover's fracture and Don Juan fracture
+
+Disease
+
+The talar shelf is typically involved in subtalar or talocalcaneal tarsal coalition.
+Question:
+Where in the human body would you find the Calcaneus?
+Answer:
+Heels
+Passage:
+Home from the Hill (film)
+Home from the Hill is a 1960 Metrocolor film in CinemaScope directed by Vincente Minnelli and starring Robert Mitchum, Eleanor Parker, George Peppard, George Hamilton, Everett Sloane, and Luana Patten.
+
+The script was adapted from the novel, Home from the Hill, by author, William Humphrey. The film was entered into the 1960 Cannes Film Festival.  The film's title is from the last line of Robert Louis Stevenson's short poem "Requiem". This film was originally intended for actors Clark Gable and Bette Davis, but the roles then went to Robert Mitchum and Eleanor Parker. As of June 2016 the film's only surviving credited cast member was George Hamilton.
+
+Plot
+
+In the beginning, Captain Wade Hunnicutt (Robert Mitchum), the wealthiest and most powerful person in his East Texas town, is wounded by a jealous husband. Wade is a notorious womanizer, who lives with his beautiful wife Hannah (Eleanor Parker) who scorns him. She has raised their son Theron (George Hamilton) to be dependent upon her, but as he reaches adulthood Theron seeks his father’s help in becoming a man.
+
+Wade initiates Theron in hunting and other masculine pursuits under the watchful eye of Rafe (George Peppard), Hunnicutt's loyal employee. Theron admires the slightly older and more worldly Rafe, and rapidly develops into a marksman and skilled hunter; he also learns about women from Rafe.
+
+Theron's new lifestyle leads him into a love affair with Libby Halstead (Luana Patten), a local girl from a proper family, but her father, Albert’s (Everett Sloane) animosity forces a secret relationship. Theron learns from his mother that the reason for Libby’s father's scorn is Wade's reputation as a womanizer. In this conversation he learns things about his parents that were previously hidden from him, including that Rafe is his illegitimate half-brother. We learn that Rafe’s mother is the root of Hannah’s anger at Wade, although the affair and Rafe’s birth preceded Hannah, and that Wade became unfaithful to her after Hannah turned him out.  While Wade respects Rafe, his position is staunch that a bastard is not to be included or acknowledged.
+
+Theron becomes disturbed by his parents' dysfunctional relationship and his father’s treatment of Rafe. A disillusioned Theron rejects both his parents along with the concept of family, and thus Libby, his true love. Unbeknownst to Theron, Libby is pregnant, but she does not want this to be the reason for their marriage. However, a confused and despondent Libby turns to Rafe, who out of passion and compassion agrees to marry her. This devastates Theron who then realized his error.
+
+All seems resolved until on the day of Libby's newborn son's christening, her father overhears gossip that his daughter was impregnated by Captain Hunnicutt, and goes into a rage. We then see Wade and Hannah reconcile, at home, after seventeen years. After Hannah leaves the room, Wade is then shot down by an unknown murderer who escapes. Theron tracks down his father's killer and sees he is Halstead. Theron kills Halstead in self-defense and soon after Rafe catches up. Though Rafe objects, Theron decides to leave town never to return.
+
+In the end, several months later, Rafe encounters Hannah at Wade’s grave. He offers to include her in the life of her grandson, and she shows him that she has acknowledged him as Wade’s son on the headstone.
+
+Cast
+
+* Robert Mitchum as Capt. Wade Hunnicutt
+* Eleanor Parker as Hannah Hunnicutt
+* George Peppard as Raphael 'Rafe' Copley
+* George Hamilton as Theron Hunnicutt
+* Everett Sloane as Albert Halstead
+* Luana Patten as Elizabeth 'Libby' Halstead
+* Anne Seymour as Sarah Halstead
+* Constance Ford as Opal Bixby
+* Ken Renard as Chauncey (Hunnicutt butler)
+* Ray Teal as Dr. Reuben Carson
+
+Production
+
+George Hamilton was cast after MGM executives were impressed by his performance in Crime and Punishment USA.  He later said "What Vincente later told me he saw in me was not my tortured soul but that I had the quality of a privileged but sensitive mama's boy." 
+
+Hamilton and Peppard were signed to long term contracts with the studio. 
+
+The lead role was intended for Clark Gable.
+
+Filming location
+ 
+Despite being set in Clarksville, Texas Metro-Goldwyn-Mayer filmed the movie at Oxford, Mississippi near the University of Mississippi campus.
+"Home from the Hill" was filmed in and around Paris and Clarksville, Texas. The homes used in the movie, particularly the interior shots, are in Clarksville. The downtown area is Clarksville. The hunting scenes were filmed near Lake Crook, the Paris, TX, water supply.
+
+Box Office
+
+According to MGM records the film earned $3,275,000 in the US and Canada and $1.8 million elsewhere but because of its high production cost incurred a loss of $122,000.
+Question:
+"Which author wrote the lines, ""Home is the sailor, home from the sea, and the hunter, home from the hill""?"
+Answer:
+Robert Lewis Balfour Stevenson
+Passage:
+Big cat
+The informal term "big cat" is typically used to refer to any of the four largest (living) members of the entire Panthera genus. Among the five total species within the Panthera genus, these four are the only animals that are able to roar.  In descending order of their maximum potential size, these four species are: tigers, lions, jaguars and leopards. A more liberal and expansive definition is sometimes used which may include the snow leopard, puma, clouded leopard and/or cheetah, although these added species do not roar. The clouded leopard is considered an evolutionary link between big and small cats.
+
+Despite enormous differences in size, various species of cat are quite similar in both structure and behaviour, with the exception of the cheetah, which significantly stands out from the other big and small cats. All cats are carnivores and efficient apex predators.  Their range includes the Americas, Africa, Asia, and Europe.
+
+Roaring
+
+The ability to roar  comes from an elongated and specially adapted larynx and hyoid apparatus.  When air passes through the larynx on the way from the lungs, the cartilage walls of the larynx vibrate, producing sound. The lion's larynx is longest, giving it the most robust roar. Only the four largest members of the Panthera genus contain this elongated hyoid.
+
+Threats
+
+The principal threats to big cats vary by geographic location, but primarily are habitat destruction and poaching. In Africa many big cats are hunted by pastoralists or government 'problem animal control' officers. Over the past few months  Problem Animal Control (PAC) lion hunts in Zimbabwe have been offered to American hunters, even though according to Zimbabwe National Parks there are no such hunts currently available.  Certain protected areas exist that shelter large and exceptionally visible populations of lions, hyenas, leopards, and cheetahs, such as Botswana's Chobe, Kenya's Masai Mara, and Tanzania's Serengeti.  Rather, it is outside these conservation areas where hunting poses the dominant threat to large carnivores. 
+
+In the United States, 19 states have banned ownership of big cats and other dangerous exotic animals as pets, and the Captive Wildlife Safety Act bans the interstate sale and transportation of these animals. The initial Captive Wildlife Safety Act (CWSA) was signed into law on December 19, 2003.  To address problems associated with the increasing trade in certain big cat species, the CSWA regulations were strengthened by a law passed on September 17, 2007.  The big cat species addressed in these regulations are the lion, tiger, leopard, snow leopard, clouded leopard, cheetah, jaguar, cougar, and any hybrid combination any of these species that results from breeding of these big cats. Private ownership of these big cats is not prohibited by this law but the law does make it illegal to transport, sell, or purchase them in interstate or foreign commerce. Although these regulations seem to provide a strong legal framework for controlling the commerce involving big cats, international organizations such as the World Wildlife Fund (WWF) have encouraged the U.S. to further strengthen these laws. The WWF is concerned that weaknesses in the existing U.S. regulations could be unintentionally helping to fuel the black market for tiger parts. 
+
+Conservation
+
+An animal sanctuary provides a refuge for animals to live out their natural lives in a protected environment. Usually these animal sanctuaries are the organizations which provide a home to big cats whose private owners are no longer able or willing to care for their big cats. However, use of the word sanctuary in an organization's name is by itself no guarantee that it is a true animal sanctuary in the sense of a refuge. To be accepted by the United States Fish and Wildlife Service (FWS) as a bona fide animal sanctuary and to be eligible for an exemption from the prohibition of interstate movement of big cats under the Captive Wildlife Safety Act (CWSA), organizations must meet the following criteria: 
+*Must be a non-profit entity that is tax exempt under section 501(a) of the Internal Revenue Code
+*Cannot engage in commercial trade in big cat species, including their offspring, parts, and products made from them
+*Cannot breed big cats
+*Cannot allow direct contact between big cats and the public at their facilities
+*Must keep records of transactions involving covered cats
+*Must allow the Service to inspect their facilities, records, and animals at reasonable hours
+
+Species
+
+*Family Felidae
+** Genus Panthera
+*** Tiger, Panthera tigris Asia
+*** Lion, Panthera leo (Sub-Saharan Africa, Gir Forest in India; extinct in former range of southeast Europe, Middle East, much of Asia, and North America)
+*** Jaguar, Panthera onca (the Americas; from the southern United States to northern Argentina)
+*** Leopard, Panthera pardus (Asia and Africa)
+*** Snow leopard, Panthera uncia (syn. Uncia uncia - mountains of central and south Asia)
+** Genus Acinonyx
+*** Cheetah, Acinonyx jubatus (Sub-Saharan Africa and Iran; extirpated in former range of India)
+** Genus Puma
+*** Puma/Cougar/Panther/Mountain lion Puma concolor (North and South America)
+
+Evolution
+
+A 2010 study published in Molecular Phylogenetics and Evolution has given insight into the exact evolutionary relationships of the big cats. The study reveals that the snow leopard and the tiger are sister species, while the lion, leopard, and jaguar are more closely related to each other. The tiger and snow leopard diverged from the ancestral big cats approximately 3.9 Ma. The tiger then evolved into a unique species towards the end of the Pliocene epoch, approximately 3.2 Ma. The ancestor of the lion, leopard, and jaguar split from other big cats from 4.3–3.8 Ma. Between 3.6–2.5 Ma the jaguar diverged from the ancestor of lions and leopards. Lions and leopards split from one another approximately 2 Ma.  The earliest big cat fossil, Panthera blytheae, dating to 4.1−5.95 MA, was discovered in southwest Tibet. 
+
+Gallery
+
+File:Acinonyx jubatus walking edit.jpg|Cheetah
+File:Mountain-lion-01623.jpg|Puma / Cougar / Panther / Mountain lion
+File:Standing jaguar.jpg|Jaguar
+File:Leopard by Rubert Taylor-Price.jpg|Leopard
+File:Lion lying 2.jpg|Lion
+File:Big cat in Afghanistan.jpg|Snow leopard
+File:Tigerramki.jpg|Tiger
+Question:
+Which big cat has the loudest roar
+Answer:
+🦁
