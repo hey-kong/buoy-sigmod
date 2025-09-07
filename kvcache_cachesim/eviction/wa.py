@@ -26,7 +26,9 @@ class WALinkedNode(LinkedNode):
             mean_gap = sum(gaps) / len(gaps)
             lambda_val = 1.0 / mean_gap
             prob = 1.0 - math.exp(-lambda_val * waited)
-            self.reuse_prob = prob
+            lifespan = self.access_times[-1] - self.access_times[0]
+            life_factor = min(1.0, lifespan / (mean_gap * 10))
+            self.reuse_prob = prob * life_factor
         self.priority = (self.reuse_prob, -self.offset)
 
 

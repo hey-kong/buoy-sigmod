@@ -25,19 +25,6 @@ class RadixAttention(TieredCache):
 
         self.root = LRUTrieNode(None)
 
-    def _collect_leaves(self):
-        ret_list = []
-        stack = [self.root]
-
-        while stack:
-            cur_node = stack.pop()
-            if len(cur_node.children) == 0:
-                ret_list.append(cur_node)
-            else:
-                stack.extend(cur_node.children.values())
-
-        return ret_list
-
     def _collect_leaves_device(self, tier):
         def is_leaf(tn: LRUTrieNode):
             if tn.tier != tier:
@@ -68,10 +55,7 @@ class RadixAttention(TieredCache):
         next_tier = self.next_tier.get(tier, None)
 
         while self.cur_bytes[tier] > self.max_bytes[tier]:
-            if tier != self.last_tier:
-                leaves = self._collect_leaves_device(tier)
-            else:
-                leaves = self._collect_leaves()
+            leaves = self._collect_leaves_device(tier)
             heapq.heapify(leaves)
 
             while self.cur_bytes[tier] > self.max_bytes[tier] and len(leaves):
