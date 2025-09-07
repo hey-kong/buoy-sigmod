@@ -120,7 +120,7 @@ for dataset in os.listdir(root_dir):
             kvcache_file_path = "./quant_cache.safetensors"
 
             # Step 1: 提取（在CPU上保留张量）
-            layers = extract_kvcache(prefix_cache, dtype=torch.float16, device="cpu")
+            layers = extract_kvcache(prefix_cache, device=torch.device("cpu"))
 
             # Step 2: 量化（CPU）
             pack = quantize_dynamic_cache(prefix_cache, cfg)

@@ -6,7 +6,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 
 from quantization.cachegen_basics import CacheGenConfig
 from quantization.kv_cache_quant import quantize_dynamic_cache, dequantize_dynamic_cache
-from transfer.kvcache_io import extract_kvcache, save_kvcache_quantized, load_kvcache_quantized
+from transfer.kvcache_io import extract_kvcache, move_dynamic_cache_to_device, save_kvcache_quantized, load_kvcache_quantized
 
 MODEL_PATH = "/data/llm/Llama-3.1-8B-Instruct"
 DEVICE = "cuda"
@@ -36,7 +36,7 @@ with torch.no_grad():
 kvcache_file_path = "./quant_cache.safetensors"
 
 # Step 1: 提取（在CPU上保留张量）
-layers = extract_kvcache(prefix_cache, dtype=torch.float16, device="cpu")
+layers = extract_kvcache(prefix_cache, device=torch.device("cpu"))
 
 # Step 2: 量化（CPU）
 pack = quantize_dynamic_cache(prefix_cache, cfg)
@@ -54,6 +54,7 @@ kv_layers = dequantize_dynamic_cache(pack, device=torch.device(DEVICE))
 
 # Step 3: 还原 DynamicCache
 quant_cache = DynamicCache.from_legacy_cache(kv_layers)
+move_dynamic_cache_to_device(quant_cache, device=torch.device(DEVICE))
 
 # test: with cache
 new_inputs = tokenizer(INITIAL_PROMPT + default_prompt + SUFFIX, return_tensors="pt").to(model.device.type)
