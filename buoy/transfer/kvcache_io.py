@@ -14,8 +14,8 @@ def extract_kvcache(dynamic_cache, device):
 
 def move_dynamic_cache_to_device(dynamic_cache, device):
     for i, layer in enumerate(dynamic_cache.layers):
-        layer.keys = layer.keys.to(device, non_blocking=True).contiguous()
-        layer.values = layer.values.to(device, non_blocking=True).contiguous()
+        layer.keys = layer.keys.to(device, non_blocking=True)
+        layer.values = layer.values.to(device, non_blocking=True)
 
 
 def save_kvcache(c: DynamicCache, cache_file_path: str):
