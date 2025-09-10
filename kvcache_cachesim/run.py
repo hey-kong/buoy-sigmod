@@ -65,7 +65,7 @@ def main():
         default=["fifo"],
         help="Eviction algorithm(s) to use (space separated for multiple)",
     )
-    parser.add_argument("--trace_path", type=str, default="traces/mooncake_trace_512.jsonl",
+    parser.add_argument("--trace_path", type=str, default="../traces/mooncake_trace_512.jsonl",
                         help="Path to the trace JSONL file")
     parser.add_argument("--chunk_size", type=int, default=512, help="Chunk size")
     parser.add_argument("--model_name", type=str, default="meta-llama/Llama-3.1-8B-Instruct",

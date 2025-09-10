@@ -24,7 +24,7 @@ SUFFIX = """<|eot_id|>\n"
 <|start_header_id|>assistant<|end_header_id|>
 """
 
-root_dir = "dataset/LongBench"
+root_dir = "longbench"
 tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH)
 model = AutoModelForCausalLM.from_pretrained(MODEL_PATH, dtype=torch.float16).to(DEVICE)
 

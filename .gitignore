@@ -37,6 +37,7 @@ generations/*
 models/*
 test_logs/*
 chunk_kvcache/*
+tmp_traces/*
 
 .vscode/
 .idea/
