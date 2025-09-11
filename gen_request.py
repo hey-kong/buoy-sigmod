@@ -9,7 +9,7 @@ random.seed(42)
 
 
 def random_word():
-    length = random.randint(1, 4)
+    length = random.randint(1, 1)
     return ''.join(random.choice(vocab) for _ in range(length))
 
 
