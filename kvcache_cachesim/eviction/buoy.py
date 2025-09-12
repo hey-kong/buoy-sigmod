@@ -1,13 +1,15 @@
 from typing import List
 
 from .base import TrieNode, LinkedNode, TieredCache
+from .ghost import Ghost
 
 
 class BuoyLinkedNode(LinkedNode):
     def __init__(self, trie_node=None):
         super().__init__(trie_node)
 
-        self.grace = 0
+        self.grace = False
+        self.visited = False
 
 
 class TieredTrieBuoyCache(TieredCache):
@@ -16,7 +18,10 @@ class TieredTrieBuoyCache(TieredCache):
                  cap_hbm: int,
                  cap_dram: int,
                  cap_ssd: int,
-                 max_grace: int = 65535):
+                 chunk_size: int,
+                 compression_rate: float = 1.0,
+                 max_grace: int = 255):
+        cap_ssd //= compression_rate
         super().__init__(bytes_per_token, cap_hbm, cap_dram, cap_ssd)
         self.name = "Buoy"
 
@@ -38,6 +43,7 @@ class TieredTrieBuoyCache(TieredCache):
         self.max_grace = max_grace
 
         self.root = TrieNode(None)
+        self.ghost = Ghost(cap_dram // bytes_per_token // chunk_size)
 
     def _add_to_head(self, node: BuoyLinkedNode, tier: str):
         node.next = self.head[tier].next
@@ -68,30 +74,13 @@ class TieredTrieBuoyCache(TieredCache):
 
     def _demote_if_needed(self, tier: str):
         def evict(trie_node):
-            # Iteratively removes trie_node subtree and linked nodes.
-            stack = [trie_node]
-            while stack:
-                trie_node = stack.pop()
-                stack.extend(list(trie_node.children.values()))
-                linked_node = trie_node.linked_node
-                if linked_node is not None:
-                    self._remove_node(linked_node)
-                    trie_node.linked_node = None
-                if trie_node.parent is not None:
-                    del trie_node.parent.children[trie_node.chunk_id]
+            linked_node = trie_node.linked_node
+            if linked_node is not None:
+                self._remove_node(linked_node)
+                trie_node.linked_node = None
+            if trie_node.parent is not None:
+                del trie_node.parent.children[trie_node.chunk_id]
                 trie_node.parent = None
-
-        def _bulk_move_chain_to_tier(root_tn, target_tier):
-            # For root nodes not reused, only one root-to-leaf path (no branching)
-            chain = []
-            tn = root_tn
-            while tn is not None and tn.tier != target_tier:
-                if tn.linked_node is not None:
-                    chain.append(tn.linked_node)
-                tn = next(iter(tn.children.values()), None)
-            for ln in reversed(chain):
-                self._remove_node(ln)
-                self._add_to_head(ln, target_tier)
 
         def is_tier_leaf(tn: TrieNode):
             if tn.tier != tier:
@@ -112,18 +101,16 @@ class TieredTrieBuoyCache(TieredCache):
 
             tn = node.trie_node
             if tier is self.tiers[0]:
-                if node.grace == 0:
-                    if self.num_tiers == 2:
-                        evict(tn)
-                    elif self.num_tiers == 3:
-                        _bulk_move_chain_to_tier(tn, self.tiers[2])
-                else:
-                    self._add_to_head(node, self.tiers[1])
+                self._add_to_head(node, self.tiers[1])
                 continue
 
             # HBM + DRAM
             if self.num_tiers == 2:
-                if node.grace == 0 and is_tier_leaf(tn):
+                if is_tier_leaf(tn) and node.grace == 0:
+                    if not node.visited and (len(tn.parent.children) > 1 or tn.parent == self.root):
+                        self.ghost.put(tn.chunk_id, tn.get_path())
+                    if node.visited and tn.parent.linked_node is not None:
+                        tn.parent.linked_node.grace += 1
                     evict(tn)
                     continue
                 node.grace = max(node.grace - 1, 0)
@@ -132,7 +119,9 @@ class TieredTrieBuoyCache(TieredCache):
             # HBM + DRAM + SSD
             if self.num_tiers == 3:
                 if tier is self.tiers[1]:
-                    if node.grace == 0 and is_tier_leaf(tn):
+                    if is_tier_leaf(tn) and node.grace == 0:
+                        if node.visited and tn.parent.linked_node is not None:
+                            tn.parent.linked_node.grace += 1
                         self._add_to_head(node, self.tiers[2])
                         continue
                     node.grace = max(node.grace - 1, 0)
@@ -159,38 +148,51 @@ class TieredTrieBuoyCache(TieredCache):
         for t, c in hit_chunks.items():
             self.tier_hit_chunks[t] += c
 
-        node = self.root
-        depth = 0
+        tn = self.root
+        nodes = []
+        first_new = True
         for cid, cnt in zip(chunk_ids, token_counts):
             sz = cnt * self.bytes_per_token
 
-            if cid not in node.children:
-                child = TrieNode(cid, parent=node)
-                node.children[cid] = child
+            if cid not in tn.children:
+                child = TrieNode(cid, parent=tn)
+                tn.children[cid] = child
                 child.token_count = cnt
                 child.kv_bytes = sz
-                child.tier = self.tiers[0]
-                if depth > 0:
-                    child.tier = self.tiers[1]
+                child.tier = self.tiers[1]
 
-                ln = BuoyLinkedNode(child)
-                child.linked_node = ln
-                if child.parent is not self.root and len(child.parent.children) == 1:
-                    ln.grace = min(256, child.parent.linked_node.grace)
-                node = child
-            else:
-                node = node.children[cid]
-                if node.linked_node:
-                    # Remove; promote later
-                    self._remove_node(node.linked_node)
+                node = BuoyLinkedNode(child)
+                child.linked_node = node
+                if first_new:
+                    if (self.ghost.exists(child.chunk_id, child.get_path())) or (
+                            child.parent is not self.root and len(child.parent.children) == 1):
+                        node.visited = True
+                        node.grace = self.max_grace
+                    else:
+                        node.visited = False
+                        node.grace = 0
+                    first_new = False
                 else:
-                    ln = BuoyLinkedNode(node)
-                    node.linked_node = ln
-                node.tier = self.tiers[0]
-                node.linked_node.grace = min(node.linked_node.grace + 256, self.max_grace)
+                    node.visited = child.parent.linked_node.visited
+                    node.grace = child.parent.linked_node.grace
+                tn = child
+            else:
+                tn = tn.children[cid]
+                if tn.linked_node:
+                    # Remove; promote later
+                    self._remove_node(tn.linked_node)
+                else:
+                    node = BuoyLinkedNode(tn)
+                    tn.linked_node = node
+                tn.tier = self.tiers[0]
+                tn.linked_node.grace = self.max_grace
+                tn.linked_node.visited = True
 
-            self._add_to_head(node.linked_node, node.tier)
-            depth += 1
+            nodes.append(tn.linked_node)
+
+        # Reorder visited nodes to preserve prefix order
+        for node in reversed(nodes):
+            self._add_to_head(node, node.trie_node.tier)
 
         # Demotion and eviction
         for tier in self.tiers:

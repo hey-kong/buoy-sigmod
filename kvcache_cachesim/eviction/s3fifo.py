@@ -1,6 +1,7 @@
 from typing import List
 
 from .base import TrieNode, LinkedNode, TieredCache
+from .ghost import Ghost
 
 
 class S3FIFOLinkedNode(LinkedNode):
@@ -16,7 +17,8 @@ class TieredTrieS3FIFOCache(TieredCache):
                  bytes_per_token: int,
                  cap_hbm: int,
                  cap_dram: int,
-                 cap_ssd: int):
+                 cap_ssd: int,
+                 chunk_size: int):
         super().__init__(bytes_per_token, cap_hbm, cap_dram, cap_ssd)
         self.name = "S3-FIFO"
 
@@ -37,7 +39,7 @@ class TieredTrieS3FIFOCache(TieredCache):
 
         self.root = TrieNode(None)
         # Only store the evicted first prefix chunk
-        self.ghost = set()
+        self.ghost = Ghost(cap_dram // bytes_per_token // chunk_size)
 
     def _add_to_head(self, node: S3FIFOLinkedNode, tier: str):
         node.next = self.head[tier].next
@@ -95,7 +97,7 @@ class TieredTrieS3FIFOCache(TieredCache):
                 else:
                     if self.num_tiers == 2:
                         if node.depth == 1:
-                            self.ghost.add(node.trie_node.chunk_id)
+                            self.ghost.put(node.trie_node.chunk_id)
                         evict(tn)
                     elif self.num_tiers == 3:
                         node.freq = 0
@@ -149,7 +151,7 @@ class TieredTrieS3FIFOCache(TieredCache):
                 ln.depth = depth
                 child.linked_node = ln
                 node = child
-                if depth == 1 and cid in self.ghost:
+                if depth == 1 and self.ghost.exists(cid):
                     tier = self.tiers[1]
                 node.tier = tier
                 visited.append(node.linked_node)

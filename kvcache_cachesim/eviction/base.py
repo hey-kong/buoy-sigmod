@@ -11,6 +11,15 @@ class TrieNode:
         self.kv_bytes = 0
         self.tier = None
 
+    def get_path(self) -> list[int]:
+        path = []
+        node = self
+        while node is not None:
+            if node.chunk_id is not None:
+                path.append(node.chunk_id)
+            node = node.parent
+        return path[::-1]
+
 
 class LinkedNode:
     def __init__(self, trie_node=None):
