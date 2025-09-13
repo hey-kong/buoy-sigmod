@@ -15,14 +15,27 @@ from buoy.transfer.kvcache_io import extract_kvcache, save_kvcache_quantized, lo
 MODEL_PATH = "/data/llm/Llama-3.1-8B-Instruct"
 DEVICE = "cuda"
 
-INITIAL_PROMPT = """<|begin_of_text|>
-<|start_header_id|>system<|end_header_id|>
-You are a helpful assistant.<|eot_id|>
-<|start_header_id|>user<|end_header_id|>
-"""
-SUFFIX = """<|eot_id|>\n"
-<|start_header_id|>assistant<|end_header_id|>
-"""
+PROMPT_PREFIX_MAP = {
+    'llama': (
+        "<|begin_of_text|>\n"
+        "<|start_header_id|>system<|end_header_id|>\n"
+        "You are a helpful assistant.<|eot_id|>\n"
+        "<|start_header_id|>user<|end_header_id|>\n"
+    ),
+    'mistral': (
+        "<s>[INST] "
+    ),
+}
+
+PROMPT_SUFFIX_MAP = {
+    'llama': (
+        "<|eot_id|>\n"
+        "<|start_header_id|>assistant<|end_header_id|>\n"
+    ),
+    'mistral': (
+        " [/INST]"
+    ),
+}
 
 root_dir = "longbench"
 tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH)
@@ -32,7 +45,7 @@ model = AutoModelForCausalLM.from_pretrained(MODEL_PATH, dtype=torch.float16).to
 def query_prompt(context, query):
     return (
         f"{context}\n\n"
-        f"Given the above context, answer the question: {query}\n\n"
+        f"Given the above passages, answer the question: {query}\n\n"
         f"Only give me the answer and do not output any other words."
     )
 
@@ -108,7 +121,17 @@ for dataset in os.listdir(root_dir):
 
             prompt = query_prompt(context, query)
 
-            inputs = tokenizer(INITIAL_PROMPT + prompt, return_tensors="pt").to(DEVICE)
+            if "llama" in MODEL_PATH.lower():
+                model_key = "llama"
+            elif "mistral" in MODEL_PATH.lower():
+                model_key = "mistral"
+            else:
+                raise ValueError(f"Unknown model type from MODEL_PATH: {MODEL_PATH}")
+
+            prefix = PROMPT_PREFIX_MAP[model_key]
+            suffix = PROMPT_SUFFIX_MAP[model_key]
+
+            inputs = tokenizer(prefix + prompt, return_tensors="pt").to(DEVICE)
             cfg = CacheGenConfig.from_model_name(MODEL_PATH)
 
             # 1) 得到原生 prefix_cache
@@ -140,7 +163,7 @@ for dataset in os.listdir(root_dir):
             quant_cache = DynamicCache.from_legacy_cache(kv_layers)
 
             # test: with cache
-            new_inputs = tokenizer(INITIAL_PROMPT + prompt + SUFFIX, return_tensors="pt").to(model.device.type)
+            new_inputs = tokenizer(prefix + prompt + suffix, return_tensors="pt").to(model.device.type)
             with torch.no_grad():
                 output1 = model.generate(**new_inputs, past_key_values=prefix_cache, do_sample=False, use_cache=True,
                                          pad_token_id=tokenizer.eos_token_id,
@@ -152,7 +175,7 @@ for dataset in os.listdir(root_dir):
             ans1 = tokenizer.decode(generated_ids[input_length:], skip_special_tokens=True).strip()
 
             # test: with quant_cache
-            new_inputs = tokenizer(INITIAL_PROMPT + prompt + SUFFIX, return_tensors="pt").to(model.device.type)
+            new_inputs = tokenizer(prefix + prompt + suffix, return_tensors="pt").to(model.device.type)
             with torch.no_grad():
                 output2 = model.generate(**new_inputs, past_key_values=quant_cache, do_sample=False, use_cache=True,
                                          pad_token_id=tokenizer.eos_token_id,
