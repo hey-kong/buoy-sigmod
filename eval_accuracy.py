@@ -10,10 +10,11 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 
 from buoy.quantization.cachegen_basics import CacheGenConfig
 from buoy.quantization.kv_cache_quant import quantize_dynamic_cache, dequantize_dynamic_cache
-from buoy.transfer.kvcache_io import extract_kvcache, save_kvcache_quantized, load_kvcache_quantized
+from buoy.transfer.kvcache_io import alloc_cpu_buffer, move_cache_to_cpu, move_cache_to_gpu, save_kvcache_quantized, load_kvcache_quantized
 
 MODEL_PATH = "/data/llm/Llama-3.1-8B-Instruct"
 DEVICE = "cuda"
+DTYPE = torch.float16
 
 PROMPT_PREFIX_MAP = {
     'llama': (
@@ -39,7 +40,7 @@ PROMPT_SUFFIX_MAP = {
 
 root_dir = "longbench"
 tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH)
-model = AutoModelForCausalLM.from_pretrained(MODEL_PATH, dtype=torch.float16).to(DEVICE)
+model = AutoModelForCausalLM.from_pretrained(MODEL_PATH, dtype=DTYPE).to(DEVICE)
 
 
 def query_prompt(context, query):
@@ -143,7 +144,8 @@ for dataset in os.listdir(root_dir):
             kvcache_file_path = "./quant_cache.safetensors"
 
             # Step 1: 提取（在CPU上保留张量）
-            layers = extract_kvcache(prefix_cache, device=torch.device("cpu"))
+            buffer = alloc_cpu_buffer(prefix_cache)
+            move_cache_to_cpu(prefix_cache, buffer)
 
             # Step 2: 量化（CPU）
             pack = quantize_dynamic_cache(prefix_cache, cfg)
@@ -161,13 +163,14 @@ for dataset in os.listdir(root_dir):
 
             # Step 3: 还原 DynamicCache
             quant_cache = DynamicCache.from_legacy_cache(kv_layers)
+            move_cache_to_gpu(prefix_cache, device=torch.device(DEVICE))
 
             # test: with cache
-            new_inputs = tokenizer(prefix + prompt + suffix, return_tensors="pt").to(model.device.type)
+            new_inputs = tokenizer(prefix + prompt + suffix, return_tensors="pt").to(DEVICE)
             with torch.no_grad():
                 output1 = model.generate(**new_inputs, past_key_values=prefix_cache, do_sample=False, use_cache=True,
                                          pad_token_id=tokenizer.eos_token_id,
-                                         max_new_tokens=15)
+                                         max_new_tokens=50)
             if torch.cuda.is_available():
                 torch.cuda.synchronize()
             generated_ids = output1[0]
@@ -175,11 +178,11 @@ for dataset in os.listdir(root_dir):
             ans1 = tokenizer.decode(generated_ids[input_length:], skip_special_tokens=True).strip()
 
             # test: with quant_cache
-            new_inputs = tokenizer(prefix + prompt + suffix, return_tensors="pt").to(model.device.type)
+            new_inputs = tokenizer(prefix + prompt + suffix, return_tensors="pt").to(DEVICE)
             with torch.no_grad():
                 output2 = model.generate(**new_inputs, past_key_values=quant_cache, do_sample=False, use_cache=True,
                                          pad_token_id=tokenizer.eos_token_id,
-                                         max_new_tokens=15)
+                                         max_new_tokens=50)
             if torch.cuda.is_available():
                 torch.cuda.synchronize()
             generated_ids = output2[0]

@@ -40,14 +40,14 @@ class CacheGenConfig:
                         QuantizationSpec(
                             start_layer=0,
                             end_layer=config.num_hidden_layers,
-                            bins=256,
+                            bins=65536,  # float16
                         ),
                     ],
                     vspecs=[
                         QuantizationSpec(
                             start_layer=0,
                             end_layer=config.num_hidden_layers,
-                            bins=256,
+                            bins=65536,  # float16
                         ),
                     ],
                 )
@@ -55,19 +55,19 @@ class CacheGenConfig:
                 return CacheGenConfig(
                     nlayers=config.num_hidden_layers,
                     kspecs=[
-                        QuantizationSpec(start_layer=0, end_layer=10, bins=256),
+                        QuantizationSpec(start_layer=0, end_layer=10, bins=65536),  # float16
                         QuantizationSpec(
                             start_layer=10,
                             end_layer=config.num_hidden_layers,
-                            bins=16,
+                            bins=256,  # int8
                         ),
                     ],
                     vspecs=[
-                        QuantizationSpec(start_layer=0, end_layer=2, bins=256),
+                        QuantizationSpec(start_layer=0, end_layer=2, bins=65536),  # float16
                         QuantizationSpec(
                             start_layer=2,
                             end_layer=config.num_hidden_layers,
-                            bins=16,
+                            bins=256,  # int8
                         ),
                     ],
                 )

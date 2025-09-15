@@ -6,25 +6,48 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 
 from quantization.cachegen_basics import CacheGenConfig
 from quantization.kv_cache_quant import quantize_dynamic_cache, dequantize_dynamic_cache
-from transfer.kvcache_io import extract_kvcache, move_dynamic_cache_to_device, save_kvcache_quantized, load_kvcache_quantized
+from transfer.kvcache_io import alloc_cpu_buffer, move_cache_to_cpu, save_kvcache_quantized, load_kvcache_quantized, move_cache_to_gpu
 
 MODEL_PATH = "/data/llm/Llama-3.1-8B-Instruct"
 DEVICE = "cuda"
+DTYPE = torch.float16
 
-INITIAL_PROMPT = """<|begin_of_text|>
-<|start_header_id|>system<|end_header_id|>
-You are a helpful assistant.<|eot_id|>
-<|start_header_id|>user<|end_header_id|>
-"""
-default_prompt = "To be or not to be, that is the question. " * 1000
-SUFFIX = """<|eot_id|>\n"
-<|start_header_id|>assistant<|end_header_id|>
-"""
+PROMPT_PREFIX_MAP = {
+    'llama': (
+        "<|begin_of_text|>\n"
+        "<|start_header_id|>system<|end_header_id|>\n"
+        "You are a helpful assistant.<|eot_id|>\n"
+        "<|start_header_id|>user<|end_header_id|>\n"
+    ),
+    'mistral': (
+        "<s>[INST] "
+    ),
+}
+
+PROMPT_SUFFIX_MAP = {
+    'llama': (
+        "<|eot_id|>\n"
+        "<|start_header_id|>assistant<|end_header_id|>\n"
+    ),
+    'mistral': (
+        " [/INST]"
+    ),
+}
+
+if "llama" in MODEL_PATH.lower():
+    model_key = "llama"
+elif "mistral" in MODEL_PATH.lower():
+    model_key = "mistral"
+else:
+    raise ValueError(f"Unknown model type from MODEL_PATH: {MODEL_PATH}")
+prefix = PROMPT_PREFIX_MAP[model_key]
+suffix = PROMPT_SUFFIX_MAP[model_key]
+default_prompt = "Hi " * 4076
 
 tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH)
-model = AutoModelForCausalLM.from_pretrained(MODEL_PATH, dtype=torch.float16).to(DEVICE)
+model = AutoModelForCausalLM.from_pretrained(MODEL_PATH, dtype=DTYPE).to(DEVICE)
 
-inputs = tokenizer(INITIAL_PROMPT + default_prompt, return_tensors="pt").to(DEVICE)
+inputs = tokenizer(prefix + default_prompt, return_tensors="pt").to(DEVICE)
 cfg = CacheGenConfig.from_model_name(MODEL_PATH)
 
 # 1) 得到原生 prefix_cache
@@ -36,7 +59,8 @@ with torch.no_grad():
 kvcache_file_path = "./quant_cache.safetensors"
 
 # Step 1: 提取（在CPU上保留张量）
-layers = extract_kvcache(prefix_cache, device=torch.device("cpu"))
+buffer = alloc_cpu_buffer(prefix_cache)
+move_cache_to_cpu(prefix_cache, buffer)
 
 # Step 2: 量化（CPU）
 pack = quantize_dynamic_cache(prefix_cache, cfg)
@@ -54,10 +78,10 @@ kv_layers = dequantize_dynamic_cache(pack, device=torch.device(DEVICE))
 
 # Step 3: 还原 DynamicCache
 quant_cache = DynamicCache.from_legacy_cache(kv_layers)
-move_dynamic_cache_to_device(quant_cache, device=torch.device(DEVICE))
+move_cache_to_gpu(prefix_cache, device=torch.device(DEVICE))
 
 # test: with cache
-new_inputs = tokenizer(INITIAL_PROMPT + default_prompt + SUFFIX, return_tensors="pt").to(model.device.type)
+new_inputs = tokenizer(prefix + default_prompt + suffix, return_tensors="pt").to(DEVICE)
 if torch.cuda.is_available():
     torch.cuda.synchronize()
 start = time.perf_counter()
@@ -74,7 +98,7 @@ print("time:", end - start)
 print("text:", response)
 
 # test: with quant_cache
-new_inputs = tokenizer(INITIAL_PROMPT + default_prompt + SUFFIX, return_tensors="pt").to(model.device.type)
+new_inputs = tokenizer(prefix + default_prompt + suffix, return_tensors="pt").to(DEVICE)
 if torch.cuda.is_available():
     torch.cuda.synchronize()
 start = time.perf_counter()
@@ -91,7 +115,8 @@ print("time:", end - start)
 print("text:", response)
 
 # test: without cache
-new_inputs = tokenizer(INITIAL_PROMPT + default_prompt + SUFFIX, return_tensors="pt").to(model.device.type)
+new_inputs = tokenizer(prefix + default_prompt + suffix, return_tensors="pt").to(DEVICE)
+num_prompt_tokens = new_inputs["input_ids"].shape[1]
 if torch.cuda.is_available():
     torch.cuda.synchronize()
 start = time.perf_counter()
