@@ -1,5 +1,4 @@
 import json
-import math
 import argparse
 
 from tqdm import tqdm
@@ -66,13 +65,12 @@ def get_compression_rate(model_name: str, config_path: str = "modelconfig.json",
     L = mcfg["num_hidden_layers"]
 
     if L < 10:
-        specs = [(0, L, 256), (0, L, 256)]
+        specs = [(0, L, base_bits), (0, L, base_bits)]
     else:
-        specs = [(0, 10, 256), (10, L, 16), (0, 2, 256), (2, L, 16)]
+        specs = [(0, 10, base_bits), (10, L, 8), (0, 2, base_bits), (2, L, 8), ]
 
     total_bits, total_layers = 0, L * 2
-    for s, e, bins in specs:
-        bits = int(math.log2(bins))
+    for s, e, bits in specs:
         total_bits += (e - s) * bits
     avg_bits = total_bits / total_layers
     return avg_bits / base_bits
