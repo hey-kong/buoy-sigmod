@@ -23,7 +23,7 @@ def move_cache_to_cpu(dynamic_cache, buffer):
 
 
 def move_cache_to_gpu(dynamic_cache, device):
-    for i, layer in enumerate(dynamic_cache.layers):
+    for layer in dynamic_cache.layers:
         layer.keys = layer.keys.to(device)
         layer.values = layer.values.to(device)
 
@@ -42,11 +42,17 @@ def load_kvcache(cache_file_path: str) -> DynamicCache:
     cache = DynamicCache()
     for i in layer_ids:
         cache.update(
-            key_states=tensors[f"key_cache_{i}"].pin_memory(),
-            value_states=tensors[f"value_cache_{i}"].pin_memory(),
+            key_states=tensors[f"key_cache_{i}"],
+            value_states=tensors[f"value_cache_{i}"],
             layer_idx=i,
         )
     return cache
+
+
+def pin_kvcache(cache: DynamicCache):
+    for layer in cache.layers:
+        layer.keys = layer.keys.pin_memory()
+        layer.values = layer.values.pin_memory()
 
 
 def save_kvcache_quantized(pack, cache_file_path):
@@ -57,8 +63,11 @@ def save_kvcache_quantized(pack, cache_file_path):
     save_file(tensor_dict, cache_file_path)
 
 
-def load_kvcache_quantized(cache_file_path: str):
+def load_kvcache_quantized(cache_file_path: str) -> dict:
     pack = load_file(cache_file_path)
+    return pack
+
+
+def pin_kvcache_quantized(pack: dict):
     for k, v in pack.items():
         pack[k] = v.pin_memory()
-    return pack

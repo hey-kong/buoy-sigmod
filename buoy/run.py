@@ -6,7 +6,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 
 from quantization.cachegen_basics import CacheGenConfig
 from quantization.kv_cache_quant import quantize_dynamic_cache, dequantize_dynamic_cache
-from transfer.kvcache_io import alloc_cpu_buffer, move_cache_to_cpu, save_kvcache_quantized, load_kvcache_quantized, move_cache_to_gpu
+from transfer.kvcache_io import alloc_cpu_buffer, move_cache_to_cpu, move_cache_to_gpu, save_kvcache_quantized, load_kvcache_quantized, pin_kvcache_quantized
 
 MODEL_PATH = "/data/llm/Llama-3.1-8B-Instruct"
 DEVICE = "cuda"
@@ -72,6 +72,7 @@ save_kvcache_quantized(pack, kvcache_file_path)
 
 # Step 1: 只读量化数据
 pack = load_kvcache_quantized(kvcache_file_path)
+pin_kvcache_quantized(pack)
 
 # Step 2: 反量化（GPU）
 kv_layers = dequantize_dynamic_cache(pack, device=torch.device(DEVICE))
