@@ -129,16 +129,22 @@ class HotPrefixCache(TieredCache):
             next_tier = self.next_tier.get(tier)
 
             # Selective admission
-            if tier is self.tiers[0] and self.num_tiers != 3:
+            if tier is self.tiers[0]:
                 # Frequency threshold filtering
                 if node.freq < self.freq_threshold:
-                    evict(tn)
+                    if self.num_tiers == 2:
+                        evict(tn)
+                    elif self.num_tiers == 3:
+                        self._add_to_head(node, self.tiers[2])
                     continue
                 if self.cur_bytes[next_tier] >= self.max_bytes[next_tier]:
                     # Hotness comparison
                     comp_node = self._get_last(next_tier)
                     if node.freq * node.clock < comp_node.freq * comp_node.clock:
-                        evict(tn)
+                        if self.num_tiers == 2:
+                            evict(tn)
+                        elif self.num_tiers == 3:
+                            self._add_to_head(node, self.tiers[2])
                         continue
 
             if next_tier:

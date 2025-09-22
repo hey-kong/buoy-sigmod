@@ -9,7 +9,6 @@ class S3FIFOLinkedNode(LinkedNode):
         super().__init__(trie_node)
 
         self.freq = 0
-        self.depth = 0
 
 
 class TieredTrieS3FIFOCache(TieredCache):
@@ -38,7 +37,6 @@ class TieredTrieS3FIFOCache(TieredCache):
             self.tail[t].prev = self.head[t]
 
         self.root = TrieNode(None)
-        # Only store the evicted first prefix chunk
         self.ghost = Ghost(cap_dram // bytes_per_token // chunk_size)
 
     def _add_to_head(self, node: S3FIFOLinkedNode, tier: str):
@@ -70,18 +68,13 @@ class TieredTrieS3FIFOCache(TieredCache):
 
     def _demote_if_needed(self, tier: str):
         def evict(trie_node):
-            # Iteratively removes trie_node subtree and linked nodes.
-            stack = [trie_node]
-            while stack:
-                trie_node = stack.pop()
-                stack.extend(list(trie_node.children.values()))
-                linked_node = trie_node.linked_node
-                if linked_node is not None:
-                    self._remove_node(linked_node)
-                    trie_node.linked_node = None
-                if trie_node.parent is not None:
-                    del trie_node.parent.children[trie_node.chunk_id]
-                trie_node.parent = None
+            linked_node = trie_node.linked_node
+            if linked_node is not None:
+                self._remove_node(linked_node)
+                trie_node.linked_node = None
+            if trie_node.parent is not None:
+                del trie_node.parent.children[trie_node.chunk_id]
+            trie_node.parent = None
 
         while self.cur_bytes[tier] > self.max_bytes[tier]:
             node = self._pop_tail(tier)
@@ -96,8 +89,7 @@ class TieredTrieS3FIFOCache(TieredCache):
                     self._add_to_head(node, next_tier)
                 else:
                     if self.num_tiers == 2:
-                        if node.depth == 1:
-                            self.ghost.put(node.trie_node.chunk_id)
+                        self.ghost.put(node.trie_node.chunk_id)
                         evict(tn)
                     elif self.num_tiers == 3:
                         node.freq = 0
@@ -135,10 +127,8 @@ class TieredTrieS3FIFOCache(TieredCache):
 
         node = self.root
         visited = []
-        depth = 0
         tier = self.tiers[0]
         for cid, cnt in zip(chunk_ids, token_counts):
-            depth += 1
             sz = cnt * self.bytes_per_token
 
             if cid not in node.children:
@@ -148,10 +138,9 @@ class TieredTrieS3FIFOCache(TieredCache):
                 child.kv_bytes = sz
 
                 ln = S3FIFOLinkedNode(child)
-                ln.depth = depth
                 child.linked_node = ln
                 node = child
-                if depth == 1 and self.ghost.exists(cid):
+                if self.ghost.exists(cid):
                     tier = self.tiers[1]
                 node.tier = tier
                 visited.append(node.linked_node)
