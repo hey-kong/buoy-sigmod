@@ -2,12 +2,12 @@ import json
 import random
 import string
 
+from tqdm import tqdm
+
 jsonl_file = "traces/qwen_traceA_blksz_16.jsonl"
 
 def random_word():
-    vocab = string.ascii_lowercase
-    length = random.randint(1, 1)
-    return ''.join(random.choice(vocab) for _ in range(length))
+    return random.choice(string.ascii_lowercase)
 
 
 def random_chunk(num_words):
@@ -15,10 +15,10 @@ def random_chunk(num_words):
 
 
 def build_chunk_map(jsonl_file):
-    chunk_size = 16
+    chunk_size = 256
     chunk_map = {}
     with open(jsonl_file, "r", encoding="utf-8") as f:
-        for line in f:
+        for line in tqdm(f):
             item = json.loads(line)
             input_len = item["input_length"]
             hash_ids = item["hash_ids"]
@@ -38,6 +38,11 @@ def build_chunk_map(jsonl_file):
     return chunk_map
 
 
+def save_chunk_map(jsonl_file, dst_file):
+    chunk_map = build_chunk_map(jsonl_file)
+    json.dump(chunk_map, open(dst_file, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+
+
 def build_requests(jsonl_file, chunk_map):
     requests = []
     with open(jsonl_file, "r", encoding="utf-8") as f:
@@ -47,7 +52,3 @@ def build_requests(jsonl_file, chunk_map):
             request_str = " ".join(chunks)
             requests.append(request_str)
     return requests
-
-
-chunk_map = build_chunk_map(jsonl_file)
-requests = build_requests(jsonl_file, chunk_map)

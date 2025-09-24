@@ -1,57 +1,50 @@
 import abc
 import os
 import shutil
-from typing import List, Optional, Tuple
+from typing import List, Optional
 
-import torch
+from transformers.cache_utils import DynamicCache
 
-class CacheChunk:
+import kvcache_io
+import ttft_timer
+
+
+class TrieNode:
     def __init__(
             self,
-            chunk_id_hash: str,
-            location: str,
-            kv_data: Optional[List[Tuple[torch.Tensor, torch.Tensor]]] = None
+            chunk_id_hash: Optional[str],
+            parent = None,
         ):
         self.chunk_id_hash = chunk_id_hash
-        self.location = location
-        self.kv_data = kv_data
+        self.parent = parent
+        self.children = {}
+        self.linked_node = None
+        self.location = None
+        self.cache = None
+        self.has_cache = False
+        self.kv_bytes = 0
+
+
+class LinkedNode:
+    def __init__(self, trie_node=None):
         self.prev = None
         self.next = None
-        if kv_data is not None:
-            self.token_count = kv_data[0][0].shape[-2]
-            self.kv_bytes = sum(k.element_size() * k.nelement() + v.element_size() * v.nelement() for k, v in kv_data)
-        else:
-            self.token_count = 0
-            self.kv_bytes = 0
+        self.trie_node: Optional[TrieNode] = trie_node
 
-class ChunkLinkedList:
-    def __init__(self):
-        self.head = CacheChunk("head", None)
-        self.tail = CacheChunk("tail", None)
-        self.head.next = self.tail
-        self.tail.prev = self.head
-    
-    def add_to_head(self, chunk: CacheChunk):
-        chunk.prev = self.head
-        chunk.next = self.head.next
-        self.head.next.prev = chunk
-        self.head.next = chunk
-    
-    def remove(self, chunk: CacheChunk):
-        chunk.prev.next = chunk.next
-        chunk.next.prev = chunk.prev
-        chunk.prev = None
-        chunk.next = None
-    
-    def get_tail(self) -> Optional[CacheChunk]:
-        if self.tail.prev == self.head:
-            return None
-        tail_chunk = self.tail.prev
-        return tail_chunk
 
 class TieredCache(abc.ABC):
-    def __init__(self, ssd_path, hbm_capacity, dram_capacity, ssd_capacity):
+    def __init__(
+            self,
+            device: str,
+            bytes_per_token: int,
+            ssd_path: str,
+            hbm_capacity: int,
+            dram_capacity: int,
+            ssd_capacity: int
+        ):
         self.tiers = ['hbm', 'dram', 'ssd']
+        self.device = device
+        self.bytes_per_token = bytes_per_token
         if os.path.exists(ssd_path):
             shutil.rmtree(ssd_path)
         os.makedirs(ssd_path)
@@ -62,61 +55,105 @@ class TieredCache(abc.ABC):
             'ssd': ssd_capacity
         }
         self.cur_bytes = {tier: 0 for tier in self.tiers}
-        self.kv_chunks = {tier: ChunkLinkedList() for tier in self.tiers}
+        self.node_map = {}
     
-    # only move data, should not be called without kv_chunks and cur_bytes change
-    def move_chunk_data(self, chunk: CacheChunk, dest_tier):
-        source_tier = chunk.location
-        path = os.path.join(self.ssd_path, chunk.chunk_id_hash + '.pt')
-        if source_tier in ['hbm', 'dram'] and dest_tier == 'ssd':
-            torch.save(chunk.kv_data, path)
-            chunk.kv_data = None
-        elif source_tier == 'hbm' and dest_tier == 'dram':
-            chunk.kv_data = [ (k.cpu(), v.cpu()) for k, v in chunk.kv_data ]
-        elif source_tier == 'dram' and dest_tier == 'hbm':
-            chunk.kv_data = [ (k.cuda(), v.cuda()) for k, v in chunk.kv_data ]
-        elif source_tier == 'ssd' and dest_tier == 'hbm':
-            chunk.kv_data = torch.load(path, map_location='cuda')
-            os.remove(path)
-        elif source_tier == 'ssd' and dest_tier == 'dram':
-            chunk.kv_data = torch.load(path)
-            os.remove(path)
-        chunk.location = dest_tier
+    def _move_data(self, trie_node: TrieNode, dest_tier):
+        source_tier = trie_node.location
+
+        if source_tier == dest_tier:
+            return
+
+        trie_node.location = dest_tier
+        self.cur_bytes[dest_tier] += trie_node.kv_bytes
+        if source_tier not in self.tiers or trie_node.kv_bytes == 0:
+            return
+        self.cur_bytes[source_tier] -= trie_node.kv_bytes
+        
+        path = os.path.join(self.ssd_path, trie_node.chunk_id_hash + '.pt')
+        if source_tier == 'hbm':
+            with ttft_timer.without_timing():
+                buffer = kvcache_io.alloc_cpu_buffer(trie_node.cache)
+            kvcache_io.move_cache_to_cpu(trie_node.cache, buffer)
+            with ttft_timer.without_timing():
+                kvcache_io.pin_kvcache(trie_node.cache)
+        if dest_tier == 'ssd':
+            kvcache_io.save_kvcache(trie_node.cache, path)
+            trie_node.cache = None
+        if source_tier == 'ssd':
+            trie_node.cache = kvcache_io.load_kvcache(path)
+            with ttft_timer.without_timing():
+                kvcache_io.pin_kvcache(trie_node.cache)
+        if dest_tier == 'hbm':
+            kvcache_io.move_cache_to_gpu(trie_node.cache, self.device)
     
-    def move_chunk_to_head(self, chunk: CacheChunk, dest_tier):
-        source_tier = chunk.location
-        self.move_chunk_data(chunk, dest_tier)
-        self.kv_chunks[source_tier].remove(chunk)
-        self.kv_chunks[dest_tier].add_to_head(chunk)
-        self.cur_bytes[source_tier] -= chunk.kv_bytes
-        self.cur_bytes[dest_tier] += chunk.kv_bytes
+    def _remove_data(self, trie_node: TrieNode):
+        tier = trie_node.location
+        assert tier in self.tiers
+        if tier == 'ssd':
+            path = os.path.join(self.ssd_path, trie_node.chunk_id_hash + '.pt')
+            if os.path.exists(path):
+                os.remove(path)
+        else:
+            trie_node.cache = None
+        self.cur_bytes[tier] -= trie_node.kv_bytes
+        trie_node.has_cache = False
+        trie_node.location = None
     
-    def get_chunk(self, chunk_id_hash) -> Optional[CacheChunk]:
+    def _make_cache_list(self, nodes: List[TrieNode]) -> List[Optional[DynamicCache]]:
+        copied: List[Optional[DynamicCache]] = []
+
+        for n in nodes:
+            if not n.has_cache:
+                copied.append(None)
+                continue
+
+            assert n.location in self.tiers
+            cache = n.cache
+
+            if n.location == 'ssd':
+                path = os.path.join(self.ssd_path, n.chunk_id_hash + '.pt')
+                cache = kvcache_io.load_kvcache(path)
+                with ttft_timer.without_timing():
+                    kvcache_io.pin_kvcache(cache)
+            
+            new_cache = DynamicCache()
+            for i, layer in enumerate(cache.layers):
+                if n.location == 'hbm':
+                    k = layer.keys.detach().clone()
+                    v = layer.values.detach().clone()
+                    new_cache.update(k, v, i)
+                else:
+                    k = layer.keys.detach().clone().to(self.device)
+                    v = layer.values.detach().clone().to(self.device)
+                    new_cache.update(k, v, i)
+            copied.append(new_cache)
+        
+        return copied
+    
+    def store(self, chunk_id_hash: str, kv_data: DynamicCache):
+        node: TrieNode = self.node_map.get(chunk_id_hash, None)
+        if node is None:
+            return
+        assert node.kv_bytes > 0 and not node.has_cache
+        node.cache = kv_data
+        node.has_cache = True
+
+        with ttft_timer.without_timing():
+            if node.location in ['dram', 'ssd']:
+                buffer = kvcache_io.alloc_cpu_buffer(node.cache)
+                kvcache_io.move_cache_to_cpu(node.cache, buffer)
+                kvcache_io.pin_kvcache(node.cache)
+            if node.location == 'ssd':
+                path = os.path.join(self.ssd_path, chunk_id_hash + '.pt')
+                kvcache_io.save_kvcache(node.cache, path)
+                node.cache = None
+    
+    def print_status(self, chat_id: int):
+        print()
+        print(f'{chat_id + 1} chat requests processed, cache status:')
         for tier in self.tiers:
-            c = self.kv_chunks[tier].head.next
-            while c != self.kv_chunks[tier].tail:
-                if c.chunk_id_hash == chunk_id_hash:
-                    return c
-                c = c.next
-        return None
-    
-    def add_chunk(self, chunk_id_hash, location, kv_data):
-        chunk = CacheChunk(chunk_id_hash, location, kv_data)
-        self.kv_chunks[location].add_to_head(chunk)
-        self.cur_bytes[location] += chunk.kv_bytes
-        return chunk
-    
-    def remove_chunk(self, chunk: CacheChunk):
-        self.kv_chunks[chunk.location].remove(chunk)
-        self.cur_bytes[chunk.location] -= chunk.kv_bytes
-        if chunk.location == 'ssd':
-            path = os.path.join(self.ssd_path, chunk.chunk_id_hash + '.pt')
-            os.remove(path)
-    
+            print(f'{tier}: {self.cur_bytes[tier] / 2**30} GB/{self.max_bytes[tier] / 2**30} GB')
+
     @abc.abstractmethod
-    def on_access(self, chunk_id_hash):
-        raise NotImplementedError
-    
-    @abc.abstractmethod
-    def store(self, chunk_id_hash, kv_data):
+    def on_access(self, chunk_id_hashes: List[str], token_counts: List[int]) -> List[TrieNode]:
         raise NotImplementedError
