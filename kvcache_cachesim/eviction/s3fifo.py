@@ -189,7 +189,7 @@ class TieredTrieS3FIFOCache(TieredCache):
 
 
 if __name__ == "__main__":
-    cache = TieredTrieS3FIFOCache(bytes_per_token=1, cap_hbm=1024, cap_dram=512, cap_ssd=0)
+    cache = TieredTrieS3FIFOCache(bytes_per_token=1, cap_hbm=1024, cap_dram=512, cap_ssd=0, chunk_size=256)
     cache.access_prefix([0, 1], [256, 256])
     cache.print_trie()
     cache.print_cache()  # ➜ [0, 1]

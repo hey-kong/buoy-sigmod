@@ -107,7 +107,7 @@ class TieredTrieBuoyCache(TieredCache):
             # HBM + DRAM
             if self.num_tiers == 2:
                 if is_tier_leaf(tn) and node.grace == 0:
-                    if not node.visited and (len(tn.parent.children) > 1 or tn.parent == self.root):
+                    if not node.visited and (tn.parent == self.root or tn.parent.linked_node.visited):
                         self.ghost.put(tn.chunk_id, tn.get_path())
                     if node.visited and tn.parent.linked_node is not None:
                         tn.parent.linked_node.grace += 1
@@ -164,17 +164,16 @@ class TieredTrieBuoyCache(TieredCache):
                 node = BuoyLinkedNode(child)
                 child.linked_node = node
                 if first_new:
-                    if (self.ghost.exists(child.chunk_id, child.get_path())) or (
-                            child.parent is not self.root and len(child.parent.children) == 1):
-                        node.visited = True
+                    if self.ghost.exists(child.chunk_id, child.get_path()):
                         node.grace = self.max_grace
+                        node.visited = True
                     else:
-                        node.visited = False
                         node.grace = 0
+                        node.visited = False
                     first_new = False
                 else:
-                    node.visited = child.parent.linked_node.visited
                     node.grace = child.parent.linked_node.grace
+                    node.visited = child.parent.linked_node.visited
                 tn = child
             else:
                 tn = tn.children[cid]
@@ -190,7 +189,7 @@ class TieredTrieBuoyCache(TieredCache):
 
             nodes.append(tn.linked_node)
 
-        # Reorder visited nodes to preserve prefix order
+        # Reverse nodes to preserve prefix order
         for node in reversed(nodes):
             self._add_to_head(node, node.trie_node.tier)
 
@@ -220,21 +219,35 @@ class TieredTrieBuoyCache(TieredCache):
 
 
 if __name__ == "__main__":
-    cache = TieredTrieBuoyCache(bytes_per_token=1, cap_hbm=512, cap_dram=512, cap_ssd=512)
-    cache.access_prefix([0, 1], [256, 256])
+    cache = TieredTrieBuoyCache(bytes_per_token=1, cap_hbm=512, cap_dram=1024, cap_ssd=0, chunk_size=256)
+    cache.access_prefix([0, 1, 2, 3], [256, 256, 256, 256])
     cache.print_trie()
     cache.print_cache()
+    cache.ghost.print_ghost()
 
-    cache.access_prefix([1, 2, 3], [256, 256, 256])
+    cache.access_prefix([0, 4, 5, 6], [256, 256, 256, 256])
     cache.print_trie()
     cache.print_cache()
+    cache.ghost.print_ghost()
 
-    cache.access_prefix([0, 2], [256, 256])
+    cache.access_prefix([7, 8, 9, 10], [256, 256, 256, 256])
     cache.print_trie()
     cache.print_cache()
+    cache.ghost.print_ghost()
 
-    cache.access_prefix([1, 2, 4, 3], [256, 256, 256, 256])
+    cache.access_prefix([7, 11, 12, 13], [256, 256, 256, 256])
     cache.print_trie()
     cache.print_cache()
+    cache.ghost.print_ghost()
+
+    cache.access_prefix([0, 1, 2, 14], [256, 256, 256, 256])
+    cache.print_trie()
+    cache.print_cache()
+    cache.ghost.print_ghost()
+
+    cache.access_prefix([7, 8, 9, 15], [256, 256, 256, 256])
+    cache.print_trie()
+    cache.print_cache()
+    cache.ghost.print_ghost()
 
     cache.print_stats()

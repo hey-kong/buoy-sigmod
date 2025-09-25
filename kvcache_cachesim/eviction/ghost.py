@@ -24,6 +24,16 @@ class Ghost:
         v = tuple(value) if value is not None else None
         return v in self.data[key]
 
+    def print_ghost(self):
+        if not self.data:
+            print("Ghost contents: None")
+            return
+
+        print("Ghost contents:")
+        for k, v in self.data.items():
+            vals = list(v) if v else []
+            print(f"  {k}: {vals}")
+
     def __contains__(self, key: int) -> bool:
         return key in self.data
 
