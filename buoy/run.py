@@ -4,9 +4,9 @@ import torch
 from transformers.cache_utils import DynamicCache
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
-from quantization.cachegen_basics import CacheGenConfig
-from quantization.kv_cache_quant import quantize_dynamic_cache, dequantize_dynamic_cache
-from transfer.kvcache_io import alloc_cpu_buffer, move_cache_to_cpu, move_cache_to_gpu, save_kvcache_quantized, load_kvcache_quantized, pin_kvcache_quantized
+from transfer.quantization.cachegen_basics import CacheGenConfig
+from transfer.quantization.kvcache_quant import quantize_dynamic_cache, dequantize_dynamic_cache
+from transfer.kvcache_io import alloc_cpu_buffer, move_cache_to_cpu, move_cache_to_gpu, save_kvcache_quantized, load_kvcache_quantized, pin_kvcache_quantized, move_pack_to_gpu
 
 MODEL_PATH = "/data/llm/Llama-3.1-8B-Instruct"
 DEVICE = "cuda"
@@ -74,10 +74,13 @@ save_kvcache_quantized(pack, kvcache_file_path)
 pack = load_kvcache_quantized(kvcache_file_path)
 pin_kvcache_quantized(pack)
 
-# Step 2: 反量化（GPU）
-kv_layers = dequantize_dynamic_cache(pack, device=torch.device(DEVICE))
+# Step 2: 传输到 GPU
+move_pack_to_gpu(pack, device=torch.device(DEVICE))
 
-# Step 3: 还原 DynamicCache
+# Step 3: 反量化
+kv_layers = dequantize_dynamic_cache(pack)
+
+# Step 4: 还原 DynamicCache
 quant_cache = DynamicCache.from_legacy_cache(kv_layers)
 move_cache_to_gpu(prefix_cache, device=torch.device(DEVICE))
 

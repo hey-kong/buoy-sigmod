@@ -103,7 +103,6 @@ def quantize_dynamic_cache(cache, config) -> Dict[str, torch.Tensor]:
 
 def dequantize_dynamic_cache(
         pack: Dict[str, torch.Tensor],
-        device: torch.device = torch.device("cuda"),
         out_dtype: torch.dtype = torch.float16,
 ) -> List[Tuple[torch.Tensor, torch.Tensor]]:
     nL = int(pack["num_layers"][0].item())
@@ -118,17 +117,12 @@ def dequantize_dynamic_cache(
     for i in range(nL):
         kb, vb = kb_list[i], vb_list[i]
 
-        qk_raw = pack[f"k{i}_q"]
-        qv_raw = pack[f"v{i}_q"]
+        qk = pack[f"k{i}_q"]
+        qv = pack[f"v{i}_q"]
 
-        if not qk_raw.is_pinned():
-            qk_raw = qk_raw.pin_memory()
-        qk = qk_raw.to(device)
         if kb == 256:
             sk = pack[f"k{i}_scale"]
-            if not sk.is_pinned():
-                sk = sk.pin_memory()
-            sk = sk.to(device).to(torch.float32).unsqueeze(-1)
+            sk = sk.to(torch.float32).unsqueeze(-1)
             nt_k = sk.numel()
             nc_k = qk.numel() // nt_k
             k_flat = dequant(kb, qk.view(nt_k, nc_k), sk)
@@ -137,14 +131,9 @@ def dequantize_dynamic_cache(
         else:
             raise ValueError(f"Unsupported key bins={kb}")
 
-        if not qv_raw.is_pinned():
-            qv_raw = qv_raw.pin_memory()
-        qv = qv_raw.to(device)
         if vb == 256:
             sv = pack[f"v{i}_scale"]
-            if not sv.is_pinned():
-                sv = sv.pin_memory()
-            sv = sv.to(device).to(torch.float32).unsqueeze(-1)
+            sv = sv.to(torch.float32).unsqueeze(-1)
             nt_v = sv.numel()
             nc_v = qv.numel() // nt_v
             v_flat = dequant(vb, qv.view(nt_v, nc_v), sv)

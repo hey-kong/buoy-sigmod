@@ -24,8 +24,8 @@ def move_cache_to_cpu(dynamic_cache, buffer):
 
 def move_cache_to_gpu(dynamic_cache, device):
     for layer in dynamic_cache.layers:
-        layer.keys = layer.keys.to(device)
-        layer.values = layer.values.to(device)
+        layer.keys = layer.keys.to(device, non_blocking=True)
+        layer.values = layer.values.to(device, non_blocking=True)
 
 
 def save_kvcache(c: DynamicCache, cache_file_path: str):
@@ -71,3 +71,18 @@ def load_kvcache_quantized(cache_file_path: str) -> dict:
 def pin_kvcache_quantized(pack: dict):
     for k, v in pack.items():
         pack[k] = v.pin_memory()
+
+
+def move_pack_to_gpu(pack, device):
+    nL = int(pack["num_layers"][0].item())
+    kb_list = pack["key_bins"].int().tolist()
+    vb_list = pack["val_bins"].int().tolist()
+
+    for i in range(nL):
+        pack[f"k{i}_q"] = pack[f"k{i}_q"].to(device, non_blocking=True)
+        if kb_list[i] == 256 and f"k{i}_scale" in pack:
+            pack[f"k{i}_scale"] = pack[f"k{i}_scale"].to(device, non_blocking=True)
+
+        pack[f"v{i}_q"] = pack[f"v{i}_q"].to(device, non_blocking=True)
+        if vb_list[i] == 256 and f"v{i}_scale" in pack:
+            pack[f"v{i}_scale"] = pack[f"v{i}_scale"].to(device, non_blocking=True)
