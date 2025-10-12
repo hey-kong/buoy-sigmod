@@ -3,6 +3,7 @@ import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from transformers.cache_utils import DynamicCache, DynamicLayer
 
+
 class ModelRunner:
     def __init__(self, model, device, ssd_path, bytes_per_token, hbm_size, dram_size, ssd_size, policy: str, chunk_map):
         self.model = AutoModelForCausalLM.from_pretrained(model, dtype='auto').to(device)
@@ -26,6 +27,67 @@ class ModelRunner:
                 hbm_capacity=hbm_size,
                 dram_capacity=dram_size,
                 ssd_capacity=ssd_size
+            )
+        elif policy.lower() == 'fifo':
+            from cache_policies.fifo import TieredFIFOCache
+            self.cache = TieredFIFOCache(
+                device=device,
+                bytes_per_token=bytes_per_token,
+                ssd_path=ssd_path,
+                hbm_capacity=hbm_size,
+                dram_capacity=dram_size,
+                ssd_capacity=ssd_size
+            )
+        elif policy.lower() == 'radix_attention':
+            from cache_policies.radix_attention import RadixAttentionCache
+            self.cache = RadixAttentionCache(
+                device=device,
+                bytes_per_token=bytes_per_token,
+                ssd_path=ssd_path,
+                hbm_capacity=hbm_size,
+                dram_capacity=dram_size,
+                ssd_capacity=ssd_size
+            )
+        elif policy.lower() == 'wa':
+            from cache_policies.wa import TieredWACache
+            self.cache = TieredWACache(
+                device=device,
+                bytes_per_token=bytes_per_token,
+                ssd_path=ssd_path,
+                hbm_capacity=hbm_size,
+                dram_capacity=dram_size,
+                ssd_capacity=ssd_size
+            )
+        elif policy.lower() == 'pgdsf':
+            from cache_policies.pgdsf import TieredPGDSFCache
+            self.cache = TieredPGDSFCache(
+                device=device,
+                bytes_per_token=bytes_per_token,
+                ssd_path=ssd_path,
+                hbm_capacity=hbm_size,
+                dram_capacity=dram_size,
+                ssd_capacity=ssd_size
+            )
+        elif policy.lower() == 'hotprefix':
+            from cache_policies.hotprefix import HotPrefixCache
+            self.cache = HotPrefixCache(
+                device=device,
+                bytes_per_token=bytes_per_token,
+                ssd_path=ssd_path,
+                hbm_capacity=hbm_size,
+                dram_capacity=dram_size,
+                ssd_capacity=ssd_size
+            )
+        elif policy.lower() == 's3fifo':
+            from cache_policies.s3fifo import TieredS3FIFOCache
+            self.cache = TieredS3FIFOCache(
+                device=device,
+                bytes_per_token=bytes_per_token,
+                ssd_path=ssd_path,
+                hbm_capacity=hbm_size,
+                dram_capacity=dram_size,
+                ssd_capacity=ssd_size,
+                chunk_size=256
             )
         else:
             raise ValueError(policy)
@@ -84,6 +146,7 @@ class ModelRunner:
         
         new_token = self.tokenizer(" ", return_tensors="pt", add_special_tokens=False).to('cuda')
         full_input_ids = torch.cat([full_input_ids, new_token['input_ids']], dim=1)
+
         self.model.generate(
             full_input_ids,
             attention_mask=full_attention_mask,
@@ -93,7 +156,7 @@ class ModelRunner:
             pad_token_id=self.tokenizer.eos_token_id
         )
 
-        if chat_id % 1000 == 999:
+        if chat_id % 100 == 99:
             self.cache.print_status(chat_id)
         
         return sum(token_cnts), hit_string

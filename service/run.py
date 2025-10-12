@@ -7,7 +7,7 @@ from model_runner import ModelRunner
 import ttft_timer
 
 DEVICE = 'cuda'
-SSD_PATH = '/data/jrj'
+SSD_PATH = '' # fill in your SSD path here
 BYTES_PER_TOKEN = 204800 # 131072 for llama3.1-8b, 204800 for mistral-24b
 
 if __name__ == "__main__":

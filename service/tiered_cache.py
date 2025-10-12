@@ -57,17 +57,21 @@ class TieredCache(abc.ABC):
         self.cur_bytes = {tier: 0 for tier in self.tiers}
         self.node_map = {}
     
-    def _move_data(self, trie_node: TrieNode, dest_tier):
+    def _move_data(self, trie_node: TrieNode, dest_tier: str, change_bytes: bool = True):
         source_tier = trie_node.location
 
         if source_tier == dest_tier:
             return
 
         trie_node.location = dest_tier
-        self.cur_bytes[dest_tier] += trie_node.kv_bytes
+        if change_bytes:
+            self.cur_bytes[dest_tier] += trie_node.kv_bytes
         if source_tier not in self.tiers or trie_node.kv_bytes == 0:
             return
-        self.cur_bytes[source_tier] -= trie_node.kv_bytes
+        if change_bytes:
+            self.cur_bytes[source_tier] -= trie_node.kv_bytes
+        if trie_node.has_cache is False:
+            return
         
         path = os.path.join(self.ssd_path, trie_node.chunk_id_hash + '.pt')
         if source_tier == 'hbm':
@@ -149,8 +153,7 @@ class TieredCache(abc.ABC):
                 node.cache = None
     
     def print_status(self, chat_id: int):
-        print()
-        print(f'{chat_id + 1} chat requests processed, cache status:')
+        print(f'\n{chat_id + 1} chat requests processed, cache status:')
         for tier in self.tiers:
             print(f'{tier}: {self.cur_bytes[tier] / 2**30} GB/{self.max_bytes[tier] / 2**30} GB')
 

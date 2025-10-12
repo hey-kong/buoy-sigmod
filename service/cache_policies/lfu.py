@@ -12,16 +12,16 @@ class LFULinkedNode(LinkedNode):
 
 
 class TieredLFUCache(TieredCache):
-    def __init__(self, bytes_per_token, ssd_path, hbm_capacity, dram_capacity, ssd_capacity):
-        super().__init__(bytes_per_token, ssd_path, hbm_capacity, dram_capacity, ssd_capacity)
+    def __init__(self, device, bytes_per_token, ssd_path, hbm_capacity, dram_capacity, ssd_capacity):
+        super().__init__(device, bytes_per_token, ssd_path, hbm_capacity, dram_capacity, ssd_capacity)
         
         self.head = {}
         self.tail = {}
         for t in self.tiers:
             head_trie_node = TrieNode(None)
-            head_trie_node.tier = t
+            head_trie_node.location = t
             tail_trie_node = TrieNode(None)
-            tail_trie_node.tier = t
+            tail_trie_node.location = t
 
             self.head[t] = LFULinkedNode(head_trie_node)
             self.tail[t] = LFULinkedNode(tail_trie_node)
@@ -33,7 +33,7 @@ class TieredLFUCache(TieredCache):
         self.freq_buckets = {}
         self.dummy = LFULinkedNode(TrieNode(None))
         self.dummy.freq = 0
-        self._add_to_head(self.dummy, self.tiers[0])
+        self._add_to_head(self.dummy, 'hbm')
         self.freq_buckets[0] = self.dummy
     
     def _add_to_head(self, node: LFULinkedNode, tier: str):
@@ -53,19 +53,18 @@ class TieredLFUCache(TieredCache):
                 node.next = first
                 first.prev.next = node
                 first.prev = node
-                tier = first.trie_node.tier
-                node.trie_node.tier = tier
+                tier = first.trie_node.location
 
-                self._move_data(node.trie_node, first.trie_node.tier)
+                self._move_data(node.trie_node, tier)
                 self.freq_buckets[freq] = node
                 return
     
     def _get_next(self, ln: LFULinkedNode):
-        if ln.next is not self.tail[ln.trie_node.tier]:
+        if ln.next is not self.tail[ln.trie_node.location]:
             return ln.next
-        if ln.trie.node.tier == 'hbm' and self.head['dram'].next is not self.tail['dram']:
+        if ln.trie_node.location == 'hbm' and self.head['dram'].next is not self.tail['dram']:
             return self.head['dram'].next
-        if ln.trie.node.tier in ['hbm', 'dram'] and self.head['ssd'].next is not self.tail['ssd']:
+        if ln.trie_node.location in ['hbm', 'dram'] and self.head['ssd'].next is not self.tail['ssd']:
             return self.head['ssd'].next
         return None
     
@@ -106,8 +105,8 @@ class TieredLFUCache(TieredCache):
                     self._add_to_head(node, 'ssd')
                 else:
                     self._remove_data(tn)
-                    if tn.parent:
-                        del tn.parent.children[tn.chunk_id_hash]
+                    assert tn.parent
+                    del tn.parent.children[tn.chunk_id_hash]
                     tn.linked_node = None
                     tn.parent = None
                     del self.node_map[tn.chunk_id_hash]
@@ -129,20 +128,17 @@ class TieredLFUCache(TieredCache):
                 node = child
             else:
                 node = node.children[cid]
-                if node.linked_node:
-                    self._temp_remove_node(node.linked_node)
-                    node.linked_node.freq += 1
-                else:
-                    linked_node = LFULinkedNode(node)
-                    node.linked_node = linked_node
+                self._temp_remove_node(node.linked_node)
+                node.linked_node.freq += 1
             
             visited_nodes.append(node)
         
-        caches = self._make_cache_list(visited_nodes)
-
         for n in reversed(visited_nodes):
             self._insert_by_freq(n.linked_node)
         
-        self._demote_if_needed()
+        caches = self._make_cache_list(visited_nodes)
+        
+        with ttft_timer.without_timing():
+            self._demote_if_needed()
 
         return caches
