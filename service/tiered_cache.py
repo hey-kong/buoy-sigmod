@@ -57,18 +57,18 @@ class TieredCache(abc.ABC):
         self.cur_bytes = {tier: 0 for tier in self.tiers}
         self.node_map = {}
     
-    def _move_data(self, trie_node: TrieNode, dest_tier: str, change_bytes: bool = True):
+    def _move_data(self, trie_node: TrieNode, dest_tier: str, modify_bytes: bool = True):
         source_tier = trie_node.location
 
         if source_tier == dest_tier:
             return
 
         trie_node.location = dest_tier
-        if change_bytes:
+        if modify_bytes:
             self.cur_bytes[dest_tier] += trie_node.kv_bytes
         if source_tier not in self.tiers or trie_node.kv_bytes == 0:
             return
-        if change_bytes:
+        if modify_bytes:
             self.cur_bytes[source_tier] -= trie_node.kv_bytes
         if trie_node.has_cache is False:
             return

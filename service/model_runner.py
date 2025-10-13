@@ -156,7 +156,7 @@ class ModelRunner:
             pad_token_id=self.tokenizer.eos_token_id
         )
 
-        if chat_id % 100 == 99:
+        if chat_id % 1000 == 999:
             self.cache.print_status(chat_id)
         
         return sum(token_cnts), hit_string

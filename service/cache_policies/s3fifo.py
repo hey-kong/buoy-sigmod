@@ -5,29 +5,6 @@ from tiered_cache import TrieNode, LinkedNode, TieredCache
 import ttft_timer
 
 
-class Ghost:
-    def __init__(self, capacity: int):
-        self.capacity = capacity
-        self.data: OrderedDict[int, Set[Optional[Tuple[int, ...]]]] = OrderedDict()
-
-    def put(self, key: int, value: Optional[List[int]] = None):
-        if key not in self.data:
-            self.data[key] = set()
-        self.data[key].add(Tuple(value) if value is not None else None)
-
-        if len(self.data) > self.capacity:
-            self.data.popitem(last=False)
-
-    def get(self, key: int) -> Optional[Set[Optional[Tuple[int, ...]]]]:
-        return self.data.get(key, None)
-
-    def exists(self, key: int, value: Optional[List[int]] = None) -> bool:
-        if key not in self.data:
-            return False
-        v = Tuple(value) if value is not None else None
-        return v in self.data[key]
-
-
 class S3FIFOLinkedNode(LinkedNode):
     def __init__(self, trie_node=None):
         super().__init__(trie_node)
@@ -45,8 +22,6 @@ class TieredS3FIFOCache(TieredCache):
             self.head[t].next = self.tail[t]
             self.tail[t].prev = self.head[t]
         self.root = TrieNode(None)
-
-        self.ghost = Ghost(dram_capacity // bytes_per_token // chunk_size)
     
     def _add_to_head(self, node: S3FIFOLinkedNode, tier: str):
         node.next = self.head[tier].next
@@ -119,16 +94,14 @@ class TieredS3FIFOCache(TieredCache):
 
                 linked_node = S3FIFOLinkedNode(child)
                 child.linked_node = linked_node
-                if self.ghost.exists(cid):
-                    destinations.append('dram')
-                else:
-                    destinations.append('hbm')
+                destinations.append('hbm')
 
                 pending_nodes.append(child)
 
                 node = child
             else:
                 node = node.children[cid]
+                
                 if node.location == 'ssd':
                     self._temp_remove_node(node.linked_node)
                     destinations.append('dram')
