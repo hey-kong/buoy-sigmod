@@ -8,8 +8,8 @@ import torch
 from transformers.cache_utils import DynamicCache
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
-from buoy.quantization.cachegen_basics import CacheGenConfig
-from buoy.quantization.kv_cache_quant import quantize_dynamic_cache, dequantize_dynamic_cache
+from buoy.transfer.quantization.cachegen_basics import CacheGenConfig
+from buoy.transfer.quantization.kvcache_quant import quantize_dynamic_cache, dequantize_dynamic_cache
 from buoy.transfer.kvcache_io import alloc_cpu_buffer, move_cache_to_cpu, move_cache_to_gpu, save_kvcache_quantized, load_kvcache_quantized
 
 MODEL_PATH = "/data/llm/Llama-3.1-8B-Instruct"
@@ -158,12 +158,14 @@ for dataset in os.listdir(root_dir):
             # Step 1: 只读量化数据
             pack = load_kvcache_quantized(kvcache_file_path)
 
-            # Step 2: 反量化（GPU）
-            kv_layers = dequantize_dynamic_cache(pack, device=torch.device(DEVICE))
+            # Step 2: 反量化（CPU）
+            kv_layers = dequantize_dynamic_cache(pack)
 
             # Step 3: 还原 DynamicCache
             quant_cache = DynamicCache.from_legacy_cache(kv_layers)
+
             move_cache_to_gpu(prefix_cache, device=torch.device(DEVICE))
+            move_cache_to_gpu(quant_cache, device=torch.device(DEVICE))
 
             # test: with cache
             new_inputs = tokenizer(prefix + prompt + suffix, return_tensors="pt").to(DEVICE)
