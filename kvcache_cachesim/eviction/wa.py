@@ -1,7 +1,43 @@
-import math
+import json
+from collections import Counter
 from typing import List
 
 from .base import TrieNode, LinkedNode, TieredCache
+
+
+def collect_frequency(jsonl_path):
+    freq = Counter()
+    with open(jsonl_path) as f:
+        for line in f:
+            record = json.loads(line)
+            for hid in record["hash_ids"]:
+                freq[hid] += 1
+    return freq
+
+
+def build_reuse_prob(freq_counter):
+    hist = Counter(freq_counter.values())
+    if not hist:
+        return {}
+
+    max_f = max(hist.keys())
+    tail = [0] * (max_f + 2)
+    for f, c in hist.items():
+        if f <= max_f:
+            tail[f] += c
+
+    for k in range(max_f, -1, -1):
+        tail[k] += tail[k + 1]
+
+    reuse_prob = {}
+    for k in range(0, max_f + 1):
+        denom = tail[k]
+        if denom == 0:
+            reuse_prob[k] = 0.0
+        else:
+            reuse_prob[k] = tail[k + 1] / denom
+    reuse_prob[max_f + 1] = 0.0
+    return reuse_prob
 
 
 class WALinkedNode(LinkedNode):
@@ -11,24 +47,11 @@ class WALinkedNode(LinkedNode):
         self.reuse_prob = 0
         self.offset = 0
         self.priority = (self.reuse_prob, -self.offset)
-        self.access_times = []
+        self.freq = 0
 
-    def update_priority(self):
-        if len(self.access_times) < 2:
-            # Assign default reuse probability to protect new nodes.
-            self.reuse_prob = 0.1 / self.offset
-        else:
-            waited = self.access_times[-1] - self.access_times[-2]
-            gaps = [
-                self.access_times[i] - self.access_times[i - 1]
-                for i in range(1, len(self.access_times))
-            ]
-            mean_gap = sum(gaps) / len(gaps)
-            lambda_val = 1.0 / mean_gap
-            prob = 1.0 - math.exp(-lambda_val * waited)
-            lifespan = self.access_times[-1] - self.access_times[0]
-            life_factor = min(1.0, lifespan / (mean_gap * 10))
-            self.reuse_prob = prob * life_factor
+    def update_priority(self, reuse_prob):
+        self.freq += 1
+        self.reuse_prob = reuse_prob.get(self.freq, 0.0)
         self.priority = (self.reuse_prob, -self.offset)
 
 
@@ -37,7 +60,8 @@ class TieredWACache(TieredCache):
                  bytes_per_token: int,
                  cap_hbm: int,
                  cap_dram: int,
-                 cap_ssd: int):
+                 cap_ssd: int,
+                 reuse_prob):
         super().__init__(bytes_per_token, cap_hbm, cap_dram, cap_ssd)
         self.name = "WA"
 
@@ -55,8 +79,7 @@ class TieredWACache(TieredCache):
             self.head[t].next = self.tail[t]
             self.tail[t].prev = self.head[t]
 
-        self.lambda_val = 0
-        self.life_val = 0
+        self.reuse_prob = reuse_prob
 
         self.root = TrieNode(None)
 
@@ -168,25 +191,23 @@ class TieredWACache(TieredCache):
 
                 ln = WALinkedNode(child)
                 ln.offset = depth
-                ln.access_times = [self.total_access]
                 child.linked_node = ln
                 node = child
             else:
                 node = node.children[cid]
                 if node.linked_node:
                     # Remove; add by priority later
-                    self._remove_node(node.linked_node)
-                    node.linked_node.access_times.append(self.total_access)
+                    ln = node.linked_node
+                    self._remove_node(ln)
                 else:
                     ln = WALinkedNode(node)
                     ln.offset = depth
-                    ln.access_times = [self.total_access]
                     node.linked_node = ln
 
             visited.append(node.linked_node)
 
         for ln in visited:
-            ln.update_priority()
+            ln.update_priority(self.reuse_prob)
             self._add_by_priority(ln)
 
         # Demotion and eviction
@@ -215,24 +236,3 @@ class TieredWACache(TieredCache):
 
         print("Trie structure:")
         dfs(self.root)
-
-
-if __name__ == "__main__":
-    cache = TieredWACache(bytes_per_token=1, cap_hbm=512, cap_dram=512, cap_ssd=512)
-    cache.access_prefix([0, 1], [256, 256])
-    cache.print_trie()
-    cache.print_cache()
-
-    cache.access_prefix([3, 4, 5], [256, 256, 256])
-    cache.print_trie()
-    cache.print_cache()
-
-    cache.access_prefix([0, 2], [256, 256])
-    cache.print_trie()
-    cache.print_cache()
-
-    cache.access_prefix([3, 4, 6, 7], [256, 256, 256, 256])
-    cache.print_trie()
-    cache.print_cache()
-
-    cache.print_stats()

@@ -1,45 +1,31 @@
 from typing import List
 
 from .base import TrieNode, LinkedNode, TieredCache
-from .ghost import Ghost
 
 
-class S3FIFOLinkedNode(LinkedNode):
+class SLRULinkedNode(LinkedNode):
     def __init__(self, trie_node=None):
         super().__init__(trie_node)
 
-        self.freq = 0
 
-
-class TieredTrieS3FIFOCache(TieredCache):
+class TieredTrieSLRUCache(TieredCache):
     def __init__(self,
                  bytes_per_token: int,
                  cap_hbm: int,
                  cap_dram: int,
-                 cap_ssd: int,
-                 chunk_size: int):
+                 cap_ssd: int):
         super().__init__(bytes_per_token, cap_hbm, cap_dram, cap_ssd)
-        self.name = "S3-FIFO"
+        self.name = "SLRU"
 
-        if cap_hbm > 0 and cap_dram > 0 and cap_ssd == 0:
-            self.num_tiers = 2
-        elif cap_hbm > 0 and cap_dram > 0 and cap_ssd > 0:
-            self.num_tiers = 3
-        else:
-            raise ValueError(
-                "This simulator only supports two-tier (HBM+DRAM) or three-tier (HBM+DRAM+SSD) configurations."
-            )
-
-        self.head = {t: S3FIFOLinkedNode() for t in self.tiers}
-        self.tail = {t: S3FIFOLinkedNode() for t in self.tiers}
+        self.head = {t: SLRULinkedNode() for t in self.tiers}
+        self.tail = {t: SLRULinkedNode() for t in self.tiers}
         for t in self.tiers:
             self.head[t].next = self.tail[t]
             self.tail[t].prev = self.head[t]
 
         self.root = TrieNode(None)
-        self.ghost = Ghost(cap_dram // bytes_per_token // chunk_size)
 
-    def _add_to_head(self, node: S3FIFOLinkedNode, tier: str):
+    def _add_to_head(self, node: SLRULinkedNode, tier: str):
         node.next = self.head[tier].next
         node.prev = self.head[tier]
         self.head[tier].next.prev = node
@@ -48,9 +34,7 @@ class TieredTrieS3FIFOCache(TieredCache):
         node.trie_node.tier = tier
         self.cur_bytes[tier] += node.trie_node.kv_bytes
 
-    def _remove_node(self, node: S3FIFOLinkedNode):
-        if node.prev is None or node.next is None:
-            return
+    def _remove_node(self, node: SLRULinkedNode):
         node.prev.next = node.next
         node.next.prev = node.prev
         node.prev = node.next = None
@@ -58,7 +42,7 @@ class TieredTrieS3FIFOCache(TieredCache):
         tn = node.trie_node
         self.cur_bytes[tn.tier] -= tn.kv_bytes
 
-    def _pop_tail(self, tier: str) -> S3FIFOLinkedNode:
+    def _pop_tail(self, tier: str) -> SLRULinkedNode:
         tail = self.tail[tier]
         if tail.prev is self.head[tier]:
             return None
@@ -67,45 +51,26 @@ class TieredTrieS3FIFOCache(TieredCache):
         return node
 
     def _demote_if_needed(self, tier: str):
-        def evict(trie_node):
-            linked_node = trie_node.linked_node
-            if linked_node is not None:
-                self._remove_node(linked_node)
-                trie_node.linked_node = None
-            if trie_node.parent is not None:
-                del trie_node.parent.children[trie_node.chunk_id]
-            trie_node.parent = None
-
         while self.cur_bytes[tier] > self.max_bytes[tier]:
             node = self._pop_tail(tier)
             if not node:
                 break
-
             tn = node.trie_node
-            next_tier = self.next_tier.get(tier)
 
-            if tier is self.tiers[0]:
-                if node.freq > 1:
-                    self._add_to_head(node, next_tier)
-                    node.freq = 0
-                else:
-                    if self.num_tiers == 2:
-                        self.ghost.put(tn.chunk_id)
-                        evict(tn)
-                    elif self.num_tiers == 3:
-                        self._add_to_head(node, self.tiers[2])
-                        node.freq = 0
-            elif tier is self.tiers[1]:
-                if node.freq == 0:
-                    if self.num_tiers == 2:
-                        evict(tn)
-                    elif self.num_tiers == 3:
-                        self._add_to_head(node, self.tiers[2])
-                else:
-                    node.freq = max(node.freq - 1, 0)
-                    self._add_to_head(node, tier)
+            # Determine next tier
+            next_tier = self.next_tier.get(tier, None)
+
+            if next_tier:
+                # Demote to next tier
+                self._add_to_head(node, next_tier)
             else:
-                evict(tn)
+                # Evict from SSD
+                parent = tn.parent
+                if parent:
+                    del parent.children[tn.chunk_id]
+                tn.linked_node = None
+                tn.parent = None
+                node.prev = node.next = None
 
     def access_prefix(self,
                       chunk_ids: List[int],
@@ -136,22 +101,22 @@ class TieredTrieS3FIFOCache(TieredCache):
                 node.children[cid] = child
                 child.token_count = cnt
                 child.kv_bytes = sz
-                child.tier = self.tiers[0]
+                child.tier = self.tiers[1]
 
-                ln = S3FIFOLinkedNode(child)
+                ln = SLRULinkedNode(child)
                 child.linked_node = ln
-                if self.ghost.exists(cid):
-                    child.tier = self.tiers[1]
                 node = child
-                visited.append(node.linked_node)
             else:
                 node = node.children[cid]
-                if node.tier == self.tiers[2]:
+                if node.linked_node:
+                    # Remove; move to HBM later
                     self._remove_node(node.linked_node)
-                    node.tier = self.tiers[1]
-                    visited.append(node.linked_node)
                 else:
-                    node.linked_node.freq = min(node.linked_node.freq + 1, 3)
+                    ln = SLRULinkedNode(node)
+                    node.linked_node = ln
+                node.tier = self.tiers[0]
+
+            visited.append(node.linked_node)
 
         # Reorder visited nodes to preserve prefix order
         for ln in reversed(visited):
@@ -183,21 +148,21 @@ class TieredTrieS3FIFOCache(TieredCache):
 
 
 if __name__ == "__main__":
-    cache = TieredTrieS3FIFOCache(bytes_per_token=1, cap_hbm=1024, cap_dram=512, cap_ssd=0, chunk_size=256)
+    cache = TieredTrieSLRUCache(bytes_per_token=1, cap_hbm=512, cap_dram=512, cap_ssd=512)
     cache.access_prefix([0, 1], [256, 256])
     cache.print_trie()
-    cache.print_cache()
+    cache.print_cache()  # ➜ [], [0, 1], []
 
-    cache.access_prefix([0, 1], [256, 256])
+    cache.access_prefix([1, 2, 3], [256, 256, 256])
     cache.print_trie()
-    cache.print_cache()
+    cache.print_cache()  # ➜ [], [1, 2], [3, 0]
 
     cache.access_prefix([0, 2], [256, 256])
     cache.print_trie()
-    cache.print_cache()
+    cache.print_cache()  # ➜ [0], [2, 1], [2, 3]
 
-    cache.access_prefix([1, 2, 3, 4], [256, 256, 256, 256])
+    cache.access_prefix([1, 2, 4, 3], [256, 256, 256, 256])
     cache.print_trie()
-    cache.print_cache()
+    cache.print_cache()  # ➜ [1, 2], [0, 4], [3, 2]
 
     cache.print_stats()

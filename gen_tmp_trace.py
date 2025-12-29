@@ -82,4 +82,3 @@ def split_trace_chunk(base_name, orig_chunk_size, target_chunk_size):
 if __name__ == "__main__":
     merge_trace_chunk("qwen_traceA_blksz", 16, 256)
     merge_trace_chunk("qwen_traceB_blksz", 16, 256)
-    split_trace_chunk("mooncake_trace", 512, 256)

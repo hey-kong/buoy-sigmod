@@ -19,7 +19,7 @@ python run.py \
     --chunk_size 16 \
     --model_name meta-llama/Llama-3.1-8B-Instruct \
     --dtype float16 \
-    --cap_hbm 8 \
-    --cap_dram 16 \
+    --cap_hbm 16 \
+    --cap_dram 64 \
     --cap_ssd 0
 ```

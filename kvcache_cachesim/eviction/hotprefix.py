@@ -7,15 +7,19 @@ class HPLinkedNode(LinkedNode):
     def __init__(self, trie_node=None):
         super().__init__(trie_node)
 
-        self.priority = 0
         self.freq = 0
         self.clock = 0
-        self.length = 0
+        # Chunk size is predefined, length is normalized to 1.
+        self.length = 1
+        self.hotness = 0
+        self.priority = 0
 
-    def update_priority(self, clock, length):
+    def update_hotness(self, clock):
         self.freq += 1
         self.clock = clock
-        self.length = length
+        self.hotness = self.freq * self.clock
+
+    def update_priority(self):
         self.priority = self.freq + (self.clock / self.length)
 
 
@@ -26,7 +30,7 @@ class HotPrefixCache(TieredCache):
                  cap_dram: int,
                  cap_ssd: int,
                  max_age: int = 15,
-                 freq_threshold: int = 1,
+                 freq_threshold: int = 0,
                  aging_interval: int = 64):
         super().__init__(bytes_per_token, cap_hbm, cap_dram, cap_ssd)
         self.name = "HotPrefix"
@@ -69,9 +73,9 @@ class HotPrefixCache(TieredCache):
         node.trie_node.tier = tier
         self.cur_bytes[tier] += node.trie_node.kv_bytes
 
-    def _add_by_priority(self, node: HPLinkedNode, tier: str):
+    def _add_by_hotness(self, node: HPLinkedNode, tier: str):
         cur = self.head[tier].next
-        while cur is not self.tail[tier] and cur.priority > node.priority:
+        while cur is not self.tail[tier] and cur.hotness > node.hotness:
             cur = cur.next
 
         node.prev = cur.prev
@@ -105,6 +109,32 @@ class HotPrefixCache(TieredCache):
             return last
         return None
 
+    def _collect_leaves_device(self, tier):
+        def is_leaf(tn):
+            if tn.tier != tier:
+                return False
+            if tn == self.root:
+                return False
+            if len(tn.children) == 0:
+                return True
+            for child in tn.children.values():
+                if child.tier == tier:
+                    return False
+            return True
+
+        tier_idx = self.tiers.index(tier)
+        ret_list = []
+        stack = [self.root]
+        while stack:
+            tn = stack.pop()
+            if is_leaf(tn):
+                ret_list.append(tn)
+            else:
+                for cur_child in tn.children.values():
+                    if self.tiers.index(cur_child.tier) <= tier_idx:
+                        stack.append(cur_child)
+        return ret_list
+
     def _demote_if_needed(self, tier: str):
         def evict(trie_node):
             # Iteratively removes trie_node subtree and linked nodes.
@@ -120,42 +150,63 @@ class HotPrefixCache(TieredCache):
                     del trie_node.parent.children[trie_node.chunk_id]
                 trie_node.parent = None
 
-        while self.cur_bytes[tier] > self.max_bytes[tier]:
-            node = self._pop_tail(tier)
-            if not node:
-                break
+        if tier == self.tiers[0]:
+            while self.cur_bytes[tier] > self.max_bytes[tier]:
+                leaves = self._collect_leaves_device(tier)
+                nodes = []
+                for leaf in leaves:
+                    node = leaf.linked_node
+                    node.update_priority()
+                    nodes.append(node)
+                nodes.sort(key=lambda n: n.priority)
 
-            tn = node.trie_node
-            next_tier = self.next_tier.get(tier)
+                for node in nodes:
+                    if self.cur_bytes[tier] <= self.max_bytes[tier]:
+                        break
+                    self._remove_node(node)
+                    tn = node.trie_node
+                    next_tier = self.next_tier.get(tier)
+                    if self.cur_bytes[next_tier] >= self.max_bytes[next_tier]:
+                        # Frequency threshold filtering (disabled by default, freq_threshold = 0)
+                        # Using frequency as a hard admission gate prematurely discards new KV caches,
+                        # which are evicted from HBM before accumulating frequency and may be reused shortly.
+                        if node.freq < self.freq_threshold:
+                            if self.num_tiers == 2:
+                                evict(tn)
+                            elif self.num_tiers == 3:
+                                self._add_to_head(node, self.tiers[2])
+                            continue
+                        # Hotness comparison
+                        comp_node = self._get_last(next_tier)
+                        if node.hotness < comp_node.hotness:
+                            if self.num_tiers == 2:
+                                evict(tn)
+                            elif self.num_tiers == 3:
+                                self._add_to_head(node, self.tiers[2])
+                            continue
+                    if next_tier:
+                        # Demote to next tier
+                        if next_tier == self.tiers[1]:
+                            self._add_by_hotness(node, next_tier)
+                        else:
+                            self._add_to_head(node, next_tier)
 
-            # Selective admission
-            if tier is self.tiers[0]:
-                # Frequency threshold filtering
-                if node.freq < self.freq_threshold:
-                    if self.num_tiers == 2:
-                        evict(tn)
-                    elif self.num_tiers == 3:
-                        self._add_to_head(node, self.tiers[2])
-                    continue
-                if self.cur_bytes[next_tier] >= self.max_bytes[next_tier]:
-                    # Hotness comparison
-                    comp_node = self._get_last(next_tier)
-                    if node.freq * node.clock < comp_node.freq * comp_node.clock:
-                        if self.num_tiers == 2:
-                            evict(tn)
-                        elif self.num_tiers == 3:
-                            self._add_to_head(node, self.tiers[2])
-                        continue
+        if tier != self.tiers[0]:
+            while self.cur_bytes[tier] > self.max_bytes[tier]:
+                node = self._pop_tail(tier)
+                if not node:
+                    break
+                tn = node.trie_node
 
-            if next_tier:
-                # Demote to next tier
-                if next_tier == self.tiers[1]:
-                    self._add_by_priority(node, next_tier)
-                else:
+                # Determine next tier
+                next_tier = self.next_tier.get(tier, None)
+
+                if next_tier:
+                    # Demote to next tier
                     self._add_to_head(node, next_tier)
-            else:
-                # Evict from the last tier
-                evict(tn)
+                else:
+                    # Evict from SSD
+                    evict(tn)
 
     def access_prefix(self,
                       chunk_ids: List[int],
@@ -178,9 +229,7 @@ class HotPrefixCache(TieredCache):
 
         node = self.root
         visited = []
-        length = 0
         for cid, cnt in zip(chunk_ids, token_counts):
-            length += 1
             sz = cnt * self.bytes_per_token
 
             if cid not in node.children:
@@ -192,22 +241,21 @@ class HotPrefixCache(TieredCache):
                 ln = HPLinkedNode(child)
                 child.linked_node = ln
                 node = child
-                ln.update_priority(self.max_age, length)
             else:
                 node = node.children[cid]
                 if node.linked_node:
-                    # Remove; add by priority later
+                    # Remove; add by hotness later
                     self._remove_node(node.linked_node)
-                    node.linked_node.update_priority(self.max_age, length)
+                    node.linked_node.update_hotness(self.max_age)
                 else:
                     ln = HPLinkedNode(node)
                     node.linked_node = ln
-                    ln.update_priority(self.max_age, length)
+                    ln.update_hotness(self.max_age)
 
             visited.append(node.linked_node)
 
         for ln in reversed(visited):
-            self._add_by_priority(ln, self.tiers[0])
+            self._add_by_hotness(ln, self.tiers[0])
 
         # Demotion and eviction
         for tier in self.tiers:
@@ -217,9 +265,11 @@ class HotPrefixCache(TieredCache):
             self.aging()
 
     def aging(self):
-        def _unlink(node):
-            node.prev.next = node.next
-            node.next.prev = node.prev
+        def _unlink_all(cur_tier):
+            head = self.head[cur_tier]
+            tail = self.tail[cur_tier]
+            head.next = tail
+            tail.prev = head
 
         def _insert_before(node, ref):
             node.prev = ref.prev
@@ -228,20 +278,23 @@ class HotPrefixCache(TieredCache):
             ref.prev = node
 
         for cur_tier in (self.tiers[0], self.tiers[1]):
-            node = self.head[cur_tier].next
-            while node != self.tail[cur_tier]:
-                old_clock = node.clock
-                node.clock = max(old_clock - 1, 0)
-                node.priority = node.freq + (node.clock / node.length)
+            head = self.head[cur_tier]
+            tail = self.tail[cur_tier]
 
+            nodes = []
+            node = head.next
+            while node is not tail:
                 next_node = node.next
-                cur = node.prev
-                if cur is not self.head[cur_tier] and node.priority > cur.priority:
-                    _unlink(node)
-                    while cur is not self.head[cur_tier] and node.priority > cur.priority:
-                        cur = cur.prev
-                    _insert_before(node, cur.next)
+                node.clock = node.clock - 1 if node.clock > 0 else 0
+                node.hotness = node.freq * node.clock
+                node.prev = node.next = None
+                nodes.append(node)
                 node = next_node
+            nodes.sort(key=lambda n: n.hotness, reverse=True)
+
+            _unlink_all(cur_tier)
+            for n in nodes:
+                _insert_before(n, tail)
 
     def print_cache(self):
         for tier in self.tiers:
@@ -249,8 +302,8 @@ class HotPrefixCache(TieredCache):
             cur = self.head[tier].next
             while cur is not self.tail[tier]:
                 chunk_id = getattr(cur.trie_node, "chunk_id", "?")
-                priority = getattr(cur, "priority", "?")
-                lst.append(f"{chunk_id}({priority:.4f})")
+                hotness = getattr(cur, "hotness", "?")
+                lst.append(f"{chunk_id}({hotness:.4f})")
                 cur = cur.next
             print(f"{tier.upper()}: {lst}")
 

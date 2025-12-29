@@ -8,8 +8,22 @@ class BuoyLinkedNode(LinkedNode):
     def __init__(self, trie_node=None):
         super().__init__(trie_node)
 
-        self.grace = False
         self.visited = False
+
+
+class DepthMean:
+    def __init__(self):
+        self._sum = 0
+        self._cnt = 0
+
+    def add(self, depth: int, inc: int = 1):
+        if inc <= 0:
+            return
+        self._sum += depth * inc
+        self._cnt += inc
+
+    def get(self) -> int:
+        return self._sum // self._cnt if self._cnt else 0
 
 
 class TieredTrieBuoyCache(TieredCache):
@@ -18,10 +32,7 @@ class TieredTrieBuoyCache(TieredCache):
                  cap_hbm: int,
                  cap_dram: int,
                  cap_ssd: int,
-                 chunk_size: int,
-                 compression_rate: float = 1.0,
-                 max_grace: int = 255):
-        cap_ssd //= compression_rate
+                 chunk_size: int):
         super().__init__(bytes_per_token, cap_hbm, cap_dram, cap_ssd)
         self.name = "Buoy"
 
@@ -40,10 +51,10 @@ class TieredTrieBuoyCache(TieredCache):
             self.head[t].next = self.tail[t]
             self.tail[t].prev = self.head[t]
 
-        self.max_grace = max_grace
-
         self.root = TrieNode(None)
-        self.ghost = Ghost(cap_dram // bytes_per_token // chunk_size)
+        self.root.linked_node = BuoyLinkedNode()
+        self.ghost = Ghost(cap_dram * 4 // bytes_per_token // chunk_size)
+        self.depth_mean = DepthMean()
 
     def _add_to_head(self, node: BuoyLinkedNode, tier: str):
         node.next = self.head[tier].next
@@ -72,62 +83,45 @@ class TieredTrieBuoyCache(TieredCache):
         self._remove_node(node)
         return node
 
+    def _evict(self, trie_node):
+        linked_node = trie_node.linked_node
+        if linked_node is not None:
+            self._remove_node(linked_node)
+            trie_node.linked_node = None
+        if trie_node.parent is not None:
+            del trie_node.parent.children[trie_node.chunk_id]
+            trie_node.parent = None
+
     def _demote_if_needed(self, tier: str):
-        def evict(trie_node):
-            linked_node = trie_node.linked_node
-            if linked_node is not None:
-                self._remove_node(linked_node)
-                trie_node.linked_node = None
-            if trie_node.parent is not None:
-                del trie_node.parent.children[trie_node.chunk_id]
-                trie_node.parent = None
-
-        def is_tier_leaf(tn: TrieNode):
-            if tn.tier != tier:
-                return False
-            if tn == self.root:
-                return False
-            if len(tn.children) == 0:
-                return True
-            for child in tn.children.values():
-                if child.tier == tier:
-                    return False
-            return True
-
         while self.cur_bytes[tier] > self.max_bytes[tier]:
             node = self._pop_tail(tier)
             if not node:
                 break
 
             tn = node.trie_node
-            if tier is self.tiers[0]:
+            if tier == self.tiers[0]:
                 self._add_to_head(node, self.tiers[1])
                 continue
 
             # HBM + DRAM
             if self.num_tiers == 2:
-                if is_tier_leaf(tn) and node.grace == 0:
-                    if not node.visited and (tn.parent == self.root or tn.parent.linked_node.visited):
-                        self.ghost.put(tn.chunk_id, tn.get_path())
-                    if node.visited and tn.parent.linked_node is not None:
-                        tn.parent.linked_node.grace += 1
-                    evict(tn)
+                if not node.visited:
+                    self.ghost.put(tn.chunk_id, tn.get_path())
+                    self._evict(tn)
                     continue
-                node.grace = max(node.grace - 1, 0)
+                node.visited = False
                 self._add_to_head(node, tier)
 
             # HBM + DRAM + SSD
             if self.num_tiers == 3:
-                if tier is self.tiers[1]:
-                    if is_tier_leaf(tn) and node.grace == 0:
-                        if node.visited and tn.parent.linked_node is not None:
-                            tn.parent.linked_node.grace += 1
+                if tier == self.tiers[1]:
+                    if not node.visited:
                         self._add_to_head(node, self.tiers[2])
                         continue
-                    node.grace = max(node.grace - 1, 0)
+                    node.visited = False
                     self._add_to_head(node, tier)
                 else:
-                    evict(tn)
+                    self._evict(tn)
 
     def access_prefix(self,
                       chunk_ids: List[int],
@@ -148,10 +142,16 @@ class TieredTrieBuoyCache(TieredCache):
         for t, c in hit_chunks.items():
             self.tier_hit_chunks[t] += c
 
+        # Depth-based cache admission
+        depth = 0
+        deepest_hit_depth = 0
+        depth_threshold = self.depth_mean.get()
+
         tn = self.root
-        nodes = []
-        first_new = True
+        admit_nodes = []
+        reject_nodes = []
         for cid, cnt in zip(chunk_ids, token_counts):
+            depth += 1
             sz = cnt * self.bytes_per_token
 
             if cid not in tn.children:
@@ -163,35 +163,41 @@ class TieredTrieBuoyCache(TieredCache):
 
                 node = BuoyLinkedNode(child)
                 child.linked_node = node
-                if first_new:
-                    if self.ghost.exists(child.chunk_id, child.get_path()):
-                        node.grace = self.max_grace
-                        node.visited = True
-                    else:
-                        node.grace = 0
-                        node.visited = False
-                    first_new = False
+                if self.ghost.exists(child.chunk_id, child.get_path()):
+                    node.visited = True
+                    deepest_hit_depth = depth
+                    self.ghost.remove(child.chunk_id, child.get_path())
+                    admit_nodes.append(node)
+                elif depth >= depth_threshold and not self.ghost.is_empty():
+                    reject_nodes.append(node)
                 else:
-                    node.grace = child.parent.linked_node.grace
-                    node.visited = child.parent.linked_node.visited
+                    admit_nodes.append(node)
                 tn = child
             else:
                 tn = tn.children[cid]
-                if tn.linked_node:
-                    # Remove; promote later
-                    self._remove_node(tn.linked_node)
+                ln = tn.linked_node
+                # Remove; promote later
+                self._remove_node(ln)
+                if tn.tier == self.tiers[2]:
+                    tn.tier = self.tiers[1]
                 else:
-                    node = BuoyLinkedNode(tn)
-                    tn.linked_node = node
-                tn.tier = self.tiers[0]
-                tn.linked_node.grace = self.max_grace
-                tn.linked_node.visited = True
+                    tn.tier = self.tiers[0]
+                ln.visited = True
+                deepest_hit_depth = depth
+                admit_nodes.append(ln)
 
-            nodes.append(tn.linked_node)
+        if deepest_hit_depth > 0:
+            self.depth_mean.add(deepest_hit_depth)
 
         # Reverse nodes to preserve prefix order
-        for node in reversed(nodes):
+        for node in reversed(admit_nodes):
             self._add_to_head(node, node.trie_node.tier)
+        for node in reversed(reject_nodes):
+            if self.num_tiers == 2:
+                self.ghost.put(node.trie_node.chunk_id, node.trie_node.get_path())
+                self._evict(node.trie_node)
+            elif self.num_tiers == 3:
+                self._add_to_head(node, self.tiers[2])
 
         # Demotion and eviction
         for tier in self.tiers:
@@ -223,31 +229,25 @@ if __name__ == "__main__":
     cache.access_prefix([0, 1, 2, 3], [256, 256, 256, 256])
     cache.print_trie()
     cache.print_cache()
-    cache.ghost.print_ghost()
 
     cache.access_prefix([0, 4, 5, 6], [256, 256, 256, 256])
     cache.print_trie()
     cache.print_cache()
-    cache.ghost.print_ghost()
 
     cache.access_prefix([7, 8, 9, 10], [256, 256, 256, 256])
     cache.print_trie()
     cache.print_cache()
-    cache.ghost.print_ghost()
 
     cache.access_prefix([7, 11, 12, 13], [256, 256, 256, 256])
     cache.print_trie()
     cache.print_cache()
-    cache.ghost.print_ghost()
 
     cache.access_prefix([0, 1, 2, 14], [256, 256, 256, 256])
     cache.print_trie()
     cache.print_cache()
-    cache.ghost.print_ghost()
 
     cache.access_prefix([7, 8, 9, 15], [256, 256, 256, 256])
     cache.print_trie()
     cache.print_cache()
-    cache.ghost.print_ghost()
 
     cache.print_stats()
