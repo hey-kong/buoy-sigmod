@@ -73,17 +73,17 @@ class TieredPGDSFCache(TieredCache):
 
     def _add_by_priority(self, node: PGDSFLinkedNode):
         cur_tier = self.tiers[0]
-        if self.cur_bytes[cur_tier] >= self.max_bytes[cur_tier] and node.priority < self.tail[cur_tier].prev.priority:
-            cur_tier = self.next_tier[cur_tier]
+        next_tier = self.tiers[1]
+        if self.cur_bytes[next_tier] > 0 and self.head[next_tier].next.priority > node.priority:
+            cur_tier = next_tier
 
-        cur = self.head[cur_tier].next
-        while cur is not self.tail[cur_tier] and cur.priority > node.priority:
-            cur = cur.next
-
-        node.prev = cur.prev
-        node.next = cur
-        cur.prev.next = node
-        cur.prev = node
+        cur = self.tail[cur_tier].prev
+        while cur is not self.head[cur_tier] and cur.priority <= node.priority:
+            cur = cur.prev
+        node.next = cur.next
+        node.prev = cur
+        cur.next.prev = node
+        cur.next = node
         node.trie_node.tier = cur_tier
         self.cur_bytes[cur_tier] += node.trie_node.kv_bytes
 
@@ -106,18 +106,6 @@ class TieredPGDSFCache(TieredCache):
         return node
 
     def _demote_if_needed(self, tier: str):
-        def evict(trie_node):
-            # Recursively remove all cache linked nodes in this subtree.
-            # Keep trie nodes to retain information.
-            stack = [trie_node]
-            while stack:
-                trie_node = stack.pop()
-                stack.extend(list(trie_node.children.values()))
-                linked_node = trie_node.linked_node
-                if linked_node is not None:
-                    self._remove_node(linked_node)
-                    trie_node.linked_node = None
-
         while self.cur_bytes[tier] > self.max_bytes[tier]:
             node = self._pop_tail(tier)
             if not node:
@@ -132,9 +120,7 @@ class TieredPGDSFCache(TieredCache):
                 self._add_to_head(node, next_tier)
             else:
                 # Evict from the last tier
-                evict(tn)
                 tn.linked_node = None
-                node.prev = node.next = None
                 self._global_clock = max(self._global_clock, node.priority)
 
     def access_prefix(self,
@@ -143,56 +129,51 @@ class TieredPGDSFCache(TieredCache):
         self.total_access += 1
         self.total_chunks += len(chunk_ids)
 
-        node = self.root
+        tn = self.root
         hits = 0
         hit_chunks = {t: 0 for t in self.tiers}
         for cid, cnt in zip(chunk_ids, token_counts):
-            if cid in node.children:
-                node = node.children[cid]
-                if node.linked_node is None:
+            if cid in tn.children:
+                tn = tn.children[cid]
+                if tn.linked_node is None:
                     break
                 hits += 1
-                hit_chunks[node.tier] += 1
+                hit_chunks[tn.tier] += 1
             else:
                 break
         for t, c in hit_chunks.items():
             self.tier_hit_chunks[t] += c
 
-        node = self.root
-        visited = []
+        tn = self.root
         depth = 0
         for cid, cnt in zip(chunk_ids, token_counts):
             depth += 1
             sz = cnt * self.bytes_per_token
 
-            if cid not in node.children:
-                child = PGDSFTrieNode(cid, parent=node)
-                node.children[cid] = child
+            if cid not in tn.children:
+                child = PGDSFTrieNode(cid, parent=tn)
+                tn.children[cid] = child
                 child.token_count = cnt
                 child.kv_bytes = sz
 
                 ln = PGDSFLinkedNode(child)
                 ln.update_priority(self._global_clock, len(chunk_ids) * (len(chunk_ids) - hits), depth - hits, False)
                 child.linked_node = ln
-                node = child
+                tn = child
             else:
-                node = node.children[cid]
-                if node.linked_node:
+                tn = tn.children[cid]
+                if tn.linked_node:
                     # Remove; add by priority later
-                    self._remove_node(node.linked_node)
-                    node.linked_node.update_priority(self._global_clock, 0, 0, True)
+                    self._remove_node(tn.linked_node)
+                    tn.linked_node.update_priority(self._global_clock, 0, 0, True)
                 else:
-                    ln = PGDSFLinkedNode(node)
+                    ln = PGDSFLinkedNode(tn)
                     ln.init_priority(self._global_clock)
-                    node.linked_node = ln
-                    node.linked_node.update_priority(self._global_clock, len(chunk_ids) * (len(chunk_ids) - hits),
-                                                     depth - hits, False)
+                    tn.linked_node = ln
+                    tn.linked_node.update_priority(self._global_clock, len(chunk_ids) * (len(chunk_ids) - hits),
+                                                   depth - hits, False)
 
-            visited.append(node.linked_node)
-
-        # Reorder visited nodes to preserve prefix order
-        for ln in reversed(visited):
-            self._add_by_priority(ln)
+            self._add_by_priority(tn.linked_node)
 
         # Demotion and eviction
         for tier in self.tiers:

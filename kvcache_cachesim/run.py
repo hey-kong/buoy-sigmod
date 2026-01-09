@@ -11,7 +11,7 @@ from eviction.lfu import TieredTrieLFUCache
 from eviction.slru import TieredTrieSLRUCache
 from eviction.s3fifo import TieredTrieS3FIFOCache
 from eviction.pgdsf import TieredPGDSFCache
-from eviction.wa import TieredWACache, collect_frequency, build_reuse_prob
+from eviction.wa import TieredWACache, collect_stats, build_reuse_estimator
 from eviction.hotprefix import HotPrefixCache
 from eviction.buoy import TieredTrieBuoyCache
 
@@ -47,9 +47,9 @@ def get_cache(algo, kv_bytes, cap_hbm, cap_dram, cap_ssd, trace_path, chunk_size
     elif algo == "pgdsf":
         return TieredPGDSFCache(kv_bytes, cap_hbm, cap_dram, cap_ssd)
     elif algo == "wa":
-        freq_counter = collect_frequency(trace_path)
-        reuse_prob = build_reuse_prob(freq_counter)
-        return TieredWACache(kv_bytes, cap_hbm, cap_dram, cap_ssd, reuse_prob)
+        freq_counter, mean_gap = collect_stats(trace_path)
+        reuse_estimator = build_reuse_estimator(freq_counter)
+        return TieredWACache(kv_bytes, cap_hbm, cap_dram, cap_ssd, reuse_estimator, mean_gap)
     elif algo == "hotprefix":
         return HotPrefixCache(kv_bytes, cap_hbm, cap_dram, cap_ssd)
     elif algo == "buoy":

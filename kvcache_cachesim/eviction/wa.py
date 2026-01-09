@@ -1,21 +1,34 @@
 import json
-from collections import Counter
+import math
+from collections import Counter, defaultdict
 from typing import List
 
 from .base import TrieNode, LinkedNode, TieredCache
 
 
-def collect_frequency(jsonl_path):
-    freq = Counter()
-    with open(jsonl_path) as f:
-        for line in f:
+def collect_stats(jsonl_path):
+    freq_counter = Counter()
+    access_times = defaultdict(list)
+
+    with open(jsonl_path, "r") as f:
+        for t, line in enumerate(f):
             record = json.loads(line)
             for hid in record["hash_ids"]:
-                freq[hid] += 1
-    return freq
+                freq_counter[hid] += 1
+                access_times[hid].append(t)
+
+    gaps = []
+    for times in access_times.values():
+        if len(times) < 2:
+            continue
+        for i in range(1, len(times)):
+            gaps.append(times[i] - times[i - 1])
+    mean_gap = sum(gaps) / len(gaps)
+
+    return freq_counter, mean_gap
 
 
-def build_reuse_prob(freq_counter):
+def build_reuse_estimator(freq_counter):
     hist = Counter(freq_counter.values())
     if not hist:
         return {}
@@ -29,30 +42,37 @@ def build_reuse_prob(freq_counter):
     for k in range(max_f, -1, -1):
         tail[k] += tail[k + 1]
 
-    reuse_prob = {}
+    reuse_estimator = {}
     for k in range(0, max_f + 1):
         denom = tail[k]
         if denom == 0:
-            reuse_prob[k] = 0.0
+            reuse_estimator[k] = 0.0
         else:
-            reuse_prob[k] = tail[k + 1] / denom
-    reuse_prob[max_f + 1] = 0.0
-    return reuse_prob
+            reuse_estimator[k] = tail[k + 1] / denom
+    reuse_estimator[max_f + 1] = 0.0
+    return reuse_estimator
+
+
+class WATrieNode(TrieNode):
+    def __init__(self, chunk_id, parent=None):
+        super().__init__(chunk_id, parent)
+
+        self.freq = 0
 
 
 class WALinkedNode(LinkedNode):
     def __init__(self, trie_node=None):
         super().__init__(trie_node)
 
+        self.last_access = 0
         self.reuse_prob = 0
         self.offset = 0
         self.priority = (self.reuse_prob, -self.offset)
-        self.freq = 0
 
-    def update_priority(self, reuse_prob):
-        self.freq += 1
-        self.reuse_prob = reuse_prob.get(self.freq, 0.0)
-        self.priority = (self.reuse_prob, -self.offset)
+    def update_priority(self, total_access, mean_gap):
+        waited = total_access - self.last_access
+        w = math.exp(- waited / mean_gap)
+        self.priority = (self.reuse_prob * w, -self.offset)
 
 
 class TieredWACache(TieredCache):
@@ -61,16 +81,17 @@ class TieredWACache(TieredCache):
                  cap_hbm: int,
                  cap_dram: int,
                  cap_ssd: int,
-                 reuse_prob):
+                 reuse_estimator,
+                 mean_gap):
         super().__init__(bytes_per_token, cap_hbm, cap_dram, cap_ssd)
         self.name = "WA"
 
         self.head = {}
         self.tail = {}
         for t in self.tiers:
-            head_trie_node = TrieNode(chunk_id=None)
+            head_trie_node = WATrieNode(chunk_id=None)
             head_trie_node.tier = t
-            tail_trie_node = TrieNode(chunk_id=None)
+            tail_trie_node = WATrieNode(chunk_id=None)
             tail_trie_node.tier = t
             # Create head and tail linked nodes with associated trie nodes
             self.head[t] = WALinkedNode(trie_node=head_trie_node)
@@ -79,9 +100,10 @@ class TieredWACache(TieredCache):
             self.head[t].next = self.tail[t]
             self.tail[t].prev = self.head[t]
 
-        self.reuse_prob = reuse_prob
+        self.reuse_estimator = reuse_estimator
+        self.mean_gap = int(mean_gap)
 
-        self.root = TrieNode(None)
+        self.root = WATrieNode(None)
 
     def _add_to_head(self, node: WALinkedNode, tier: str):
         node.next = self.head[tier].next
@@ -92,21 +114,24 @@ class TieredWACache(TieredCache):
         node.trie_node.tier = tier
         self.cur_bytes[tier] += node.trie_node.kv_bytes
 
-    def _add_by_priority(self, node: WALinkedNode):
-        cur_tier = self.tiers[0]
-        if self.cur_bytes[cur_tier] >= self.max_bytes[cur_tier] and node.priority < self.tail[cur_tier].prev.priority:
-            cur_tier = self.next_tier[cur_tier]
-
-        cur = self.head[cur_tier].next
-        while cur is not self.tail[cur_tier] and cur.priority > node.priority:
-            cur = cur.next
-
-        node.prev = cur.prev
-        node.next = cur
-        cur.prev.next = node
-        cur.prev = node
-        node.trie_node.tier = cur_tier
-        self.cur_bytes[cur_tier] += node.trie_node.kv_bytes
+    def _add_by_priority(self, node: WALinkedNode, tier: str):
+        cur = self.tail[tier].prev
+        if cur.priority > node.priority:
+            # quickly insert the lowest priority nodes at tail
+            node.next = cur.next
+            node.prev = cur
+            cur.next.prev = node
+            cur.next = node
+        else:
+            cur = self.head[tier].next
+            while cur is not self.tail[tier] and cur.priority > node.priority:
+                cur = cur.next
+            node.prev = cur.prev
+            node.next = cur
+            cur.prev.next = node
+            cur.prev = node
+        node.trie_node.tier = tier
+        self.cur_bytes[tier] += node.trie_node.kv_bytes
 
     def _remove_node(self, node: WALinkedNode):
         if node.prev is None or node.next is None:
@@ -127,20 +152,6 @@ class TieredWACache(TieredCache):
         return node
 
     def _demote_if_needed(self, tier: str):
-        def evict(trie_node):
-            # Iteratively removes trie_node subtree and linked nodes.
-            stack = [trie_node]
-            while stack:
-                trie_node = stack.pop()
-                stack.extend(list(trie_node.children.values()))
-                linked_node = trie_node.linked_node
-                if linked_node is not None:
-                    self._remove_node(linked_node)
-                    trie_node.linked_node = None
-                if trie_node.parent is not None:
-                    del trie_node.parent.children[trie_node.chunk_id]
-                trie_node.parent = None
-
         while self.cur_bytes[tier] > self.max_bytes[tier]:
             node = self._pop_tail(tier)
             if not node:
@@ -155,7 +166,7 @@ class TieredWACache(TieredCache):
                 self._add_to_head(node, next_tier)
             else:
                 # Evict from the last tier
-                evict(tn)
+                tn.linked_node = None
 
     def access_prefix(self,
                       chunk_ids: List[int],
@@ -163,56 +174,90 @@ class TieredWACache(TieredCache):
         self.total_access += 1
         self.total_chunks += len(chunk_ids)
 
-        node = self.root
+        tn = self.root
         hits = 0
         hit_chunks = {t: 0 for t in self.tiers}
         for cid, cnt in zip(chunk_ids, token_counts):
-            if cid in node.children:
-                node = node.children[cid]
+            if cid in tn.children:
+                tn = tn.children[cid]
+                if tn.linked_node is None:
+                    break
                 hits += 1
-                hit_chunks[node.tier] += 1
+                hit_chunks[tn.tier] += 1
             else:
                 break
         for t, c in hit_chunks.items():
             self.tier_hit_chunks[t] += c
 
-        node = self.root
-        visited = []
+        tn = self.root
         depth = 0
         for cid, cnt in zip(chunk_ids, token_counts):
             depth += 1
             sz = cnt * self.bytes_per_token
 
-            if cid not in node.children:
-                child = TrieNode(cid, parent=node)
-                node.children[cid] = child
+            if cid not in tn.children:
+                child = WATrieNode(cid, parent=tn)
+                tn.children[cid] = child
                 child.token_count = cnt
                 child.kv_bytes = sz
 
                 ln = WALinkedNode(child)
-                ln.offset = depth
                 child.linked_node = ln
-                node = child
+                tn = child
             else:
-                node = node.children[cid]
-                if node.linked_node:
-                    # Remove; add by priority later
-                    ln = node.linked_node
+                tn = tn.children[cid]
+                if tn.linked_node:
+                    # Remove; reinsert later by prefix order
+                    ln = tn.linked_node
                     self._remove_node(ln)
                 else:
-                    ln = WALinkedNode(node)
-                    ln.offset = depth
-                    node.linked_node = ln
+                    ln = WALinkedNode(tn)
+                    tn.linked_node = ln
 
-            visited.append(node.linked_node)
-
-        for ln in visited:
-            ln.update_priority(self.reuse_prob)
-            self._add_by_priority(ln)
+            tn.freq += 1
+            ln.last_access = self.total_access
+            ln.reuse_prob = self.reuse_estimator.get(tn.freq, 0.0)
+            ln.offset = depth
+            ln.update_priority(self.total_access, self.mean_gap)
+            self._add_by_priority(ln, self.tiers[0])
 
         # Demotion and eviction
         for tier in self.tiers:
             self._demote_if_needed(tier)
+
+        if self.total_access % self.mean_gap == 0:
+            self.refresh(self.tiers[0])
+
+    def refresh(self, tier: str):
+        def _unlink_all():
+            head = self.head[tier]
+            tail = self.tail[tier]
+            head.next = tail
+            tail.prev = head
+
+        def _insert_before(node, ref):
+            node.prev = ref.prev
+            node.next = ref
+            ref.prev.next = node
+            ref.prev = node
+
+        head = self.head[tier]
+        tail = self.tail[tier]
+
+        nodes = []
+        node = head.next
+        while node is not tail:
+            next = node.next
+            node.update_priority(self.total_access, self.mean_gap)
+            node.prev = None
+            node.next = None
+            nodes.append(node)
+            node = next
+
+        nodes.sort(key=lambda n: n.priority, reverse=True)
+        _unlink_all()
+        for n in nodes:
+            _insert_before(n, tail)
 
     def print_cache(self):
         for tier in self.tiers:
