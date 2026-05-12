@@ -4,6 +4,8 @@ A Python-based simulator for evaluating tiered prefix KV cache eviction algorith
 
 ## Usage
 
+Trace files are stored in the repository-level `traces/` directory. The default trace path points there automatically; when running from `kvcache_cachesim/`, pass custom traces as `../traces/<file>.jsonl`.
+
 Run the simulator via CLI:
 
 ```bash
@@ -15,7 +17,7 @@ Example:
 ```bash
 python run.py \
     --algo fifo \
-    --trace_path traces/qwen_traceA_blksz_16.jsonl \
+    --trace_path ../traces/qwen_traceA_blksz_16.jsonl \
     --chunk_size 16 \
     --model_name meta-llama/Llama-3.1-8B-Instruct \
     --dtype float16 \

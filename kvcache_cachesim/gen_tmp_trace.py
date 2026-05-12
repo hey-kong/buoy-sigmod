@@ -1,14 +1,21 @@
 import os
 import json
 import math
+from pathlib import Path
+
+
+SIM_DIR = Path(__file__).resolve().parent
+REPO_ROOT = SIM_DIR.parent
+TRACE_DIR = REPO_ROOT / "traces"
+TMP_TRACE_DIR = SIM_DIR / "tmp_traces"
 
 
 def merge_trace_chunk(base_name, orig_chunk_size, target_chunk_size):
     if target_chunk_size % orig_chunk_size != 0:
         raise ValueError("target_chunk_size must be a multiple of orig_chunk_size.")
 
-    input_file = f'traces/{base_name}_{orig_chunk_size}.jsonl'
-    output_file = f'tmp_traces/{base_name}_{target_chunk_size}.jsonl'
+    input_file = TRACE_DIR / f'{base_name}_{orig_chunk_size}.jsonl'
+    output_file = TMP_TRACE_DIR / f'{base_name}_{target_chunk_size}.jsonl'
     chunk_group = target_chunk_size // orig_chunk_size
 
     chunk_to_id = {}
@@ -41,8 +48,8 @@ def split_trace_chunk(base_name, orig_chunk_size, target_chunk_size):
     if orig_chunk_size % target_chunk_size != 0:
         raise ValueError("orig_chunk_size must be a multiple of target_chunk_size.")
 
-    input_file = f'traces/{base_name}_{orig_chunk_size}.jsonl'
-    output_file = f'tmp_traces/{base_name}_{target_chunk_size}.jsonl'
+    input_file = TRACE_DIR / f'{base_name}_{orig_chunk_size}.jsonl'
+    output_file = TMP_TRACE_DIR / f'{base_name}_{target_chunk_size}.jsonl'
 
     chunk_to_id = {}
     next_id = 0

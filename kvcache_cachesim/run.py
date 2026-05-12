@@ -1,5 +1,6 @@
 import json
 import argparse
+from pathlib import Path
 
 from tqdm import tqdm
 from tabulate import tabulate
@@ -14,6 +15,24 @@ from eviction.pgdsf import TieredPGDSFCache
 from eviction.wa import TieredWACache, collect_stats, build_reuse_estimator
 from eviction.hotprefix import HotPrefixCache
 from eviction.buoy import TieredTrieBuoyCache
+
+
+SIM_DIR = Path(__file__).resolve().parent
+REPO_ROOT = SIM_DIR.parent
+TRACE_DIR = REPO_ROOT / "traces"
+DEFAULT_TRACE_PATH = TRACE_DIR / "qwen_traceA_blksz_16.jsonl"
+
+
+def resolve_trace_path(trace_path):
+    path = Path(trace_path)
+    if path.exists() or path.is_absolute():
+        return path
+
+    repo_relative_path = REPO_ROOT / path
+    if repo_relative_path.exists():
+        return repo_relative_path
+
+    return path
 
 
 def get_requests(trace_path, chunk_size):
@@ -68,7 +87,7 @@ def main():
         default=["fifo"],
         help="Eviction algorithm(s) to use (space separated for multiple)",
     )
-    parser.add_argument("--trace_path", type=str, default="traces/qwen_traceA_blksz_16.jsonl",
+    parser.add_argument("--trace_path", type=str, default=str(DEFAULT_TRACE_PATH),
                         help="Path to the trace JSONL file")
     parser.add_argument("--chunk_size", type=int, default=16, help="Chunk size")
     parser.add_argument("--model_name", type=str, default="meta-llama/Llama-3.1-8B-Instruct",
@@ -85,14 +104,15 @@ def main():
     kv_bytes = calc_kv_cache_bytes(
         model_name=args.model_name,
         seq_len=1,
-        dtype=args.dtype
+        dtype=args.dtype,
+        config_path=SIM_DIR / "modelconfig.json"
     )
 
     cap_hbm = args.cap_hbm * 1024 ** 3
     cap_dram = args.cap_dram * 1024 ** 3
     cap_ssd = args.cap_ssd * 1024 ** 3
 
-    trace_path = args.trace_path
+    trace_path = resolve_trace_path(args.trace_path)
     chunk_size = args.chunk_size
 
     requests = list(get_requests(trace_path, chunk_size))
