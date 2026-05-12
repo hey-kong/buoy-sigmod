@@ -36,3 +36,6 @@ venv.bak/
 .idea/
 
 tmp_traces/*
+
+# Local build dependency checkouts
+.deps/
