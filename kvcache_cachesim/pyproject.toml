@@ -7,7 +7,7 @@ name = "kvcache-cachesim"
 version = "0.1.0"
 description = "Prefix KV cache simulator for evaluating tiered cache eviction algorithms."
 readme = "README.md"
-requires-python = ">=3.8"
+requires-python = ">=3.10"
 dependencies = [
     "tabulate>=0.9.0",
     "tqdm>=4.66.0",
