@@ -8,23 +8,22 @@ def calc_kv_cache_bytes(
         batch_size: int = 1,
         config_path: str = "modelconfig.json"
 ) -> int:
-    # Load model config from JSON file
-    with open(config_path, "r") as f:
+    with open(config_path, "r", encoding="utf-8") as f:
         configs = json.load(f)
 
     if model_name not in configs:
         raise ValueError(f"Model '{model_name}' not found in {config_path}.")
     cfg = configs[model_name]
 
-    hidden_size = cfg["hidden_size"]
-    num_attention_heads = cfg["num_attention_heads"]
-    num_hidden_layers = cfg["num_hidden_layers"]
-    num_key_value_heads = cfg["num_key_value_heads"]
+    required_keys = ["num_hidden_layers", "num_key_value_heads", "head_dim"]
+    for key in required_keys:
+        if key not in cfg:
+            raise ValueError(f"Missing key '{key}' in config for model '{model_name}'")
 
-    # Compute per-head dimension
-    head_size = hidden_size // num_attention_heads
+    num_hidden_layers = int(cfg["num_hidden_layers"])
+    num_key_value_heads = int(cfg["num_key_value_heads"])
+    head_dim = int(cfg["head_dim"])
 
-    # Data type size in bytes
     dtype_size_map = {
         "float32": 4,
         "float16": 2,
@@ -32,10 +31,19 @@ def calc_kv_cache_bytes(
         "int8": 1
     }
     if dtype not in dtype_size_map:
-        raise ValueError("Unsupported dtype, must be one of: float32, float16, bfloat16, int8")
+        raise ValueError(
+            "Unsupported dtype, must be one of: float32, float16, bfloat16, int8"
+        )
     dtype_size = dtype_size_map[dtype]
 
-    total_elements = num_hidden_layers * batch_size * num_key_value_heads * seq_len * head_size * 2
+    total_elements = (
+            num_hidden_layers
+            * batch_size
+            * num_key_value_heads
+            * seq_len
+            * head_dim
+            * 2
+    )
     total_bytes = total_elements * dtype_size
     return total_bytes
 
@@ -47,4 +55,4 @@ if __name__ == "__main__":
 
     size_bytes = calc_kv_cache_bytes(model, seq_len, dtype)
     size_gb = size_bytes / (1024 ** 3)
-    print(f"{model} KV cache: {size_bytes} bytes / {size_gb:.2f} GB (seq_len={seq_len}, dtype={dtype})")
+    print(f"{model} KV cache: {size_bytes} bytes / {size_gb:.2f} GiB (seq_len={seq_len}, dtype={dtype})")
