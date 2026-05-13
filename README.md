@@ -127,7 +127,10 @@ sourcing the environment file from the previous step:
 
 ```bash
 cd vllm
-uv pip install --editable .
+mkdir -p vllm/vllm_flash_attn
+uv venv --python=3.12
+source .venv/bin/activate
+VLLM_VERSION_OVERRIDE=0.15.1 uv pip install --editable .
 ```
 
 If the shell is restarted before building, source the generated environment file
@@ -136,8 +139,8 @@ again so that `VLLM_FLASH_ATTN_SRC_DIR`, `VLLM_CUTLASS_SRC_DIR`,
 
 ### 2.3 Start vLLM with a replacement policy
 
-Select the policy with `--kv-replacement-policy`. The vLLM integration supports
-`lru`, `fifo`, `lfu`, `slru`, `s3fifo`, and `buoy` for native KV offloading.
+Select the policy with `--kv-replacement-policy`.
+For native KV offloading, the vLLM integration supports policies such as `lru`, `slru`, and `buoy`.
 
 Example: serve Llama-3.1-8B-Instruct with Buoy replacement and a 64 GiB native KV
 offloading buffer:
