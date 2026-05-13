@@ -21,7 +21,6 @@ The repository also includes the traces used by both paths in `traces/`.
 | `vllm/` | Modified vLLM serving engine with the `--kv-replacement-policy` option for native KV offloading. |
 | `trace-replayer/` | Rust client used to replay traces against a running OpenAI-compatible vLLM endpoint. |
 | `traces/` | JSONL traces, including `qwen_traceA_blksz_16.jsonl` and `qwen_traceB_blksz_16.jsonl`. |
-| `scripts/prepare_vllm_build_deps.sh` | Helper script that downloads pinned build-time dependencies for compiling the vLLM fork. |
 
 ## 1. Simulator experiments
 
@@ -91,48 +90,59 @@ workflow is:
 ### 2.1 Prepare pinned vLLM build dependencies
 
 The vLLM fork expects local source checkouts for FlashAttention, CUTLASS,
-FlashMLA, and Triton kernels. The helper script downloads the same pinned
-versions used in our environment and writes an environment file that points
-vLLM's build to those checkouts.
+FlashMLA, and Triton kernels. Download these dependencies yourself and check out
+the pinned revisions before building vLLM.
 
-From the repository root:
-
-```bash
-./scripts/prepare_vllm_build_deps.sh
-source .deps/vllm-build/vllm_build_env.sh
-```
-
-By default, dependencies are cloned under `.deps/vllm-build/`. To use another
-location, pass it as the first argument:
+The commands below use `/path/to/vllm-build-deps` as a placeholder dependency
+root. Replace it with your own local workspace, and keep the exported
+environment variables consistent with that location.
 
 ```bash
-./scripts/prepare_vllm_build_deps.sh /path/to/vllm-build-deps
-source /path/to/vllm-build-deps/vllm_build_env.sh
+mkdir -p /path/to/vllm-build-deps
+cd /path/to/vllm-build-deps
+
+git clone https://github.com/vllm-project/flash-attention.git
+git clone https://github.com/nvidia/cutlass.git
+git clone https://github.com/vllm-project/FlashMLA.git
+git clone https://github.com/triton-lang/triton.git
+
+cd /path/to/vllm-build-deps/flash-attention
+git checkout 188be16520ceefdc625fdf71365585d2ee348fe2
+git submodule update --init --recursive
+
+cd /path/to/vllm-build-deps/cutlass
+git checkout v4.2.1
+
+cd /path/to/vllm-build-deps/FlashMLA
+git checkout c2afa9cb93e674d5a9120a170a6da57b89267208
+git submodule update --init --recursive
+
+cd /path/to/vllm-build-deps/triton
+git checkout v3.5.0
 ```
 
-This repository's `vllm/` fork is based on vLLM 0.15.1, and vLLM 0.15.1
-corresponds to the pinned dependency revisions below:
+Export the source directory variables so the vLLM build can find these local
+checkouts:
 
-| Dependency | Revision |
-| --- | --- |
-| `vllm-project/flash-attention` | `188be16520ceefdc625fdf71365585d2ee348fe2` |
-| `nvidia/cutlass` | `v4.2.1` |
-| `vllm-project/FlashMLA` | `c2afa9cb93e674d5a9120a170a6da57b89267208` |
-| `triton-lang/triton` | `v3.5.0` |
+```bash
+export VLLM_FLASH_ATTN_SRC_DIR=/path/to/vllm-build-deps/flash-attention
+export VLLM_CUTLASS_SRC_DIR=/path/to/vllm-build-deps/cutlass
+export FLASH_MLA_SRC_DIR=/path/to/vllm-build-deps/FlashMLA
+export TRITON_KERNELS_SRC_DIR=/path/to/vllm-build-deps/triton/python/triton_kernels/triton_kernels
+```
 
 ### 2.2 Install the modified vLLM engine
 
 Use a Python environment suitable for building vLLM on your GPU host. After
-sourcing the environment file from the previous step:
+exporting the dependency source directory variables from the previous step:
 
 ```bash
 cd vllm
-uv pip install --editable .
+VLLM_VERSION_OVERRIDE=0.15.1 uv pip install --editable .
 ```
 
-If the shell is restarted before building, source the generated environment file
-again so that `VLLM_FLASH_ATTN_SRC_DIR`, `VLLM_CUTLASS_SRC_DIR`,
-`FLASH_MLA_SRC_DIR`, and `TRITON_KERNELS_SRC_DIR` are set.
+If the shell is restarted before building, export `VLLM_FLASH_ATTN_SRC_DIR`,
+`VLLM_CUTLASS_SRC_DIR`, `FLASH_MLA_SRC_DIR`, and `TRITON_KERNELS_SRC_DIR` again.
 
 ### 2.3 Start vLLM with a replacement policy
 
